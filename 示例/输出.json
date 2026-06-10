@@ -1,0 +1,389 @@
+{
+  "elapsed_time": 3.3344149589538574,
+  "emergence": [
+    "若出现疲乏加重、呼吸困难加重、活动耐量下降、静息心率增加≥15次/min、出现下肢水肿或加重、体重3天内突然增加2kg以上等心衰恶化症状，应增加利尿剂剂量并及时就诊，因为患者有冠心病支架术后及高血压病史，属于心衰高危人群，如症状持续不缓解或加重需立即就医[1]"
+  ],
+  "lifestyle": [
+    "因为患者84岁高龄、有高血压病史，且目前服用缬沙坦氨氯地平片控制血压，所以建议家庭自测血压时，待电子血压计数值稳定后连续测量2次，间隔1~2分钟，取两次平均值并记录，以便准确评估血压控制效果[7]",
+    "因为患者84岁、有冠心病支架术后史且合并高血压，所以建议每周进行5~7次中等强度运动，累计150~300分钟，以改善心肺耐力和心血管健康[8]",
+    "因为患者84岁高龄，且支架术后需长期管理体重以降低心血管风险，所以建议将体质指数（BMI）保持在22.0至26.9kg/m²的适宜范围内，以维持健康体重[9]"
+  ],
+  "refs": {
+    "emergence": [
+      {
+        "advice": "[1] 指导患者尽早发现心衰恶化的症状及如何应对；出现心衰加重的症状和（或）体征，如疲乏加重、呼吸困难加重、活动耐量下降、静息心率增加≥15 次/min、出现水肿（尤其下肢）或加重、体重增加（3 d 内突然增加2 kg以上）时，应增加利尿剂剂量并及时就诊。",
+        "category": "急症处理",
+        "match_tokens": [
+          "disease:其他病症"
+        ],
+        "page_num": 31,
+        "ref_index": 1,
+        "ref_marker": "[1]",
+        "source_file": "19.中国心力衰竭诊断和治疗指南2024.pdf"
+      },
+      {
+        "advice": "[2] 对于血压持续升高，收缩压≥200 mmHg或舒张压≥110 mmHg，或伴有严重心功能不全、主动脉夹层、高血压脑病的急性缺血性脑卒中患者，应予以降压治疗。",
+        "category": "急症处理",
+        "match_tokens": [
+          "disease:高血压",
+          "disease:脑血管病"
+        ],
+        "page_num": 46,
+        "ref_index": 2,
+        "ref_marker": "[2]",
+        "source_file": "2.中国高血压防治指南(2024年修订版)_中国高血压防治指南修订委员会_.pdf"
+      },
+      {
+        "advice": "[3] 脑出血急性期在降压治疗期间应严密观察血压的变化，每隔5~15分钟监测1次血压。",
+        "category": "急症处理",
+        "match_tokens": [
+          "disease:高血压",
+          "disease:脑血管病"
+        ],
+        "page_num": 46,
+        "ref_index": 3,
+        "ref_marker": "[3]",
+        "source_file": "2.中国高血压防治指南(2024年修订版)_中国高血压防治指南修订委员会_.pdf"
+      },
+      {
+        "advice": "[4] 术中因高血压急症静脉使用降压药的目标：30~60 min内使舒张压降至110 mmHg，降压幅度不超过25%，2~6 h内血压降至160/100 mmHg。",
+        "category": "急症处理",
+        "match_tokens": [
+          "disease:高血压"
+        ],
+        "page_num": 55,
+        "ref_index": 4,
+        "ref_marker": "[4]",
+        "source_file": "2.中国高血压防治指南(2024年修订版)_中国高血压防治指南修订委员会_.pdf"
+      },
+      {
+        "advice": "[5] 脑出血急性期患者收缩压≥220 mmHg时，在持续血压监测下积极降压。",
+        "category": "急症处理",
+        "match_tokens": [
+          "disease:高血压",
+          "disease:脑血管病"
+        ],
+        "page_num": 46,
+        "ref_index": 5,
+        "ref_marker": "[5]",
+        "source_file": "2.中国高血压防治指南(2024年修订版)_中国高血压防治指南修订委员会_.pdf"
+      },
+      {
+        "advice": "[6] 如需电击除颤，等待AED充电，确保所有人员不接触患者，按下除颤按钮。除颤后，继续心肺复苏，2分钟后AED再次分析心律。遵循AED语音提示操作，直到患者恢复自主呼吸和心跳，或专业急救人员到达现场。",
+        "category": "急症处理",
+        "match_tokens": [
+          "population:任何"
+        ],
+        "page_num": 52,
+        "ref_index": 6,
+        "ref_marker": "[6]",
+        "source_file": "1.中国公民健康素养—基本知识与技能（2024年版） 释义.pdf"
+      },
+      {
+        "advice": "[7] 脑出血急性期患者收缩压>150 mmHg，若无急性降压治疗禁忌证，将收缩压降至140 mmHg。",
+        "category": "急症处理",
+        "match_tokens": [
+          "disease:高血压",
+          "disease:脑血管病"
+        ],
+        "page_num": 46,
+        "ref_index": 7,
+        "ref_marker": "[7]",
+        "source_file": "2.中国高血压防治指南(2024年修订版)_中国高血压防治指南修订委员会_.pdf"
+      },
+      {
+        "advice": "[8] 脑出血急性期患者收缩压150~219 mmHg时，若无急性降压治疗禁忌证，将收缩压降至140 mmHg。",
+        "category": "急症处理",
+        "match_tokens": [
+          "disease:高血压",
+          "disease:脑血管病"
+        ],
+        "page_num": 46,
+        "ref_index": 8,
+        "ref_marker": "[8]",
+        "source_file": "2.中国高血压防治指南(2024年修订版)_中国高血压防治指南修订委员会_.pdf"
+      },
+      {
+        "advice": "[9] 蛛网膜下腔出血急性期将收缩压降至<160 mmHg，并维持平稳。",
+        "category": "急症处理",
+        "match_tokens": [
+          "disease:高血压",
+          "disease:脑血管病"
+        ],
+        "page_num": 46,
+        "ref_index": 9,
+        "ref_marker": "[9]",
+        "source_file": "2.中国高血压防治指南(2024年修订版)_中国高血压防治指南修订委员会_.pdf"
+      },
+      {
+        "advice": "[10] 当收缩压≥180 mmHg或舒张压≥110 mmHg时，应通过多学科会诊评估肿瘤和心血管风险，并推迟与血压增高有关的抗肿瘤治疗，直到血压降至<160/100 mmHg。",
+        "category": "急症处理",
+        "match_tokens": [
+          "disease:高血压",
+          "disease:其他病症"
+        ],
+        "page_num": 53,
+        "ref_index": 10,
+        "ref_marker": "[10]",
+        "source_file": "2.中国高血压防治指南(2024年修订版)_中国高血压防治指南修订委员会_.pdf"
+      }
+    ],
+    "lifestyle": [
+      {
+        "advice": "[1] 年龄在60岁以上的健康老年人，通常应使6分钟步行距离保持在300米到500米之间的正常范围。",
+        "category": "健康生活方式",
+        "match_tokens": [
+          "age:老年人"
+        ],
+        "page_num": 42,
+        "ref_index": 1,
+        "ref_marker": "[1]",
+        "source_file": "24.高血压、2型糖尿病、高脂血症、肥胖症膳食运动指导要点基层医务人员应用实操手册（试行）.pdf"
+      },
+      {
+        "advice": "[2] 每坐一小时起身活动1～5分钟。",
+        "category": "健康生活方式",
+        "match_tokens": [
+          "population:任何"
+        ],
+        "page_num": 83,
+        "ref_index": 2,
+        "ref_marker": "[2]",
+        "source_file": "24.高血压、2型糖尿病、高脂血症、肥胖症膳食运动指导要点基层医务人员应用实操手册（试行）.pdf"
+      },
+      {
+        "advice": "[3] 每年至少进行一次口腔健康检查，每年洁牙（洗牙）一次。",
+        "category": "健康生活方式",
+        "match_tokens": [
+          "population:任何"
+        ],
+        "page_num": 62,
+        "ref_index": 3,
+        "ref_marker": "[3]",
+        "source_file": "1.中国公民健康素养—基本知识与技能（2024年版） 释义.pdf"
+      },
+      {
+        "advice": "[4] 建议医务人员、60岁及以上的老年人、罹患慢性病人群、孕妇、6～59月龄儿童、托幼机构及中小学校等重点场所人群接种流感疫苗。",
+        "category": "健康生活方式",
+        "match_tokens": [
+          "population:医务人员",
+          "population:老年人",
+          "disease:其他病症",
+          "population:孕妇",
+          "population:儿童",
+          "population:学生"
+        ],
+        "page_num": 18,
+        "ref_index": 4,
+        "ref_marker": "[4]",
+        "source_file": "27.流行性感冒诊疗方案（2025 年版）.pdf"
+      },
+      {
+        "advice": "[5] 参考本季食谱，确保每日碳水化合物摄入量在232至261克之间。",
+        "category": "健康生活方式",
+        "match_tokens": [
+          "population:老年人"
+        ],
+        "page_num": 33,
+        "ref_index": 5,
+        "ref_marker": "[5]",
+        "source_file": "7.成人糖尿病食养指南（2023年版）.pdf"
+      },
+      {
+        "advice": "[6] 建议钠的摄入量<2 g/d（氯化钠5 g/d）。",
+        "category": "健康生活方式",
+        "match_tokens": [
+          "disease:高血压"
+        ],
+        "page_num": 15,
+        "ref_index": 6,
+        "ref_marker": "[6]",
+        "source_file": "2.中国高血压防治指南(2024年修订版)_中国高血压防治指南修订委员会_.pdf"
+      },
+      {
+        "advice": "[7] 家庭自测血压时，电子血压计显示屏上的数值稳定后读取数值，连续测量2次，两次测量时间间隔1~2分钟，做好记录，取两次读数的平均值作为血压值。",
+        "category": "健康生活方式",
+        "match_tokens": [
+          "population:任何"
+        ],
+        "page_num": 49,
+        "ref_index": 7,
+        "ref_marker": "[7]",
+        "source_file": "1.中国公民健康素养—基本知识与技能（2024年版） 释义.pdf"
+      },
+      {
+        "advice": "[8] 每周进行5 ~ 7次中等强度运动，累计150 ~ 300分钟。",
+        "category": "健康生活方式",
+        "match_tokens": [
+          "disease:高血压"
+        ],
+        "page_num": 4,
+        "ref_index": 8,
+        "ref_marker": "[8]",
+        "source_file": "4.高血压营养和运动指导原则（2024年版）.pdf"
+      },
+      {
+        "advice": "[9] 对于80岁以上高龄老人，建议将体质指数（BMI）保持在22.0至26.9kg/m2的适宜范围内。",
+        "category": "健康生活方式",
+        "match_tokens": [
+          "age:老年人"
+        ],
+        "page_num": 2,
+        "ref_index": 9,
+        "ref_marker": "[9]",
+        "source_file": "3.体重管理指导原则（2024年版）.pdf"
+      },
+      {
+        "advice": "[10] 每天早晚刷牙，每次刷牙时间不少于2分钟，晚上睡前刷牙更重要。",
+        "category": "健康生活方式",
+        "match_tokens": [
+          "population:任何"
+        ],
+        "page_num": 62,
+        "ref_index": 10,
+        "ref_marker": "[10]",
+        "source_file": "1.中国公民健康素养—基本知识与技能（2024年版） 释义.pdf"
+      }
+    ],
+    "treatment": [
+      {
+        "advice": "[1] 根据患者情况制定随访频率和内容，心衰住院患者出院后2~3个月内（心衰的易损期）死亡率和再住院率高达15%和30%。优化治疗是降低易损期心血管事件发生率的关键，因患者病情不稳定，需进行药物调整和监测，应适当增加随访频率。",
+        "category": "治疗与康复",
+        "match_tokens": [
+          "disease:高血压",
+          "disease:糖尿病",
+          "disease:脑血管病",
+          "disease:慢阻肺",
+          "disease:哮喘",
+          "disease:肥胖症"
+        ],
+        "page_num": 30,
+        "ref_index": 1,
+        "ref_marker": "[1]",
+        "source_file": "19.中国心力衰竭诊断和治疗指南2024.pdf"
+      },
+      {
+        "advice": "[2] 应监测地高辛血药浓度，建议维持在0.5~0.9 μg/L，不应高于1.2 μg/L。",
+        "category": "治疗与康复",
+        "match_tokens": [
+          "disease:其他病症"
+        ],
+        "page_num": 12,
+        "ref_index": 2,
+        "ref_marker": "[2]",
+        "source_file": "19.中国心力衰竭诊断和治疗指南2024.pdf"
+      },
+      {
+        "advice": "[3] 服用尼群地平/阿替洛尔（5mg/10mg）时，每天服药1~2片，每日1~2次。",
+        "category": "治疗与康复",
+        "match_tokens": [
+          "disease:高血压"
+        ],
+        "page_num": 24,
+        "ref_index": 3,
+        "ref_marker": "[3]",
+        "source_file": "2.中国高血压防治指南(2024年修订版)_中国高血压防治指南修订委员会_.pdf"
+      },
+      {
+        "advice": "[4] 严重心动过缓（<50 次/min）、严重低血压（收缩压<85 mmHg）和休克患者应停用β受体阻滞剂，但在出院前应再次启动治疗。",
+        "category": "治疗与康复",
+        "match_tokens": [
+          "disease:其他病症"
+        ],
+        "page_num": 11,
+        "ref_index": 4,
+        "ref_marker": "[4]",
+        "source_file": "19.中国心力衰竭诊断和治疗指南2024.pdf"
+      },
+      {
+        "advice": "[5] 地高辛0.125~0.25 mg/d，老年、肾功能受损、低体重患者可0.125 mg，1次/d或隔天1次。",
+        "category": "治疗与康复",
+        "match_tokens": [
+          "disease:其他病症"
+        ],
+        "page_num": 12,
+        "ref_index": 5,
+        "ref_marker": "[5]",
+        "source_file": "19.中国心力衰竭诊断和治疗指南2024.pdf"
+      },
+      {
+        "advice": "[6] 如果从ACEI转换成ARNI，必须在停止ACEI治疗至少36小时之后才能开始应用。",
+        "category": "治疗与康复",
+        "match_tokens": [
+          "disease:高血压"
+        ],
+        "page_num": 27,
+        "ref_index": 6,
+        "ref_marker": "[6]",
+        "source_file": "2.中国高血压防治指南(2024年修订版)_中国高血压防治指南修订委员会_.pdf"
+      },
+      {
+        "advice": "[7] 使用β受体阻滞剂时，心率<50 次/min，或出现二度及以上AVB时，应减量或停药。",
+        "category": "治疗与康复",
+        "match_tokens": [
+          "disease:其他病症"
+        ],
+        "page_num": 11,
+        "ref_index": 7,
+        "ref_marker": "[7]",
+        "source_file": "19.中国心力衰竭诊断和治疗指南2024.pdf"
+      },
+      {
+        "advice": "[8] 服用氨氯地平/比索洛尔（富马酸比索洛尔5mg/苯磺酸氨氯地平5mg）时，每天服药1片，每日1次。",
+        "category": "治疗与康复",
+        "match_tokens": [
+          "disease:高血压"
+        ],
+        "page_num": 24,
+        "ref_index": 8,
+        "ref_marker": "[8]",
+        "source_file": "2.中国高血压防治指南(2024年修订版)_中国高血压防治指南修订委员会_.pdf"
+      },
+      {
+        "advice": "[9] 启动降LDL-C药物治疗4~6周后复查血脂，LDL-C达到目标值后继续维持长期治疗。",
+        "category": "治疗与康复",
+        "match_tokens": [
+          "disease:高血压"
+        ],
+        "page_num": 33,
+        "ref_index": 9,
+        "ref_marker": "[9]",
+        "source_file": "2.中国高血压防治指南(2024年修订版)_中国高血压防治指南修订委员会_.pdf"
+      },
+      {
+        "advice": "[10] 心脏专科医生应每年与患者进行1次病情讨论，审查当前的治疗方案，评估预后，制定后续治疗方案。",
+        "category": "治疗与康复",
+        "match_tokens": [
+          "disease:其他病症"
+        ],
+        "page_num": 31,
+        "ref_index": 10,
+        "ref_marker": "[10]",
+        "source_file": "19.中国心力衰竭诊断和治疗指南2024.pdf"
+      }
+    ]
+  },
+  "summary_info": {
+    "age": "老年人",
+    "bmi": null,
+    "disease": [
+      "其他病症",
+      "高血压"
+    ],
+    "population": [
+      "老年人"
+    ],
+    "risk": [],
+    "sex": "女",
+    "symptom": [
+      "便血",
+      "胸痛"
+    ]
+  },
+  "treatment": [
+    "因为患者冠脉支架术后1年，且2025年2月复查低密度脂蛋白胆固醇为1.94mmol/l，未达到建议的＜1.4mmol/l目标，所以建议启动降LDL-C药物治疗4~6周后复查血脂，LDL-C达到目标值后继续维持长期治疗[9]。",
+    "因为患者为84岁高龄，有高血压病史，且正在服用缬沙坦氨氯地平片，所以建议心脏专科医生应每年与患者进行1次病情讨论，审查当前治疗方案，评估预后并制定后续治疗方案[10]。"
+  ]
+}
+
+
