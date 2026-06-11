@@ -11,7 +11,7 @@
 ## 源码打包导出
 
 ```bash
-# 构建（Nuitka 编译）
+# 在“生成”文件夹构建（Nuitka 编译）
 docker-compose -p generation build generation-api
 
 # 导出镜像
