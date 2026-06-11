@@ -1,0 +1,62 @@
+{"match_tokens": ["population:学生"], "advice": "定期进行视力检查，及早发现近视问题。", "category": "健康生活方式", "page_num": 1}
+{"match_tokens": ["age:小孩", "population:学生"], "advice": "关注儿童青少年眼健康，预防近视发生。", "category": "健康生活方式", "page_num": 1}
+{"match_tokens": ["disease:其他病症", "symptom:近视"], "advice": "对于单纯性近视，使用适当的镜片将视力矫正至正常。", "category": "治疗与康复", "page_num": 2}
+{"match_tokens": ["disease:其他病症", "symptom:近视"], "advice": "对于病理性近视，需警惕并定期检查眼底病变，如近视弧形斑、豹纹状眼底、黄斑部出血或新生血管等。", "category": "治疗与康复", "page_num": 2}
+{"match_tokens": ["disease:其他病症", "symptom:近视"], "advice": "对于病理性近视，需警惕并定期检查视网膜周边部格子样变性、囊样变性。", "category": "治疗与康复", "page_num": 2}
+{"match_tokens": ["disease:其他病症", "symptom:近视"], "advice": "对于病理性近视，需警惕并定期检查在年龄较轻时出现的白内障、玻璃体液化、混浊和玻璃体后脱离。", "category": "治疗与康复", "page_num": 2}
+{"match_tokens": ["disease:其他病症", "symptom:近视"], "advice": "对于病理性近视，需警惕并定期检查发生视网膜裂孔、脱离、黄斑区脉络膜新生血管、黄斑出血和开角型青光眼的危险性。", "category": "治疗与康复", "page_num": 2}
+{"match_tokens": ["disease:其他病症", "symptom:近视"], "advice": "根据近视度数分类，了解自己的近视度数属于低度、中度还是高度近视。", "category": "治疗与康复", "page_num": 2}
+{"match_tokens": ["age:小孩", "symptom:近视前驱状态"], "advice": "增加户外活动时间，减少近距离用眼负荷。", "category": "健康生活方式", "page_num": 3}
+{"match_tokens": ["age:小孩", "symptom:近视发展期"], "advice": "进行用眼行为干预，并在医生指导下采取有效的矫正和控制措施。", "category": "治疗与康复", "page_num": 3}
+{"match_tokens": ["age:任何", "symptom:高度近视"], "advice": "监测最佳矫正视力、眼轴长度和眼底等，警惕高度近视向病理性近视的进展。", "category": "治疗与康复", "page_num": 3}
+{"match_tokens": ["age:任何", "symptom:病理性近视"], "advice": "如视力无明显下降，定期监测屈光度、眼轴长度和眼底结构变化；如突然出现视力下降、视物变形、眼前黑影显著增加、持续闪光感应立即到医院就诊。", "category": "急症处理", "page_num": 3}
+{"match_tokens": ["population:学生", "risk:缺乏运动"], "advice": "每天户外活动至少2小时，课间进行户外活动，放学后和周末增加户外活动时间。", "category": "健康生活方式", "page_num": 4}
+{"match_tokens": ["age:小孩", "risk:缺乏运动"], "advice": "提倡儿童在学龄前就开始增加户外活动时间，每天户外活动至少2小时。", "category": "健康生活方式", "page_num": 4}
+{"match_tokens": ["population:学生", "risk:近距离用眼"], "advice": "避免近距离用眼持续时间长（＞45分钟）和阅读距离近（＜33厘米）。", "category": "健康生活方式", "page_num": 4}
+{"match_tokens": ["age:小孩", "risk:近距离用眼"], "advice": "家长可以采取科学的手段监督和培养儿童青少年养成良好的近距离用眼习惯。", "category": "健康生活方式", "page_num": 4}
+{"match_tokens": ["age:小孩", "risk:缺乏运动"], "advice": "在家庭主导、家长或监护人参与下多带孩子到户外活动，达到每日户外活动时间量。", "category": "健康生活方式", "page_num": 5}
+{"match_tokens": ["age:小孩", "symptom:疲劳"], "advice": "培养良好的读写习惯，握笔的指尖离笔尖一寸（3.3厘米），胸部离桌子一拳（6～7厘米），书本离眼一尺（33厘米），保持读写坐姿端正，不在行走、坐车或躺卧时阅读。", "category": "健康生活方式", "page_num": 5}
+{"match_tokens": ["age:小孩", "symptom:疲劳"], "advice": "在采光良好、照明充足的环境中进行读写，桌面的平均照度值不应低于300勒克斯（lux），并结合工作类别和阅读字体大小进行调整，不在光线过暗或过强的环境下看书写字。", "category": "健康生活方式", "page_num": 5}
+{"match_tokens": ["age:小孩", "symptom:疲劳"], "advice": "做眼保健操以缓解眼睛的疲劳症状，减少调节滞后，改善主观视疲劳症状。", "category": "治疗与康复", "page_num": 5}
+{"match_tokens": ["age:小孩", "risk:睡眠不足"], "advice": "避免睡眠时间不足。", "category": "健康生活方式", "page_num": 5}
+{"match_tokens": ["age:小孩", "risk:缺乏运动"], "advice": "避免过多和不科学使用电子产品。", "category": "健康生活方式", "page_num": 5}
+{"match_tokens": ["population:学生", "risk:缺乏运动"], "advice": "从幼儿园时期，应定期检查孩子的视力、屈光度，以及眼轴长度、角膜曲率和眼底等，根据年龄评估远视储备情况，建立儿童视力和眼屈光发育档案。", "category": "健康生活方式", "page_num": 6}
+{"match_tokens": ["population:学生", "disease:其他病症"], "advice": "对于有高度近视家族史的儿童应加强定期随访，进行重点防控。", "category": "治疗与康复", "page_num": 6}
+{"match_tokens": ["age:小孩", "population:学生"], "advice": "从新生儿期开始应定期接受儿童眼保健及视力检查，24月龄开始进行屈光筛查，早期发现儿童常见眼病、视力不良及远视储备不足。", "category": "健康生活方式", "page_num": 6}
+{"match_tokens": ["age:小孩", "population:学生"], "advice": "视力检查应在中等光亮度下进行。如采用后照法（视力表灯箱、投影或视频视力表），建议视力表亮度为80～320cd/m²。", "category": "治疗与康复", "page_num": 6}
+{"match_tokens": ["age:小孩", "population:学生"], "advice": "学龄前儿童视力检查界值必须考虑年龄因素，3～5岁儿童视力的正常参考值下限为0.5，6岁及以上儿童视力的正常参考值下限为0.7。", "category": "治疗与康复", "page_num": 7}
+{"match_tokens": ["age:小孩", "symptom:视力模糊"], "advice": "裸眼视力低于同年龄正常儿童的视力下限要怀疑屈光不正（近视、远视、散光）甚至弱视。", "category": "治疗与康复", "page_num": 7}
+{"match_tokens": ["disease:其他病症", "symptom:近视"], "advice": "近视度数大于300度者或视网膜有近视病变（如视盘旁萎缩弧、豹纹状眼底、黄斑部Fuchs斑、后巩膜葡萄肿、视网膜周边部眼底病变）者应进行定期随访。", "category": "治疗与康复", "page_num": 7}
+{"match_tokens": ["symptom:漂浮物感", "symptom:闪光感"], "advice": "有漂浮物感或闪光感的近视患者，应当散瞳后进行直接、间接检眼镜或前置镜检查，并可通过压迫巩膜来检查周边视网膜是否有变性、裂孔等。", "category": "治疗与康复", "page_num": 8}
+{"match_tokens": ["symptom:视力低下", "symptom:视力矫正不能达到正常"], "advice": "对视力低下及视力矫正不能达到正常者，应重点进行散瞳后眼底检查。", "category": "治疗与康复", "page_num": 8}
+{"match_tokens": ["population:高度近视者"], "advice": "对高度近视者，应重点进行散瞳后眼底检查。", "category": "治疗与康复", "page_num": 8}
+{"match_tokens": ["symptom:漂浮物感", "symptom:闪光感"], "advice": "对突发性的有漂浮物感或合并有闪光感者，应重点进行散瞳后眼底检查。", "category": "治疗与康复", "page_num": 8}
+{"match_tokens": ["symptom:屈光介质不清", "symptom:玻璃体混浊", "population:高度近视合并视网膜脱离者"], "advice": "对屈光介质不清或混浊，存在玻璃体色素颗粒或玻璃体混浊者、高度近视合并视网膜脱离者，应重点进行散瞳后眼底检查。", "category": "治疗与康复", "page_num": 8}
+{"match_tokens": ["age:小孩"], "advice": "建议12岁以下，尤其是初次验光者，应当进行睫状肌麻痹验光（散瞳验光）。", "category": "治疗与康复", "page_num": 8}
+{"match_tokens": ["symptom:远视", "symptom:斜弱视", "symptom:较大散光"], "advice": "对有远视、斜弱视和较大散光者，应当进行睫状肌麻痹验光（散瞳验光）。", "category": "治疗与康复", "page_num": 8}
+{"match_tokens": ["symptom:调节不稳定", "symptom:矫正视力不正常"], "advice": "在验光过程中发现调节不稳定、矫正视力不正常且不能用其他眼病解释者，应当进行睫状肌麻痹验光（散瞳验光）。", "category": "治疗与康复", "page_num": 8}
+{"match_tokens": ["age:小孩", "disease:近视"], "advice": "确诊近视需要配镜的儿童需要定期复查验光。", "category": "治疗与康复", "page_num": 8}
+{"match_tokens": ["age:小孩", "disease:近视", "symptom:远视", "symptom:斜弱视"], "advice": "6岁以下的近视儿童，尤其是远视和斜弱视的患者，首选使用1%阿托品眼膏或凝胶散瞳。", "category": "治疗与康复", "page_num": 8}
+{"match_tokens": ["age:小孩", "population:学生"], "advice": "6岁前应避免过早过多近距离用眼，以防消耗完远视储备。", "category": "健康生活方式", "page_num": 9}
+{"match_tokens": ["age:小孩"], "advice": "准确检测远视储备须在充分麻痹睫状肌的基础上进行验光。", "category": "治疗与康复", "page_num": 9}
+{"match_tokens": ["age:小孩"], "advice": "如果远视储备超过相应年龄的远视储备上限，应关注儿童是否患有远视眼。", "category": "治疗与康复", "page_num": 9}
+{"match_tokens": ["age:小孩", "symptom:近视"], "advice": "对于近视儿童，应至少每半年进行一次复查。", "category": "治疗与康复", "page_num": 10}
+{"match_tokens": ["age:小孩", "symptom:近视"], "advice": "避免使用过矫的框架眼镜，因为过矫会导致调节过度，加重近视发展。", "category": "治疗与康复", "page_num": 10}
+{"match_tokens": ["age:小孩", "symptom:近视"], "advice": "对于近视进展较快的儿童，可以考虑使用特殊光学设计的框架眼镜，以控制近视进展。", "category": "治疗与康复", "page_num": 10}
+{"match_tokens": ["age:小孩", "symptom:近视"], "advice": "多焦软镜可以在一定程度上延缓儿童近视进展。", "category": "治疗与康复", "page_num": 10}
+{"match_tokens": ["age:小孩", "symptom:近视"], "advice": "无自理能力的儿童若需使用软性接触镜，必须在医师指导和家长细心护理下使用。", "category": "治疗与康复", "page_num": 10}
+{"match_tokens": ["age:小孩", "population:学生"], "advice": "长期配戴角膜塑形镜可延缓青少年眼轴长度的进展，但需要有家长监护配合治疗，规律随诊，预防感染。", "category": "治疗与康复", "page_num": 11}
+{"match_tokens": ["disease:其他病症"], "advice": "近视、远视、散光、屈光参差者，尤其是圆锥角膜及角膜瘢痕等所致的不规则散光可优先考虑选择硬性透气性接触镜。", "category": "治疗与康复", "page_num": 11}
+{"match_tokens": ["age:成人", "disease:其他病症"], "advice": "近视的手术矫正主要适用于18岁以上、屈光度稳定的患者，需要严格按照各类手术的禁忌证和适应证进行检查和实施。", "category": "治疗与康复", "page_num": 11}
+{"match_tokens": ["disease:其他病症"], "advice": "低浓度阿托品滴眼液是经过循证医学验证能够有效延缓近视进展的药物，需要在专业医生指导下规范使用，遵医嘱定期随访。", "category": "治疗与康复", "page_num": 11}
+{"match_tokens": ["disease:其他病症", "symptom:近视"], "advice": "术后需要定期检查眼底。", "category": "治疗与康复", "page_num": 12}
+{"match_tokens": ["disease:其他病症", "symptom:近视"], "advice": "术后仍要注意用眼卫生，避免过度用眼。", "category": "健康生活方式", "page_num": 12}
+{"match_tokens": ["age:成人", "disease:其他病症", "symptom:近视"], "advice": "年龄在18岁以上，屈光度稳定2年以上（每年屈光度变化不超过50度），符合相应规定的角膜厚度、屈光度及预设切削深度等条件可选择激光角膜屈光手术。", "category": "治疗与康复", "page_num": 12}
+{"match_tokens": ["disease:其他病症", "symptom:视力下降"], "advice": "对于青少年发展迅速的进行性近视，近视度数超过600度，每年进展超过100度，伴有眼球前后扩张，后巩膜葡萄肿形成，伴有或不伴有视力下降，可考虑后巩膜加固术。", "category": "治疗与康复", "page_num": 13}
+{"match_tokens": ["disease:其他病症", "symptom:视力下降"], "advice": "对于年龄20岁以上者，近视度数超过1000度，视力进行性下降，后巩膜出现明显葡萄肿，可考虑后巩膜加固术。", "category": "治疗与康复", "page_num": 13}
+{"match_tokens": ["disease:其他病症", "symptom:视力下降"], "advice": "近视伴周边视网膜裂孔、变性和（或）玻璃体牵引，可予以预防性视网膜激光治疗避免视网膜脱离的发生。", "category": "治疗与康复", "page_num": 13}
+{"match_tokens": ["disease:其他病症", "symptom:视力下降"], "advice": "对于治疗病理性近视继发的黄斑下脉络膜新生血管，可予玻璃体腔内注射抗VEGF药物。", "category": "治疗与康复", "page_num": 13}
+{"match_tokens": ["disease:其他病症", "symptom:视网膜脱离"], "advice": "对于不合并严重增生性玻璃体视网膜病变、后极部视网膜裂孔或脉络膜脱离的孔源性视网膜脱离，可应用孔源性视网膜脱离复位巩膜扣带术。", "category": "治疗与康复", "page_num": 14}
+{"match_tokens": ["disease:其他病症", "symptom:视网膜脱离"], "advice": "对于较严重的孔源性视网膜脱离，如高度近视黄斑裂孔性视网膜脱离、伴有明显增生性玻璃体视网膜病变的视网膜脱离等，可应用玻璃体手术（联合黄斑前膜或内界膜剥除）。", "category": "治疗与康复", "page_num": 14}
+{"match_tokens": ["age:老年人", "disease:其他病症"], "advice": "年龄大于55～60岁者，尽管屈光度不增加，但合并有明显的视网膜、脉络膜退行性变，可应用后巩膜加固术。", "category": "治疗与康复", "page_num": 14}
+{"match_tokens": ["disease:其他病症", "symptom:视网膜脱离"], "advice": "高度近视合并视网膜脱离，在视网膜复位手术的同时可行后巩膜加固术。", "category": "治疗与康复", "page_num": 14}

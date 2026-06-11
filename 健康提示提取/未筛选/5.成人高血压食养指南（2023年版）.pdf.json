@@ -1,0 +1,222 @@
+{
+  "source_file": "5.成人高血压食养指南（2023年版）.pdf",
+  "saved_at": "2026-04-20T16:36:18",
+  "total": 25,
+  "suggestions": [
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "每人每日食盐摄入量逐步降至5g以下。",
+      "category": "健康生活方式",
+      "page_num": 6
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "摄入适量的谷类、薯类，其中全谷物或杂豆占谷类的1/4～1/2。",
+      "category": "健康生活方式",
+      "page_num": 7
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "bmi:超重",
+        "bmi:肥胖"
+      ],
+      "advice": "将体重维持在健康范围内：体质指数（BMI）在18.5～23.9kg/m²（65岁以上老年人可适当增加）；男性腰围＜85cm，女性腰围＜80cm。",
+      "category": "健康生活方式",
+      "page_num": 8
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "bmi:超重",
+        "bmi:肥胖"
+      ],
+      "advice": "超重和肥胖者应减少能量摄入，每天能量摄入比原来减少300～500kcal。",
+      "category": "健康生活方式",
+      "page_num": 8
+    },
+    {
+      "match_tokens": [
+        "age:成人"
+      ],
+      "advice": "每周累计进行2.5～5小时中等强度有氧活动，或1.25～2.5小时高强度有氧活动。",
+      "category": "健康生活方式",
+      "page_num": 9
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "建议非高血压人群或高血压患者，除日常活动外，应有每周4～7天、每天累计30～60分钟的中等强度身体活动。",
+      "category": "健康生活方式",
+      "page_num": 9
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "age:成人"
+      ],
+      "advice": "增加全谷物和薯类食物摄入，粗细搭配。每天摄入谷类食物200～300g（其中包含全谷物和杂豆类50～150g），薯类50～100g。",
+      "category": "健康生活方式",
+      "page_num": 11
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "age:成人"
+      ],
+      "advice": "选择鱼、禽、蛋和瘦肉，平均每天120～200g，少食用或不食用高盐、高脂肪、高胆固醇的动物性食物。",
+      "category": "健康生活方式",
+      "page_num": 11
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "age:成人"
+      ],
+      "advice": "推荐吃各种各样的奶制品，摄入量相当于每天300ml以上液态奶。",
+      "category": "健康生活方式",
+      "page_num": 11
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "age:成人"
+      ],
+      "advice": "每日食用适量的大豆及其制品，例如大豆、青豆、豆腐、豆浆、豆腐干等。推荐每日摄入大豆15～25g。",
+      "category": "健康生活方式",
+      "page_num": 11
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "age:成人"
+      ],
+      "advice": "每日新鲜蔬菜摄入不少于300g，至少3种，最好5种以上，且深色蔬菜要占到总蔬菜量的一半以上。",
+      "category": "健康生活方式",
+      "page_num": 11
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "age:成人"
+      ],
+      "advice": "水果每日摄入200～350g，至少1种，最好2种以上。",
+      "category": "健康生活方式",
+      "page_num": 11
+    },
+    {
+      "match_tokens": [
+        "disease:无特定疾病"
+      ],
+      "advice": "优先选择富含不饱和脂肪酸的菜籽油、亚麻籽油、橄榄油、葵花籽油、玉米油等。推荐交替使用不同种类的植物油，每天控制在25～30g。",
+      "category": "健康生活方式",
+      "page_num": 12
+    },
+    {
+      "match_tokens": [
+        "age:成人"
+      ],
+      "advice": "不宜饮用含糖饮料，推荐白水，保证摄入充足水分。在温和气候条件下，轻身体活动水平成年人每天喝水1500～1700ml。",
+      "category": "健康生活方式",
+      "page_num": 12
+    },
+    {
+      "match_tokens": [
+        "disease:无特定疾病"
+      ],
+      "advice": "减少摄入食盐及含钠调味品（酱油、酱类、蚝油、鸡精、味精等），每日钠摄入量不超过2000mg（相当于食盐5g）。",
+      "category": "健康生活方式",
+      "page_num": 12
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "age:成人"
+      ],
+      "advice": "一天食谱的能量在1600～2000kcal范围，可结合自身活动量及其他因素合理调整能量。",
+      "category": "治疗与康复",
+      "page_num": 19
+    },
+    {
+      "match_tokens": [
+        "disease:无特定疾病"
+      ],
+      "advice": "全天烹饪使用植物油不超过25克，盐不超过4克。",
+      "category": "健康生活方式",
+      "page_num": 26
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "disease:糖尿病"
+      ],
+      "advice": "全天烹饪用盐总量不超过4克。",
+      "category": "健康生活方式",
+      "page_num": 28
+    },
+    {
+      "match_tokens": [
+        "disease:无特定疾病"
+      ],
+      "advice": "本系列食谱可提供能量1600～2000kcal，全天钠＜2000mg，钾＞2500mg。",
+      "category": "健康生活方式",
+      "page_num": 33
+    },
+    {
+      "match_tokens": [
+        "disease:糖尿病"
+      ],
+      "advice": "食谱可提供能量1600～2000千卡，需根据个人情况调整。",
+      "category": "健康生活方式",
+      "page_num": 38
+    },
+    {
+      "match_tokens": [
+        "population:老年人"
+      ],
+      "advice": "本系列食谱可提供能量1600～2000kcal，全天钠＜2000mg，钾＞2500mg。",
+      "category": "健康生活方式",
+      "page_num": 47
+    },
+    {
+      "match_tokens": [
+        "disease:无特定疾病",
+        "population:老年人"
+      ],
+      "advice": "全天烹饪使用植物油不超过25克，盐不超过3克。",
+      "category": "健康生活方式",
+      "page_num": 49
+    },
+    {
+      "match_tokens": [
+        "disease:无特定疾病",
+        "population:老年人"
+      ],
+      "advice": "夏季全天烹饪使用植物油不超过20克，盐不超过3克。",
+      "category": "健康生活方式",
+      "page_num": 49
+    },
+    {
+      "match_tokens": [
+        "disease:无特定疾病",
+        "population:老年人"
+      ],
+      "advice": "夏季全天烹饪使用植物油不超过19克，盐不超过3克。",
+      "category": "健康生活方式",
+      "page_num": 49
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "制作乌鸡菌汤：取乌鸡1只，木耳、香菇各30g，枸杞子15g，小火同煮1小时，熬至浓汤，佐餐分次食用。",
+      "category": "治疗与康复",
+      "page_num": 54
+    }
+  ]
+}

@@ -1,0 +1,2043 @@
+{
+  "source_file": "2.中国高血压防治指南(2024年修订版)_中国高血压防治指南修订委员会_.pdf",
+  "saved_at": "2026-04-20T16:09:29",
+  "total": 236,
+  "suggestions": [
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "risk:高盐饮食"
+      ],
+      "advice": "减少每日烹调盐摄入量，目标为每日摄入量小于5克。",
+      "category": "健康生活方式",
+      "page_num": 3
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "高血压患者应注意诊室血压、24小时动态血压、夜间血压及家庭清晨血压的监测，因其与心血管风险及预后密切相关。",
+      "category": "治疗与康复",
+      "page_num": 4
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "知晓收缩压每升高20 mmHg或舒张压每升高10 mmHg，心脑血管疾病发生的风险会倍增。",
+      "category": "治疗与康复",
+      "page_num": 4
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "测量血压时，应坐位安静休息至少5分钟后，测量上臂血压，上臂应置于心脏水平。",
+      "category": "治疗与康复",
+      "page_num": 6
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "使用标准规格的袖带，臂围大者(>32 cm)应使用大袖带，臂围小者(<24 cm)应使用小袖带。",
+      "category": "治疗与康复",
+      "page_num": 6
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "测量血压时，应相隔30~60 s重复测量，取2次读数的平均值记录。如果收缩压或舒张压的2次读数相差10 mmHg以上，应再次测量，取3次读数的平均值记录。",
+      "category": "治疗与康复",
+      "page_num": 6
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "在自动诊室血压测量中，患者应自我操作上臂式电子血压计完成整个血压测量过程，包括坐位休息5 min，测量2次，间隔30~60 s，如果2次测量差别较大，再测量第3次，取2次或3次测量的平均值。",
+      "category": "治疗与康复",
+      "page_num": 6
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "建议进行5~7天的家庭血压监测，早晚各测量2~3个读数。",
+      "category": "治疗与康复",
+      "page_num": 7
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "在不少于3天、12个测量值时取平均值用于高血压的诊断或疗效评估。",
+      "category": "治疗与康复",
+      "page_num": 7
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "筛查血压测量也应像诊室血压一样，在测量前休息5 min，测量2~3次，间隔30~60 s。",
+      "category": "治疗与康复",
+      "page_num": 8
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "disease:糖尿病"
+      ],
+      "advice": "应定期监测24小时尿白蛋白排泄量或尿白蛋白/肌酐比值。",
+      "category": "治疗与康复",
+      "page_num": 10
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "将血压水平120~139/80~89 mmHg定为正常高值血压的人群应重视进行生活方式干预。",
+      "category": "健康生活方式",
+      "page_num": 10
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "用于诊断高血压时，诊室血压需非同日3次测量，家庭血压需连续5~7天测量。",
+      "category": "治疗与康复",
+      "page_num": 10
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "在未使用降压药的情况下，应进行非同日3次诊室血压测量，若收缩压≥140mmHg和/或舒张压≥90mmHg，可诊断为高血压。",
+      "category": "治疗与康复",
+      "page_num": 11
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "在未使用降压药的情况下，应连续5~7天测量家庭血压，若所有读数的平均值收缩压≥135mmHg和/或舒张压≥85mmHg，可诊断为高血压。",
+      "category": "治疗与康复",
+      "page_num": 11
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "在未使用降压药的情况下，若24小时动态血压平均值收缩压≥130mmHg和/或舒张压≥80mmHg，可诊断为高血压。",
+      "category": "治疗与康复",
+      "page_num": 11
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "bmi:肥胖"
+      ],
+      "advice": "控制体重，避免腹型肥胖（腰围：男性≥90 cm，女性≥85 cm）或肥胖（体重指数≥28 kg/m²）。",
+      "category": "健康生活方式",
+      "page_num": 12
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "symptom:疲劳"
+      ],
+      "advice": "注意心率，若静息心率>80次/分钟，应予以关注。",
+      "category": "治疗与康复",
+      "page_num": 12
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "risk:高盐饮食",
+        "age:成人"
+      ],
+      "advice": "血压水平140~159/90~99 mmHg且心血管风险为低危者，应改善生活方式4~12周，如血压仍不达标，应尽早启动降压药物治疗。",
+      "category": "治疗与康复",
+      "page_num": 13
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "age:成人"
+      ],
+      "advice": "血压水平≥160/100 mmHg的高血压患者，应立即启动降压药物治疗。",
+      "category": "治疗与康复",
+      "page_num": 13
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "age:成人"
+      ],
+      "advice": "血压水平140~159/90~99 mmHg且心血管风险为中危及以上者，应立即启动降压药物治疗。",
+      "category": "治疗与康复",
+      "page_num": 13
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "age:成人"
+      ],
+      "advice": "血压水平130~139/85~89 mmHg且心血管风险为高危和很高危者，应立即启动降压药物治疗。",
+      "category": "治疗与康复",
+      "page_num": 13
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "age:成人"
+      ],
+      "advice": "血压水平130~139/85~89 mmHg且心血管风险为低危和中危者，应持续进行生活方式干预。",
+      "category": "健康生活方式",
+      "page_num": 13
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "age:成人"
+      ],
+      "advice": "心血管风险高危/很高危的高血压患者以及有合并症的高血压患者，在可耐受的条件下，推荐诊室血压目标为<130/80 mmHg。",
+      "category": "治疗与康复",
+      "page_num": 13
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "age:成人"
+      ],
+      "advice": "一般高血压患者推荐诊室血压降至<140/90 mmHg；如能耐受，应进一步降至<130/80 mmHg。",
+      "category": "治疗与康复",
+      "page_num": 13
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "age:老年人"
+      ],
+      "advice": "65~79岁老年人推荐诊室血压目标<140/90 mmHg，如能耐受，可降至<130/80 mmHg。",
+      "category": "治疗与康复",
+      "page_num": 13
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "age:老年人"
+      ],
+      "advice": "80岁及以上高龄老年人降压目标<150/90 mmHg，如能耐受，可降至<140/90 mmHg。",
+      "category": "治疗与康复",
+      "page_num": 13
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "population:老年人"
+      ],
+      "advice": "对于65~79岁的老年高血压患者，推荐将诊室血压降至<140/90 mmHg，如能耐受，可进一步降至<130/80 mmHg。",
+      "category": "治疗与康复",
+      "page_num": 14
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "population:老年人"
+      ],
+      "advice": "对于80岁及以上的高龄老年高血压患者，降压目标为<150/90 mmHg，如能耐受，可降至<140/90 mmHg。",
+      "category": "治疗与康复",
+      "page_num": 14
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "risk:心血管风险高危/很高危"
+      ],
+      "advice": "心血管风险高危或很高危的高血压患者，在可耐受的条件下，推荐诊室血压目标为<130/80 mmHg。",
+      "category": "治疗与康复",
+      "page_num": 14
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "无合并症的一般高血压患者，推荐将诊室血压降至<140/90 mmHg，如能耐受，应进一步降至<130/80 mmHg。",
+      "category": "治疗与康复",
+      "page_num": 14
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "建议钠的摄入量<2 g/d（氯化钠5 g/d）。",
+      "category": "健康生活方式",
+      "page_num": 15
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "可考虑家庭血压目标<135/85 mmHg。",
+      "category": "治疗与康复",
+      "page_num": 15
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "可考虑清晨血压目标<135/85 mmHg，夜间血压目标<120/70 mmHg。",
+      "category": "治疗与康复",
+      "page_num": 15
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "对大多数高血压患者而言，应根据病情，在4周内或12周内将血压逐渐降至目标水平。",
+      "category": "治疗与康复",
+      "page_num": 15
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "risk:高盐饮食"
+      ],
+      "advice": "限制钠盐摄入量，建议钠的摄入量首先减少30%，并进一步降至2 g/d（氯化钠5 g/d）。",
+      "category": "健康生活方式",
+      "page_num": 16
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "bmi:超重",
+        "bmi:肥胖"
+      ],
+      "advice": "所有超重和肥胖患者应减重，将减重5%~15%及以上作为体重管理的目标，一年内体重减少初始体重的5%~10%。",
+      "category": "健康生活方式",
+      "page_num": 17
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "bmi:正常"
+      ],
+      "advice": "正常体重者应将体重维持在健康范围内（体重指数18.5~23.9 kg/m²；腰围<90 cm（男性）、<85 cm（女性））。",
+      "category": "健康生活方式",
+      "page_num": 17
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "bmi:超重",
+        "bmi:肥胖"
+      ],
+      "advice": "定期监测体重变化是预防肥胖的重要措施之一，成年后总的体重增长最好控制在5 kg以内。",
+      "category": "健康生活方式",
+      "page_num": 17
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "bmi:超重",
+        "bmi:肥胖"
+      ],
+      "advice": "对已有超重/肥胖的个体，在膳食平衡基础上减少总能量摄入500~1000 kcal/d，或较推荐摄入量减少1/3总能量。",
+      "category": "健康生活方式",
+      "page_num": 17
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "risk:饮酒"
+      ],
+      "advice": "建议高血压患者不应饮酒。若饮酒，成年人每日酒精摄入量，男性不超过25g，女性不超过15g。",
+      "category": "健康生活方式",
+      "page_num": 18
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "推荐以有氧运动为主（中等强度，每天30min，每周5~7d），以抗阻运动为辅（每周2~3次）的混合训练，也建议同时结合呼吸训练与柔韧性和拉伸训练。",
+      "category": "治疗与康复",
+      "page_num": 18
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "对于血压没有得到控制者（收缩压>160mmHg），在血压得到控制前，不推荐进行高强度运动。",
+      "category": "治疗与康复",
+      "page_num": 18
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "有氧运动每次最少连续运动10min，每天最少30min，每周运动5~7d。",
+      "category": "治疗与康复",
+      "page_num": 18
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "动态抗阻运动每组重复8~12次，循序渐进达到每次运动2~3组，每周2~3次；静态或等长抗阻运动每次持续2min，运动12~15min。",
+      "category": "治疗与康复",
+      "page_num": 18
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "每周进行至少3小时减压练习，以减轻精神压力和降低血压。",
+      "category": "治疗与康复",
+      "page_num": 19
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "或者，每天至少进行45分钟瑜伽、冥想或太极拳等活动。",
+      "category": "治疗与康复",
+      "page_num": 19
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "每天听1次或每周听3次音乐，每次至少25分钟。",
+      "category": "治疗与康复",
+      "page_num": 19
+    },
+    {
+      "match_tokens": [
+        "age:成人",
+        "disease:高血压"
+      ],
+      "advice": "建议成年人每晚睡眠时间为7~9小时，确保睡眠质量，按时作息。",
+      "category": "健康生活方式",
+      "page_num": 19
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "优先使用长效降压药，以有效控制24小时血压。",
+      "category": "治疗与康复",
+      "page_num": 19
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "age:老年人"
+      ],
+      "advice": "对于收缩压>160 mmHg的80岁及以上高龄老年高血压患者，应使用吲达帕胺缓释片等药物将收缩压降至150 mmHg以下。",
+      "category": "治疗与康复",
+      "page_num": 20
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "disease:糖尿病"
+      ],
+      "advice": "糖尿病患者应进行降压治疗，例如使用低剂量培哚普利/吲达帕胺复方制剂，将血压控制至平均135/75 mmHg左右，以降低血管事件风险。",
+      "category": "治疗与康复",
+      "page_num": 20
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "降压治疗应坚持个体化原则，在血压达到140/90 mmHg以下后，进一步降压需充分考虑患者疾病特征与治疗方案。",
+      "category": "治疗与康复",
+      "page_num": 20
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "首选每日服药1次可有效控制24小时血压的长效药物。",
+      "category": "治疗与康复",
+      "page_num": 21
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "血压≥160/100 mmHg，高于目标血压20/10 mmHg的心血管高危/很高危患者，或单药治疗未达标的高血压患者，应进行联合降压治疗。",
+      "category": "治疗与康复",
+      "page_num": 21
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "服用氯沙坦钾/氢氯噻嗪（50mg/12.5mg）时，每天服药1~2片，每日1次。",
+      "category": "治疗与康复",
+      "page_num": 24
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "服用氯沙坦钾/氢氯噻嗪（100mg/12.5mg）时，每天服药1片，每日1次。",
+      "category": "治疗与康复",
+      "page_num": 24
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "服用氯沙坦钾/氢氯噻嗪（100mg/25mg）时，每天服药1片，每日1次。",
+      "category": "治疗与康复",
+      "page_num": 24
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "服用缬沙坦/氢氯噻嗪（80mg/12.5mg）时，每天服药1~2片，每日1次。",
+      "category": "治疗与康复",
+      "page_num": 24
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "服用厄贝沙坦/氢氯噻嗪（150mg/12.5mg）时，每天服药1片，每日1次。",
+      "category": "治疗与康复",
+      "page_num": 24
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "服用替米沙坦/氢氯噻嗪（40mg/12.5mg）时，每天服药1片，每日1次。",
+      "category": "治疗与康复",
+      "page_num": 24
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "服用替米沙坦/氢氯噻嗪（80mg/12.5mg）时，每天服药1片，每日1次。",
+      "category": "治疗与康复",
+      "page_num": 24
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "服用奥美沙坦/氢氯噻嗪（20mg/12.5mg）时，每天服药1~2片，每日1次。",
+      "category": "治疗与康复",
+      "page_num": 24
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "服用坎地沙坦酯/氢氯噻嗪（16mg/12.5mg）时，每天服药1片，每日1次。",
+      "category": "治疗与康复",
+      "page_num": 24
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "服用卡托普利/氢氯噻嗪（10mg/6mg）时，每天服药1~2片，每日1~2次。",
+      "category": "治疗与康复",
+      "page_num": 24
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "服用赖诺普利/氢氯噻嗪（10mg/12.5mg）时，每天服药1片，每日1次。",
+      "category": "治疗与康复",
+      "page_num": 24
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "服用依那普利/氢氯噻嗪（5mg/12.5mg）时，每天服药1片，每日1次。",
+      "category": "治疗与康复",
+      "page_num": 24
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "服用贝那普利/氢氯噻嗪（10mg/12.5mg）时，每天服药1片，每日1次。",
+      "category": "治疗与康复",
+      "page_num": 24
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "服用培哚普利/吲达帕胺（4mg/1.25mg）时，每天服药1片，每日1次。",
+      "category": "治疗与康复",
+      "page_num": 24
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "服用培哚普利/氨氯地平（精氨酸培哚普利10mg/苯磺酸氨氯地平5mg）时，每天服药1片，每日1次。",
+      "category": "治疗与康复",
+      "page_num": 24
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "服用培哚普利/氨氯地平（精氨酸培哚普利5mg/苯磺酸氨氯地平10mg）时，每天服药1片，每日1次。",
+      "category": "治疗与康复",
+      "page_num": 24
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "服用培哚普利/氨氯地平（精氨酸培哚普利10mg/苯磺酸氨氯地平10mg）时，每天服药1片，每日1次。",
+      "category": "治疗与康复",
+      "page_num": 24
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "服用缬沙坦/氨氯地平（80mg/5mg）时，每天服药1~2片，每日1次。",
+      "category": "治疗与康复",
+      "page_num": 24
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "服用缬沙坦/氨氯地平（160mg/5mg）时，每天服药1~2片，每日1次。",
+      "category": "治疗与康复",
+      "page_num": 24
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "服用替米沙坦/氨氯地平（80mg/5mg）时，每天服药1片，每日1次。",
+      "category": "治疗与康复",
+      "page_num": 24
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "服用氨氯地平/氯沙坦（5mg/50mg）时，每天服药1片，每日1次。",
+      "category": "治疗与康复",
+      "page_num": 24
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "服用氨氯地平/氯沙坦（5mg/100mg）时，每天服药1片，每日1次。",
+      "category": "治疗与康复",
+      "page_num": 24
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "服用氨氯地平/贝那普利（2.5mg/10mg）时，每天服药1~4片，每日1次。",
+      "category": "治疗与康复",
+      "page_num": 24
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "服用氨氯地平/贝那普利（5mg/10mg）时，每天服药1~2片，每日1次。",
+      "category": "治疗与康复",
+      "page_num": 24
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "服用阿利沙坦酯/氨氯地平（240mg/5mg）时，每天服药1片，每日1次。",
+      "category": "治疗与康复",
+      "page_num": 24
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "服用氨氯地平/比索洛尔（富马酸比索洛尔5mg/苯磺酸氨氯地平5mg）时，每天服药1片，每日1次。",
+      "category": "治疗与康复",
+      "page_num": 24
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "服用尼群地平/阿替洛尔（10mg/20mg）时，每天服药1片，每日1~2次。",
+      "category": "治疗与康复",
+      "page_num": 24
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "服用尼群地平/阿替洛尔（5mg/10mg）时，每天服药1~2片，每日1~2次。",
+      "category": "治疗与康复",
+      "page_num": 24
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "如果从ACEI转换成ARNI，必须在停止ACEI治疗至少36小时之后才能开始应用。",
+      "category": "治疗与康复",
+      "page_num": 27
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "risk:高盐饮食"
+      ],
+      "advice": "2级以上高血压（≥160/100 mmHg）、高于目标血压20/10 mmHg的心血管风险高危/很高危的患者，初始治疗即可应用2种降压药。",
+      "category": "治疗与康复",
+      "page_num": 28
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "disease:糖尿病"
+      ],
+      "advice": "血糖控制目标：糖化血红蛋白<7%；空腹血糖4.4~7.0 mmol/L；餐后2 h血糖或高峰值血糖<10.0 mmol/L。",
+      "category": "治疗与康复",
+      "page_num": 31
+    },
+    {
+      "match_tokens": [
+        "disease:糖尿病"
+      ],
+      "advice": "控制总热卡，碳水化合物占总热量55%~65%，蛋白质不多于总热量15%。",
+      "category": "健康生活方式",
+      "page_num": 32
+    },
+    {
+      "match_tokens": [
+        "disease:糖尿病"
+      ],
+      "advice": "对HbA1c水平高于治疗靶目标水平1.5%~2.0%的患者，应考虑初始即联合降糖药治疗。",
+      "category": "治疗与康复",
+      "page_num": 32
+    },
+    {
+      "match_tokens": [
+        "disease:糖尿病",
+        "disease:慢阻肺"
+      ],
+      "advice": "对合并肾脏疾病的患者，推荐在eGFR≥30 mL/(min·1.73 m²)时使用SGLT2i。",
+      "category": "治疗与康复",
+      "page_num": 32
+    },
+    {
+      "match_tokens": [
+        "disease:糖尿病",
+        "disease:慢阻肺"
+      ],
+      "advice": "GLP-1RA能减少糖尿病患者新发大量蛋白尿的风险，可以考虑在eGFR≥30 mL/(min·1.73 m²)的患者中使用。",
+      "category": "治疗与康复",
+      "page_num": 32
+    },
+    {
+      "match_tokens": [
+        "disease:糖尿病"
+      ],
+      "advice": "或在口服降糖药加基础胰岛素联合治疗前，先用口服降糖药联合GLP-1RA治疗，每周1次注射的周制剂较每日注射1~2次的GLP-1RA制剂更容易为患者所接受。",
+      "category": "治疗与康复",
+      "page_num": 32
+    },
+    {
+      "match_tokens": [
+        "disease:糖尿病"
+      ],
+      "advice": "空腹血糖>11 mmol/L或HbA1c≥9%同时伴明显高血糖症状的新诊断2型糖尿病患者，可考虑采用短期(2周~3月)胰岛素强化治疗。",
+      "category": "治疗与康复",
+      "page_num": 32
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "高血压患者，伴甘油三酯≥5.7 mmol/L时，为降低胰腺炎风险，需启用贝特类或Omega-3多不饱和脂肪酸治疗。",
+      "category": "治疗与康复",
+      "page_num": 32
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "age:成人"
+      ],
+      "advice": "ASCVD高危且合并至少1项风险增强因素但无高出血风险的40~70岁的患者，可考虑应用低剂量阿司匹林进行ASCVD一级预防。",
+      "category": "治疗与康复",
+      "page_num": 33
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "age:老年人"
+      ],
+      "advice": "年龄>70岁的患者，不建议常规使用阿司匹林进行ASCVD一级预防。",
+      "category": "治疗与康复",
+      "page_num": 33
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "启动降LDL-C药物治疗4~6周后复查血脂，LDL-C达到目标值后继续维持长期治疗。",
+      "category": "治疗与康复",
+      "page_num": 33
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "长期应用阿司匹林需在血压控制稳定（<150/90 mmHg）后开始。",
+      "category": "治疗与康复",
+      "page_num": 34
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "高血压患者心率增快的定义为诊室静息心率>80次/min。",
+      "category": "治疗与康复",
+      "page_num": 34
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "高血压合并高尿酸血症患者长期控制血尿酸水平<360 μmol/L。",
+      "category": "治疗与康复",
+      "page_num": 35
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "高血压合并高尿酸血症患者合并痛风发作者控制血尿酸水平<300 μmol/L。",
+      "category": "治疗与康复",
+      "page_num": 35
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "心肾功能正常者须多饮水，维持每日尿量2~3 L。",
+      "category": "健康生活方式",
+      "page_num": 35
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "提倡健康饮食，限制每日总热量摄入。",
+      "category": "健康生活方式",
+      "page_num": 35
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "在开始治疗后的前3月内，建议每月随访1次。",
+      "category": "治疗与康复",
+      "page_num": 36
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "高血压1级，危险分层属低危、中危或仅服1种药物治疗者，可每1~3月随访1次。",
+      "category": "治疗与康复",
+      "page_num": 36
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "复杂病例、高危患者或临床有症状者，可考虑将随访间隔缩短为2~4周。",
+      "category": "治疗与康复",
+      "page_num": 36
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "血压达标且稳定者，每1~3月随访1次；血压未达标者，每2~4周随访1次。",
+      "category": "治疗与康复",
+      "page_num": 36
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "若使用了至少3种降压药，血压仍未达标，应考虑将患者转至高血压专科诊治。",
+      "category": "治疗与康复",
+      "page_num": 36
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "随访内容应考虑包括动态血压监测，以判断24小时血压控制等情况。",
+      "category": "治疗与康复",
+      "page_num": 36
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "建议1月内做2次诊室和诊室外血压重复测量以确认隐蔽性高血压的诊断。",
+      "category": "治疗与康复",
+      "page_num": 38
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "清晨起床后1小时内、排尿后、服药前和早餐前，测量2次血压，连续测量超过5天，测量次数超过10次，取所有次数血压的平均值以评估清晨高血压。",
+      "category": "治疗与康复",
+      "page_num": 38
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "使用真正长效每日1次服药能够控制24小时血压的药物，避免因治疗方案选择不当导致清晨血压控制不佳。",
+      "category": "治疗与康复",
+      "page_num": 38
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "可将家庭和动态清晨血压目标水平设定为<135/85 mmHg。",
+      "category": "治疗与康复",
+      "page_num": 39
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "使用真正长效每日1次服药能够控制24小时血压的药物，避免因治疗方案选择不当导致清晨血压控制不佳。",
+      "category": "治疗与康复",
+      "page_num": 39
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "原则上，应将夜间平均血压控制在<120/70 mmHg。",
+      "category": "治疗与康复",
+      "page_num": 39
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "如果条件许可，最好3~6月或更短时间内重复一次24小时动态血压监测以明确诊断，尤其是监测当天睡眠不佳的患者。",
+      "category": "治疗与康复",
+      "page_num": 39
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "特殊情况如血液透析的患者，建议进行44~48小时动态血压监测。",
+      "category": "治疗与康复",
+      "page_num": 39
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "age:老年人",
+        "symptom:单纯收缩期高血压"
+      ],
+      "advice": "推荐目标收缩压为140~150 mmHg，如耐受性良好，收缩压降到130~140 mmHg也是合理的。",
+      "category": "治疗与康复",
+      "page_num": 40
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "age:老年人",
+        "symptom:单纯收缩期高血压"
+      ],
+      "advice": "应尽可能避免将舒张压降至<70 mmHg，以防止器官灌注不足。",
+      "category": "治疗与康复",
+      "page_num": 40
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "age:老年人"
+      ],
+      "advice": "65至79岁老年人血压≥140/90 mmHg应开始药物治疗。",
+      "category": "治疗与康复",
+      "page_num": 41
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "age:老年人"
+      ],
+      "advice": "80岁及以上老年人收缩压≥150 mmHg可开始药物治疗。",
+      "category": "治疗与康复",
+      "page_num": 41
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "age:老年人"
+      ],
+      "advice": "建议65至79岁老年人降压目标<140/90 mmHg，如可耐受，可降至<130/80 mmHg。",
+      "category": "治疗与康复",
+      "page_num": 41
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "age:老年人"
+      ],
+      "advice": "80岁及以上高龄老年人降压目标<150/90 mmHg，如可耐受，可降至<140/90 mmHg。",
+      "category": "治疗与康复",
+      "page_num": 41
+    },
+    {
+      "match_tokens": [
+        "age:老年人",
+        "disease:高血压"
+      ],
+      "advice": "开始药物治疗后应在4~12周内逐步降压达标。",
+      "category": "治疗与康复",
+      "page_num": 42
+    },
+    {
+      "match_tokens": [
+        "age:老年人",
+        "disease:高血压"
+      ],
+      "advice": "优先选择每天1次服用的长效制剂，联合治疗时优先选择单片复方制剂。",
+      "category": "治疗与康复",
+      "page_num": 42
+    },
+    {
+      "match_tokens": [
+        "age:老年人",
+        "disease:高血压"
+      ],
+      "advice": "舒张压<60 mmHg的单纯收缩期高血压患者，降压治疗的主要目标是收缩压达标。",
+      "category": "治疗与康复",
+      "page_num": 42
+    },
+    {
+      "match_tokens": [
+        "age:老年人",
+        "disease:高血压"
+      ],
+      "advice": "舒张压<60 mmHg的单纯收缩期高血压患者，一般以小剂量单药起始治疗，逐步增加药物剂量或联合治疗直至收缩压达标。",
+      "category": "治疗与康复",
+      "page_num": 42
+    },
+    {
+      "match_tokens": [
+        "age:老年人",
+        "disease:高血压"
+      ],
+      "advice": "舒张压<60 mmHg的单纯收缩期高血压患者，降压过程宜平缓并以患者可耐受为原则，需密切监测舒张压变化及伴随的临床症状。",
+      "category": "治疗与康复",
+      "page_num": 42
+    },
+    {
+      "match_tokens": [
+        "age:老年人",
+        "disease:高血压"
+      ],
+      "advice": "血压≥150/90 mmHg时启动药物降压治疗，首先将血压降至<150/90 mmHg，若耐受性良好，则进一步将血压降至<140/90 mmHg。",
+      "category": "治疗与康复",
+      "page_num": 43
+    },
+    {
+      "match_tokens": [
+        "age:小孩",
+        "disease:高血压"
+      ],
+      "advice": "选择合适尺寸袖带对准确测量儿童血压至关重要。每次血压测量应至少连续测量3次，首次血压测量可适当增加次数，两次测量间隔1 min，相邻2次读数相差10 mmHg及以上，应再次测量，取后2次读数的平均值记录。",
+      "category": "治疗与康复",
+      "page_num": 43
+    },
+    {
+      "match_tokens": [
+        "age:小孩",
+        "disease:高血压"
+      ],
+      "advice": "儿童高血压的个体诊断需要根据连续3次的血压水平进行，2次间隔2周以上。一般情况下，只有当非同日3次测量的血压均≥P95方可诊断为高血压。",
+      "category": "治疗与康复",
+      "page_num": 43
+    },
+    {
+      "match_tokens": [
+        "population:孕妇",
+        "disease:高血压"
+      ],
+      "advice": "当诊室血压≥140/90 mmHg时应启动降压治疗。",
+      "category": "治疗与康复",
+      "page_num": 44
+    },
+    {
+      "match_tokens": [
+        "population:孕妇",
+        "disease:高血压"
+      ],
+      "advice": "具有子痫前期高危因素的孕妇应在妊娠12~16周开始服用小剂量阿司匹林(75~150 mg/d)预防子痫前期，直至分娩前。",
+      "category": "治疗与康复",
+      "page_num": 44
+    },
+    {
+      "match_tokens": [
+        "population:孕妇",
+        "disease:高血压"
+      ],
+      "advice": "降压治疗时，血压≥110/70 mmHg。",
+      "category": "治疗与康复",
+      "page_num": 44
+    },
+    {
+      "match_tokens": [
+        "population:孕妇",
+        "disease:高血压"
+      ],
+      "advice": "血压≥160/100 mmHg不宜受孕。",
+      "category": "治疗与康复",
+      "page_num": 45
+    },
+    {
+      "match_tokens": [
+        "population:孕妇",
+        "disease:高血压"
+      ],
+      "advice": "HDP患者诊室血压≥140/90 mmHg时应启动降压治疗。",
+      "category": "治疗与康复",
+      "page_num": 45
+    },
+    {
+      "match_tokens": [
+        "population:孕妇",
+        "disease:高血压"
+      ],
+      "advice": "降压治疗时血压不低于110/70 mmHg。",
+      "category": "治疗与康复",
+      "page_num": 45
+    },
+    {
+      "match_tokens": [
+        "population:孕妇",
+        "disease:高血压"
+      ],
+      "advice": "当收缩压≥180 mmHg或舒张压≥120 mmHg时，应按照高血压急症采取相应的处理措施。",
+      "category": "急症处理",
+      "page_num": 45
+    },
+    {
+      "match_tokens": [
+        "population:产后",
+        "disease:高血压"
+      ],
+      "advice": "应在分娩后72 h内密切监测血压，每天至少监测4~6次。",
+      "category": "治疗与康复",
+      "page_num": 45
+    },
+    {
+      "match_tokens": [
+        "population:产后",
+        "disease:高血压"
+      ],
+      "advice": "产后血压≥140/90 mmHg者应继续降压治疗，根据血压恢复情况可逐渐减少药量直至停药。",
+      "category": "治疗与康复",
+      "page_num": 45
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "disease:脑血管病"
+      ],
+      "advice": "对于收缩压≥200 mmHg和/或舒张压≥110 mmHg的急性缺血性脑卒中患者，脑卒中发病后24小时内血压降低15%。",
+      "category": "急症处理",
+      "page_num": 46
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "disease:脑血管病"
+      ],
+      "advice": "对于准备采用溶栓及桥接血管内取栓的急性缺血性脑卒中患者，血压应控制在<180/100 mmHg。",
+      "category": "急症处理",
+      "page_num": 46
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "disease:脑血管病"
+      ],
+      "advice": "脑出血急性期患者收缩压≥220 mmHg时，在持续血压监测下积极降压。",
+      "category": "急症处理",
+      "page_num": 46
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "disease:脑血管病"
+      ],
+      "advice": "脑出血急性期患者收缩压150~219 mmHg时，若无急性降压治疗禁忌证，将收缩压降至140 mmHg。",
+      "category": "急症处理",
+      "page_num": 46
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "disease:脑血管病"
+      ],
+      "advice": "蛛网膜下腔出血急性期将收缩压降至<160 mmHg，并维持平稳。",
+      "category": "急症处理",
+      "page_num": 46
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "disease:脑血管病"
+      ],
+      "advice": "脑卒中后若持续收缩压≥140 mmHg和/或舒张压≥90 mmHg，病情稳定且无禁忌证时，可恢复使用发病前服用的降压药或开始启动降压治疗，降压目标为血压<140/90 mmHg；如能耐受，可降至<130/80 mmHg。",
+      "category": "治疗与康复",
+      "page_num": 46
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "disease:脑血管病"
+      ],
+      "advice": "缺血性脑卒中后24小时内血压升高的患者应优先处理紧张焦虑、疼痛、恶心呕吐、尿潴留及颅内压升高等情况。",
+      "category": "急症处理",
+      "page_num": 46
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "disease:脑血管病"
+      ],
+      "advice": "对于血压持续升高，收缩压≥200 mmHg或舒张压≥110 mmHg，或伴有严重心功能不全、主动脉夹层、高血压脑病的急性缺血性脑卒中患者，应予以降压治疗。",
+      "category": "急症处理",
+      "page_num": 46
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "disease:脑血管病"
+      ],
+      "advice": "急性缺血性脑卒中准备溶栓及桥接血管内取栓者，血压应控制在<180/100 mmHg，24小时内降压幅度不应超过15%。",
+      "category": "急症处理",
+      "page_num": 46
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "disease:脑血管病"
+      ],
+      "advice": "脑出血急性期患者收缩压>150 mmHg，若无急性降压治疗禁忌证，将收缩压降至140 mmHg。",
+      "category": "急症处理",
+      "page_num": 46
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "disease:脑血管病"
+      ],
+      "advice": "脑出血急性期在降压治疗期间应严密观察血压的变化，每隔5~15分钟监测1次血压。",
+      "category": "急症处理",
+      "page_num": 46
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "disease:脑血管病"
+      ],
+      "advice": "在多数症状性颅内动脉狭窄的患者中，将收缩压控制在140 mmHg以下是安全的。",
+      "category": "治疗与康复",
+      "page_num": 46
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "symptom:认知障碍"
+      ],
+      "advice": "高血压合并认知障碍患者应进行降压治疗，一般可将血压降至140/90 mmHg以下，如耐受可降至<130/80 mmHg。",
+      "category": "治疗与康复",
+      "page_num": 47
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "age:老年人",
+        "symptom:认知障碍"
+      ],
+      "advice": "对于存在严重认知功能减退甚至痴呆的患者，可将<150/90 mmHg作为血压初步控制目标。",
+      "category": "治疗与康复",
+      "page_num": 47
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "age:老年人"
+      ],
+      "advice": "年龄≥80岁的患者，如血压≥150/90 mmHg，在改善生活方式的同时启动降压药物治疗，将血压降至<150/90 mmHg，若耐受良好，则进一步将血压降至<140/90 mmHg。",
+      "category": "治疗与康复",
+      "page_num": 47
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "disease:冠心病"
+      ],
+      "advice": "推荐血压<140/90 mmHg作为合并冠心病的高血压患者的降压目标，如能耐受，可将血压降至<130/80 mmHg。",
+      "category": "治疗与康复",
+      "page_num": 47
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "disease:脑血管病"
+      ],
+      "advice": "对于高血压合并心力衰竭患者，推荐的降压治疗目标为<130/80 mmHg。",
+      "category": "治疗与康复",
+      "page_num": 48
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "disease:糖尿病",
+        "disease:其他病症"
+      ],
+      "advice": "对于存在糖尿病和慢性肾脏病的高血压患者，如能耐受，血压应控制在<130/80 mmHg。",
+      "category": "治疗与康复",
+      "page_num": 49
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "disease:其他病症"
+      ],
+      "advice": "对于高血压合并外周动脉疾病的患者，血压应控制在<140/90 mmHg。",
+      "category": "治疗与康复",
+      "page_num": 49
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "disease:其他病症"
+      ],
+      "advice": "对于高血压合并颈动脉狭窄的患者，血压控制在<140/90 mmHg范围内。",
+      "category": "治疗与康复",
+      "page_num": 49
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "disease:糖尿病",
+        "disease:其他病症"
+      ],
+      "advice": "对于高血压合并颈动脉狭窄且同时合并糖尿病或慢性肾脏病的患者，血压应控制在<130/80 mmHg。",
+      "category": "治疗与康复",
+      "page_num": 49
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "disease:脑血管病"
+      ],
+      "advice": "对于老年双侧颈动脉狭窄程度>70%的高血压患者，过度降压可能增加脑缺血风险，宜适当放宽血压目标值。",
+      "category": "治疗与康复",
+      "page_num": 49
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "disease:其他病症"
+      ],
+      "advice": "无蛋白尿的慢性肾脏病患者，在收缩压≥140 mmHg和/或舒张压≥90 mmHg时启动降压药物治疗，血压控制目标为<140/90 mmHg。",
+      "category": "治疗与康复",
+      "page_num": 49
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "disease:其他病症"
+      ],
+      "advice": "无蛋白尿的慢性肾脏病患者，如耐受，血压可降到130/80 mmHg。",
+      "category": "治疗与康复",
+      "page_num": 49
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "disease:其他病症"
+      ],
+      "advice": "有蛋白尿的慢性肾脏病患者，在收缩压≥130 mmHg和/或舒张压≥80 mmHg时启动降压药物治疗，血压控制目标为<130/80 mmHg。",
+      "category": "治疗与康复",
+      "page_num": 49
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "disease:其他病症"
+      ],
+      "advice": "糖尿病和非糖尿病肾病的慢性肾脏病患者，如果eGFR≥20 mL/(min·1.73 m2)，建议使用SGLT2i。",
+      "category": "治疗与康复",
+      "page_num": 49
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "disease:其他病症"
+      ],
+      "advice": "对于尿白蛋白<30 mg/24 h的CKD患者，当收缩压≥140 mmHg和/或舒张压≥90 mmHg时启动降压药物治疗，血压控制目标为<140/90 mmHg。",
+      "category": "治疗与康复",
+      "page_num": 50
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "disease:其他病症"
+      ],
+      "advice": "对于尿白蛋白>30 mg/24 h的CKD患者，当收缩压≥130 mmHg和/或舒张压≥80 mmHg时启动降压药物治疗，血压控制目标为<130/80 mmHg。",
+      "category": "治疗与康复",
+      "page_num": 50
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "disease:其他病症",
+        "age:老年人"
+      ],
+      "advice": "对65~79岁的老年CKD患者，可遵循上述降压启动时机及血压控制目标。",
+      "category": "治疗与康复",
+      "page_num": 50
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "disease:其他病症",
+        "age:老年人"
+      ],
+      "advice": "对高龄老年（≥80岁）CKD患者，血压≥150/90 mmHg时可启动降压治疗，血压控制目标为<150/90 mmHg。",
+      "category": "治疗与康复",
+      "page_num": 50
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "disease:其他病症"
+      ],
+      "advice": "使用ACEI或ARB后2~4周监测血肌酐，较基础值升高>30%时，需查找原因（如容量不足、双侧肾动脉狭窄、合用非甾体抗炎药等），必要时减量或停药。",
+      "category": "治疗与康复",
+      "page_num": 50
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "disease:其他病症"
+      ],
+      "advice": "在eGFR≥30 mL/(min·1.73 m²)时可选择噻嗪类利尿剂；eGFR<30 mL/(min·1.73 m²)时应用袢利尿剂。",
+      "category": "治疗与康复",
+      "page_num": 50
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "disease:其他病症"
+      ],
+      "advice": "如果eGFR≥20 mL/(min·1.73 m²)，则建议糖尿病和非糖尿病肾病的CKD患者使用SGLT2i。",
+      "category": "治疗与康复",
+      "page_num": 50
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "disease:其他病症"
+      ],
+      "advice": "腹膜透析患者的血压控制目标为<140/90 mmHg，容量管理对腹膜透析患者的血压管理也同样关键。",
+      "category": "治疗与康复",
+      "page_num": 50
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "disease:糖尿病"
+      ],
+      "advice": "糖尿病患者的血压控制目标应设为<130/80 mmHg。",
+      "category": "治疗与康复",
+      "page_num": 51
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "disease:糖尿病",
+        "population:老年人"
+      ],
+      "advice": "老年或伴严重冠心病的糖尿病患者，血压控制目标可放宽至140/90 mmHg。",
+      "category": "治疗与康复",
+      "page_num": 51
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "disease:糖尿病",
+        "population:孕妇"
+      ],
+      "advice": "合并糖尿病的孕妇，建议血压控制目标为≤135/85 mmHg。",
+      "category": "治疗与康复",
+      "page_num": 51
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "bmi:肥胖"
+      ],
+      "advice": "高血压合并肥胖者建议将目标血压降至<140/90 mmHg，可耐受者降至<130/80 mmHg。",
+      "category": "治疗与康复",
+      "page_num": 51
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "disease:糖尿病",
+        "bmi:肥胖"
+      ],
+      "advice": "健康膳食和合理运动对代谢综合征的干预甚为重要和有效，适当增加运动可降低代谢综合征风险10% ~ 20%。",
+      "category": "健康生活方式",
+      "page_num": 52
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "disease:糖尿病",
+        "disease:慢阻肺"
+      ],
+      "advice": "建议在肿瘤治疗期间血压目标值<140/90 mmHg，若患者合并糖尿病、CKD可将血压降至130/80 mmHg。",
+      "category": "治疗与康复",
+      "page_num": 52
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "disease:其他病症"
+      ],
+      "advice": "肿瘤患者在开始VEGFi治疗之前应监测血压，在第一个抗肿瘤治疗周期的初始阶段每周测量1次诊室血压，之后至少每2~3周测量1次。",
+      "category": "治疗与康复",
+      "page_num": 52
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "disease:其他病症"
+      ],
+      "advice": "当收缩压≥160 mmHg和/或舒张压≥100 mmHg时，建议ACEI或ARB与二氢吡啶类CCB联合治疗。",
+      "category": "治疗与康复",
+      "page_num": 53
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "disease:其他病症"
+      ],
+      "advice": "当收缩压≥180 mmHg或舒张压≥110 mmHg时，应通过多学科会诊评估肿瘤和心血管风险，并推迟与血压增高有关的抗肿瘤治疗，直到血压降至<160/100 mmHg。",
+      "category": "急症处理",
+      "page_num": 53
+    },
+    {
+      "match_tokens": [
+        "disease:其他病症"
+      ],
+      "advice": "新诊断无明显靶器官受损的系统性红斑狼疮患者降压目标为140/90 mmHg；狼疮肾炎或糖尿病患者降压目标为130/80 mmHg。",
+      "category": "治疗与康复",
+      "page_num": 54
+    },
+    {
+      "match_tokens": [
+        "disease:其他病症"
+      ],
+      "advice": "抗高血压治疗的目标是24 h内收缩压下降20 mmHg，舒张压下降10 mmHg，72 h内降至正常。",
+      "category": "治疗与康复",
+      "page_num": 54
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "围手术期间血压增高幅度大于基础血压30%或血压≥140/90 mmHg需对血压进行管理；血压控制在<140/90 mmHg。",
+      "category": "治疗与康复",
+      "page_num": 54
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "术前血压≥180/110 mmHg需延迟及择期手术。",
+      "category": "急症处理",
+      "page_num": 54
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "术中收缩压不应<100 mmHg，平均动脉压不应<60 mmHg。",
+      "category": "治疗与康复",
+      "page_num": 54
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "围手术期前已服用β受体阻滞剂和CCB可以继续维持，术前使用ACEI、ARB及ARNI者，应停用至少24 h。",
+      "category": "治疗与康复",
+      "page_num": 54
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "血压控制目标为<140/90 mmHg。",
+      "category": "治疗与康复",
+      "page_num": 55
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "术前服用ACEI或ARB或ARNI的患者，建议术前1天予以停用。",
+      "category": "治疗与康复",
+      "page_num": 55
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "对正在使用利尿剂者术前2~3天停用。",
+      "category": "治疗与康复",
+      "page_num": 55
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "术中因高血压急症静脉使用降压药的目标：30~60 min内使舒张压降至110 mmHg，降压幅度不超过25%，2~6 h内血压降至160/100 mmHg。",
+      "category": "急症处理",
+      "page_num": 55
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "建议术中平均动脉压应保持在>65 mmHg，术后稍微高一些。",
+      "category": "治疗与康复",
+      "page_num": 55
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "symptom:失眠"
+      ],
+      "advice": "失眠障碍药物治疗应遵循个体化、按需、间断、足量的给药原则。连续给药一般不超过4周，如需继续给药，需每个月定期评估。",
+      "category": "治疗与康复",
+      "page_num": 55
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "disease:其他病症"
+      ],
+      "advice": "对于肾实质性高血压患者，强调饮食限盐，推荐每日饮食盐（氯化钠）摄入量小于6克。",
+      "category": "治疗与康复",
+      "page_num": 57
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "disease:其他病症"
+      ],
+      "advice": "对于eGFR≥25 mL/(min·1.73 m²)存在肾脏进展高风险的ADPKD患者，建议使用托伐普坦以减缓eGFR下降速度。",
+      "category": "治疗与康复",
+      "page_num": 57
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "disease:其他病症"
+      ],
+      "advice": "对于肾动脉狭窄的跨病变收缩压压差≥20 mmHg或者平均压压差≥10 mmHg的患者，建议肾动脉血运重建治疗。",
+      "category": "治疗与康复",
+      "page_num": 57
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "若血压超过150/100 mmHg、为难治性高血压、或合并自发性或利尿剂诱发低钾血症等情况，应考虑进行原发性醛固酮增多症的筛查。",
+      "category": "治疗与康复",
+      "page_num": 60
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "在进行血醛固酮/肾素比值筛查前，应在医生指导下停用盐皮质激素受体拮抗剂、利尿剂及甘草类药物4周，停用肾素-血管紧张素系统抑制剂、二氢吡啶类钙通道阻滞药及β受体阻滞剂2周。",
+      "category": "治疗与康复",
+      "page_num": 60
+    },
+    {
+      "match_tokens": [
+        "disease:其他病症",
+        "age:成人"
+      ],
+      "advice": "对于年龄<35岁，具有典型原发性醛固酮增多症表现（高醛固酮、PRA受抑、低钾血症、肾上腺单侧占位且直径>10mm），且对侧肾上腺无异常的患者可免于AVS检查。",
+      "category": "治疗与康复",
+      "page_num": 61
+    },
+    {
+      "match_tokens": [
+        "disease:其他病症",
+        "age:成人"
+      ],
+      "advice": "年龄<35岁且单侧肾上腺腺瘤或大结节(>10mm)者或经AVS确诊单侧肾上腺醛固酮优势分泌者采取手术治疗，目前多采用腹腔镜下单侧肾上腺切除术。",
+      "category": "治疗与康复",
+      "page_num": 61
+    },
+    {
+      "match_tokens": [
+        "disease:其他病症"
+      ],
+      "advice": "螺内酯起始剂量为25~50 mg/d，使用初期应每隔2周复查血钾，4周复查肾功能。",
+      "category": "治疗与康复",
+      "page_num": 61
+    },
+    {
+      "match_tokens": [
+        "disease:其他病症"
+      ],
+      "advice": "对于有肾功能不全的患者，应慎用螺内酯，eGFR<30 mL/(min·1.73 m2)者应禁用。",
+      "category": "治疗与康复",
+      "page_num": 61
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "symptom:持续性高血压"
+      ],
+      "advice": "持续性高血压患者术前准备充分的标准之一是血压≤140/90 mmHg。",
+      "category": "治疗与康复",
+      "page_num": 62
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "population:PPGL术后患者"
+      ],
+      "advice": "PPGL患者术后24~48 h应密切监测血压和心率。",
+      "category": "治疗与康复",
+      "page_num": 62
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "population:PPGL术后患者"
+      ],
+      "advice": "PPGL患者通常应终身随访，每年至少复查1次。",
+      "category": "治疗与康复",
+      "page_num": 62
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "age:小孩",
+        "population:有PPGL家族史和基因突变者"
+      ],
+      "advice": "儿童、青少年、有PPGL家族史和基因突变、转移性PPGL患者应3~6月随访1次，定期检测儿茶酚胺、甲氧基肾上腺素及甲氧基去甲肾上腺素及影像学检查。",
+      "category": "治疗与康复",
+      "page_num": 62
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "age:小孩",
+        "population:转移性PPGL患者"
+      ],
+      "advice": "儿童、青少年、有PPGL家族史和基因突变、转移性PPGL患者应3~6月随访1次，定期检测儿茶酚胺、甲氧基肾上腺素及甲氧基去甲肾上腺素及影像学检查。",
+      "category": "治疗与康复",
+      "page_num": 62
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "disease:脑血管病"
+      ],
+      "advice": "对于未进行静脉溶栓及血管内治疗的急性缺血性脑卒中患者，建议收缩压≥200 mmHg和/或舒张压≥110 mmHg开始降压治疗。",
+      "category": "治疗与康复",
+      "page_num": 66
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "disease:脑血管病"
+      ],
+      "advice": "对于拟进行静脉溶栓及血管内治疗的急性缺血性脑卒中患者，建议在治疗前控制血压≤180/100 mmHg，选用乌拉地尔、拉贝洛尔、尼卡地平等静脉药物。",
+      "category": "治疗与康复",
+      "page_num": 66
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "disease:脑血管病"
+      ],
+      "advice": "高血压合并急性出血性脑卒中患者，建议急性期将收缩压控制在130~140 mmHg。在降压治疗期间应严密观察血压的变化。",
+      "category": "治疗与康复",
+      "page_num": 66
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "初始阶段（数分钟到1 h内）血压控制的目标为平均动脉压的降低幅度不超过治疗前水平的25%。",
+      "category": "治疗与康复",
+      "page_num": 66
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "在随后的2~6 h内将血压降至较安全水平，一般为160/100 mmHg左右。如果可耐受这样的血压水平，临床情况稳定，在其后24~48 h逐步降低血压达到正常水平。",
+      "category": "治疗与康复",
+      "page_num": 66
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "disease:其他病症"
+      ],
+      "advice": "高血压合并主动脉夹层患者，应迅速降压至维持组织脏器基本灌注的最低血压水平，初始1 h血压控制目标收缩压为100~120 mmHg。常需要联合使用降压药，并要重视足量β受体阻滞剂的使用。β受体阻滞剂不适用时，可考虑加用非二氢吡啶类CCB控制血压，兼顾控制心率及抑制心肌收缩力。",
+      "category": "治疗与康复",
+      "page_num": 66
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "高血压患者应将血压控制目标定为收缩压<140 mmHg。",
+      "category": "治疗与康复",
+      "page_num": 67
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "高血压亚急症患者可在24~48小时内将血压缓慢降至160/100 mmHg，可通过口服降压药控制。",
+      "category": "治疗与康复",
+      "page_num": 67
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "bmi:超重",
+        "bmi:肥胖",
+        "risk:饮酒",
+        "risk:高盐饮食",
+        "age:老年人",
+        "sex:女"
+      ],
+      "advice": "高血压易患人群的筛选应关注正常高值血压、超重和肥胖、过量饮酒、高血压家族史、高盐饮食及年龄>55岁或更年期女性。",
+      "category": "治疗与康复",
+      "page_num": 67
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "population:老年人"
+      ],
+      "advice": "每年至少进行一次免费血压测量。",
+      "category": "健康生活方式",
+      "page_num": 68
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "risk:高盐饮食"
+      ],
+      "advice": "建议每半年至少测量1次血压。",
+      "category": "健康生活方式",
+      "page_num": 68
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "每年至少进行4次面对面随访。",
+      "category": "治疗与康复",
+      "page_num": 68
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "对第一次血压控制不达标或出现药物不良反应的患者，调整降压药后2周内随访。",
+      "category": "治疗与康复",
+      "page_num": 68
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "对连续2次出现血压控制不达标或出现新的并发症患者，建议转诊，并在2周内随访。",
+      "category": "治疗与康复",
+      "page_num": 68
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "血压未达标患者每2~4周随访一次。",
+      "category": "治疗与康复",
+      "page_num": 69
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "病情稳定的高血压患者，可一次开具12周以内的长期处方药品。",
+      "category": "治疗与康复",
+      "page_num": 71
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "risk:高盐饮食"
+      ],
+      "advice": "减少钠盐摄入，每人每日食盐摄入量逐步降至<5 g。",
+      "category": "健康生活方式",
+      "page_num": 74
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "bmi:超重",
+        "bmi:肥胖"
+      ],
+      "advice": "控制体重，使体重指数<24 kg/m²；腰围男性<90 cm，女性<85 cm。",
+      "category": "健康生活方式",
+      "page_num": 74
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "增加运动，每周4~7 d，每次持续30~60 min的中等强度运动。",
+      "category": "健康生活方式",
+      "page_num": 74
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "risk:缺乏运动"
+      ],
+      "advice": "坚持规律运动，每周至少进行150分钟中等强度有氧运动。",
+      "category": "健康生活方式",
+      "page_num": 87
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "risk:高盐饮食"
+      ],
+      "advice": "减少钠盐摄入，每人每日食盐摄入量逐步降至<5g。",
+      "category": "健康生活方式",
+      "page_num": 87
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "risk:饮酒"
+      ],
+      "advice": "限制饮酒，每日酒精摄入量男性不超过25g，女性不超过15g。",
+      "category": "健康生活方式",
+      "page_num": 87
+    },
+    {
+      "match_tokens": [
+        "age:老年人",
+        "disease:高血压"
+      ],
+      "advice": "老年高血压患者（≥75岁）可考虑强化血压控制与标准血压控制对心血管疾病结局的影响。",
+      "category": "治疗与康复",
+      "page_num": 89
+    },
+    {
+      "match_tokens": [
+        "age:小孩",
+        "disease:高血压"
+      ],
+      "advice": "关注7~17岁儿童青少年正常高值血压和血压偏高的流行趋势。",
+      "category": "健康生活方式",
+      "page_num": 90
+    },
+    {
+      "match_tokens": [
+        "age:小孩"
+      ],
+      "advice": "参照中国3~17岁儿童性别、年龄别和身高别血压参照标准。",
+      "category": "治疗与康复",
+      "page_num": 90
+    },
+    {
+      "match_tokens": [
+        "age:小孩",
+        "disease:高血压"
+      ],
+      "advice": "使用中国3~17岁儿童血压简化标准进行血压评估。",
+      "category": "治疗与康复",
+      "page_num": 90
+    },
+    {
+      "match_tokens": [
+        "disease:肥胖症",
+        "bmi:超重",
+        "bmi:肥胖"
+      ],
+      "advice": "对于超重或肥胖的成年人，可考虑每周皮下注射司美格鲁肽或每日注射利拉鲁肽以减轻体重。",
+      "category": "治疗与康复",
+      "page_num": 94
+    },
+    {
+      "match_tokens": [
+        "disease:肥胖症"
+      ],
+      "advice": "对于肥胖症患者，可考虑每周注射一次替西帕肽进行治疗。",
+      "category": "治疗与康复",
+      "page_num": 94
+    }
+  ]
+}

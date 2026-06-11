@@ -1,0 +1,113 @@
+{"match_tokens": ["disease:感冒"], "advice": "流感病毒对乙醇、碘伏、碘酊、次氯酸钠等常用消毒剂敏感，可使用这些消毒剂进行环境消毒。", "category": "健康生活方式", "page_num": 1}
+{"match_tokens": ["disease:感冒"], "advice": "流感病毒对紫外线和热敏感，56℃条件下30分钟可灭活，可利用此特性对物品进行消毒。", "category": "健康生活方式", "page_num": 1}
+{"match_tokens": ["disease:感冒"], "advice": "患者和隐性感染者是主要传染源，从潜伏期末到急性期都具有传染性，应做好隔离防护。", "category": "健康生活方式", "page_num": 1}
+{"match_tokens": ["age:小孩", "disease:感冒"], "advice": "儿童感染流感后排毒时间可能超过1周，需注意隔离防护。", "category": "治疗与康复", "page_num": 2}
+{"match_tokens": ["population:老年人", "disease:感冒"], "advice": "老年人感染流感后排毒时间可能超过1周，需注意隔离防护。", "category": "治疗与康复", "page_num": 2}
+{"match_tokens": ["disease:感冒"], "advice": "流感病毒主要通过打喷嚏、咳嗽和说话等方式经空气传播，在人群密集且密闭或通风不良的房间内更易传播。", "category": "健康生活方式", "page_num": 2}
+{"match_tokens": ["disease:感冒"], "advice": "流感病毒可通过接触被病毒污染的物品，经口腔、鼻腔、眼睛等黏膜直接或间接接触而感染。", "category": "健康生活方式", "page_num": 2}
+{"match_tokens": ["age:小孩", "symptom:发热"], "advice": "儿童流感发热程度通常高于成人，需密切监测体温变化。", "category": "治疗与康复", "page_num": 3}
+{"match_tokens": ["age:小孩", "symptom:恶心", "symptom:呕吐", "symptom:腹泻"], "advice": "乙型流感患儿恶心、呕吐、腹泻等消化道症状较成人多见，需注意观察。", "category": "治疗与康复", "page_num": 3}
+{"match_tokens": ["age:老年人", "symptom:咳嗽", "symptom:咳痰", "symptom:气喘", "symptom:胸痛"], "advice": "老年人流感临床表现可能不典型，咳嗽、咳痰、气喘和胸痛明显，需特别关注。", "category": "治疗与康复", "page_num": 3}
+{"match_tokens": ["age:老年人"], "advice": "老年人流感常无发热或为低热，也可表现为厌食和精神状态改变，需留意非典型症状。", "category": "治疗与康复", "page_num": 3}
+{"match_tokens": ["disease:感冒"], "advice": "无并发症的流感病程呈自限性，多于发病3～5天后发热逐渐消退，全身症状好转。", "category": "治疗与康复", "page_num": 3}
+{"match_tokens": ["disease:感冒"], "advice": "流感病毒感染可导致慢性基础疾病加重，需注意控制原有疾病。", "category": "治疗与康复", "page_num": 3}
+{"match_tokens": ["age:小孩", "disease:感冒"], "advice": "儿童流感并发喉炎、中耳炎、支气管炎较成人多见，需警惕并发症。", "category": "治疗与康复", "page_num": 3}
+{"match_tokens": ["age:小孩", "disease:感冒", "symptom:发热"], "advice": "儿童出现发热症状时，应及时就医，警惕急性坏死性脑病等严重并发症。", "category": "急症处理", "page_num": 4}
+{"match_tokens": ["age:成人", "disease:感冒", "symptom:疲劳"], "advice": "成人感染流感后，应监测心肌标志物、心电图、心脏超声等指标，警惕心肌梗死、缺血性心脏病风险增加。", "category": "治疗与康复", "page_num": 4}
+{"match_tokens": ["disease:感冒", "symptom:肌痛"], "advice": "感染流感后出现肌痛、肌无力症状，应检查血清肌酸激酶、肌红蛋白，警惕横纹肌溶解和急性肾损伤。", "category": "治疗与康复", "page_num": 4}
+{"match_tokens": ["disease:感冒", "symptom:发热"], "advice": "重症流感病例应检查血常规，关注淋巴细胞计数是否明显降低。", "category": "治疗与康复", "page_num": 4}
+{"match_tokens": ["disease:感冒", "symptom:疲劳"], "advice": "感染流感后，应进行血生化检查，监测天门冬氨酸氨基转移酶、丙氨酸氨基转移酶、乳酸脱氢酶、肌酐等指标。", "category": "治疗与康复", "page_num": 4}
+{"match_tokens": ["disease:感冒", "symptom:发热"], "advice": "重症流感病例应进行动脉血气分析，监测氧分压、血氧饱和度、氧合指数及酸碱平衡。", "category": "治疗与康复", "page_num": 4}
+{"match_tokens": ["disease:感冒", "symptom:发热"], "advice": "中枢神经系统受累的流感患者，应进行脑脊液检查，关注细胞数和蛋白水平。", "category": "治疗与康复", "page_num": 4}
+{"match_tokens": ["disease:感冒", "symptom:发热"], "advice": "出现流感症状时，可采集鼻咽拭子或咽拭子进行抗原检测以快速诊断。", "category": "治疗与康复", "page_num": 4}
+{"match_tokens": ["disease:感冒"], "advice": "在流感流行季节，即使临床表现不典型，特别是有流感重症高危因素或住院患者，仍需考虑流感可能，应行病原学检测。", "category": "治疗与康复", "page_num": 5}
+{"match_tokens": ["disease:感冒"], "advice": "在流感散发季节，对疑似病毒性肺炎的住院患者，除检测常见呼吸道病原体外，还需行流感病毒检测。", "category": "治疗与康复", "page_num": 5}
+{"match_tokens": ["disease:感冒"], "advice": "出现发热、咳嗽、气促等症状时，应监测呼吸频率和指氧饱和度。", "category": "急症处理", "page_num": 6}
+{"match_tokens": ["age:小孩", "symptom:发热"], "advice": "若儿童出现超高热或持续高热超过3天，应及时就医。", "category": "急症处理", "page_num": 7}
+{"match_tokens": ["age:小孩", "symptom:呼吸急促"], "advice": "若儿童出现呼吸急促（＜2月龄，RR≥60次/分；2～12月龄，RR≥50次/分；1～5岁，RR≥40次/分；＞5岁，RR≥30次/分），且除外发热和哭闹的影响，应及时就医。", "category": "急症处理", "page_num": 7}
+{"match_tokens": ["age:小孩", "symptom:意识障碍"], "advice": "若儿童出现意识障碍或惊厥，应及时就医。", "category": "急症处理", "page_num": 7}
+{"match_tokens": ["age:小孩", "symptom:拒食"], "advice": "若儿童出现拒食或喂养困难，有脱水征，应及时就医。", "category": "急症处理", "page_num": 7}
+{"match_tokens": ["age:小孩", "disease:感冒"], "advice": "年龄小于5岁的儿童，特别是小于2岁的儿童，应及时进行流感病毒核酸检测及其他必要检查，尽早给予抗病毒药物治疗。", "category": "治疗与康复", "page_num": 8}
+{"match_tokens": ["age:老年人", "disease:感冒"], "advice": "年龄大于等于65岁的老年人，应及时进行流感病毒核酸检测及其他必要检查，尽早给予抗病毒药物治疗。", "category": "治疗与康复", "page_num": 8}
+{"match_tokens": ["disease:慢阻肺", "disease:感冒"], "advice": "伴有慢性呼吸系统疾病者，应及时进行流感病毒核酸检测及其他必要检查，尽早给予抗病毒药物治疗。", "category": "治疗与康复", "page_num": 8}
+{"match_tokens": ["disease:脑血管病", "disease:感冒"], "advice": "伴有神经系统及神经肌肉疾病者，应及时进行流感病毒核酸检测及其他必要检查，尽早给予抗病毒药物治疗。", "category": "治疗与康复", "page_num": 8}
+{"match_tokens": ["disease:糖尿病", "disease:感冒"], "advice": "伴有代谢及内分泌系统疾病者，应及时进行流感病毒核酸检测及其他必要检查，尽早给予抗病毒药物治疗。", "category": "治疗与康复", "page_num": 8}
+{"match_tokens": ["disease:肺癌", "disease:感冒"], "advice": "伴有恶性肿瘤者，应及时进行流感病毒核酸检测及其他必要检查，尽早给予抗病毒药物治疗。", "category": "治疗与康复", "page_num": 8}
+{"match_tokens": ["bmi:肥胖", "disease:感冒"], "advice": "肥胖者，应及时进行流感病毒核酸检测及其他必要检查，尽早给予抗病毒药物治疗。", "category": "治疗与康复", "page_num": 8}
+{"match_tokens": ["population:孕妇", "disease:感冒"], "advice": "妊娠及围产期妇女，应及时进行流感病毒核酸检测及其他必要检查，尽早给予抗病毒药物治疗。", "category": "治疗与康复", "page_num": 8}
+{"match_tokens": ["disease:感冒"], "advice": "按呼吸道隔离要求进行治疗。", "category": "治疗与康复", "page_num": 8}
+{"match_tokens": ["disease:感冒", "population:老年人"], "advice": "非住院患者居家隔离，保持房间通风，佩戴口罩；充分休息，多饮水，饮食应当易于消化和富有营养；密切观察病情变化。", "category": "治疗与康复", "page_num": 9}
+{"match_tokens": ["disease:感冒", "population:儿童"], "advice": "非住院患者居家隔离，保持房间通风，佩戴口罩；充分休息，多饮水，饮食应当易于消化和富有营养；密切观察病情变化。", "category": "治疗与康复", "page_num": 9}
+{"match_tokens": ["disease:感冒", "symptom:发热"], "advice": "高热者可进行物理降温、应用解热药物。", "category": "治疗与康复", "page_num": 9}
+{"match_tokens": ["disease:感冒", "symptom:咳嗽"], "advice": "咳嗽咳痰严重者给予止咳祛痰药物。", "category": "治疗与康复", "page_num": 9}
+{"match_tokens": ["disease:感冒", "symptom:发热"], "advice": "合理选用退热药物，儿童忌用阿司匹林或含阿司匹林及其他水杨酸制剂。", "category": "治疗与康复", "page_num": 9}
+{"match_tokens": ["disease:感冒"], "advice": "避免盲目或不恰当使用抗菌药物。密切关注病情变化，及时留取标本送检病原学，合理应用抗菌药物。", "category": "治疗与康复", "page_num": 9}
+{"match_tokens": ["disease:感冒", "risk:缺乏运动"], "advice": "根据缺氧程度采用适当的方式进行氧疗。", "category": "治疗与康复", "page_num": 9}
+{"match_tokens": ["disease:感冒"], "advice": "对于重型/危重型流感患者，如流感病毒病原学阳性，仍应进行抗病毒治疗。", "category": "治疗与康复", "page_num": 10}
+{"match_tokens": ["disease:感冒"], "advice": "有传播给高危人群风险的流感患者，建议给予抗病毒治疗。", "category": "治疗与康复", "page_num": 10}
+{"match_tokens": ["disease:感冒"], "advice": "重型/危重型流感患者根据病原学结果，抗病毒疗程可适当延长。", "category": "治疗与康复", "page_num": 10}
+{"match_tokens": ["disease:感冒"], "advice": "抗流感病毒治疗时，不建议联合应用相同作用机制的抗病毒药物和增加药物剂量。", "category": "治疗与康复", "page_num": 10}
+{"match_tokens": ["age:小孩", "disease:感冒"], "advice": "1岁及以上儿童使用奥司他韦胶囊/颗粒剂，2周龄以上儿童使用奥司他韦干混悬剂。", "category": "治疗与康复", "page_num": 10}
+{"match_tokens": ["age:成人", "disease:感冒"], "advice": "成人使用奥司他韦，剂量为每次75mg，每日2次，疗程5天。", "category": "治疗与康复", "page_num": 10}
+{"match_tokens": ["age:小孩", "disease:感冒"], "advice": "1岁以下儿童使用奥司他韦：2周～8月龄，每次3.0mg/kg；9～11月龄，每次3.5mg/kg，均为每日2次，疗程5天。", "category": "治疗与康复", "page_num": 10}
+{"match_tokens": ["age:小孩", "disease:感冒"], "advice": "1岁及以上儿童使用奥司他韦，需根据体重确定剂量：体重≤15kg，每次30mg；15kg＜体重≤23kg，每次45mg；23kg＜体重≤40kg，每次60mg；＞40kg，每次75mg，均为每日2次，疗程5天。", "category": "治疗与康复", "page_num": 10}
+{"match_tokens": ["disease:感冒"], "advice": "肾功能不全者使用奥司他韦，要根据肾功能调整剂量。", "category": "治疗与康复", "page_num": 10}
+{"match_tokens": ["age:成人", "disease:感冒"], "advice": "成人使用帕拉米韦，一般用量为300mg，单次静脉滴注，滴注时间不少于30分钟。", "category": "治疗与康复", "page_num": 10}
+{"match_tokens": ["age:成人", "disease:感冒"], "advice": "成人流感患者有严重并发症者，帕拉米韦可用600mg，单次静脉滴注，滴注时间不少于40分钟。", "category": "治疗与康复", "page_num": 10}
+{"match_tokens": ["age:成人", "disease:感冒"], "advice": "成人流感症状严重者，帕拉米韦可每日1次，1～5天连续重复给药。", "category": "治疗与康复", "page_num": 10}
+{"match_tokens": ["age:小孩", "disease:感冒"], "advice": "儿童使用帕拉米韦，每次10mg/kg体重，静脉滴注，滴注时间不少于30分钟，每日1次。", "category": "治疗与康复", "page_num": 10}
+{"match_tokens": ["disease:感冒", "age:成人", "age:老年人"], "advice": "对于肾功能不全患者，使用奥司他韦时须根据肾功能损伤情况调整给药量。", "category": "治疗与康复", "page_num": 11}
+{"match_tokens": ["disease:感冒", "age:成人", "age:老年人"], "advice": "使用奥司他韦时，要根据体温等临床症状判断是否需要持续给药。", "category": "治疗与康复", "page_num": 11}
+{"match_tokens": ["disease:感冒", "age:成人", "age:老年人"], "advice": "使用奥司他韦，复给药不超过5天，单次给药量的上限为600mg。", "category": "治疗与康复", "page_num": 11}
+{"match_tokens": ["disease:感冒", "age:成人", "age:小孩"], "advice": "使用扎那米韦吸入喷雾剂，每次10mg，12小时1次，疗程5天。", "category": "治疗与康复", "page_num": 11}
+{"match_tokens": ["disease:感冒", "age:成人", "age:小孩"], "advice": "不推荐哮喘或其他慢性呼吸道疾病患者使用吸入性扎那米韦。", "category": "治疗与康复", "page_num": 11}
+{"match_tokens": ["disease:感冒", "age:成人", "age:小孩"], "advice": "不推荐扎那米韦吸入粉剂用雾化器或机械通气装置给药。", "category": "治疗与康复", "page_num": 11}
+{"match_tokens": ["disease:感冒", "age:成人", "age:小孩"], "advice": "使用玛巴洛沙韦，体重≥80kg者80mg，20kg≤体重<80kg者40mg，体重<20kg者按2mg/kg给药。", "category": "治疗与康复", "page_num": 11}
+{"match_tokens": ["disease:感冒", "age:成人"], "advice": "使用法维拉韦，第1天每次1600mg每日2次；第2～5天每次600mg每日2次。", "category": "治疗与康复", "page_num": 11}
+{"match_tokens": ["disease:感冒", "age:成人", "population:孕妇"], "advice": "孕妇或可能怀孕的妇女禁用法维拉韦。", "category": "治疗与康复", "page_num": 11}
+{"match_tokens": ["disease:感冒", "age:成人", "population:产后"], "advice": "哺乳期妇女使用法维拉韦时应暂停哺乳。", "category": "治疗与康复", "page_num": 11}
+{"match_tokens": ["disease:感冒", "age:成人"], "advice": "使用阿比多尔，每次200mg，每日3次，疗程5天。", "category": "治疗与康复", "page_num": 11}
+{"match_tokens": ["disease:感冒", "age:成人", "age:老年人"], "advice": "重型/危重型流感患者需积极防治并发症，治疗基础疾病，预防及治疗合并或继发感染。", "category": "治疗与康复", "page_num": 11}
+{"match_tokens": ["disease:感冒", "age:成人", "age:老年人"], "advice": "重型/危重型流感患者需及时进行器官功能支持。", "category": "治疗与康复", "page_num": 11}
+{"match_tokens": ["disease:其他病症"], "advice": "对于PaO2/FiO2≤300的重型患者，应立即给予鼻导管或面罩吸氧。", "category": "治疗与康复", "page_num": 12}
+{"match_tokens": ["disease:其他病症"], "advice": "对于PaO2/FiO2≤200的患者，应给予经鼻高流量氧疗或无创通气，并在无禁忌证的情况下，建议同时实施清醒俯卧位通气，每天俯卧位治疗时间应大于12小时。", "category": "治疗与康复", "page_num": 12}
+{"match_tokens": ["disease:其他病症"], "advice": "对于PaO2/FiO2≤150或吸气努力明显增强的患者，应及时进行气管插管，给予有创机械通气。", "category": "治疗与康复", "page_num": 12}
+{"match_tokens": ["disease:其他病症"], "advice": "对难治性呼吸衰竭患者，可考虑使用体外膜肺氧合支持。", "category": "治疗与康复", "page_num": 12}
+{"match_tokens": ["disease:其他病症"], "advice": "积极进行气道廓清治疗，如振动排痰、高频胸廓振荡、体位引流，必要时使用气管镜吸痰。", "category": "治疗与康复", "page_num": 12}
+{"match_tokens": ["disease:其他病症"], "advice": "加强气道湿化，进行有创机械通气的患者建议采用主动加热湿化器。", "category": "治疗与康复", "page_num": 12}
+{"match_tokens": ["disease:其他病症"], "advice": "建议使用密闭式吸痰。", "category": "治疗与康复", "page_num": 12}
+{"match_tokens": ["disease:其他病症"], "advice": "在氧合及血流动力学稳定的情况下，尽早开展被动及主动活动，促进痰液引流及肺功能康复。", "category": "治疗与康复", "page_num": 12}
+{"match_tokens": ["disease:其他病症"], "advice": "对于重型/危重型患者，应在血流动力学评估的基础上进行液体复苏，合理使用血管活性药物，并密切监测血压、心率、尿量及动脉血乳酸变化。", "category": "治疗与康复", "page_num": 12}
+{"match_tokens": ["disease:其他病症"], "advice": "对于重型/危重型患者，应监测心肌损伤标记物、心电图变化，并完善超声心动图检查。", "category": "治疗与康复", "page_num": 12}
+{"match_tokens": ["disease:感冒", "symptom:发热"], "advice": "对于轻症流感患者，可根据初期临床表现辨证施治。", "category": "治疗与康复", "page_num": 13}
+{"match_tokens": ["disease:感冒", "population:孕妇", "population:儿童"], "advice": "该诊疗方案适用于所有人群，包含孕妇、儿童及患有各类基础疾病的患者。", "category": "治疗与康复", "page_num": 13}
+{"match_tokens": ["disease:感冒"], "advice": "应用中医药治疗流感时，需秉持因时、因地、因人的“三因制宜”原则灵活应用。", "category": "治疗与康复", "page_num": 13}
+{"match_tokens": ["disease:感冒", "symptom:发热", "symptom:咽红不适", "symptom:轻咳"], "advice": "若发病初期，发热或未发热，咽红不适，轻咳少痰，口干，可服用银翘散加减方（银花15g、连翘15g、桑叶10g、菊花10g、桔梗10g、牛蒡子15g、芦根30g、薄荷（后下）6g、荆芥10g、生甘草3g），水煎服，1日2次。", "category": "治疗与康复", "page_num": 14}
+{"match_tokens": ["disease:感冒", "symptom:恶寒", "symptom:发热", "symptom:身痛头痛", "symptom:鼻流清涕"], "advice": "若发病初期，恶寒，发热或未发热，无汗，身痛头痛，鼻流清涕，可服用麻黄汤加味方（炙麻黄6g、炒杏仁10g、桂枝10g、葛根15g、羌活10g、苏叶10g、炙甘草6g），水煎服，1日2次。", "category": "治疗与康复", "page_num": 14}
+{"match_tokens": ["disease:感冒", "symptom:恶寒", "symptom:高热", "symptom:头痛", "symptom:身体酸痛", "symptom:咽痛", "symptom:鼻塞", "symptom:流涕", "symptom:口渴"], "advice": "若出现恶寒，高热，头痛，身体酸痛，咽痛，鼻塞，流涕，口渴等症状，需根据表寒里热证型进行辨证治疗。", "category": "治疗与康复", "page_num": 14}
+{"match_tokens": ["disease:感冒"], "advice": "水煎服，1日2次。", "category": "治疗与康复", "page_num": 15}
+{"match_tokens": ["disease:感冒"], "advice": "舌苔腻加藿香10g、苍术10g。", "category": "治疗与康复", "page_num": 15}
+{"match_tokens": ["disease:感冒"], "advice": "咽喉红肿加连翘15g、牛蒡子10g。", "category": "治疗与康复", "page_num": 15}
+{"match_tokens": ["disease:感冒"], "advice": "水煎服，1日2次。", "category": "治疗与康复", "page_num": 15}
+{"match_tokens": ["disease:感冒"], "advice": "便秘加生大黄（后下）6g、厚朴6g。", "category": "治疗与康复", "page_num": 15}
+{"match_tokens": ["disease:其他病症"], "advice": "水煎服，1日2次；必要时可日服2剂，每6小时口服1次。也可鼻饲或结肠给药。", "category": "治疗与康复", "page_num": 16}
+{"match_tokens": ["disease:其他病症"], "advice": "高热神昏加安宫牛黄丸1丸。", "category": "治疗与康复", "page_num": 16}
+{"match_tokens": ["disease:其他病症"], "advice": "喘促重伴有汗出乏力者加西洋参15g、五味子12g。", "category": "治疗与康复", "page_num": 16}
+{"match_tokens": ["disease:其他病症"], "advice": "水煎汤，1日2次；必要时可日服2剂，每6小时口服1次。也可鼻饲或结肠给药。", "category": "治疗与康复", "page_num": 16}
+{"match_tokens": ["disease:感冒"], "advice": "可按照辨证施治原则根据药品说明书选用相应中成药。", "category": "治疗与康复", "page_num": 17}
+{"match_tokens": ["symptom:咳嗽"], "advice": "有呼吸道症状的患者及陪同人员应当佩戴医用外科口罩。", "category": "治疗与康复", "page_num": 17}
+{"match_tokens": ["disease:感冒"], "advice": "落实门急诊预检分诊制度，做好患者分流。", "category": "急症处理", "page_num": 17}
+{"match_tokens": ["disease:感冒"], "advice": "提供手卫生、呼吸道卫生和咳嗽礼仪指导。", "category": "健康生活方式", "page_num": 17}
+{"match_tokens": ["disease:感冒"], "advice": "医疗机构应当分开安置流感疑似和确诊患者。", "category": "急症处理", "page_num": 17}
+{"match_tokens": ["disease:感冒"], "advice": "患者外出检查、转科或转院途中应当佩戴医用外科口罩。", "category": "治疗与康复", "page_num": 17}
+{"match_tokens": ["disease:感冒"], "advice": "限制疑似或确诊患者探视或陪护，防止住院患者感染。", "category": "急症处理", "page_num": 17}
+{"match_tokens": ["disease:感冒"], "advice": "加强病房通风，并做好诊室、病房、办公室和值班室等区域物体表面的清洁和消毒。", "category": "健康生活方式", "page_num": 17}
+{"match_tokens": ["disease:感冒"], "advice": "按照要求处理医疗废物，患者转出或离院后进行终末消毒。", "category": "健康生活方式", "page_num": 17}
+{"match_tokens": ["disease:感冒"], "advice": "医务人员在工作期间佩戴医用外科口罩，并严格执行手卫生。", "category": "健康生活方式", "page_num": 17}
+{"match_tokens": ["disease:感冒"], "advice": "医务人员出现发热或流感样症状时，及时进行流感筛查。", "category": "急症处理", "page_num": 17}
+{"match_tokens": ["disease:感冒"], "advice": "疑似或确诊流感的医务人员，不建议带病工作。", "category": "治疗与康复", "page_num": 17}
+{"match_tokens": ["disease:感冒"], "advice": "接种流感疫苗是预防流感最有效的手段，建议所有≥6月龄且无接种禁忌的人都应接种流感疫苗。", "category": "健康生活方式", "page_num": 17}
+{"match_tokens": ["population:医务人员", "population:老年人", "disease:其他病症", "population:孕妇", "population:儿童", "population:学生"], "advice": "建议医务人员、60岁及以上的老年人、罹患慢性病人群、孕妇、6～59月龄儿童、托幼机构及中小学校等重点场所人群接种流感疫苗。", "category": "健康生活方式", "page_num": 18}
+{"match_tokens": ["disease:无特定疾病"], "advice": "保持良好的个人卫生习惯，包括勤洗手、保持环境清洁和通风、在流感流行季节尽量减少到人群密集场所活动、避免接触呼吸道感染患者。", "category": "健康生活方式", "page_num": 18}
+{"match_tokens": ["disease:无特定疾病"], "advice": "保持良好的呼吸道卫生习惯，咳嗽或打喷嚏时，用上臂或纸巾、毛巾等遮住口鼻，咳嗽或打喷嚏后洗手，尽量避免触摸眼睛、鼻或口。", "category": "健康生活方式", "page_num": 18}
+{"match_tokens": ["symptom:发热", "symptom:咳嗽"], "advice": "出现流感样症状应当注意休息及自我隔离，前往公共场所或就医过程中需戴口罩。", "category": "急症处理", "page_num": 18}

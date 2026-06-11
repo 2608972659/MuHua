@@ -1,0 +1,418 @@
+{"match_tokens": ["disease:哮喘"], "advice": "当临床怀疑哮喘但无法进行支气管激发试验或试验结果不符合诊断标准时，应结合其他临床证据进行综合判断。", "category": "治疗与康复", "page_num": 1}
+{"match_tokens": ["disease:哮喘"], "advice": "当第一秒用力呼气容积占预计值百分比≥70%时，应考虑进行支气管激发试验（需排除过去4周内的呼吸道感染）。", "category": "治疗与康复", "page_num": 1}
+{"match_tokens": ["disease:哮喘"], "advice": "当无法进行肺功能检查时，若过去4周内无呼吸道感染，可考虑启动基于呼气峰流速（PEF）的支气管舒张试验（阳性标准为较基线改善≥20%）进行诊断性抗炎治疗。", "category": "治疗与康复", "page_num": 2}
+{"match_tokens": ["disease:哮喘"], "advice": "若两次既往检查间FEV1变异性≥12%且绝对变化≥200 ml，且过去4周内无呼吸道感染，可考虑启动诊断性抗炎治疗以确诊。", "category": "治疗与康复", "page_num": 2}
+{"match_tokens": ["disease:哮喘"], "advice": "若基线FEV1≥80%预计值，存在小气道功能障碍或支气管舒张试验中FEV1改善≥10%且呼出气一氧化氮（FeNO）≥35 ppb，可考虑启动诊断性抗炎治疗以确诊。", "category": "治疗与康复", "page_num": 2}
+{"match_tokens": ["disease:哮喘"], "advice": "接受生物制剂或其他抗哮喘治疗后，若达到≥1年无症状、无急性发作、肺功能正常/接近正常且无需口服糖皮质激素（OCS），可考虑已达到“临床缓解”。", "category": "治疗与康复", "page_num": 2}
+{"match_tokens": ["disease:哮喘"], "advice": "应根据达到哮喘控制所需的治疗级别对哮喘严重程度进行分类，而非依赖患者治疗前的状况。", "category": "治疗与康复", "page_num": 2}
+{"match_tokens": ["disease:哮喘"], "advice": "若常规治疗后仍有呼吸困难/胸闷，且肺功能、外周血嗜酸粒细胞和FeNO均已正常，应进行心理社会评估（如焦虑/抑郁量表）和合并症评估。", "category": "治疗与康复", "page_num": 2}
+{"match_tokens": ["disease:哮喘"], "advice": "支气管激发试验中引起FEV1下降20%的激发剂量可用于疾病监测和治疗评估。", "category": "治疗与康复", "page_num": 2}
+{"match_tokens": ["disease:哮喘"], "advice": "诱导痰嗜酸粒细胞计数是评估气道炎症、哮喘表型分类、预测皮质类固醇反应和评估急性发作风险的金标准生物标志物之一。", "category": "治疗与康复", "page_num": 2}
+{"match_tokens": ["disease:哮喘"], "advice": "外周血嗜酸粒细胞≥150/μl可用于识别嗜酸粒细胞表型或2型炎症内型，也是预测和评估生物制剂反应的关键生物标志物之一。", "category": "治疗与康复", "page_num": 2}
+{"match_tokens": ["disease:哮喘"], "advice": "哮喘患者长期使用推荐临床剂量范围的吸入性糖皮质激素（ICS）是安全的。", "category": "治疗与康复", "page_num": 2}
+{"match_tokens": ["disease:哮喘"], "advice": "应避免长期高剂量ICS治疗，因其可能导致骨质疏松、下丘脑-垂体-肾上腺轴抑制和肺炎风险增加等全身性不良反应。", "category": "治疗与康复", "page_num": 2}
+{"match_tokens": ["disease:哮喘"], "advice": "对于成人重症哮喘患者，可将低剂量OCS（≤7.5 mg/天泼尼松等效剂量）作为最后的选择。", "category": "治疗与康复", "page_num": 2}
+{"match_tokens": ["disease:哮喘"], "advice": "ICS-长效β2受体激动剂（LABA）联合治疗具有协同抗炎和抗哮喘作用，疗效相当于或优于ICS剂量加倍，并可改善患者依从性、减少高剂量ICS相关不良反应，特别推荐用于中重度哮喘患者的长期治疗。", "category": "治疗与康复", "page_num": 2}
+{"match_tokens": ["disease:哮喘"], "advice": "当使用中或高剂量ICS-LABA治疗哮喘仍未控制时，可处方三联复合吸入剂以改善症状、肺功能并减少急性发作。", "category": "治疗与康复", "page_num": 2}
+{"match_tokens": ["disease:哮喘"], "advice": "成人哮喘患者进行皮下免疫治疗可能减少所需ICS剂量，并改善哮喘特异性生活质量和肺功能。", "category": "治疗与康复", "page_num": 2}
+{"match_tokens": ["disease:哮喘", "population:老年人"], "advice": "对于屋尘螨（HDM）致敏且FEV1＞70%预计值的青少年或成人，若低至中剂量含ICS治疗后症状持续，可加用HDM舌下免疫治疗以减轻症状和减少ICS剂量。", "category": "治疗与康复", "page_num": 2}
+{"match_tokens": ["disease:哮喘"], "advice": "哮喘第1级治疗：对于仅限于偶尔出现短暂日间症状（<2次/月，持续数小时）、无夜间症状、无急性发作风险且FEV1>80%预计值的患者，推荐按需使用低剂量ICS-福莫特罗。", "category": "治疗与康复", "page_num": 2}
+{"match_tokens": ["disease:哮喘"], "advice": "若在正确使用吸入技术和坚持第4步治疗后仍有持续症状或急性加重，应转诊至哮喘专科或专科门诊进行进一步评估。", "category": "治疗与康复", "page_num": 3}
+{"match_tokens": ["disease:哮喘"], "advice": "初始治疗后应每2-4周安排一次随访，若有反应则每1-3个月随访一次。定期培训患者正确使用吸入器技术对于实现最佳哮喘控制至关重要。", "category": "治疗与康复", "page_num": 3}
+{"match_tokens": ["disease:哮喘"], "advice": "在轻度至中度哮喘急性加重的早期阶段，当使用布地奈德-福莫特罗联合治疗作为抗炎缓解药物时，可额外吸入1-2次布地奈德-福莫特罗（160/4.5 μg规格），但每日剂量不应超过8吸。", "category": "急症处理", "page_num": 3}
+{"match_tokens": ["disease:哮喘"], "advice": "严重2型哮喘患者可采用生物治疗，对2型靶向生物治疗反应良好的患者可优先考虑减少或停用维持性口服糖皮质激素治疗，但不应完全停止ICS-LABA的维持治疗。", "category": "治疗与康复", "page_num": 3}
+{"match_tokens": ["disease:哮喘"], "advice": "尽管进行了第5步治疗但仍有持续性症状的成年哮喘患者，可加用低剂量阿奇霉素治疗，例如阿奇霉素250至500毫克/天，每周三次，持续26-48周，以减少急性加重。", "category": "治疗与康复", "page_num": 3}
+{"match_tokens": ["disease:哮喘"], "advice": "对于经过优化的哮喘治疗并转诊至专科严重哮喘中心后哮喘仍控制不佳，或无法获得或不适合靶向生物治疗的成年患者，可考虑支气管热成形术。", "category": "治疗与康复", "page_num": 3}
+{"match_tokens": ["disease:哮喘"], "advice": "咳嗽变异性哮喘的治疗原则与典型哮喘相同，大多数患者对ICS或ICS-LABA有反应。推荐ICS-LABA作为首选，且应使用超过8周。", "category": "治疗与康复", "page_num": 3}
+{"match_tokens": ["disease:哮喘"], "advice": "对于治疗效果不佳且气道炎症严重的咳嗽变异性哮喘患者，可考虑加用白三烯受体拮抗剂治疗或短期使用口服糖皮质激素（10-20毫克/天，3-5天）。", "category": "治疗与康复", "page_num": 3}
+{"match_tokens": ["disease:哮喘"], "advice": "在真菌致敏相关的哮喘中，抗真菌药物可通过减少真菌定植和负荷来减轻气道炎症并减少全身性糖皮质激素的剂量。", "category": "治疗与康复", "page_num": 3}
+{"match_tokens": ["disease:哮喘"], "advice": "预防阿司匹林诱发哮喘最有效的方法是避免再次应用该药物。对于需要大剂量ICS控制哮喘症状，或常规治疗未能改善鼻部炎症和息肉，或因其他疾病需要服用阿司匹林的阿司匹林诱发哮喘患者，可考虑脱敏治疗。", "category": "治疗与康复", "page_num": 3}
+{"match_tokens": ["disease:哮喘"], "advice": "与患者共同制定哮喘控制目标时，应考虑医疗保健系统、药物可及性、文化差异和个人偏好。", "category": "治疗与康复", "page_num": 4}
+{"match_tokens": ["disease:哮喘", "symptom:咳嗽", "symptom:胸闷"], "advice": "当出现反复发作的喘息、气短、胸闷、咳嗽等症状，或不典型者仅以咳嗽或胸闷为主要表现时，应进行哮喘诊断评估。", "category": "治疗与康复", "page_num": 5}
+{"match_tokens": ["disease:哮喘"], "advice": "哮喘的诊断应基于临床症状结合可变气流受限的客观证据，优选肺功能中的支气管舒张试验或支气管激发试验。", "category": "治疗与康复", "page_num": 5}
+{"match_tokens": ["disease:哮喘"], "advice": "尽可能在抗哮喘治疗前进行可变气流受限的客观检查。", "category": "治疗与康复", "page_num": 5}
+{"match_tokens": ["disease:哮喘"], "advice": "当临床症状提示可能为哮喘，但无法开展支气管激发试验或达不到诊断标准时，可采用“拟诊路径”提升哮喘诊断率。", "category": "治疗与康复", "page_num": 5}
+{"match_tokens": ["disease:哮喘"], "advice": "如提示特定情形（如PEF较基线增加≥20%，或两次访视间FEV1变化≥12%等）可拟诊哮喘，并启动诊断性抗哮喘治疗后进一步确诊。", "category": "治疗与康复", "page_num": 5}
+{"match_tokens": ["disease:哮喘"], "advice": "拟诊策略更适合基层医院及医疗资源不足的区域。", "category": "治疗与康复", "page_num": 5}
+{"match_tokens": ["disease:哮喘"], "advice": "哮喘可分为急性发作期、慢性持续期和临床控制期，部分临床控制期患者满足特定条件可视为达到“临床治愈”。", "category": "治疗与康复", "page_num": 5}
+{"match_tokens": ["disease:哮喘"], "advice": "根据达到哮喘控制所采用的治疗级别来进行回顾性分级，在临床实践中更准确和实用。", "category": "治疗与康复", "page_num": 5}
+{"match_tokens": ["disease:哮喘", "disease:慢阻肺"], "advice": "哮喘应与左心功能不全、慢性阻塞性肺疾病、上气道阻塞性病变、支气管扩张症等常见疾病鉴别。", "category": "治疗与康复", "page_num": 5}
+{"match_tokens": ["disease:哮喘", "symptom:咳嗽"], "advice": "咳嗽变异性哮喘需与嗜酸性粒细胞性支气管炎、上气道咳嗽综合征、变应性咳嗽、胃食管反流性咳嗽等鉴别。", "category": "治疗与康复", "page_num": 5}
+{"match_tokens": ["disease:哮喘", "symptom:胸闷"], "advice": "胸闷变异性哮喘需与心脏疾病、焦虑症、胃食管反流病、肺栓塞等鉴别。", "category": "治疗与康复", "page_num": 5}
+{"match_tokens": ["disease:哮喘"], "advice": "哮喘的评估包括评估患者的临床症状控制水平、未来急性发作的危险因素、气道炎症表型和内型、过敏状态及诱发因素、药物使用情况以及是否有共患疾病。", "category": "治疗与康复", "page_num": 5}
+{"match_tokens": ["disease:哮喘"], "advice": "在评估未来急性发作的危险因素时尤其需关注哮喘相关死亡的危险因素。", "category": "治疗与康复", "page_num": 5}
+{"match_tokens": ["disease:哮喘"], "advice": "哮喘的全面评估有助于对哮喘患者进行更为有效和个体化的管理。", "category": "治疗与康复", "page_num": 5}
+{"match_tokens": ["disease:哮喘"], "advice": "如果患者规范正确地进行抗哮喘治疗后，肺功能等指标正常但仍有胸闷憋气主诉症状，应进行焦虑抑郁量表评估，并完善检查明确是否存在需要鉴别的疾病或共患疾病。", "category": "治疗与康复", "page_num": 5}
+{"match_tokens": ["disease:哮喘"], "advice": "支气管激发试验中的PD20可用于病情评估以及药物疗效评价。", "category": "治疗与康复", "page_num": 5}
+{"match_tokens": ["disease:哮喘"], "advice": "诱导痰嗜酸性粒细胞计数可用于哮喘分型、糖皮质激素治疗反应的预测和急性发作风险评估。", "category": "治疗与康复", "page_num": 5}
+{"match_tokens": ["disease:哮喘"], "advice": "外周血嗜酸性粒细胞计数≥150/μl可作为判定嗜酸性粒细胞表型或2型炎症内型的依据，亦可作为评估抗炎治疗疗效和启动及评估生物靶向药物是否有效的指标之一。", "category": "治疗与康复", "page_num": 5}
+{"match_tokens": ["disease:哮喘"], "advice": "哮喘管理的长期目标是实现良好的症状控制，并最大限度地降低未来哮喘相关死亡、急性发作、持续性气流受限和治疗不良反应的风险。", "category": "治疗与康复", "page_num": 6}
+{"match_tokens": ["disease:哮喘"], "advice": "在哮喘的治疗过程中，应该对患者进行周期性评估，并根据这些评估结果及时调整治疗方案以达到并维持哮喘控制，并且最小化未来风险。", "category": "治疗与康复", "page_num": 6}
+{"match_tokens": ["disease:哮喘"], "advice": "对于哮喘患者，推荐使用第1级治疗方案：按需低剂量ICS‑福莫特罗吸入剂。", "category": "治疗与康复", "page_num": 6}
+{"match_tokens": ["disease:哮喘"], "advice": "对于过去一年有哮喘急性发作病史或存在任何其他急性发作或死亡的危险因素的哮喘患者，均需要每日规律使用含ICS药物。", "category": "治疗与康复", "page_num": 6}
+{"match_tokens": ["disease:哮喘"], "advice": "第2级治疗宜首选按需低剂量ICS‑福莫特罗。", "category": "治疗与康复", "page_num": 6}
+{"match_tokens": ["disease:哮喘"], "advice": "治疗决策应充分考虑患者个体的疾病特征，表型或内型，以及患者的吸入技术、依从性、经济能力和医疗资源可及性等实际情况。", "category": "治疗与康复", "page_num": 6}
+{"match_tokens": ["disease:哮喘"], "advice": "通常起始治疗后每2~4周需复诊，以后每1~3个月随访1次。", "category": "治疗与康复", "page_num": 6}
+{"match_tokens": ["disease:哮喘"], "advice": "定期指导患者正确掌握药物吸入技术有助于哮喘控制。", "category": "治疗与康复", "page_num": 6}
+{"match_tokens": ["disease:哮喘"], "advice": "即便轻度或良好控制的哮喘患者依然可能发生重度及导致死亡的急性发作，需避免哮喘急性发作诱因，早期识别具有哮喘相关死亡高危因素的患者。", "category": "急症处理", "page_num": 6}
+{"match_tokens": ["disease:哮喘"], "advice": "根据急性发作程度给予规范治疗，建议使用SABA同时应用ICS抗炎。", "category": "急症处理", "page_num": 6}
+{"match_tokens": ["disease:哮喘"], "advice": "如使用抗炎缓解治疗策略（AIR）时出现轻中度急性发作，早期可直接增加吸入布地奈德‑福莫特罗联合制剂（160/4.5 μg规格）1~2吸，但不要超过8吸/d。", "category": "急症处理", "page_num": 6}
+{"match_tokens": ["disease:哮喘"], "advice": "OCS建议在医生指导下使用，并调整后续控制治疗方案，对哮喘的全程管理及预防再次急性发作具有重要意义。", "category": "治疗与康复", "page_num": 6}
+{"match_tokens": ["disease:哮喘"], "advice": "吸入技术正确且对第4级治疗依从性良好，仍存在持续性症状或急性发作的患者，需要转诊到哮喘专科或专家门诊进一步诊治。", "category": "治疗与康复", "page_num": 6}
+{"match_tokens": ["disease:哮喘", "age:成人"], "advice": "对于部分重度哮喘成人患者，如在使用路径1/2中的第4/5级治疗方案后依然控制不佳，可考虑附加低剂量OCS（≤7.5 mg/d泼尼松当量）作为最后的治疗手段。", "category": "治疗与康复", "page_num": 6}
+{"match_tokens": ["disease:哮喘"], "advice": "ICS‑长效β2受体激动剂（LABA）尤其适合于中至重度哮喘患者的长期治疗。", "category": "治疗与康复", "page_num": 6}
+{"match_tokens": ["disease:哮喘"], "advice": "如果使用中‑高剂量ICS‑LABA不能良好控制哮喘，可处方三联复合制剂，以进一步改善症状、肺功能以及减少急性发作。", "category": "治疗与康复", "page_num": 6}
+{"match_tokens": ["disease:哮喘", "age:成人"], "advice": "皮下免疫治疗（SCIT）用于成人哮喘可能降低ICS需求，改善哮喘相关生活质量和肺功能。", "category": "治疗与康复", "page_num": 6}
+{"match_tokens": ["disease:哮喘", "age:成人", "age:小孩"], "advice": "对于屋尘螨致敏且FEV1占预计值%>70%的成人或青少年哮喘患者，如使用低至中剂量含ICS的药物治疗后症状仍存在，可考虑添加屋尘螨舌下免疫治疗（SLIT），减轻哮喘患者症状及减少ICS使用剂量。", "category": "治疗与康复", "page_num": 6}
+{"match_tokens": ["disease:哮喘"], "advice": "重度哮喘患者应在原有规范化使用中‑高剂量ICS‑LABA等基础上，根据炎症类型评估是否可使用生物靶向药物。", "category": "治疗与康复", "page_num": 6}
+{"match_tokens": ["disease:哮喘"], "advice": "对2型炎症生物靶向药物治疗反应良好的重度哮喘患者，可以优先考虑减少和停止维持OCS治疗，酌情减少ICS‑LABA维持剂量，但不应停止ICS‑LABA的维持治疗。", "category": "治疗与康复", "page_num": 6}
+{"match_tokens": ["disease:哮喘", "age:成人"], "advice": "对于规范治疗后哮喘症状仍然不能控制的第5级治疗的成人哮喘患者，可有条件地尝试联合口服低剂量阿奇霉素治疗，如口服阿奇霉素250~500 mg/次，每周3次，治疗26~48周，可以减少哮喘急性发作。", "category": "治疗与康复", "page_num": 6}
+{"match_tokens": ["disease:哮喘", "age:成人"], "advice": "支气管热成形术治疗适用于尽管采用优化哮喘治疗方案并转诊至重度哮喘专科中心、但哮喘仍无法控制的成年患者，或无法获得或无指征进行生物靶向药物治疗的成年患者。", "category": "治疗与康复", "page_num": 6}
+{"match_tokens": ["disease:哮喘"], "advice": "咳嗽变异性哮喘（CVA）的治疗原则与典型哮喘相同，大多数患者ICS或ICS‑LABA治疗有效，推荐ICS‑LABA作为首选药物，治疗时间在8周以上。", "category": "治疗与康复", "page_num": 6}
+{"match_tokens": ["disease:哮喘"], "advice": "对于治疗反应不佳且气道炎症严重的CVA，可以考虑升级治疗，如加用白三烯受体拮抗剂治疗，或短期使用OCS（泼尼松10~20 mg/d或等效剂量的其他OCS，3~5 d）。", "category": "治疗与康复", "page_num": 6}
+{"match_tokens": ["disease:哮喘"], "advice": "胸闷变异性哮喘（CTVA）的治疗原则同典型哮喘。", "category": "治疗与康复", "page_num": 6}
+{"match_tokens": ["disease:哮喘"], "advice": "应与患者一起制定哮喘管理的共同目标，选择适合的吸入装置，重视依从性与吸入技术培训，定期随访，个体化评估与调整治疗。", "category": "治疗与康复", "page_num": 7}
+{"match_tokens": ["disease:哮喘"], "advice": "应传授哮喘相关知识，指导患者如何进行自我管理和哮喘急性发作的识别。", "category": "治疗与康复", "page_num": 7}
+{"match_tokens": ["disease:哮喘"], "advice": "在与患者制定哮喘管理的共同目标时，要考虑到不同的医疗制度、药物的可及性、文化差异、个人喜好等因素。", "category": "治疗与康复", "page_num": 7}
+{"match_tokens": ["disease:哮喘", "symptom:喘息", "symptom:气促", "symptom:胸闷", "symptom:咳嗽"], "advice": "若出现反复发作性喘息、气促、胸闷、咳嗽，夜间及晨间多发，且与接触过敏原、冷空气、上呼吸道感染、运动等有关，应及时就医。", "category": "急症处理", "page_num": 7}
+{"match_tokens": ["disease:哮喘", "risk:吸烟"], "advice": "已诊断哮喘的患者，若存在吸烟或既往吸烟≥10包年的有害物质暴露史，需考虑哮喘合并慢性阻塞性肺疾病的可能，应进行相应检查。", "category": "治疗与康复", "page_num": 7}
+{"match_tokens": ["disease:哮喘", "population:孕妇"], "advice": "妊娠期哮喘降级治疗应在分娩后再考虑，不应在准备妊娠或妊娠期间停止吸入性糖皮质激素（ICS）。", "category": "治疗与康复", "page_num": 7}
+{"match_tokens": ["disease:哮喘"], "advice": "哮喘患者围手术期需做好术前、术中、术后的全程管理。", "category": "治疗与康复", "page_num": 7}
+{"match_tokens": ["disease:哮喘"], "advice": "预防阿司匹林性哮喘（AIA）最有效的方法是避免再次应用阿司匹林。", "category": "治疗与康复", "page_num": 7}
+{"match_tokens": ["disease:哮喘"], "advice": "对于需大剂量ICS来控制哮喘症状，或常规治疗难以改善鼻部炎症和息肉病变，或因其他疾病而需服用阿司匹林的AIA患者，可考虑进行脱敏治疗。", "category": "治疗与康复", "page_num": 7}
+{"match_tokens": ["disease:哮喘"], "advice": "当临床症状提示可能为哮喘，但无法开展支气管激发试验或达不到诊断标准中可变的的气流受限依据时，可采用“拟诊路径”提升哮喘诊断率。", "category": "治疗与康复", "page_num": 8}
+{"match_tokens": ["disease:哮喘"], "advice": "如提示以下情形之一可拟诊哮喘，并启动诊断性抗哮喘治疗后进一步确诊：肺通气功能检查无法开展的情况下，可采用呼气峰流速仪行支气管舒张试验，PEF 较基线增加≥20%；两次访视之间肺功能FEV1变化≥12% 且绝对值≥200 ml；在FEV1占预计值%≥80% 的患者，基线期肺通气功能存在小气道功能障碍，或支气管舒张试验FEV1 增加≥10%，伴呼出气一氧化氮≥35 ppb。", "category": "治疗与康复", "page_num": 8}
+{"match_tokens": ["disease:哮喘"], "advice": "拟诊策略更适合基层医院及医疗资源不足的区域。", "category": "治疗与康复", "page_num": 8}
+{"match_tokens": ["disease:哮喘"], "advice": "哮喘急性发作是指喘息、气促、咳嗽、胸闷等症状突然发生，常因接触过敏原、刺激物或呼吸道感染诱发。", "category": "急症处理", "page_num": 8}
+{"match_tokens": ["disease:哮喘"], "advice": "慢性持续期是指每周均出现不同频度和（或）不同程度的喘息、气促、胸闷、咳嗽等症状。", "category": "治疗与康复", "page_num": 8}
+{"match_tokens": ["disease:哮喘"], "advice": "临床控制期是指患者无喘息、气促、胸闷、咳嗽等症状并保持4周及以上，1年内无急性发作，肺功能正常或者达到稳定。", "category": "治疗与康复", "page_num": 8}
+{"match_tokens": ["disease:哮喘"], "advice": "初诊及复诊的非急性发作期患者均需基于症状和（或）肺功能回顾性判断疾病严重程度分级。", "category": "治疗与康复", "page_num": 9}
+{"match_tokens": ["disease:哮喘"], "advice": "根据达到哮喘控制所采用的治疗级别来进行回顾性分级，在临床实践中更准确和实用。", "category": "治疗与康复", "page_num": 9}
+{"match_tokens": ["disease:哮喘"], "advice": "评估患者的哮喘控制分级，根据患者的症状、用药情况、哮喘活动受限情况将患者分为良好控制、部分控制、未控制，据此来确定治疗方案和调整控制用药。", "category": "治疗与康复", "page_num": 9}
+{"match_tokens": ["disease:哮喘"], "advice": "评估患者有无未来急性发作的危险因素，包括哮喘未控制、持续接触过敏原、有共患疾病、用药不规范或吸入技术错误、依从性差、社会经济问题、吸烟、焦虑抑郁、FEV1占预计值%<60%、支气管舒张试验阳性、PEF变异率高、血嗜酸性粒细胞增多、FeNO增高以及在过去一年中曾有过因哮喘急性发作而急诊就诊或住院等。", "category": "治疗与康复", "page_num": 9}
+{"match_tokens": ["disease:哮喘"], "advice": "评估患者是否有2型炎症，表现为外周血/诱导痰嗜酸性粒细胞计数增多和（或）FeNO增高，并可能伴有特应性或总IgE升高。", "category": "治疗与康复", "page_num": 9}
+{"match_tokens": ["disease:哮喘"], "advice": "评估患者的过敏状态及诱发因素，约80%的儿童哮喘患者和40%~50%的成人哮喘患者为过敏性哮喘，应常规检测血清总免疫球蛋白E（IgE）。", "category": "治疗与康复", "page_num": 9}
+{"match_tokens": ["disease:哮喘"], "advice": "进行过敏原特异性IgE和（或）皮肤过敏原点刺试验以明确过敏状态，从而避免过敏原接触。", "category": "治疗与康复", "page_num": 10}
+{"match_tokens": ["disease:哮喘"], "advice": "全面评估是按需还是维持治疗，控制和缓解药物的使用量，药物吸入种类、剂型、剂量，吸入装置掌握情况、长期用药的依从性以及药物的不良反应。", "category": "治疗与康复", "page_num": 10}
+{"match_tokens": ["disease:哮喘"], "advice": "仔细询问病史，必要时做相关检查，以明确是否存在共患疾病。", "category": "治疗与康复", "page_num": 10}
+{"match_tokens": ["disease:哮喘"], "advice": "如果规范正确地进行抗哮喘治疗后，肺功能大小气道功能等指标、外周血嗜酸性粒细胞计数和FeNO均正常，但仍有胸闷憋气主诉症状，应进行焦虑抑郁量表评估，并完善检查明确是否存在需要鉴别的疾病或存在共患疾病。", "category": "治疗与康复", "page_num": 10}
+{"match_tokens": ["disease:哮喘"], "advice": "使用呼气峰流速仪居家自我监测PEF，根据监测结果及时调整用药。", "category": "治疗与康复", "page_num": 10}
+{"match_tokens": ["disease:哮喘"], "advice": "在诊断时、开始治疗后3~6个月以及稳定之后，动态观察肺功能大小气道功能指标变化。", "category": "治疗与康复", "page_num": 10}
+{"match_tokens": ["disease:哮喘"], "advice": "使用哮喘控制测试（ACT）问卷评估哮喘控制水平。", "category": "治疗与康复", "page_num": 10}
+{"match_tokens": ["disease:哮喘"], "advice": "进行诱导痰嗜酸性粒细胞计数，用于哮喘分型、糖皮质激素治疗反应的预测和急性发作风险评估。", "category": "治疗与康复", "page_num": 10}
+{"match_tokens": ["disease:哮喘"], "advice": "检测外周血嗜酸性粒细胞计数，作为评估抗炎治疗效果和启动及评估生物靶向药物是否有效的指标之一。", "category": "治疗与康复", "page_num": 10}
+{"match_tokens": ["disease:哮喘"], "advice": "血嗜酸性粒细胞计数检测尽可能在全身糖皮质激素使用前，或治疗后停药至少1~2周，或在使用OCS最低剂量治疗时进行。", "category": "治疗与康复", "page_num": 10}
+{"match_tokens": ["disease:哮喘"], "advice": "重度哮喘患者建议每3个月检测血嗜酸性粒细胞计数。", "category": "治疗与康复", "page_num": 10}
+{"match_tokens": ["disease:哮喘"], "advice": "测定FeNO以辅助哮喘诊断和分型。", "category": "治疗与康复", "page_num": 10}
+{"match_tokens": ["disease:哮喘"], "advice": "对于明确引起哮喘急性发作的过敏原或其他非特异性刺激因素，应采取环境控制措施，尽可能减少暴露。", "category": "治疗与康复", "page_num": 11}
+{"match_tokens": ["disease:哮喘"], "advice": "应对每例患者进行定期评估，并根据患者评估结果及时调整治疗方案以达到并维持哮喘控制。", "category": "治疗与康复", "page_num": 11}
+{"match_tokens": ["disease:哮喘"], "advice": "哮喘慢性持续期的治疗原则是以患者病情严重程度和控制水平为基础，选择个体化的治疗方案。", "category": "治疗与康复", "page_num": 11}
+{"match_tokens": ["disease:哮喘"], "advice": "治疗哮喘的药物可以分为控制药物和缓解药物，以及重度哮喘的附加治疗药物。控制药物需要每日使用或长期维持。缓解药物在患者有哮喘症状时按需使用。", "category": "治疗与康复", "page_num": 11}
+{"match_tokens": ["disease:哮喘"], "advice": "慢性持续期哮喘主要通过吸入和口服途径给药，吸入为首选途径。", "category": "治疗与康复", "page_num": 11}
+{"match_tokens": ["disease:哮喘"], "advice": "哮喘患者长期吸入临床推荐剂量范围内的吸入性糖皮质激素是安全的。", "category": "治疗与康复", "page_num": 12}
+{"match_tokens": ["disease:哮喘"], "advice": "吸入药物后应及时用清水含漱口咽部，以减少声音嘶哑、咽部不适等局部不良反应。", "category": "治疗与康复", "page_num": 12}
+{"match_tokens": ["disease:哮喘"], "advice": "使用短效β2受体激动剂缓解症状时，应同时使用吸入性糖皮质激素。", "category": "治疗与康复", "page_num": 12}
+{"match_tokens": ["disease:哮喘"], "advice": "使用短效β2受体激动剂缓解症状时，可同时使用低剂量吸入性糖皮质激素，或每日使用白三烯受体拮抗剂，或添加层尘螨舌下免疫治疗。", "category": "治疗与康复", "page_num": 12}
+{"match_tokens": ["disease:哮喘", "age:成人"], "advice": "对于部分重度哮喘成人患者，在吸入技术良好且依从性好、接受第5级治疗仍控制不佳时，可考虑附加低剂量口服糖皮质激素（≤7.5 mg/d 泼尼松当量）作为最后的治疗手段，但需排除其他诱发因素和其他附加治疗。", "category": "治疗与康复", "page_num": 13}
+{"match_tokens": ["disease:哮喘", "age:成人", "disease:骨质疏松", "disease:高血压", "disease:糖尿病", "disease:肥胖症"], "advice": "对于伴有结核病、糖尿病、真菌感染、骨质疏松、青光眼、严重抑郁、消化性溃疡的哮喘患者，应慎重给予全身糖皮质激素，且需要密切随访。", "category": "治疗与康复", "page_num": 13}
+{"match_tokens": ["disease:哮喘"], "advice": "短效β2受体激动剂（如沙丁胺醇、特布他林）是缓解轻至中度哮喘急性发作症状的首选药物，应按需使用，不宜长期、单一及过量应用，按需使用时应同时联合吸入低剂量的吸入性糖皮质激素。", "category": "治疗与康复", "page_num": 13}
+{"match_tokens": ["disease:哮喘"], "advice": "短效β2受体激动剂可用于预防运动性哮喘。", "category": "治疗与康复", "page_num": 13}
+{"match_tokens": ["disease:哮喘"], "advice": "过度使用短效β2受体激动剂可导致急性发作增加及病死率增加，应避免。", "category": "治疗与康复", "page_num": 13}
+{"match_tokens": ["disease:哮喘"], "advice": "长期单独使用长效β2受体激动剂有增加哮喘死亡的风险，故不推荐其长期单独使用。", "category": "治疗与康复", "page_num": 13}
+{"match_tokens": ["disease:哮喘"], "advice": "ICS-LABA复合制剂（如布地奈德-福莫特罗）尤其适合于中至重度哮喘患者的长期治疗，低剂量ICS-福莫特罗复合制剂可作为按需使用药物，包括用于预防运动性哮喘。", "category": "治疗与康复", "page_num": 13}
+{"match_tokens": ["disease:哮喘"], "advice": "在哮喘治疗路径2中可以按需使用ICS-SABA联合制剂（如布地奈德-沙丁胺醇）。", "category": "治疗与康复", "page_num": 13}
+{"match_tokens": ["disease:哮喘"], "advice": "白三烯调节剂（如白三烯受体拮抗剂）可作为部分轻度哮喘的控制药物和中重度哮喘的附加用药，尤其适用于咳嗽变异性哮喘、阿司匹林性哮喘、运动性哮喘患者及伴有变应性鼻炎患者的治疗。", "category": "治疗与康复", "page_num": 13}
+{"match_tokens": ["disease:哮喘"], "advice": "对吸入ICS或ICS-LABA仍未控制的哮喘患者，可酌情选择加用缓释茶碱治疗。", "category": "治疗与康复", "page_num": 13}
+{"match_tokens": ["disease:哮喘", "symptom:咳嗽"], "advice": "对于哮喘患者，如果使用中-高剂量ICS-LABA不能良好控制，可处方三联复合制剂如莫米松-茚达特罗-格隆溴铵、倍氯米松-福莫特罗-格隆溴铵、糠酸氟替卡松-维兰特罗-乌美溴铵或布地奈德-福莫特罗-格隆溴铵，以进一步改善症状、肺功能以及减少急性发作。", "category": "治疗与康复", "page_num": 14}
+{"match_tokens": ["disease:哮喘", "symptom:咳嗽"], "advice": "对于屋尘螨致敏且FEV1占预计值%>70%的成人或青少年哮喘患者，如使用低至中剂量含ICS的药物治疗后症状仍存在，可考虑添加屋尘螨舌下免疫治疗，以减轻哮喘患者症状及减少ICS使用剂量。", "category": "治疗与康复", "page_num": 14}
+{"match_tokens": ["disease:哮喘", "symptom:咳嗽"], "advice": "一旦确立了哮喘的诊断，应尽早开始规律的控制治疗。对于成人哮喘患者的初始治疗，应根据患者具体情况选择合适的级别，或在两相邻级别之间先选择高级别方案，以保证初始治疗的成功率。", "category": "治疗与康复", "page_num": 14}
+{"match_tokens": ["disease:哮喘", "symptom:咳嗽"], "advice": "目前推荐所有成年和青少年哮喘患者接受包含ICS的控制治疗，以降低重度急性发作的风险，ICS可以作为每日常规用药，在轻度哮喘患者中可采用ICS-福莫特罗按需给药。", "category": "治疗与康复", "page_num": 14}
+{"match_tokens": ["disease:哮喘", "symptom:咳嗽"], "advice": "整个哮喘治疗过程中需要连续对患者进行评估、调整并观察治疗反应。控制药物的升降级应按照阶梯式方案选择。哮喘控制维持至少3个月可以考虑降级治疗，以寻求维持哮喘控制的最低有效治疗级别。", "category": "治疗与康复", "page_num": 14}
+{"match_tokens": ["disease:哮喘", "symptom:咳嗽"], "advice": "对于第1级治疗的患者，推荐按需低剂量ICS-福莫特罗吸入剂，不推荐仅使用吸入SABA、LABA、SAMA、LAMA、口服SABA、茶碱。", "category": "治疗与康复", "page_num": 14}
+{"match_tokens": ["disease:哮喘", "symptom:咳嗽"], "advice": "对于过去一年有哮喘急性发作病史或存在任何其他急性发作或死亡的危险因素的患者，均需要每日规律使用含ICS药物。", "category": "治疗与康复", "page_num": 14}
+{"match_tokens": ["disease:哮喘", "symptom:咳嗽"], "advice": "对于第2级治疗的患者，推荐首选按需使用低剂量ICS-福莫特罗，可较单用SABA明显减少哮喘中重度急性发作。运动性哮喘患者也可在运动前加用。", "category": "治疗与康复", "page_num": 14}
+{"match_tokens": ["disease:哮喘", "symptom:咳嗽"], "advice": "对于第2级治疗的患者，其他治疗方案为每日低剂量ICS加按需使用SABA。规律每日低剂量ICS加按需SABA是已证实的轻度哮喘治疗方案。", "category": "治疗与康复", "page_num": 14}
+{"match_tokens": ["disease:哮喘", "symptom:咳嗽"], "advice": "对于第2级治疗的患者，LTRA可用于不能够或不愿意接受ICS治疗或合并变应性鼻炎的患者。", "category": "治疗与康复", "page_num": 14}
+{"match_tokens": ["disease:哮喘", "age:成人", "age:老年人"], "advice": "对于无间歇性哮喘症状的单纯季节性过敏性哮喘患者，可在症状出现时立即开始ICS规律治疗或按需使用低剂量ICS-福莫特罗，并在花粉季结束后持续治疗4周。", "category": "治疗与康复", "page_num": 15}
+{"match_tokens": ["disease:哮喘", "age:成人", "age:老年人"], "advice": "对于第3级治疗，推荐使用低剂量ICS-福莫特罗复合制剂作为维持和缓解治疗。", "category": "治疗与康复", "page_num": 15}
+{"match_tokens": ["disease:哮喘", "age:成人", "age:老年人"], "advice": "对于第4级治疗，首选中剂量ICS-福莫特罗维持和缓解治疗。", "category": "治疗与康复", "page_num": 15}
+{"match_tokens": ["disease:哮喘", "age:成人", "age:老年人"], "advice": "吸入技术正确且对第4级治疗依从性良好，仍存在持续性症状或急性发作的患者，需要转诊到哮喘专科或专家门诊进一步诊治。", "category": "治疗与康复", "page_num": 15}
+{"match_tokens": ["disease:哮喘", "age:成人", "age:老年人"], "advice": "开始初始控制药物治疗之前，应记录哮喘诊断的依据、患者的症状控制水平和危险因素，包括肺功能。", "category": "治疗与康复", "page_num": 15}
+{"match_tokens": ["disease:哮喘", "age:成人", "age:老年人"], "advice": "开始初始控制药物治疗之前，应选择合适的吸入装置，并确保患者可以正确使用吸入装置。", "category": "治疗与康复", "page_num": 15}
+{"match_tokens": ["disease:哮喘", "age:成人", "age:老年人"], "advice": "开始初始控制药物治疗之后，根据病情，在初诊后2-4周回访，以后每1-3个月评估患者治疗应答。", "category": "治疗与康复", "page_num": 15}
+{"match_tokens": ["disease:哮喘", "age:成人", "age:老年人"], "advice": "开始初始控制药物治疗之后，应经常检查依从性和吸入技术。", "category": "治疗与康复", "page_num": 15}
+{"match_tokens": ["disease:哮喘", "age:成人", "age:老年人"], "advice": "维持良好控制3个月后，可考虑降级治疗。", "category": "治疗与康复", "page_num": 15}
+{"match_tokens": ["disease:哮喘", "age:成人"], "advice": "对于使用高剂量 ICS-LABA 但哮喘症状仍持续的成人患者，可在咨询专科医生后考虑附加阿奇霉素（如口服250~500 mg/次，每周3次，超适应证使用）。", "category": "治疗与康复", "page_num": 16}
+{"match_tokens": ["disease:哮喘"], "advice": "加用阿奇霉素前，应检查痰液中是否存在非结核分枝杆菌，应警惕其长期使用可能导致的不良反应，应检查心电图是否有 Q-Tc 间期延长（治疗1个月后复查），并应考虑抗生素耐药性增加的风险。", "category": "治疗与康复", "page_num": 16}
+{"match_tokens": ["disease:哮喘"], "advice": "建议阿奇霉素治疗疗程至少6 个月，因在临床研究治疗3 个月时未观察到明显获益，该药治疗1年以上的获益和风险还缺乏临床研究。", "category": "治疗与康复", "page_num": 16}
+{"match_tokens": ["disease:哮喘"], "advice": "对于OCS 预期疗程≥3 个月的患者，应提供相关生活方式咨询、给予预防骨质疏松症及脆性骨折的相关药物，亦可考虑OCS隔日疗法。", "category": "治疗与康复", "page_num": 16}
+{"match_tokens": ["disease:哮喘"], "advice": "对哮喘患者需定期评估，随访频率取决于初始治疗级别、治疗的反应性和患者自我管理能力。通常起始治疗后每2~4 周需复诊，以后每1~3 个月随访1 次。", "category": "治疗与康复", "page_num": 16}
+{"match_tokens": ["disease:哮喘"], "advice": "定期指导患者正确掌握药物吸入技术有助于哮喘控制。", "category": "治疗与康复", "page_num": 16}
+{"match_tokens": ["disease:哮喘"], "advice": "升级治疗前需排除和纠正下列影响哮喘控制的因素：药物吸入方法不正确；患者依从性差；患者持续暴露于诱发因素（如过敏原、烟草、空气污染、β 受体阻滞剂或非甾体抗炎药等）；存在可致呼吸道症状及影响生活质量的共患疾病；哮喘诊断错误等。", "category": "治疗与康复", "page_num": 16}
+{"match_tokens": ["disease:哮喘"], "advice": "如果哮喘症状得到控制且肺功能基本正常并稳定3个月及以上，可考虑降级治疗。", "category": "治疗与康复", "page_num": 17}
+{"match_tokens": ["disease:哮喘"], "advice": "降级治疗应选择适当时机，需避开患者呼吸道感染、妊娠及旅行期等。", "category": "治疗与康复", "page_num": 17}
+{"match_tokens": ["disease:哮喘"], "advice": "每3个月减少25%~50%吸入性糖皮质激素剂量通常是安全可行的。", "category": "治疗与康复", "page_num": 17}
+{"match_tokens": ["disease:哮喘"], "advice": "每一次降级治疗都应视为一次有可能失败的尝试，需密切观察症状控制情况、呼气峰流速变化、危险因素等，并按期随访。", "category": "治疗与康复", "page_num": 17}
+{"match_tokens": ["disease:哮喘"], "advice": "告知患者一旦症状恶化，需恢复至原来的治疗方案。", "category": "治疗与康复", "page_num": 17}
+{"match_tokens": ["disease:哮喘"], "advice": "推荐首先减少糖皮质激素用量（口服或吸入），再减少使用次数（由2次/d减至1次/d），然后再减去与糖皮质激素合用的控制药物。", "category": "治疗与康复", "page_num": 17}
+{"match_tokens": ["disease:哮喘"], "advice": "避免哮喘急性发作诱因，识别哮喘死亡高危因素。", "category": "治疗与康复", "page_num": 17}
+{"match_tokens": ["disease:哮喘"], "advice": "具有哮喘死亡高危因素的患者出现急性发作时应当尽早至医院就诊。", "category": "急症处理", "page_num": 17}
+{"match_tokens": ["disease:哮喘"], "advice": "哮喘急性发作时，应在开始治疗的同时尽快评估，进行简要病史询问。", "category": "急症处理", "page_num": 17}
+{"match_tokens": ["disease:哮喘", "symptom:咳嗽"], "advice": "轻度和部分中度急性发作的哮喘患者可以通过监测症状和（或）肺功能（包括呼气峰流速仪）在家中先进行自我处理。", "category": "治疗与康复", "page_num": 18}
+{"match_tokens": ["disease:哮喘"], "advice": "SABA是缓解哮喘症状最有效的药物，患者可以根据病情轻重每次使用2~4喷，一般间隔4 h重复使用，直到症状缓解，但24 h不超过8~12喷。", "category": "治疗与康复", "page_num": 18}
+{"match_tokens": ["disease:哮喘"], "advice": "在急性发作的早期应使用ICS联合SABA（包括起效迅速的LABA）治疗，同时增加控制药物ICS的剂量至少达基础剂量的2倍。", "category": "治疗与康复", "page_num": 18}
+{"match_tokens": ["disease:哮喘"], "advice": "如使用AIR治疗策略时发生轻中度急性发作，早期可直接增加吸入布地奈德-福莫特罗（160/4.5 μg规格）1~2吸，但不要超过8吸/d。", "category": "治疗与康复", "page_num": 18}
+{"match_tokens": ["disease:哮喘"], "advice": "初始治疗1~2 d自我评估治疗反应不佳，如哮喘症状使日常活动受限或PEF下降>20%达2 d以上，应及时到医院就诊，在医师指导下调整治疗。", "category": "治疗与康复", "page_num": 18}
+{"match_tokens": ["disease:哮喘"], "advice": "经过自我处理后，即使症状缓解的患者也建议到医院就诊，评估哮喘控制状况和查找急性发作的潜在因素进一步处理，调整控制药物的使用。", "category": "治疗与康复", "page_num": 18}
+{"match_tokens": ["disease:哮喘"], "advice": "若患者在家中自我处理后症状无明显缓解，或者症状持续加重，应立即至医院就诊。", "category": "急症处理", "page_num": 18}
+{"match_tokens": ["disease:哮喘"], "advice": "反复使用吸入性SABA是治疗急性发作有效的方法。若呼吸困难显著缓解，PEF占预计值%>60%~80%，且疗效可维持3~4 h，可视为对初始吸入SABA反应良好。", "category": "治疗与康复", "page_num": 18}
+{"match_tokens": ["disease:哮喘"], "advice": "对SABA初始治疗反应不佳或在控制药物治疗基础上发生急性发作的患者，推荐口服泼尼松0.5~1.0 mg·kg-1·d-1或等效剂量的其他OCS 5~7 d。症状减轻后迅速减量或完全停药。", "category": "治疗与康复", "page_num": 18}
+{"match_tokens": ["disease:哮喘", "disease:胃十二指肠溃疡", "disease:糖尿病"], "advice": "对全身糖皮质激素有禁忌证的患者，如胃十二指肠溃疡、糖尿病等尤为适用，可以短期给予糖皮质激素溶液雾化吸入治疗，如布地奈德、丙酸氟替卡松等。", "category": "治疗与康复", "page_num": 18}
+{"match_tokens": ["disease:哮喘"], "advice": "不支持常规使用抗生素治疗哮喘急性发作，除非存在明确的呼吸道或肺部细菌感染证据。", "category": "治疗与康复", "page_num": 18}
+{"match_tokens": ["disease:哮喘", "symptom:急性发作"], "advice": "急性发作缓解后，应该积极地寻找导致急性发作的原因，检查患者用药的依从性，重新评估和调整控制治疗方案。", "category": "治疗与康复", "page_num": 19}
+{"match_tokens": ["disease:哮喘", "symptom:急性发作"], "advice": "中重度急性发作的患者应该按照以上轻中度哮喘急性发作的自我处理方法先进行自我处理，同时尽快到医院就诊。", "category": "急症处理", "page_num": 19}
+{"match_tokens": ["disease:哮喘", "symptom:急性发作"], "advice": "医院处理时，首选吸入SABA治疗，给药方式可用压力定量气雾吸入剂经储雾器给药，或使用SABA的雾化溶液经喷射雾化装置给药。", "category": "急症处理", "page_num": 19}
+{"match_tokens": ["disease:哮喘", "symptom:急性发作"], "advice": "初始治疗阶段，推荐间断（每20分钟1次）或连续雾化给药，随后根据需要间断给药（每4小时1次）。", "category": "急症处理", "page_num": 19}
+{"match_tokens": ["disease:哮喘", "symptom:急性发作"], "advice": "对哮喘中重度急性发作或经SABA治疗效果不佳的患者可采用SABA联合SAMA溶液雾化吸入治疗。", "category": "急症处理", "page_num": 19}
+{"match_tokens": ["disease:哮喘", "symptom:急性发作"], "advice": "重度患者还可以联合静脉滴注茶碱类药物治疗，一般氨茶碱剂量不超过0.8 g/d，静脉滴注过程中要密切观察心血管、胃肠道的不良反应。", "category": "急症处理", "page_num": 19}
+{"match_tokens": ["disease:哮喘", "symptom:急性发作"], "advice": "不推荐静脉推注氨茶碱。", "category": "急症处理", "page_num": 19}
+{"match_tokens": ["disease:哮喘", "symptom:急性发作"], "advice": "伴有过敏性休克和血管性水肿的哮喘患者可以肌肉注射肾上腺素治疗，但不推荐常规使用。", "category": "急症处理", "page_num": 19}
+{"match_tokens": ["disease:哮喘", "symptom:急性发作"], "advice": "哮喘中重度急性发作应优先选择糖皮质激素雾化吸入治疗，必要时使用全身糖皮质激素，尽可能在就诊1 h内给药。", "category": "急症处理", "page_num": 19}
+{"match_tokens": ["disease:哮喘", "symptom:急性发作"], "advice": "推荐口服泼尼松0.4~0.5 mg·kg-1·d-1或等效的其他OCS。", "category": "急症处理", "page_num": 19}
+{"match_tokens": ["disease:哮喘", "symptom:急性发作"], "advice": "重度急性发作患者或不宜口服OCS的患者，可以静脉滴注或推注，推荐用法：甲泼尼龙80~160 mg/d分次给药，或氢化可的松400~1 000 mg/d分次给药。", "category": "急症处理", "page_num": 19}
+{"match_tokens": ["disease:哮喘", "symptom:急性发作"], "advice": "地塞米松因半衰期较长，对肾上腺皮质功能抑制作用较强，一般不推荐使用。", "category": "急症处理", "page_num": 19}
+{"match_tokens": ["disease:哮喘", "symptom:急性发作"], "advice": "从静脉滴注或推注到口服的序贯疗法可减少糖皮质激素用量和不良反应，如静脉滴注或推注糖皮质激素2~3 d，继之以口服糖皮质激素3~5 d。", "category": "治疗与康复", "page_num": 19}
+{"match_tokens": ["disease:哮喘", "symptom:急性发作"], "advice": "因哮喘加重而就诊的患者应继续含ICS的治疗。", "category": "治疗与康复", "page_num": 19}
+{"match_tokens": ["disease:哮喘", "symptom:急性发作"], "advice": "对单纯低氧血症（经皮血氧饱和度<95%）和呼吸困难的患者可给予控制性氧疗，通过脉搏血氧仪监测血氧饱和度，使用鼻导管或者面罩吸入氧气，使患者的血氧饱和度维持在95%及以上。", "category": "急症处理", "page_num": 19}
+{"match_tokens": ["disease:哮喘", "symptom:急性发作"], "advice": "大多数哮喘急性发作并非由细菌感染引起，应严格控制抗菌药物使用指征，除非有明确的细菌感染的证据，如发热、脓性痰及肺炎的影像学依据等。", "category": "急症处理", "page_num": 19}
+{"match_tokens": ["disease:哮喘", "symptom:急性发作"], "advice": "应尽量避免使用具有呼吸抑制作用的镇静催眠药物。", "category": "急症处理", "page_num": 19}
+{"match_tokens": ["disease:哮喘", "symptom:急性发作"], "advice": "重或危重度急性发作的哮喘患者经过上述药物治疗，同时给予氧疗后，若临床症状和肺功能无改善甚至继续恶化，出现呼吸衰竭，应及时给予机械通气治疗。", "category": "急症处理", "page_num": 19}
+{"match_tokens": ["disease:哮喘", "symptom:急性发作"], "advice": "对部分患者可使用经鼻高流量氧疗、经鼻（面）罩无创机械通气治疗，若无改善则尽早行气管插管机械通气。", "category": "急症处理", "page_num": 19}
+{"match_tokens": ["disease:哮喘", "symptom:急性发作"], "advice": "经初始足量的支气管舒张剂和糖皮质激素治疗后，如果病情继续恶化需要进行再评估，考虑是否需要转入RICU治疗。", "category": "急症处理", "page_num": 19}
+{"match_tokens": ["disease:哮喘", "symptom:急性发作"], "advice": "如果初始治疗症状显著改善，PEF或FEV1占预计值%恢复到个人最佳值60%以上者可离院继续治疗，PEF或FEV1占预计值%为40%~60%者应在监护下回到家庭或社区医院继续治疗。", "category": "治疗与康复", "page_num": 19}
+{"match_tokens": ["disease:哮喘", "symptom:急性发作"], "advice": "患者病情缓解出院时，应对患者进行全面评估，并优化哮喘治疗方案，包括患者是否存在2型炎症、药物和吸入装置的选择、吸入装置技巧的培训、检查患者治疗依从性、制定书面的哮喘行动计划。", "category": "治疗与康复", "page_num": 19}
+{"match_tokens": ["disease:哮喘", "symptom:急性发作"], "advice": "医护人员在患者出院后的4周内进行定期随诊，综合评估患者的控制水平和是否存在急性发作的危险因素，鼓励患者加强自我管理教育，直至达到良好的哮喘控制甚至“临床治愈”，降低病死率。", "category": "治疗与康复", "page_num": 19}
+{"match_tokens": ["disease:哮喘", "risk:吸烟"], "advice": "避免接触过敏原及诱发因素如吸烟等。", "category": "健康生活方式", "page_num": 20}
+{"match_tokens": ["disease:哮喘"], "advice": "患者应遵医嘱按时规律使用哮喘控制药物，尤其是吸入ICS-LABA。", "category": "治疗与康复", "page_num": 20}
+{"match_tokens": ["disease:哮喘"], "advice": "患者应掌握正确的吸入技术，并自我监测病情。", "category": "治疗与康复", "page_num": 20}
+{"match_tokens": ["disease:哮喘"], "advice": "对于存在心理因素、鼻窦炎、胃食管反流病或阻塞性睡眠呼吸暂停低通气综合征等共患疾病者应给予积极有效的治疗。", "category": "治疗与康复", "page_num": 20}
+{"match_tokens": ["disease:哮喘"], "advice": "坚持至少3个月的治疗时间。", "category": "治疗与康复", "page_num": 20}
+{"match_tokens": ["disease:哮喘", "symptom:咳嗽"], "advice": "在中‑高剂量ICS‑LABA仍未达到良好控制的基础上可添加LAMA治疗或者更换为闭合三联药物进一步改善哮喘控制。", "category": "治疗与康复", "page_num": 21}
+{"match_tokens": ["disease:哮喘", "symptom:咳嗽"], "advice": "在中‑高剂量ICS‑LABA或者联合LAMA依然未达到哮喘控制的重度哮喘患者，可根据2型炎症特点及共病等情况选择合适的生物靶向药物。", "category": "治疗与康复", "page_num": 21}
+{"match_tokens": ["disease:哮喘", "symptom:咳嗽"], "advice": "血清总IgE水平增高的中重度过敏性哮喘患者，可根据计量表计算出相应的治疗剂量及使用频率，每次皮下注射75~600 mg，每2~4周给药1次。", "category": "治疗与康复", "page_num": 21}
+{"match_tokens": ["disease:哮喘", "symptom:咳嗽"], "advice": "抗IgE单克隆抗体一般至少使用12~16周后再评估其疗效。", "category": "治疗与康复", "page_num": 21}
+{"match_tokens": ["disease:哮喘", "symptom:咳嗽"], "advice": "外周血嗜酸性粒细胞计数≥150/μl或≥300/μl的重度哮喘患者，推荐使用抗IL‑5单克隆抗体。", "category": "治疗与康复", "page_num": 21}
+{"match_tokens": ["disease:哮喘", "symptom:咳嗽"], "advice": "外周血嗜酸性粒细胞计数≥150/μl的重度哮喘患者，可以推荐使用抗IL‑5Rα单克隆抗体治疗。", "category": "治疗与康复", "page_num": 21}
+{"match_tokens": ["disease:哮喘", "symptom:咳嗽"], "advice": "控制不佳的重度哮喘患者，其2型炎症生物标志物高于特定水平（如外周血嗜酸性粒细胞计数≥150/μl且≤1 500/μl；或FeNO≥25 ppb）；或需要OCS进行维持治疗的哮喘患者，推荐使用抗IL‑4Rα单克隆抗体。", "category": "治疗与康复", "page_num": 21}
+{"match_tokens": ["disease:哮喘", "symptom:咳嗽"], "advice": "使用抗IL‑5单克隆抗体、抗IL‑5Rα单克隆抗体、抗IL‑4Rα单克隆抗体、抗TSLP单克隆抗体时，需关注的不良反应为注射部位反应和较罕见的过敏反应。", "category": "治疗与康复", "page_num": 21}
+{"match_tokens": ["disease:哮喘", "symptom:咳嗽"], "advice": "对于以慢性咳嗽为主要表现的CVA患者，推荐使用ICS-LABA作为首选药物，治疗时间在8周以上。", "category": "治疗与康复", "page_num": 22}
+{"match_tokens": ["disease:哮喘"], "advice": "对于规范治疗后哮喘症状仍然不能控制的第5级治疗的成人哮喘患者，如心电图检查明确无Q-Tc间期延长，可尝试联合口服低剂量阿奇霉素治疗，并1个月后复查心电图。", "category": "治疗与康复", "page_num": 22}
+{"match_tokens": ["disease:哮喘"], "advice": "对于大剂量ICS维持治疗再联合其他控制药物，并且使用生物靶向药物仍未控制者，或反复急性发作者，可加用低剂量OCS作为维持用药，推荐初始剂量：口服泼尼松0.4~0.5 mg·kg-1·d-1。", "category": "治疗与康复", "page_num": 22}
+{"match_tokens": ["disease:哮喘"], "advice": "当哮喘症状控制并维持一段时间后，逐渐减少OCS剂量，并确定最低维持剂量（一般≤7.5 mg/d）长期口服治疗，亦可考虑OCS隔日疗法，并使用药物预防骨质疏松。", "category": "治疗与康复", "page_num": 22}
+{"match_tokens": ["disease:哮喘"], "advice": "支气管热成形术治疗适用于尽管采用优化哮喘治疗方案但哮喘仍无法控制的成年患者，或无法获得或无指征进行生物靶向药物治疗的成年患者。", "category": "治疗与康复", "page_num": 22}
+{"match_tokens": ["disease:哮喘"], "advice": "每3~6个月对哮喘患者进行疗效、不良反应及患者喜好等评估，也可对哮喘良好控制的患者减少维持用药。", "category": "治疗与康复", "page_num": 22}
+{"match_tokens": ["disease:哮喘"], "advice": "三联药物维持者，可先减少LAMA，若患者在减药后未能达到哮喘控制，则恢复原来的维持用药。", "category": "治疗与康复", "page_num": 22}
+{"match_tokens": ["disease:哮喘"], "advice": "对于治疗反应不佳的患者，应评估诊断的准确性、治疗依从性、吸入技巧、环境暴露因素、并发症和气道炎症水平等。", "category": "治疗与康复", "page_num": 22}
+{"match_tokens": ["disease:哮喘", "symptom:咳嗽"], "advice": "对于治疗反应不佳且气道炎症严重的CVA患者，可以考虑升级治疗，如加用LTRA治疗，或短期使用OCS（泼尼松10~20 mg/d或等效剂量的其他OCS，3~5 d）。", "category": "治疗与康复", "page_num": 22}
+{"match_tokens": ["disease:哮喘", "symptom:咳嗽"], "advice": "在缺乏支气管激发试验检查条件的单位，对于伴有夜间咳嗽或干咳，FeNO增高或痰嗜酸性粒细胞计数增多的慢性咳嗽患者，可按CVA进行经验性治疗。", "category": "治疗与康复", "page_num": 22}
+{"match_tokens": ["disease:哮喘", "symptom:咳嗽"], "advice": "对咳嗽优势型哮喘患者进行临床评估时，不仅要关注喘息、呼吸困难等症状，也要关注咳嗽与咳嗽敏感性。", "category": "治疗与康复", "page_num": 23}
+{"match_tokens": ["disease:哮喘", "symptom:胸闷"], "advice": "胸闷变异性哮喘的初始治疗应根据患者胸闷发作的具体情况选择合适的级别。", "category": "治疗与康复", "page_num": 23}
+{"match_tokens": ["disease:哮喘", "symptom:胸闷"], "advice": "若胸闷变异性哮喘症状良好控制且肺功能基本正常3个月及以上者，则可考虑降级治疗。", "category": "治疗与康复", "page_num": 23}
+{"match_tokens": ["disease:哮喘"], "advice": "真菌致敏性哮喘患者首先需脱离真菌致敏环境，并给予规范的抗哮喘治疗。", "category": "治疗与康复", "page_num": 23}
+{"match_tokens": ["disease:哮喘"], "advice": "真菌致敏性哮喘患者病情加重或需要长期使用口服糖皮质激素时，可考虑使用伊曲康唑等抗真菌药物。", "category": "治疗与康复", "page_num": 23}
+{"match_tokens": ["disease:哮喘"], "advice": "所有哮喘患者择期手术应在达到良好哮喘控制后进行。", "category": "治疗与康复", "page_num": 23}
+{"match_tokens": ["disease:哮喘", "risk:吸烟"], "advice": "哮喘患者术前应进行呼吸优化训练，包括戒烟。", "category": "治疗与康复", "page_num": 23}
+{"match_tokens": ["disease:哮喘"], "advice": "哮喘患者术前进行充分系统的治疗可降低术后肺部并发症的发生风险。", "category": "治疗与康复", "page_num": 23}
+{"match_tokens": ["disease:哮喘"], "advice": "哮喘患者术后应加强呼吸训练。", "category": "治疗与康复", "page_num": 23}
+{"match_tokens": ["disease:哮喘"], "advice": "哮喘患者术后应控制胃食管反流以减少哮喘急性发作风险。", "category": "治疗与康复", "page_num": 23}
+{"match_tokens": ["disease:哮喘", "population:孕妇"], "advice": "妊娠期哮喘治疗应使用吸入的药物，以减少对胎儿的影响。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:哮喘", "population:孕妇"], "advice": "妊娠期哮喘患者通常可以选择布地奈德、倍氯米松、氟替卡松进行控制。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:哮喘", "population:孕妇"], "advice": "若哮喘患者在妊娠前已通过其他吸入糖皮质激素得到良好控制，则无需改变治疗。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:哮喘", "population:孕妇"], "advice": "不应在准备妊娠或妊娠期间停止吸入糖皮质激素治疗。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:哮喘", "population:孕妇"], "advice": "妊娠期哮喘急性发作时，若出现咳嗽、胸闷、气短、喘息或呼气峰流速下降20%，应立即每20分钟吸入2~4吸沙丁胺醇，观察1小时，无改善需立即就诊。", "category": "急症处理", "page_num": 24}
+{"match_tokens": ["disease:哮喘", "population:孕妇"], "advice": "妊娠期哮喘急性发作时，若出现胎动减少以及血氧饱和度<95%，应立即每20分钟吸入2~4吸沙丁胺醇，观察1小时，无改善需立即就诊。", "category": "急症处理", "page_num": 24}
+{"match_tokens": ["disease:哮喘", "risk:吸烟"], "advice": "吸烟会增加妊娠期哮喘急性发作的风险。", "category": "健康生活方式", "page_num": 24}
+{"match_tokens": ["disease:哮喘", "bmi:肥胖"], "advice": "肥胖会增加妊娠期哮喘急性发作的风险。", "category": "健康生活方式", "page_num": 24}
+{"match_tokens": ["disease:哮喘"], "advice": "预防阿司匹林诱发性哮喘最有效的方法是避免再次应用阿司匹林。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:哮喘"], "advice": "当临床需要使用非甾体抗炎药时，可考虑使用环氧化酶2抑制剂。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["population:孕妇", "disease:哮喘"], "advice": "进行生命体征监护，产科医生参与监护胎儿生命体征；可予以吸氧处理，血氧饱和度需要维持在95%及以上。", "category": "治疗与康复", "page_num": 25}
+{"match_tokens": ["population:孕妇", "disease:哮喘"], "advice": "加强妊娠期哮喘患者教育：戒烟、控制妊娠期体重增长速度及幅度、提高用药依从性、正确使用药物方法。", "category": "健康生活方式", "page_num": 25}
+{"match_tokens": ["population:孕妇", "disease:哮喘"], "advice": "控制哮喘加重因素，避免接触诱发因素，戒烟、避免接触过敏原、预防呼吸道感染。", "category": "健康生活方式", "page_num": 25}
+{"match_tokens": ["population:孕妇", "disease:哮喘"], "advice": "以FeNO指导用药，当FeNO>29 ppb时，增加ICS剂量；当FeNO<16 ppb时，减少ICS剂量；当FeNO不增高时，使用LABA联合最小剂量ICS控制症状。", "category": "治疗与康复", "page_num": 25}
+{"match_tokens": ["sex:女", "disease:哮喘"], "advice": "围月经期哮喘患者在常规哮喘治疗基础上，增加口服避孕药和（或）LTRA。", "category": "治疗与康复", "page_num": 25}
+{"match_tokens": ["sex:女", "disease:哮喘"], "advice": "经前期哮喘患者，可在周期性哮喘急性发作前数天口服预防药物，如酮替芬（1 mg/次，2 次/d）或孟鲁司特（10 mg/次，1 次/d）。", "category": "治疗与康复", "page_num": 25}
+{"match_tokens": ["sex:女", "disease:哮喘"], "advice": "月经期哮喘患者，月经来潮前适时使用黄体酮肌内注射。", "category": "治疗与康复", "page_num": 25}
+{"match_tokens": ["disease:哮喘", "disease:慢性鼻窦炎"], "advice": "重度哮喘患者应考虑行上呼吸道检查，对于哮喘合并慢性鼻窦炎的患者，可行鼻内窥镜检查和（或）鼻窦CT。", "category": "治疗与康复", "page_num": 25}
+{"match_tokens": ["disease:哮喘", "disease:慢性鼻窦炎"], "advice": "重度哮喘合并CRSwNP患者，使用抗IgE单克隆抗体、抗IL‑5单克隆抗体、抗IL‑5Rα单克隆抗体、抗IL‑4Rα单克隆抗体治疗可能获益。", "category": "治疗与康复", "page_num": 25}
+{"match_tokens": ["disease:哮喘", "disease:慢阻肺"], "advice": "ACO的初始启动治疗应按哮喘治疗的方式进行。ICS的起始剂量应为低‑中剂量，同时辅以LABA，可添加LAMA。不能在未使用ICS的情况下单独应用LABA和（或）LAMA。", "category": "治疗与康复", "page_num": 25}
+{"match_tokens": ["disease:哮喘"], "advice": "哮喘的治疗应联合应用ICS‑LABA‑LAMA，同时应包括戒烟、肺康复、疫苗接种、共患疾病的治疗等措施。", "category": "治疗与康复", "page_num": 26}
+{"match_tokens": ["disease:哮喘"], "advice": "哮喘管理的长期目标是达到良好的症状控制并维持正常活动水平，以及最大程度降低急性发作、持续性气流受限、药物不良反应和哮喘相关死亡的未来风险。", "category": "治疗与康复", "page_num": 26}
+{"match_tokens": ["disease:哮喘"], "advice": "制定哮喘管理的共同目标时，要考虑到不同的医疗制度、药物的可及性、文化差异、个人喜好等因素。", "category": "治疗与康复", "page_num": 26}
+{"match_tokens": ["disease:哮喘"], "advice": "对哮喘患者的教育应包括用药依从性和正确使用吸入装置的指导和培训。", "category": "治疗与康复", "page_num": 26}
+{"match_tokens": ["disease:哮喘"], "advice": "医生、临床药师或护士应当以实物正确演示每一种所处方的吸入装置的使用方法，尽量选择一种装置兼顾MART，随时评估患者吸入装置的应用情况，反复对患者进行吸入技术教育。", "category": "治疗与康复", "page_num": 26}
+{"match_tokens": ["disease:哮喘"], "advice": "哮喘常识教育包括了解哮喘的诊断、基本治疗原则、缓解药物与控制药物的差别、潜在的药物不良反应、预防症状及急性发作、如何认识哮喘加重，应该采取什么措施、何时/如何寻求医疗服务、治疗共患疾病。", "category": "治疗与康复", "page_num": 26}
+{"match_tokens": ["disease:哮喘"], "advice": "应制定包括自我监测，对治疗方案和哮喘控制水平进行周期性评估，在症状和PEF提示哮喘控制水平变化时如何及时调整治疗方案以达到并维持哮喘控制，如何及时接受治疗等内容的哮喘行动计划。", "category": "治疗与康复", "page_num": 26}
+{"match_tokens": ["disease:哮喘"], "advice": "正确使用呼气峰流速仪和准确记录哮喘日记是哮喘患者自我管理的重要内容之一。", "category": "治疗与康复", "page_num": 26}
+{"match_tokens": ["disease:哮喘"], "advice": "医务人员应定期对哮喘患者进行随访，包括患者主动按医嘱定期门诊随访，或医生通过电话进行随访。", "category": "治疗与康复", "page_num": 26}
+{"match_tokens": ["disease:哮喘"], "advice": "应用物联网、人工智能等技术，如应用远程视频、网络、APP等开展多种形式的教育，使用家用智能肺功能测定、智能用药监测设备等，帮助哮喘患者进行自我病情监测和用药管理。", "category": "治疗与康复", "page_num": 26}
+{"match_tokens": ["population:孕妇"], "advice": "妊娠期不建议为预防过敏或哮喘而改变饮食。", "category": "健康生活方式", "page_num": 26}
+{"match_tokens": ["population:孕妇"], "advice": "妊娠期不提倡未经专业指导的减重。", "category": "健康生活方式", "page_num": 26}
+{"match_tokens": ["population:孕妇"], "advice": "提倡母乳喂养婴儿，以降低儿童喘息发生率。", "category": "健康生活方式", "page_num": 26}
+{"match_tokens": ["population:孕妇"], "advice": "妊娠期补充维生素D，可以降低儿童喘息的发生。", "category": "健康生活方式", "page_num": 26}
+{"match_tokens": ["disease:哮喘"], "advice": "避免过敏原暴露是哮喘预防的关键。北方地区花粉季节时外出应戴口罩。", "category": "健康生活方式", "page_num": 26}
+{"match_tokens": ["disease:哮喘"], "advice": "尘螨暴露与哮喘发生密切相关，应注意室内通风，勤洗床套被褥。", "category": "健康生活方式", "page_num": 26}
+{"match_tokens": ["disease:哮喘"], "advice": "对猫毛狗毛过敏者不养宠物。", "category": "健康生活方式", "page_num": 26}
+{"match_tokens": ["disease:哮喘"], "advice": "避免使用可能诱发哮喘的药物，例如阿司匹林等NSAID药物。", "category": "治疗与康复", "page_num": 27}
+{"match_tokens": ["population:孕妇", "population:产后", "risk:吸烟"], "advice": "避免产前产后暴露于烟草烟雾，以降低儿童哮喘的发生风险。", "category": "健康生活方式", "page_num": 27}
+{"match_tokens": ["disease:哮喘"], "advice": "避免暴露于二氧化氮、二氧化硫、细颗粒物等交通相关的空气污染物，以防加重哮喘症状。", "category": "健康生活方式", "page_num": 27}
+{"match_tokens": ["age:小孩", "disease:哮喘"], "advice": "幼年时接触农村环境中的多种微生物和内毒素，可能有助于预防哮喘。", "category": "健康生活方式", "page_num": 27}
+{"match_tokens": ["age:小孩", "disease:哮喘"], "advice": "儿童应避免接触可能导致哮喘加重的社会环境。", "category": "健康生活方式", "page_num": 27}
+{"match_tokens": ["population:孕妇", "disease:哮喘"], "advice": "妊娠期母亲应避免社会心理压力，以降低儿童患哮喘的风险。", "category": "健康生活方式", "page_num": 27}
+{"match_tokens": ["population:产后", "disease:哮喘"], "advice": "产后早期母亲应避免社会心理压力，以降低儿童患哮喘的风险。", "category": "健康生活方式", "page_num": 27}
+{"match_tokens": ["disease:哮喘", "symptom:咳嗽"], "advice": "若出现反复发作性喘息、气促，伴或不伴胸闷或咳嗽，夜间及晨间多发，应进行可变气流受限的客观检查。", "category": "治疗与康复", "page_num": 28}
+{"match_tokens": ["disease:哮喘", "risk:吸烟"], "advice": "吸烟是哮喘急性发作的危险因素，应避免吸烟。", "category": "健康生活方式", "page_num": 28}
+{"match_tokens": ["disease:哮喘"], "advice": "评估有无未来急性发作的危险因素，如哮喘未控制、持续接触过敏原、用药不规范、依从性差等。", "category": "治疗与康复", "page_num": 28}
+{"match_tokens": ["disease:哮喘"], "advice": "尽可能在起始治疗前获取可变气流受限的证据，评估客观气流受限时应排除近期呼吸道感染。", "category": "治疗与康复", "page_num": 28}
+{"match_tokens": ["disease:哮喘"], "advice": "常规检测过敏原以明确过敏状态。", "category": "治疗与康复", "page_num": 29}
+{"match_tokens": ["disease:哮喘"], "advice": "使用哮喘控制测试（ACT）问卷评估疾病控制情况。", "category": "治疗与康复", "page_num": 29}
+{"match_tokens": ["disease:哮喘"], "advice": "评估对速效支气管舒张剂的使用量、药物吸入技术、长期用药的依从性以及药物的不良反应。", "category": "治疗与康复", "page_num": 29}
+{"match_tokens": ["disease:哮喘"], "advice": "评估是否有变应性鼻炎、鼻窦炎、胃食管反流病、肥胖、慢性阻塞性肺疾病、支气管扩张症、阻塞性睡眠呼吸暂停低通气综合征、抑郁和焦虑等共患疾病。", "category": "治疗与康复", "page_num": 29}
+{"match_tokens": ["disease:哮喘"], "advice": "为初诊患者制订书面的哮喘防治计划，定期随访、监测，并根据控制水平及时调整治疗。", "category": "治疗与康复", "page_num": 29}
+{"match_tokens": ["disease:哮喘"], "advice": "在诊断和随访中动态监测小气道功能指标。", "category": "治疗与康复", "page_num": 29}
+{"match_tokens": ["disease:哮喘"], "advice": "在血常规检测时尽量避免药物干扰，具体包括：在全身糖皮质激素使用前、治疗后停药至少1~2周以及使用最低剂量OCS时。", "category": "治疗与康复", "page_num": 29}
+{"match_tokens": ["disease:哮喘"], "advice": "在重度哮喘患者中，每3个月需监测血嗜酸性粒细胞计数以评估治疗效果。", "category": "治疗与康复", "page_num": 29}
+{"match_tokens": ["disease:哮喘"], "advice": "血嗜酸性粒细胞计数易受病毒性呼吸道感染影响，无法排除感染时建议重复检测。", "category": "治疗与康复", "page_num": 29}
+{"match_tokens": ["disease:哮喘"], "advice": "将FeNO与肺功能评估联合使用，可以提高诊断精度。", "category": "治疗与康复", "page_num": 29}
+{"match_tokens": ["disease:哮喘"], "advice": "如果与肺功能检测同时进行，FeNO应优先测定。", "category": "治疗与康复", "page_num": 29}
+{"match_tokens": ["disease:哮喘"], "advice": "评估药物使用时，应明确是按需还是维持治疗，以及控制和缓解药物的使用量。", "category": "治疗与康复", "page_num": 29}
+{"match_tokens": ["disease:哮喘"], "advice": "推荐接受焦虑抑郁量表评估。", "category": "治疗与康复", "page_num": 29}
+{"match_tokens": ["disease:哮喘"], "advice": "定期评估，并及时调整治疗方案，以达到并维持哮喘控制。", "category": "治疗与康复", "page_num": 29}
+{"match_tokens": ["disease:哮喘"], "advice": "避免单独使用SABA或LABA。", "category": "治疗与康复", "page_num": 29}
+{"match_tokens": ["disease:哮喘"], "advice": "存在死亡风险因素时需要每日使用控制药物。", "category": "治疗与康复", "page_num": 29}
+{"match_tokens": ["disease:哮喘"], "advice": "对于季节性过敏性哮喘，在症状出现时立即开始ICS规律治疗或按需使用低剂量ICS‑福莫特罗，并在花粉季结束后持续治疗4周。", "category": "治疗与康复", "page_num": 30}
+{"match_tokens": ["disease:哮喘"], "advice": "对于成人哮喘患者的初始治疗，应根据患者具体情况选择合适的级别，或在两相邻级别之间的建议选择高的级别，以保证初始治疗的成功率。", "category": "治疗与康复", "page_num": 30}
+{"match_tokens": ["disease:哮喘"], "advice": "轻中度哮喘急性发作时，患者可以根据症状进行自我处理。", "category": "急症处理", "page_num": 30}
+{"match_tokens": ["disease:哮喘"], "advice": "轻中度哮喘急性发作时，建议患者通过监测症状和（或）肺功能（如使用呼气峰流速仪）进行自我处理。", "category": "急症处理", "page_num": 30}
+{"match_tokens": ["disease:哮喘"], "advice": "轻中度哮喘急性发作时，在使用SABA时应增加控制药物（ICS）的剂量，增加的剂量为基础使用剂量的两倍。", "category": "急症处理", "page_num": 30}
+{"match_tokens": ["disease:哮喘"], "advice": "轻中度哮喘急性发作时，在急性发作早期应联合使用ICS和SABA（包括快速起效的LABA）。", "category": "急症处理", "page_num": 30}
+{"match_tokens": ["disease:哮喘"], "advice": "轻中度哮喘急性发作时，SABA建议每次使用2~4喷，间隔3 h，24 h内可重复使用。", "category": "急症处理", "page_num": 30}
+{"match_tokens": ["disease:哮喘"], "advice": "轻中度哮喘急性发作时，SABA的使用间隔时间延长至4 h。", "category": "急症处理", "page_num": 30}
+{"match_tokens": ["disease:哮喘"], "advice": "轻中度哮喘急性发作时，自我评估治疗反应不佳，应及时到医院就诊，在医师指导下调整治疗。", "category": "急症处理", "page_num": 30}
+{"match_tokens": ["disease:哮喘"], "advice": "哮喘急性发作的医院处理中，不推荐常规使用抗生素，除非有明确感染证据。", "category": "急症处理", "page_num": 30}
+{"match_tokens": ["disease:哮喘"], "advice": "主张SABA按需使用时应同时联合吸入低剂量的ICS。", "category": "治疗与康复", "page_num": 30}
+{"match_tokens": ["disease:哮喘"], "advice": "强调低剂量ICS‑福莫特罗复合制剂维持和缓解治疗优于固定剂量ICS‑LABA维持治疗。", "category": "治疗与康复", "page_num": 30}
+{"match_tokens": ["disease:哮喘"], "advice": "提出低剂量ICS‑LABA维持治疗时可加用按需ICS‑SABA复合制剂作为选项。", "category": "治疗与康复", "page_num": 30}
+{"match_tokens": ["disease:哮喘", "symptom:咳嗽"], "advice": "增加在FEV1>70%预计值时对变应性鼻炎患者可行过敏原特异性免疫治疗的建议。", "category": "治疗与康复", "page_num": 30}
+{"match_tokens": ["disease:哮喘"], "advice": "第4级治疗首选中剂量ICS‑福莫特罗维持和缓解治疗。", "category": "治疗与康复", "page_num": 30}
+{"match_tokens": ["disease:哮喘"], "advice": "指出三联复合制剂可改善肺功能并减少急性发作风险。", "category": "治疗与康复", "page_num": 30}
+{"match_tokens": ["disease:哮喘"], "advice": "增加生物靶向药物如抗胸腺基质淋巴细胞生成素的使用建议。", "category": "治疗与康复", "page_num": 30}
+{"match_tokens": ["disease:哮喘"], "advice": "增加阿奇霉素剂量和疗程。", "category": "治疗与康复", "page_num": 30}
+{"match_tokens": ["disease:哮喘"], "advice": "支气管热成形术继续作为重度哮喘的附加治疗选择，可以改善哮喘的控制。", "category": "治疗与康复", "page_num": 30}
+{"match_tokens": ["disease:哮喘"], "advice": "强调低剂量OCS为最后的治疗选择。", "category": "治疗与康复", "page_num": 30}
+{"match_tokens": ["disease:哮喘"], "advice": "使用哮喘控制测试（ACT）问卷评估过去4周内的哮喘控制情况，记录每个问题的得分并相加得出总分。", "category": "治疗与康复", "page_num": 31}
+{"match_tokens": ["disease:哮喘"], "advice": "根据哮喘控制测试（ACT）评分结果判断控制水平：评分20~25分代表哮喘良好控制；16~19分代表控制不佳；5~15分代表控制很差。", "category": "治疗与康复", "page_num": 31}
+{"match_tokens": ["disease:哮喘", "population:孕妇"], "advice": "妊娠期哮喘患者应接受全程化管理，包括细化的药物选择与安全等级评估。", "category": "治疗与康复", "page_num": 31}
+{"match_tokens": ["disease:哮喘", "population:孕妇"], "advice": "妊娠期哮喘患者需注意全身糖皮质激素的使用风险，并遵循阶梯式用药升级的方案。", "category": "治疗与康复", "page_num": 31}
+{"match_tokens": ["disease:哮喘", "population:孕妇"], "advice": "妊娠期哮喘患者可基于FeNO进行个性化用药管理。", "category": "治疗与康复", "page_num": 31}
+{"match_tokens": ["disease:哮喘", "population:孕妇"], "advice": "妊娠期哮喘患者应强化健康教育。", "category": "健康生活方式", "page_num": 31}
+{"match_tokens": ["disease:哮喘", "population:孕妇"], "advice": "妊娠期哮喘急性发作时，应加强监护措施。", "category": "急症处理", "page_num": 31}
+{"match_tokens": ["disease:哮喘"], "advice": "咳嗽变异性哮喘（CVA）的治疗原则与哮喘治疗相同。", "category": "治疗与康复", "page_num": 31}
+{"match_tokens": ["disease:哮喘"], "advice": "胸闷变异性哮喘（CTVA）的初始治疗应根据患者胸闷发作的具体情况选择合适的级别，然后根据哮喘控制水平进行升降级治疗。", "category": "治疗与康复", "page_num": 31}
+{"match_tokens": ["disease:哮喘"], "advice": "围月经性哮喘（原月经性哮喘）患者，可考虑使用口服避孕药和（或）白三烯受体拮抗剂。", "category": "治疗与康复", "page_num": 31}
+{"match_tokens": ["disease:哮喘"], "advice": "对存在经前期焦虑的围月经性哮喘患者，可酌情使用炔羟雄烯唑。", "category": "治疗与康复", "page_num": 31}
+{"match_tokens": ["disease:哮喘"], "advice": "对于轻度哮喘患者，应遵循《轻度支气管哮喘诊断与治疗中国专家共识(2023)》进行规范诊断与治疗。", "category": "治疗与康复", "page_num": 32}
+{"match_tokens": ["disease:哮喘", "symptom:咳嗽"], "advice": "对于疑似咳嗽变异性哮喘的慢性咳嗽患者，可进行支气管舒张试验以辅助诊断。", "category": "治疗与康复", "page_num": 32}
+{"match_tokens": ["disease:哮喘"], "advice": "对于哮喘患者，应参考国际ERS/ATS指南，对重度哮喘进行定义、评估和治疗。", "category": "治疗与康复", "page_num": 32}
+{"match_tokens": ["disease:哮喘", "risk:吸烟"], "advice": "哮喘患者应避免吸烟，以降低哮喘急性发作的风险。", "category": "健康生活方式", "page_num": 32}
+{"match_tokens": ["disease:哮喘"], "advice": "哮喘患者应定期进行肺功能检查，如支气管激发试验（使用组织胺或乙酰甲胆碱）以评估气道高反应性。", "category": "治疗与康复", "page_num": 32}
+{"match_tokens": ["disease:哮喘"], "advice": "哮喘患者应定期监测呼出气一氧化氮水平，以辅助评估气道炎症。", "category": "治疗与康复", "page_num": 32}
+{"match_tokens": ["disease:哮喘"], "advice": "哮喘患者应遵循全球哮喘防治创议(GINA)发布的《全球哮喘管理和预防策略(2024)》进行管理。", "category": "治疗与康复", "page_num": 32}
+{"match_tokens": ["disease:哮喘"], "advice": "哮喘患者应接种百日咳疫苗，以降低合并感染的风险。", "category": "治疗与康复", "page_num": 32}
+{"match_tokens": ["disease:哮喘"], "advice": "哮喘患者应避免接触花粉等过敏原，以预防中重度哮喘急性发作。", "category": "健康生活方式", "page_num": 32}
+{"match_tokens": ["disease:哮喘"], "advice": "哮喘患者应进行运动诱发支气管收缩的评估，必要时参考美国胸科学会临床实践指南进行管理。", "category": "治疗与康复", "page_num": 32}
+{"match_tokens": ["disease:哮喘"], "advice": "哮喘患者应使用标准化的评估工具（如ATS/ERS声明）来监测哮喘控制和急性发作情况。", "category": "治疗与康复", "page_num": 32}
+{"match_tokens": ["disease:哮喘"], "advice": "对于哮喘控制不佳的患者，应进行多因素评估，以识别和管理导致控制不佳的决定因素。", "category": "治疗与康复", "page_num": 32}
+{"match_tokens": ["disease:哮喘"], "advice": "哮喘患者应定期评估小气道功能参数，如用力呼气中期流量，以预测气道高反应性。", "category": "治疗与康复", "page_num": 32}
+{"match_tokens": ["disease:哮喘"], "advice": "哮喘患者出现疑似喉功能障碍的症状时，应进行喉功能评估和管理。", "category": "治疗与康复", "page_num": 32}
+{"match_tokens": ["disease:哮喘"], "advice": "哮喘患者应遵循世界卫生组织基本非传染性疾病干预措施包(PEN)的建议，在初级卫生保健中进行管理。", "category": "治疗与康复", "page_num": 32}
+{"match_tokens": ["disease:哮喘"], "advice": "对于有哮喘急性发作高风险的患者，应使用多变量预测模型进行识别，并采取预防措施。", "category": "治疗与康复", "page_num": 32}
+{"match_tokens": ["disease:哮喘"], "advice": "哮喘患者应定期进行支气管舒张试验，以评估治疗反应和辅助诊断。", "category": "治疗与康复", "page_num": 32}
+{"match_tokens": ["disease:哮喘"], "advice": "哮喘患者应遵循欧洲呼吸学会指南，进行规范的成人哮喘诊断。", "category": "治疗与康复", "page_num": 32}
+{"match_tokens": ["disease:哮喘"], "advice": "哮喘患者应定期随访，评估哮喘控制水平，可参考我国城区门诊支气管哮喘患者控制水平的调查方法。", "category": "治疗与康复", "page_num": 32}
+{"match_tokens": ["disease:哮喘"], "advice": "对于哮喘患者，应参考美国胸科学会指南，规范进行乙酰甲胆碱和运动激发试验。", "category": "治疗与康复", "page_num": 32}
+{"match_tokens": ["disease:哮喘", "symptom:咳嗽"], "advice": "对于以咳嗽为主要症状的哮喘患者，建议进行呼出气一氧化氮检测以评估气道炎症水平。", "category": "治疗与康复", "page_num": 33}
+{"match_tokens": ["disease:哮喘", "population:老年人"], "advice": "老年哮喘患者应关注是否存在合并症，如慢阻肺、支气管扩张或睡眠呼吸暂停，并进行相应评估。", "category": "治疗与康复", "page_num": 33}
+{"match_tokens": ["disease:哮喘", "bmi:肥胖"], "advice": "肥胖的哮喘患者应进行体重管理，因为肥胖可能影响哮喘的控制效果。", "category": "健康生活方式", "page_num": 33}
+{"match_tokens": ["disease:哮喘", "risk:缺乏运动"], "advice": "哮喘患者应进行规律的体育锻炼，以改善整体健康状况和哮喘控制。", "category": "健康生活方式", "page_num": 33}
+{"match_tokens": ["disease:哮喘", "symptom:失眠"], "advice": "哮喘患者若伴有失眠或睡眠呼吸暂停症状，应进行睡眠监测，并考虑使用持续气道正压通气治疗以改善哮喘结局。", "category": "治疗与康复", "page_num": 33}
+{"match_tokens": ["disease:哮喘", "symptom:疲劳"], "advice": "哮喘患者若出现持续的疲劳、情绪低落或焦虑症状，应进行心理健康评估，因为精神心理障碍可能影响哮喘控制和生活质量。", "category": "治疗与康复", "page_num": 33}
+{"match_tokens": ["disease:哮喘"], "advice": "对于哮喘控制不佳的患者，可考虑使用每日一次的单吸入器三联疗法（如糠酸氟替卡松/乌美溴铵/维兰特罗）。", "category": "治疗与康复", "page_num": 34}
+{"match_tokens": ["disease:哮喘"], "advice": "对于哮喘控制不佳的患者，可考虑使用每日一次的单吸入器三联疗法（如糠酸莫米松/茚达特罗/格隆溴铵）。", "category": "治疗与康复", "page_num": 34}
+{"match_tokens": ["disease:哮喘"], "advice": "对于哮喘控制不佳的患者，可考虑使用每日一次的单吸入器三联疗法（如茚达特罗/格隆溴铵/糠酸莫米松）。", "category": "治疗与康复", "page_num": 34}
+{"match_tokens": ["disease:哮喘"], "advice": "对于哮喘控制不佳的患者，可考虑使用每日一次的单吸入器三联疗法（如糠酸氟替卡松/乌美溴铵/维兰特罗）。", "category": "治疗与康复", "page_num": 34}
+{"match_tokens": ["disease:哮喘"], "advice": "标准化质量的屋尘螨舌下免疫治疗片剂可减少吸入性皮质类固醇的使用，同时维持哮喘控制。", "category": "治疗与康复", "page_num": 34}
+{"match_tokens": ["disease:哮喘"], "advice": "屋尘螨舌下过敏原免疫治疗片剂可用于成人过敏性哮喘的治疗。", "category": "治疗与康复", "page_num": 34}
+{"match_tokens": ["disease:哮喘"], "advice": "对于尘螨过敏的哮喘，可考虑使用屋尘螨变应原制剂进行免疫治疗。", "category": "治疗与康复", "page_num": 35}
+{"match_tokens": ["disease:哮喘"], "advice": "对于过敏性鼻炎合并哮喘的患者，可考虑使用舌下免疫疗法。", "category": "治疗与康复", "page_num": 35}
+{"match_tokens": ["disease:哮喘"], "advice": "对于轻度哮喘，可按需使用布地奈德-福莫特罗进行控制。", "category": "治疗与康复", "page_num": 35}
+{"match_tokens": ["disease:哮喘"], "advice": "对于轻度哮喘，可按需使用倍氯米松和沙丁胺醇的单吸入器进行急救。", "category": "治疗与康复", "page_num": 35}
+{"match_tokens": ["disease:哮喘"], "advice": "成人哮喘患者可根据医生、生物标志物或症状来调整吸入性皮质类固醇的剂量。", "category": "治疗与康复", "page_num": 35}
+{"match_tokens": ["disease:哮喘"], "advice": "定期使用吸入性皮质类固醇可长期预防因哮喘住院。", "category": "治疗与康复", "page_num": 35}
+{"match_tokens": ["disease:哮喘"], "advice": "对于慢性哮喘，可将福莫特罗和布地奈德联合作为维持和缓解治疗。", "category": "治疗与康复", "page_num": 35}
+{"match_tokens": ["disease:哮喘"], "advice": "对于有严重急性发作风险的哮喘患者，可使用布地奈德-福莫特罗联合吸入器作为维持和缓解治疗。", "category": "治疗与康复", "page_num": 35}
+{"match_tokens": ["disease:哮喘"], "advice": "青少年哮喘患者可使用布地奈德/福莫特罗进行维持和缓解治疗。", "category": "治疗与康复", "page_num": 35}
+{"match_tokens": ["disease:哮喘"], "advice": "对于持续性哮喘，可在吸入性皮质类固醇基础上加用长效β2-受体激动剂或抗白三烯药物。", "category": "治疗与康复", "page_num": 35}
+{"match_tokens": ["disease:哮喘"], "advice": "对于有严重症状的儿童哮喘，可考虑加用噻托溴铵作为附加治疗。", "category": "治疗与康复", "page_num": 35}
+{"match_tokens": ["disease:哮喘"], "advice": "对于使用高剂量吸入性类固醇的哮喘患者，可联合使用茶碱、沙丁胺醇或其组合。", "category": "治疗与康复", "page_num": 35}
+{"match_tokens": ["disease:哮喘"], "advice": "对于哮喘患者，可以考虑使用孟鲁司特联合吸入布地奈德进行治疗。", "category": "治疗与康复", "page_num": 36}
+{"match_tokens": ["disease:哮喘"], "advice": "对于哮喘患者，可以考虑使用扎鲁司特进行治疗。", "category": "治疗与康复", "page_num": 36}
+{"match_tokens": ["disease:哮喘"], "advice": "对于哮喘患者，可以考虑使用噻托溴铵进行治疗。", "category": "治疗与康复", "page_num": 36}
+{"match_tokens": ["disease:哮喘"], "advice": "对于哮喘患者，可以考虑使用吸入性皮质类固醇联合长效毒蕈碱拮抗剂进行治疗。", "category": "治疗与康复", "page_num": 36}
+{"match_tokens": ["disease:哮喘"], "advice": "对于哮喘患者，可以考虑使用三联吸入疗法进行治疗。", "category": "治疗与康复", "page_num": 36}
+{"match_tokens": ["disease:哮喘"], "advice": "对于哮喘患者，可以考虑使用生物制剂（贝那利珠单抗、度普利尤单抗、奥马珠单抗）进行治疗。", "category": "治疗与康复", "page_num": 36}
+{"match_tokens": ["disease:哮喘"], "advice": "对于哮喘患者，可以考虑使用美泊利珠单抗进行治疗。", "category": "治疗与康复", "page_num": 36}
+{"match_tokens": ["disease:哮喘"], "advice": "对于哮喘患者，可以考虑使用瑞利珠单抗进行治疗。", "category": "治疗与康复", "page_num": 36}
+{"match_tokens": ["disease:哮喘"], "advice": "对于哮喘患者，可以考虑使用贝那利珠单抗进行治疗。", "category": "治疗与康复", "page_num": 36}
+{"match_tokens": ["disease:哮喘"], "advice": "对于哮喘患者，可以考虑使用度普利尤单抗进行治疗。", "category": "治疗与康复", "page_num": 36}
+{"match_tokens": ["disease:哮喘"], "advice": "对于哮喘患者，可以考虑使用替泽帕鲁单抗进行治疗。", "category": "治疗与康复", "page_num": 36}
+{"match_tokens": ["disease:哮喘"], "advice": "对于哮喘患者，可以考虑使用阿奇霉素进行治疗。", "category": "治疗与康复", "page_num": 36}
+{"match_tokens": ["disease:哮喘"], "advice": "使用吸入性糖皮质激素时，应逐步减量，并在减量过程中监测哮喘急性发作的预测指标。", "category": "治疗与康复", "page_num": 37}
+{"match_tokens": ["disease:哮喘"], "advice": "使用短效β2受体激动剂处方与哮喘不良临床结局相关，应避免过度依赖。", "category": "治疗与康复", "page_num": 37}
+{"match_tokens": ["disease:哮喘"], "advice": "在急性哮喘发作时，应使用储雾罐（spacer）而非雾化器来给予β受体激动剂治疗。", "category": "急症处理", "page_num": 37}
+{"match_tokens": ["disease:哮喘"], "advice": "对于严重嗜酸粒细胞性哮喘患者，可考虑使用美泊利单抗作为附加治疗，以减少口服糖皮质激素的用量。", "category": "治疗与康复", "page_num": 37}
+{"match_tokens": ["disease:哮喘", "symptom:咳嗽"], "advice": "对于咳嗽变异性哮喘，应进行规范诊断和治疗。", "category": "治疗与康复", "page_num": 38}
+{"match_tokens": ["disease:哮喘"], "advice": "对于严重嗜酸粒细胞性哮喘，可考虑使用靶向IL5/IL5r的生物制剂进行治疗。", "category": "治疗与康复", "page_num": 38}
+{"match_tokens": ["disease:哮喘", "symptom:咳嗽"], "advice": "慢性咳嗽患者应进行病因调查，以明确诊断。", "category": "治疗与康复", "page_num": 38}
+{"match_tokens": ["disease:哮喘", "symptom:咳嗽"], "advice": "对于以咳嗽为唯一或主要表现的哮喘患者，应进行哮喘相关检查以明确诊断。", "category": "治疗与康复", "page_num": 39}
+{"match_tokens": ["disease:哮喘", "symptom:胸闷"], "advice": "对于以胸闷为唯一表现的患者，应考虑胸闷变异性哮喘的诊断。", "category": "治疗与康复", "page_num": 39}
+{"match_tokens": ["disease:哮喘", "symptom:胸闷"], "advice": "对于胸闷变异性哮喘患者，可考虑采用常规哮喘治疗方案。", "category": "治疗与康复", "page_num": 39}
+{"match_tokens": ["disease:哮喘"], "advice": "无症状的支气管高反应性可能是潜在哮喘的指征。", "category": "治疗与康复", "page_num": 39}
+{"match_tokens": ["disease:哮喘"], "advice": "鼻炎患者应关注哮喘的发病风险。", "category": "治疗与康复", "page_num": 39}
+{"match_tokens": ["disease:哮喘"], "advice": "对于儿童期无症状哮喘的青少年，应关注其支气管高反应性和气道炎症情况。", "category": "治疗与康复", "page_num": 39}
+{"match_tokens": ["disease:哮喘"], "advice": "对于过敏性真菌病患者，应注意皮质类固醇治疗可能增加丝状真菌负荷。", "category": "治疗与康复", "page_num": 39}
+{"match_tokens": ["disease:哮喘"], "advice": "对于真菌致敏的重度哮喘患者，应考虑真菌与哮喘严重程度之间的关联。", "category": "治疗与康复", "page_num": 39}
+{"match_tokens": ["disease:哮喘"], "advice": "对于重度真菌性哮喘和变应性支气管肺曲霉病患者，应了解可用的治疗方案。", "category": "治疗与康复", "page_num": 39}
+{"match_tokens": ["disease:哮喘"], "advice": "对于真菌致敏的未控制中重度哮喘患者，可考虑使用度普利尤单抗。", "category": "治疗与康复", "page_num": 39}
+{"match_tokens": ["disease:哮喘"], "advice": "对于变应性支气管肺曲霉病患者，可考虑使用生物制剂。", "category": "治疗与康复", "page_num": 39}
+{"match_tokens": ["disease:哮喘"], "advice": "对于有过敏史的哮喘患者，在麻醉前应进行充分的术前评估。", "category": "治疗与康复", "page_num": 39}
+{"match_tokens": ["disease:哮喘"], "advice": "对于哮喘患儿，麻醉和通气策略应包括术前评估。", "category": "治疗与康复", "page_num": 39}
+{"match_tokens": ["disease:哮喘"], "advice": "对于非心脏胸外科手术患者，应采取策略以减少术后肺部并发症。", "category": "治疗与康复", "page_num": 39}
+{"match_tokens": ["disease:哮喘"], "advice": "对于非心脏胸外科手术患者，应进行风险评估并采取策略以减少围手术期肺部并发症。", "category": "治疗与康复", "page_num": 39}
+{"match_tokens": ["disease:哮喘"], "advice": "对于子宫内暴露于阿司匹林的儿童，应关注其童年期哮喘风险。", "category": "治疗与康复", "page_num": 39}
+{"match_tokens": ["disease:哮喘"], "advice": "对于阿司匹林诱发哮喘的诊断，可结合支气管和口服激发试验。", "category": "治疗与康复", "page_num": 39}
+{"match_tokens": ["disease:哮喘"], "advice": "对于阿司匹林诱发和阿司匹林耐受的哮喘患者，可考虑进行阿司匹林脱敏治疗。", "category": "治疗与康复", "page_num": 39}
+{"match_tokens": ["disease:哮喘"], "advice": "对于阿司匹林加重呼吸系统疾病患者，可考虑使用奥马珠单抗。", "category": "治疗与康复", "page_num": 39}
+{"match_tokens": ["population:孕妇", "disease:哮喘"], "advice": "哮喘孕妇应接受规范的哮喘管理，以降低不良妊娠结局的风险。", "category": "治疗与康复", "page_num": 40}
+{"match_tokens": ["population:孕妇", "disease:哮喘", "risk:吸烟"], "advice": "哮喘孕妇应避免吸烟。", "category": "健康生活方式", "page_num": 40}
+{"match_tokens": ["population:孕妇", "disease:哮喘"], "advice": "哮喘孕妇应在医生指导下使用哮喘药物。", "category": "治疗与康复", "page_num": 40}
+{"match_tokens": ["population:孕妇", "disease:哮喘"], "advice": "哮喘孕妇可使用呼出气一氧化氮测量来指导哮喘管理。", "category": "治疗与康复", "page_num": 40}
+{"match_tokens": ["disease:哮喘", "population:学生"], "advice": "参加学校护士主导的哮喘健康教育项目。", "category": "健康生活方式", "page_num": 41}
+{"match_tokens": ["disease:哮喘"], "advice": "使用吸入器提醒装置，以提高控制治疗的依从性。", "category": "治疗与康复", "page_num": 41}
+{"match_tokens": ["disease:哮喘"], "advice": "与医生共同制定治疗决策，以提高依从性和改善治疗效果。", "category": "治疗与康复", "page_num": 41}
+{"match_tokens": ["disease:哮喘"], "advice": "进行自我管理教育和定期接受医生复查。", "category": "治疗与康复", "page_num": 41}
+{"match_tokens": ["disease:哮喘", "population:学生"], "advice": "参加同伴主导的哮喘自我管理项目。", "category": "健康生活方式", "page_num": 41}
+{"match_tokens": ["disease:哮喘"], "advice": "接受支持性的自我管理。", "category": "治疗与康复", "page_num": 41}
+{"match_tokens": ["disease:哮喘"], "advice": "应用物联网医学进行哮喘管理。", "category": "治疗与康复", "page_num": 41}
+{"match_tokens": ["population:孕妇"], "advice": "在孕期补充鱼油。", "category": "健康生活方式", "page_num": 41}
+{"match_tokens": ["population:孕妇"], "advice": "在孕期补充维生素D。", "category": "健康生活方式", "page_num": 41}
+{"match_tokens": ["age:小孩", "disease:哮喘"], "advice": "早期接触农场环境。", "category": "健康生活方式", "page_num": 41}

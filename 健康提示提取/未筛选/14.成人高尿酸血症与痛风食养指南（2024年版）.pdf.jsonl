@@ -1,0 +1,630 @@
+{"match_tokens": ["age:成人", "disease:其他病症"], "advice": "遵循高尿酸血症与痛风食养指南进行饮食调理。", "category": "健康生活方式", "page_num": 1}
+{"match_tokens": ["disease:其他病症", "population:老年人"], "advice": "食物多样，限制嘌呤。", "category": "健康生活方式", "page_num": 2}
+{"match_tokens": ["disease:其他病症"], "advice": "蔬奶充足，限制果糖。", "category": "健康生活方式", "page_num": 2}
+{"match_tokens": ["disease:其他病症"], "advice": "足量饮水，限制饮酒。", "category": "健康生活方式", "page_num": 2}
+{"match_tokens": ["disease:其他病症"], "advice": "科学烹饪，少食生冷。", "category": "健康生活方式", "page_num": 2}
+{"match_tokens": ["disease:其他病症", "bmi:超重", "bmi:肥胖"], "advice": "吃动平衡，健康体重。", "category": "健康生活方式", "page_num": 2}
+{"match_tokens": ["disease:其他病症"], "advice": "辨证辨体，因人施膳。", "category": "健康生活方式", "page_num": 2}
+{"match_tokens": ["disease:其他病症"], "advice": "因地因时，择膳相宜。", "category": "健康生活方式", "page_num": 2}
+{"match_tokens": ["age:成人", "disease:其他病症", "risk:饮酒"], "advice": "减少高能量食品、大量酒精和（或）高果糖的饮料的摄入。", "category": "健康生活方式", "page_num": 3}
+{"match_tokens": ["age:成人", "disease:其他病症", "risk:缺乏运动"], "advice": "保持健康体重。", "category": "健康生活方式", "page_num": 3}
+{"match_tokens": ["age:成人", "disease:其他病症"], "advice": "合理搭配膳食，减少高嘌呤膳食摄入。", "category": "健康生活方式", "page_num": 3}
+{"match_tokens": ["disease:其他病症", "age:成人"], "advice": "高尿酸血症与痛风人群可参考本指南制定食养方案，同时应在医生或营养指导人员等专业人员的指导下，根据患者具体情况设计个性化食养方案。", "category": "治疗与康复", "page_num": 4}
+{"match_tokens": ["disease:其他病症", "age:成人"], "advice": "正常膳食状态下，非同日2次检测空腹血尿酸水平>420μmol/L，即可诊断为高尿酸血症。", "category": "治疗与康复", "page_num": 4}
+{"match_tokens": ["disease:其他病症", "age:成人"], "advice": "高尿酸血症和痛风是慢性肾病、高血压、心脑血管疾病及糖尿病等疾病的独立危险因素，长期患高尿酸血症还可导致动脉粥样硬化，增加心血管疾病发生的风险。", "category": "治疗与康复", "page_num": 4}
+{"match_tokens": ["disease:其他病症", "symptom:关节疼痛"], "advice": "对于关节持续疼痛、活动不灵活或变形的慢性痛风性关节炎期人群，应关注关节症状。", "category": "治疗与康复", "page_num": 5}
+{"match_tokens": ["disease:其他病症", "symptom:关节肿痛"], "advice": "对于关节肿痛、反复发作、局部有硬结或皮色暗红的痰瘀证人群，应关注关节症状。", "category": "治疗与康复", "page_num": 5}
+{"match_tokens": ["disease:其他病症", "symptom:关节红肿灼热疼痛"], "advice": "对于关节红肿灼热疼痛剧烈的急性痛风性关节炎期人群，应关注关节症状。", "category": "治疗与康复", "page_num": 5}
+{"match_tokens": ["disease:其他病症", "symptom:肢体困乏沉重"], "advice": "对于肢体困乏沉重、形体肥胖、口中粘腻的湿浊证人群，应关注身体症状。", "category": "治疗与康复", "page_num": 5}
+{"match_tokens": ["disease:其他病症", "symptom:腰膝酸软"], "advice": "对于关节疼痛反复发作、腰膝酸软、乏力明显的脾肾亏虚证人群，应关注身体症状。", "category": "治疗与康复", "page_num": 5}
+{"match_tokens": ["disease:其他病症"], "advice": "每天保证谷薯类、蔬菜等食物多样，均衡营养。", "category": "健康生活方式", "page_num": 6}
+{"match_tokens": ["disease:其他病症"], "advice": "在食物多样、均衡营养的基础上进行合理的膳食调整。", "category": "健康生活方式", "page_num": 6}
+{"match_tokens": ["disease:高尿酸血症", "disease:痛风"], "advice": "限制高嘌呤食物摄入，以低嘌呤膳食为主，严格控制膳食中嘌呤含量。", "category": "健康生活方式", "page_num": 7}
+{"match_tokens": ["disease:高尿酸血症", "disease:痛风"], "advice": "尽量避免选择动物内脏如肝、肾、心等。", "category": "健康生活方式", "page_num": 7}
+{"match_tokens": ["disease:高尿酸血症", "disease:痛风"], "advice": "可安心食用鸡蛋的蛋白、牛奶等嘌呤含量较低的食物。", "category": "健康生活方式", "page_num": 7}
+{"match_tokens": ["disease:高尿酸血症", "disease:痛风"], "advice": "豆腐、豆干等豆制品可适量食用。", "category": "健康生活方式", "page_num": 7}
+{"match_tokens": ["disease:高尿酸血症", "disease:痛风"], "advice": "宜选择低血糖生成指数的碳水化合物类食物。", "category": "健康生活方式", "page_num": 7}
+{"match_tokens": ["disease:高尿酸血症", "disease:痛风"], "advice": "每天全谷物食物不低于主食量的30%，膳食纤维摄入量达到25～30g。", "category": "健康生活方式", "page_num": 7}
+{"match_tokens": ["disease:高尿酸血症", "disease:痛风"], "advice": "有痛风发作病史的人群要尽量避免食用既往诱发痛风发作的食物。", "category": "健康生活方式", "page_num": 7}
+{"match_tokens": ["disease:高尿酸血症", "disease:痛风"], "advice": "摄入新鲜蔬菜（如菊苣、鲜百合）、水果（如富含维生素C的樱桃、草莓等）、植物性饮料（如无糖咖啡、茶）和草本植物（如薏苡仁、益智仁）等以促进肾脏尿酸排泄。", "category": "健康生活方式", "page_num": 7}
+{"match_tokens": ["disease:高尿酸血症"], "advice": "建议每天多食新鲜蔬菜，推荐每天摄入不少于500g，深色蔬菜（如紫甘蓝、胡萝卜）应当占一半以上。", "category": "健康生活方式", "page_num": 8}
+{"match_tokens": ["disease:高尿酸血症"], "advice": "鼓励每天摄入300mL 以上或相当量的奶及奶制品。", "category": "健康生活方式", "page_num": 8}
+{"match_tokens": ["disease:高尿酸血症"], "advice": "应限制果糖含量较高的食品，如含糖饮料、鲜榨果汁、果葡糖浆、果脯蜜饯等。", "category": "健康生活方式", "page_num": 8}
+{"match_tokens": ["disease:高尿酸血症"], "advice": "建议每天水果摄入量200～350g。", "category": "健康生活方式", "page_num": 8}
+{"match_tokens": ["disease:高尿酸血症"], "advice": "在心、肾功能正常情况下应当足量饮水，每天建议2000～3000mL。尽量维持每天尿量大于2000mL。优先选用白水，也可饮用柠檬水、淡茶、无糖咖啡及苏打水。", "category": "健康生活方式", "page_num": 8}
+{"match_tokens": ["disease:高尿酸血症"], "advice": "应避免过量饮用浓茶、浓咖啡等，避免饮用生冷饮品。", "category": "健康生活方式", "page_num": 8}
+{"match_tokens": ["disease:高尿酸血症", "risk:饮酒"], "advice": "应限制饮酒，且急性痛风发作、药物控制不佳或慢性痛风性关节炎的患者应不饮酒。", "category": "健康生活方式", "page_num": 8}
+{"match_tokens": ["disease:高血压", "disease:糖尿病", "disease:脑血管病", "disease:慢阻肺", "disease:支气管炎", "disease:哮喘", "disease:肥胖症", "disease:其他病症"], "advice": "推荐每天食盐摄入量不超过5g，每天烹调油不超过25～30g。", "category": "健康生活方式", "page_num": 9}
+{"match_tokens": ["disease:高血压", "disease:糖尿病", "disease:脑血管病", "disease:慢阻肺", "disease:支气管炎", "disease:哮喘", "disease:肥胖症", "disease:其他病症"], "advice": "减少油炸、煎制、卤制等烹饪方式，提倡肉类汆煮后食用，尽量不喝汤。", "category": "健康生活方式", "page_num": 9}
+{"match_tokens": ["disease:高血压", "disease:糖尿病", "disease:脑血管病", "disease:慢阻肺", "disease:支气管病", "disease:哮喘", "disease:肥胖症", "disease:其他病症"], "advice": "腊制、腌制或熏制的肉类，其嘌呤、盐分含量高，高尿酸血症与痛风人群不宜食用。", "category": "健康生活方式", "page_num": 9}
+{"match_tokens": ["disease:高血压", "disease:糖尿病", "disease:脑血管病", "disease:慢阻肺", "disease:支气管炎", "disease:哮喘", "disease:肥胖症", "disease:其他病症"], "advice": "痛风患者应少吃生冷食品，如冰激凌、生冷海鲜等。", "category": "健康生活方式", "page_num": 9}
+{"match_tokens": ["bmi:超重", "bmi:肥胖", "disease:高血压", "disease:糖尿病", "disease:脑血管病", "disease:慢阻肺", "disease:支气管炎", "disease:哮喘", "disease:肥胖症", "disease:其他病症"], "advice": "超重肥胖的高尿酸血症与痛风人群应在满足每天必需营养需要的基础上，通过改善膳食结构和增加规律运动，实现能量摄入小于能量消耗。", "category": "健康生活方式", "page_num": 9}
+{"match_tokens": ["bmi:超重", "bmi:肥胖", "disease:高血压", "disease:糖尿病", "disease:脑血管病", "disease:慢阻肺", "disease:支气管炎", "disease:哮喘", "disease:肥胖症", "disease:其他病症"], "advice": "避免过度节食和减重速度过快，以每周减低0.5～1.0kg为宜，最终将体重控制在健康范围。", "category": "健康生活方式", "page_num": 9}
+{"match_tokens": ["bmi:超重", "bmi:肥胖", "disease:高血压", "disease:糖尿病", "disease:脑血管病", "disease:慢阻肺", "disease:支气管炎", "disease:哮喘", "disease:肥胖症", "disease:其他病症"], "advice": "对于超重肥胖人群每天可减少250～500kcal的能量摄入，并通过运动消耗250～500kcal的能量。", "category": "健康生活方式", "page_num": 9}
+{"match_tokens": ["age:成人"], "advice": "18岁至64岁成年人健康体重的体质指数（BMI）适宜范围为18.5～23.9kg/m²。", "category": "健康生活方式", "page_num": 9}
+{"match_tokens": ["age:老年人"], "advice": "65岁及以上老年人健康体重的体质指数（BMI）适宜范围为20.0～26.9kg/m²。", "category": "健康生活方式", "page_num": 9}
+{"match_tokens": ["disease:高血压", "disease:糖尿病", "disease:脑血管病", "disease:慢阻肺", "disease:支气管炎", "disease:哮喘", "disease:肥胖症", "disease:其他病症"], "advice": "养成规律、适量运动的习惯是高尿酸血症与痛风的有效防治措施之一。", "category": "健康生活方式", "page_num": 9}
+{"match_tokens": ["disease:痛风"], "advice": "应选择适合自身的运动项目，循序渐进地进行运动锻炼，逐步提升心肺功能和肌肉耐力、力量、柔韧性等。", "category": "健康生活方式", "page_num": 10}
+{"match_tokens": ["disease:痛风"], "advice": "运动强度以低、中强度的有氧运动为主，应从低强度开始，逐步过渡至中等强度，避免过量运动。", "category": "健康生活方式", "page_num": 10}
+{"match_tokens": ["disease:痛风"], "advice": "有氧运动以每周4～5次、每次30～60分钟为宜，可选择对关节冲击力小或无的慢跑、走路、骑自行车、太极拳、八段锦、游泳等运动项目，并适量进行力量和柔韧性练习。", "category": "健康生活方式", "page_num": 10}
+{"match_tokens": ["disease:痛风"], "advice": "运动期间或运动后，应及时补充水分。", "category": "健康生活方式", "page_num": 10}
+{"match_tokens": ["disease:痛风"], "advice": "痛风性关节炎期应减少或避免运动。", "category": "治疗与康复", "page_num": 10}
+{"match_tokens": ["disease:痛风"], "advice": "高尿酸血症与痛风人群应养成规律作息、劳逸结合的习惯。", "category": "健康生活方式", "page_num": 10}
+{"match_tokens": ["disease:痛风"], "advice": "痛风食养关键在于调理脾胃，推荐食用白扁豆、玉米须、麦芽、山药、芡实、大枣、橘皮、山楂、五指毛桃、茯苓等。", "category": "治疗与康复", "page_num": 10}
+{"match_tokens": ["disease:痛风"], "advice": "选择和缓、少量、持续的运动方式，可以使筋骨舒展，脾胃得健。", "category": "健康生活方式", "page_num": 10}
+{"match_tokens": ["disease:痛风"], "advice": "湿浊证，常见于无症状高尿酸血症期和痛风间歇期，该类人群以痰湿体质多见，应避免寒冷诱发痛风的急性发作。", "category": "治疗与康复", "page_num": 10}
+{"match_tokens": ["disease:其他病症"], "advice": "严格控制肥甘厚味，限制嘌呤和蛋白质的总摄入量，采用低盐膳食，尤其避免食用甜、油腻、酸、涩食物。", "category": "健康生活方式", "page_num": 11}
+{"match_tokens": ["disease:其他病症"], "advice": "可食用薏苡仁、橘皮、茯苓代茶饮。", "category": "健康生活方式", "page_num": 11}
+{"match_tokens": ["disease:其他病症"], "advice": "湿热证人群应严格限制嘌呤、蛋白质的摄入，尤其应该限盐和烟酒。", "category": "健康生活方式", "page_num": 11}
+{"match_tokens": ["disease:其他病症"], "advice": "湿热证人群应避免外感风寒、风热诱发痛风的急性发作。", "category": "治疗与康复", "page_num": 11}
+{"match_tokens": ["disease:其他病症"], "advice": "湿热证人群推荐食用山竹、西瓜、荸荠等，可用赤小豆、木瓜、薏苡仁等煮汤饮用。", "category": "健康生活方式", "page_num": 11}
+{"match_tokens": ["disease:其他病症"], "advice": "痰瘀证患者应多饮水，严格限制高脂、高胆固醇食物和高盐膳食。", "category": "健康生活方式", "page_num": 11}
+{"match_tokens": ["disease:其他病症"], "advice": "痰瘀证患者可食用木耳、山楂、桃仁等。", "category": "健康生活方式", "page_num": 11}
+{"match_tokens": ["disease:其他病症"], "advice": "脾肾亏虚证人群宜食温热性食物，可食生姜、黄芪、茯苓、核桃、荔枝等。", "category": "健康生活方式", "page_num": 11}
+{"match_tokens": ["disease:其他病症"], "advice": "要因地制宜，构建合理的膳食结构，养成良好的膳食习惯。", "category": "健康生活方式", "page_num": 11}
+{"match_tokens": ["disease:其他病症"], "advice": "春季养肝，起居应夜卧早起，适寒温，膳食清淡、爽口，以每天所需能量为基础摄入碳水化合物。", "category": "健康生活方式", "page_num": 11}
+{"match_tokens": ["disease:痛风性关节炎"], "advice": "在气候冷热交替的秋冬、夏秋季节要注意保暖，夏季注意空调温度不要过低。", "category": "治疗与康复", "page_num": 12}
+{"match_tokens": ["disease:无特定疾病"], "advice": "夏季食物以清淡、营养丰富、易消化为好，推荐吃丝瓜、冬瓜等，少吃海鲜、动物内脏、畜肉，少吃生冷。", "category": "健康生活方式", "page_num": 12}
+{"match_tokens": ["disease:无特定疾病"], "advice": "秋季少吃鱼、虾、螃蟹，推荐吃莲子、莲藕、荸荠、百合等甘凉、生津、润燥之品。", "category": "健康生活方式", "page_num": 12}
+{"match_tokens": ["disease:无特定疾病"], "advice": "冬季膳食上控制火锅、烤串、肉汤等摄入。", "category": "健康生活方式", "page_num": 12}
+{"match_tokens": ["disease:无特定疾病"], "advice": "秋季起居应早卧早起，情志上要安定平和。", "category": "健康生活方式", "page_num": 12}
+{"match_tokens": ["disease:无特定疾病"], "advice": "冬季起居应早卧晚起，居处宜保暖，注意御寒。", "category": "健康生活方式", "page_num": 12}
+{"match_tokens": ["disease:其他病症"], "advice": "选择食物时，参考常见食物嘌呤含量分类表，优先选择第四类（低嘌呤，每100g含＜30mg）和第三类（较低嘌呤，每100g含30～75mg）的食物。", "category": "健康生活方式", "page_num": 13}
+{"match_tokens": ["disease:其他病症"], "advice": "避免或限制食用第一类（高嘌呤，每100g含150～1000mg）的食物，如肝、肾、海苔、紫菜(干)、鲭鱼、贻贝、生蚝、海兔、鱿鱼等。", "category": "健康生活方式", "page_num": 13}
+{"match_tokens": ["disease:其他病症"], "advice": "控制食用第二类（较高嘌呤，每100g含75～150mg）的食物，如牛肉、猪肉、羊肉、兔、鸭、鹅、鲤鱼、比目鱼、草鱼等。", "category": "健康生活方式", "page_num": 13}
+{"match_tokens": ["disease:其他病症"], "advice": "选择嘌呤含量较低的食物，如薯类、淀粉制品及部分谷类制品。", "category": "健康生活方式", "page_num": 14}
+{"match_tokens": ["disease:其他病症"], "advice": "避免或减少食用高嘌呤食物，如干豆类及制品。", "category": "健康生活方式", "page_num": 14}
+{"match_tokens": ["population:任何"], "advice": "选择蔬菜、菌藻类及豆制品作为日常饮食的一部分，例如胡萝卜、黄瓜、西兰花、香菇、木耳和豆腐。", "category": "健康生活方式", "page_num": 15}
+{"match_tokens": ["population:任何"], "advice": "食用豆类及豆制品，如纳豆、豆腐、豆浆和蚕豆，以获取蛋白质和营养。", "category": "健康生活方式", "page_num": 15}
+{"match_tokens": ["population:任何"], "advice": "食用菌藻类食物，如鲍鱼菇、木耳、银耳和香菇，以丰富膳食种类。", "category": "健康生活方式", "page_num": 15}
+{"match_tokens": ["population:老年人", "disease:高血压"], "advice": "选择低嘌呤食物，如水果类（苹果、香蕉、西瓜等）和部分蔬菜，避免高嘌呤食物如猪肥肠、牛肝、鸡胗。", "category": "健康生活方式", "page_num": 16}
+{"match_tokens": ["disease:痛风", "risk:高嘌呤饮食"], "advice": "避免食用高嘌呤食物，如猪肥肠、牛肝、鸡胗、部分干菌菇（竹荪、元蘑）和部分坚果（花生、腰果）。", "category": "健康生活方式", "page_num": 16}
+{"match_tokens": ["disease:肥胖症", "bmi:肥胖"], "advice": "选择低能量密度的食物，如新鲜蔬菜（白玉茹、猴头菇）和大部分水果（苹果、西瓜、木瓜），限制高能量密度的坚果（花生、松子、腰果）和干制食品。", "category": "健康生活方式", "page_num": 16}
+{"match_tokens": ["disease:高尿酸血症"], "advice": "避免食用高嘌呤食物，如鲅鱼（烤）、猪肝、猪肺、猪肾、鸡肝、鸭肝、鹅肝、凤尾鱼等。", "category": "健康生活方式", "page_num": 17}
+{"match_tokens": ["disease:高尿酸血症"], "advice": "选择嘌呤含量较低的食物，如牛骨头汤（火锅后）、猪血、奶粉、奶酪、鸡蛋、鹅蛋、松花蛋等。", "category": "健康生活方式", "page_num": 17}
+{"match_tokens": ["disease:无特定疾病"], "advice": "选择嘌呤含量较低的海鲜，如海蜇丝（9mg/100g）、干鲍鱼（发后）（9mg/100g）、鲜鲍鱼（熟）（112mg/100g）、蛏子（熟）（193mg/100g）。", "category": "健康生活方式", "page_num": 18}
+{"match_tokens": ["disease:无特定疾病"], "advice": "避免或限制食用嘌呤含量极高的海鲜，如烤虾（389mg/100g）、干对虾（349mg/100g）、干虾仁（345mg/100g）、毛蚶（熟）（343mg/100g）。", "category": "健康生活方式", "page_num": 18}
+{"match_tokens": ["disease:其他病症"], "advice": "选择食物时，可参考《中国食物成分表》中列出的各类食物嘌呤含量数据。", "category": "健康生活方式", "page_num": 19}
+{"match_tokens": ["age:成人", "disease:其他病症"], "advice": "谷薯类选择糙米、全麦面粉、玉米、青稞、荞麦、黄米、燕麦、小米、高粱、藜麦、红薯、紫薯等食物。", "category": "健康生活方式", "page_num": 20}
+{"match_tokens": ["age:成人", "disease:其他病症"], "advice": "避免食用黄油面包、糕点等高能量加工食品，以及油条、油饼等油煎油炸食品，饼干、蛋糕、甜甜圈等糖含量较高的加工食品。", "category": "健康生活方式", "page_num": 20}
+{"match_tokens": ["age:成人", "disease:其他病症"], "advice": "肉类适量食用瘦肉、去皮禽肉。", "category": "健康生活方式", "page_num": 20}
+{"match_tokens": ["age:成人", "disease:其他病症"], "advice": "避免食用肥肉、动物内脏，咸肉、腊肉等加工肉制品，鱼籽、蟹黄、鱿鱼、牡蛎、蛤蜊等海鲜水产。", "category": "健康生活方式", "page_num": 20}
+{"match_tokens": ["age:成人", "disease:其他病症"], "advice": "蛋类选择鸡蛋、鸭蛋等。", "category": "健康生活方式", "page_num": 20}
+{"match_tokens": ["age:成人", "disease:其他病症"], "advice": "避免食用咸蛋。", "category": "健康生活方式", "page_num": 20}
+{"match_tokens": ["age:成人", "disease:其他病症"], "advice": "奶类选择脱脂奶、低脂奶、鲜牛奶、纯牛奶、低糖酸奶等。", "category": "健康生活方式", "page_num": 20}
+{"match_tokens": ["age:成人", "disease:其他病症"], "advice": "避免食用奶油、黄油等。", "category": "健康生活方式", "page_num": 20}
+{"match_tokens": ["age:成人", "disease:其他病症"], "advice": "大豆及制品类选择豆腐、豆腐干等。", "category": "健康生活方式", "page_num": 20}
+{"match_tokens": ["age:成人", "disease:其他病症"], "advice": "避免食用油豆腐皮、豆腐泡等油炸豆制品。", "category": "健康生活方式", "page_num": 20}
+{"match_tokens": ["age:成人", "disease:其他病症"], "advice": "蔬菜类选择新鲜蔬菜。", "category": "健康生活方式", "page_num": 20}
+{"match_tokens": ["age:成人", "disease:其他病症"], "advice": "避免食用腌制蔬菜。", "category": "健康生活方式", "page_num": 20}
+{"match_tokens": ["age:成人", "disease:其他病症"], "advice": "水果类选择樱桃、草莓、菠萝、桃子等新鲜水果。", "category": "健康生活方式", "page_num": 20}
+{"match_tokens": ["age:成人", "disease:其他病症"], "advice": "避免食用添加糖含量高的水果制品，如果汁、水果罐头等。", "category": "健康生活方式", "page_num": 20}
+{"match_tokens": ["age:成人", "disease:其他病症"], "advice": "食用油选择紫苏油、亚麻籽油、核桃油、橄榄油、茶籽油、菜籽油、葵花籽油、玉米油、芝麻油、豆油、花生油、胚芽油等。", "category": "健康生活方式", "page_num": 20}
+{"match_tokens": ["age:成人", "disease:其他病症"], "advice": "避免食用棕榈油，猪油、牛油、羊油及其他动物油。", "category": "健康生活方式", "page_num": 20}
+{"match_tokens": ["age:成人", "disease:其他病症"], "advice": "调味品使用低钠盐，每天不超过5g。", "category": "健康生活方式", "page_num": 20}
+{"match_tokens": ["age:成人", "disease:其他病症"], "advice": "避免食用酱类、腐乳等高盐调味品；红糖、白糖、糖浆等。", "category": "健康生活方式", "page_num": 20}
+{"match_tokens": ["disease:高尿酸血症", "disease:痛风"], "advice": "湿浊证患者可咨询医生或营养指导人员后，在限定范围和剂量内使用橘皮、生姜、赤小豆、郁李仁、茯苓、葛根、菊苣、百合、砂仁、木瓜、黄芪作为食药物质。", "category": "治疗与康复", "page_num": 21}
+{"match_tokens": ["disease:高尿酸血症", "disease:痛风"], "advice": "湿热证患者可咨询医生或营养指导人员后，在限定范围和剂量内使用薏苡仁、赤小豆、金银花、茯苓、桑叶、葛根、山药、马齿苋、菊苣、荷叶、栀子、决明子、白扁豆、余甘子、百合、鲜白茅根、菊花、五指毛桃、玉米须作为食药物质或新食品原料。", "category": "治疗与康复", "page_num": 21}
+{"match_tokens": ["disease:高尿酸血症", "disease:痛风"], "advice": "痰瘀证患者可咨询医生或营养指导人员后，在限定范围和剂量内使用橘皮、桔梗、昆布、生姜、佛手、木耳、山楂、桃仁、姜黄、当归、山药、薏苡仁、茯苓、白扁豆、赤小豆、荷叶、葛根、菊苣、莱菔子、紫苏子、莲子、罗汉果、鱼腥草、重瓣玫瑰作为食药物质、调味品或新食品原料。", "category": "治疗与康复", "page_num": 21}
+{"match_tokens": ["disease:高尿酸血症", "disease:痛风"], "advice": "脾肾亏虚证患者可咨询医生或营养指导人员后，在限定范围和剂量内使用山药、芡实、莲子、茯苓、白扁豆、赤小豆、薏苡仁、葛根、菊苣、砂仁、大枣、龙眼肉、五指毛桃、人参（人工种植≤5 年）、党参、黄芪作为食药物质或新食品原料。", "category": "治疗与康复", "page_num": 21}
+{"match_tokens": ["disease:其他病症", "population:老年人"], "advice": "高尿酸血症与痛风患者可结合诊断及症状，划分疾病阶段或证型，根据不同证型给予相应的食养方案，达到精准施膳的目的。", "category": "治疗与康复", "page_num": 22}
+{"match_tokens": ["disease:其他病症"], "advice": "食谱制作坚持食物多样、能量适宜、主食定量、蛋白适量、蔬菜丰富的原则。", "category": "治疗与康复", "page_num": 22}
+{"match_tokens": ["disease:其他病症"], "advice": "使用者可参照食养原则和建议，结合食物交换表，根据具体情况对食谱进行合理搭配。", "category": "治疗与康复", "page_num": 22}
+{"match_tokens": ["disease:其他病症", "bmi:正常", "age:成人"], "advice": "正常体重的成人无症状高尿酸血症期与痛风间歇期的轻体力活动人群，一天食谱的能量范围在1600～1800kcal，整体食谱符合能量适宜、搭配合理的原则。", "category": "治疗与康复", "page_num": 22}
+{"match_tokens": ["disease:无特定疾病"], "advice": "遵循定量、蔬菜肉类适量的原则安排膳食。", "category": "健康生活方式", "page_num": 23}
+{"match_tokens": ["disease:无特定疾病"], "advice": "当体重过重或过轻时，可以根据理想体重及能量系数20～25kcal/(kg·d)适当调整食材用量。", "category": "健康生活方式", "page_num": 23}
+{"match_tokens": ["disease:无症状高尿酸血症期与痛风间歇期"], "advice": "遵循无症状高尿酸血症期与痛风间歇期食养特点，合理搭配内陆地区四季应季特色食材。", "category": "治疗与康复", "page_num": 23}
+{"match_tokens": ["disease:无症状高尿酸血症期与痛风间歇期"], "advice": "早餐可食用玉米面馒头、煮鸡蛋、脱脂牛奶和凉拌芹菜丝。", "category": "治疗与康复", "page_num": 23}
+{"match_tokens": ["disease:无症状高尿酸血症期与痛风间歇期"], "advice": "茶饮可饮用菊花菊苣茶。", "category": "治疗与康复", "page_num": 23}
+{"match_tokens": ["disease:无症状高尿酸血症期与痛风间歇期"], "advice": "中餐可食用杂粮饭、青椒炒肉丝、醋熘白菜和春笋萝卜汤。", "category": "治疗与康复", "page_num": 23}
+{"match_tokens": ["disease:无症状高尿酸血症期与痛风间歇期"], "advice": "加餐可食用草莓。", "category": "治疗与康复", "page_num": 23}
+{"match_tokens": ["disease:无症状高尿酸血症期与痛风间歇期"], "advice": "晚餐可食用紫薯饭、西葫芦炒鸡蛋、凉拌马兰头和白灼芥兰。", "category": "治疗与康复", "page_num": 23}
+{"match_tokens": ["disease:无症状高尿酸血症期与痛风间歇期"], "advice": "全天总用量：植物油25g，盐4g。", "category": "治疗与康复", "page_num": 23}
+{"match_tokens": ["disease:无症状高尿酸血症期与痛风间歇期"], "advice": "早餐可食用蔬菜面、煮鸡蛋和低脂牛奶。", "category": "治疗与康复", "page_num": 23}
+{"match_tokens": ["disease:糖尿病"], "advice": "遵循春季食谱3，每日能量摄入控制在1670～1730kcal，蛋白质66～73g，碳水化合物241～258g，脂肪46～49g。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:糖尿病"], "advice": "遵循夏季食谱1，早餐食用紫薯馒头、荷包蛋、脱脂牛奶和凉拌黄瓜。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:糖尿病"], "advice": "遵循春季食谱3，早餐食用素包子、纯牛奶和凉拌菜心。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:糖尿病"], "advice": "遵循春季食谱3，午餐食用二米饭、西红柿炖牛肉、芹菜炒百合和莲藕汤。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:糖尿病"], "advice": "遵循春季食谱3，晚餐食用蔬菜面、菊苣炒鸡蛋和香干莴笋。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:糖尿病"], "advice": "遵循春季食谱3，加餐食用菠萝200g。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:糖尿病"], "advice": "遵循春季食谱3，全天使用植物油25g，盐4g。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:糖尿病"], "advice": "遵循春季食谱3，茶饮饮用菊花葛根茶。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:糖尿病"], "advice": "遵循春季食谱3，午餐食用西红柿炖牛肉时加入豆腐30g。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:糖尿病"], "advice": "遵循春季食谱3，晚餐食用蔬菜面时加入油菜50g。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:糖尿病"], "advice": "遵循春季食谱3，晚餐食用菊苣炒鸡蛋时使用鲜菊苣叶60g和鸡蛋50g。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:糖尿病"], "advice": "遵循春季食谱3，晚餐食用香干莴笋时使用莴笋150g和豆腐干50g。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:糖尿病"], "advice": "遵循春季食谱3，午餐食用芹菜炒百合时使用芹菜100g和鲜百合30g。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:糖尿病"], "advice": "遵循春季食谱3，午餐食用莲藕汤时使用莲藕50g、胡萝卜20g和小白菜100g。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:糖尿病"], "advice": "遵循春季食谱3，早餐食用素包子时使用香菇25g、荠菜60g和面粉70g。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:糖尿病"], "advice": "遵循春季食谱3，早餐食用凉拌菜心时使用菜心50g。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:糖尿病"], "advice": "遵循春季食谱3，茶饮饮用菊花葛根茶时使用菊花3g和葛根6g。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:糖尿病"], "advice": "遵循春季食谱3，午餐食用二米饭时使用大米80g和小米40g。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:糖尿病"], "advice": "遵循春季食谱3，午餐食用西红柿炖牛肉时使用西红柿100g和牛瘦肉50g。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:糖尿病"], "advice": "遵循春季食谱3，加餐食用菠萝200g。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:糖尿病"], "advice": "遵循春季食谱3，晚餐食用蔬菜面时使用面条70g。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:糖尿病"], "advice": "遵循春季食谱3，晚餐食用菊苣炒鸡蛋时使用鲜菊苣叶60g和鸡蛋50g。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:糖尿病"], "advice": "遵循春季食谱3，晚餐食用香干莴笋时使用莴笋150g和豆腐干50g。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:糖尿病"], "advice": "遵循春季食谱3，全天使用植物油25g，盐4g。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:糖尿病"], "advice": "遵循春季食谱3，茶饮饮用菊花葛根茶时使用菊花3g和葛根6g。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:糖尿病"], "advice": "遵循春季食谱3，午餐食用二米饭时使用大米80g和小米40g。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:糖尿病"], "advice": "遵循春季食谱3，午餐食用西红柿炖牛肉时使用西红柿100g和牛瘦肉50g。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:糖尿病"], "advice": "遵循春季食谱3，午餐食用芹菜炒百合时使用芹菜100g和鲜百合30g。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:糖尿病"], "advice": "遵循春季食谱3，午餐食用莲藕汤时使用莲藕50g、胡萝卜20g和小白菜100g。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:糖尿病"], "advice": "遵循春季食谱3，加餐食用菠萝200g。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:糖尿病"], "advice": "遵循春季食谱3，晚餐食用蔬菜面时使用面条70g和油菜50g。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:糖尿病"], "advice": "遵循春季食谱3，晚餐食用菊苣炒鸡蛋时使用鲜菊苣叶60g和鸡蛋50g。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:糖尿病"], "advice": "遵循春季食谱3，晚餐食用香干莴笋时使用莴笋150g和豆腐干50g。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:糖尿病"], "advice": "遵循春季食谱3，全天使用植物油25g，盐4g。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:糖尿病"], "advice": "遵循春季食谱3，茶饮饮用菊花葛根茶时使用菊花3g和葛根6g。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:糖尿病"], "advice": "遵循春季食谱3，午餐食用二米饭时使用大米80g和小米40g。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:糖尿病"], "advice": "遵循春季食谱3，午餐食用西红柿炖牛肉时使用西红柿100g和牛瘦肉50g。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:糖尿病"], "advice": "遵循春季食谱3，午餐食用芹菜炒百合时使用芹菜100g和鲜百合30g。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:糖尿病"], "advice": "遵循春季食谱3，午餐食用莲藕汤时使用莲藕50g、胡萝卜20g和小白菜100g。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:糖尿病"], "advice": "遵循春季食谱3，加餐食用菠萝200g。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:糖尿病"], "advice": "遵循春季食谱3，晚餐食用蔬菜面时使用面条70g和油菜50g。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:糖尿病"], "advice": "遵循春季食谱3，晚餐食用菊苣炒鸡蛋时使用鲜菊苣叶60g和鸡蛋50g。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:糖尿病"], "advice": "遵循春季食谱3，晚餐食用香干莴笋时使用莴笋150g和豆腐干50g。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:糖尿病"], "advice": "遵循春季食谱3，全天使用植物油25g，盐4g。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:糖尿病"], "advice": "遵循春季食谱3，茶饮饮用菊花葛根茶时使用菊花3g和葛根6g。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:糖尿病"], "advice": "遵循春季食谱3，午餐食用二米饭时使用大米80g和小米40g。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:糖尿病"], "advice": "遵循春季食谱3，午餐食用西红柿炖牛肉时使用西红柿100g和牛瘦肉50g。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:糖尿病"], "advice": "遵循春季食谱3，午餐食用芹菜炒百合时使用芹菜100g和鲜百合30g。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:糖尿病"], "advice": "遵循春季食谱3，午餐食用莲藕汤时使用莲藕50g、胡萝卜20g和小白菜100g。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:糖尿病"], "advice": "遵循春季食谱3，加餐食用菠萝200g。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:糖尿病"], "advice": "遵循春季食谱3，晚餐食用蔬菜面时使用面条70g和油菜50g。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:糖尿病"], "advice": "遵循春季食谱3，晚餐食用菊苣炒鸡蛋时使用鲜菊苣叶60g和鸡蛋50g。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:糖尿病"], "advice": "遵循春季食谱3，晚餐食用香干莴笋时使用莴笋150g和豆腐干50g。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:糖尿病"], "advice": "遵循春季食谱3，全天使用植物油25g，盐4g。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:糖尿病"], "advice": "遵循春季食谱3，茶饮饮用菊花葛根茶时使用菊花3g和葛根6g。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:糖尿病"], "advice": "遵循春季食谱3，午餐食用二米饭时使用大米80g和小米40g。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:糖尿病"], "advice": "遵循春季食谱3，午餐食用西红柿炖牛肉时使用西红柿100g和牛瘦肉50g。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:糖尿病"], "advice": "遵循春季食谱3，午餐食用芹菜炒百合时使用芹菜100g和鲜百合30g。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:糖尿病"], "advice": "遵循春季食谱3，午餐食用莲藕汤时使用莲藕50g、胡萝卜20g和小白菜100g。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:糖尿病"], "advice": "遵循春季食谱3，加餐食用菠萝200g。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:糖尿病"], "advice": "遵循春季食谱3，晚餐食用蔬菜面时使用面条70g和油菜50g。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:糖尿病"], "advice": "遵循春季食谱3，晚餐食用菊苣炒鸡蛋时使用鲜菊苣叶60g和鸡蛋50g。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:糖尿病"], "advice": "遵循春季食谱3，晚餐食用香干莴笋时使用莴笋150g和豆腐干50g。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:糖尿病"], "advice": "遵循春季食谱3，全天使用植物油25g，盐4g。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:糖尿病"], "advice": "遵循春季食谱3，茶饮饮用菊花葛根茶时使用菊花3g和葛根6g。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:糖尿病"], "advice": "遵循春季食谱3，午餐食用二米饭时使用大米80g和小米40g。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:糖尿病"], "advice": "遵循春季食谱3，午餐食用西红柿炖牛肉时使用西红柿100g和牛瘦肉50g。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:糖尿病"], "advice": "遵循春季食谱3，午餐食用芹菜炒百合时使用芹菜100g和鲜百合30g。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:糖尿病"], "advice": "遵循春季食谱3，午餐食用莲藕汤时使用莲藕50g、胡萝卜20g和小白菜100g。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:糖尿病"], "advice": "遵循春季食谱3，加餐食用菠萝200g。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:糖尿病"], "advice": "遵循春季食谱3，晚餐食用蔬菜面时使用面条70g和油菜50g。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:糖尿病"], "advice": "遵循春季食谱3，晚餐食用菊苣炒鸡蛋时使用鲜菊苣叶60g和鸡蛋50g。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:糖尿病"], "advice": "遵循春季食谱3，晚餐食用香干莴笋时使用莴笋150g和豆腐干50g。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:糖尿病"], "advice": "遵循春季食谱3，全天使用植物油25g，盐4g。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:糖尿病"], "advice": "遵循春季食谱3，茶饮饮用菊花葛根茶时使用菊花3g和葛根6g。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:糖尿病"], "advice": "遵循春季食谱3，午餐食用二米饭时使用大米80g和小米40g。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:糖尿病"], "advice": "遵循春季食谱3，午餐食用西红柿炖牛肉时使用西红柿100g和牛瘦肉50g。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:糖尿病"], "advice": "遵循春季食谱3，午餐食用芹菜炒百合时使用芹菜100g和鲜百合30g。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:糖尿病"], "advice": "遵循春季食谱3，午餐食用莲藕汤时使用莲藕50g、胡萝卜20g和小白菜100g。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:糖尿病"], "advice": "遵循春季食谱3，加餐食用菠萝200g。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:糖尿病"], "advice": "遵循春季食谱3，晚餐食用蔬菜面时使用面条70g和油菜50g。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:糖尿病"], "advice": "遵循春季食谱3，晚餐食用菊苣炒鸡蛋时使用鲜菊苣叶60g和鸡蛋50g。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:糖尿病"], "advice": "遵循春季食谱3，晚餐食用香干莴笋时使用莴笋150g和豆腐干50g。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:糖尿病"], "advice": "遵循春季食谱3，全天使用植物油25g，盐4g。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:糖尿病"], "advice": "遵循春季食谱3，茶饮饮用菊花葛根茶时使用菊花3g和葛根6g。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:糖尿病"], "advice": "遵循春季食谱3，午餐食用二米饭时使用大米80g和小米40g。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:糖尿病"], "advice": "遵循春季食谱3，午餐食用西红柿炖牛肉时使用西红柿100g和牛瘦肉50g。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:糖尿病"], "advice": "遵循春季食谱3，午餐食用芹菜炒百合时使用芹菜100g和鲜百合30g。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:糖尿病"], "advice": "遵循春季食谱3，午餐食用莲藕汤时使用莲藕50g、胡萝卜20g和小白菜100g。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:糖尿病"], "advice": "遵循春季食谱3，加餐食用菠萝200g。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["population:老年人"], "advice": "夏季可饮用金银花菊苣茶（金银花3g，菊苣3g）。", "category": "健康生活方式", "page_num": 25}
+{"match_tokens": ["population:老年人"], "advice": "午餐可食用二米饭（小米30g，大米70g）、三味茄子（茄子100g，香菜20g，猪瘦肉50g）、清炒芥兰（芥兰200g）和丝瓜鸡蛋汤（丝瓜100g，鸡蛋20g）。", "category": "健康生活方式", "page_num": 25}
+{"match_tokens": ["population:老年人"], "advice": "加餐可食用桃子（200g）。", "category": "健康生活方式", "page_num": 25}
+{"match_tokens": ["population:老年人"], "advice": "晚餐可食用蒸南瓜（南瓜100g）、冬瓜薏苡仁山楂粥（冬瓜100g，薏苡仁9g，山楂6g，橘皮3g，大米40g）和凉拌蒜蓉茄子（茄子200g，柿子椒50g）。", "category": "健康生活方式", "page_num": 25}
+{"match_tokens": ["population:老年人"], "advice": "全天烹饪用油控制在植物油25g，盐4g。", "category": "健康生活方式", "page_num": 25}
+{"match_tokens": ["population:老年人"], "advice": "早餐可食用土豆丝饼（土豆50g，百合6g，全麦面粉60g）、煮鸡蛋（鸡蛋50g）、低脂牛奶（300mL）和凉拌海带丝（海带丝50g）。", "category": "健康生活方式", "page_num": 25}
+{"match_tokens": ["population:老年人"], "advice": "夏季可饮用金银花葛根茶（金银花3g，葛根3g）。", "category": "健康生活方式", "page_num": 25}
+{"match_tokens": ["population:老年人"], "advice": "午餐可食用菠菜面（菠菜20g，鲜菊苣叶20g，面粉100g）、西兰花炒肉片（西兰花100g，牛瘦肉50g）和西红柿炒西葫芦（西红柿100g，西葫芦200g）。", "category": "健康生活方式", "page_num": 25}
+{"match_tokens": ["population:老年人"], "advice": "加餐可食用李子（150g）。", "category": "健康生活方式", "page_num": 25}
+{"match_tokens": ["population:老年人"], "advice": "晚餐可食用紫薯饭（紫薯40g，大米50g）、素炒三丝（胡萝卜丝50g，黄瓜丝100g、柿子椒50g）、蒜蓉红薯尖（红薯叶100g）和西红柿鸡蛋汤（西红柿100g，鸡蛋20g）。", "category": "健康生活方式", "page_num": 25}
+{"match_tokens": ["population:老年人"], "advice": "早餐可食用双色花卷（面粉70g，南瓜60g）、煮鸡蛋（鸡蛋50g）、纯牛奶（300mL）和凉拌苦菊（苦菊150g）。", "category": "健康生活方式", "page_num": 25}
+{"match_tokens": ["population:老年人"], "advice": "夏季可饮用金银花荷叶茶（金银花3g，荷叶3g）。", "category": "健康生活方式", "page_num": 25}
+{"match_tokens": ["population:老年人"], "advice": "午餐可食用荷叶玉米饭（鲜荷叶半张，大米90g，玉米粒20g）、土豆丝炒肉（土豆丝50g，猪瘦肉50g）和白灼空心菜（空心菜150g）。", "category": "健康生活方式", "page_num": 25}
+{"match_tokens": ["disease:无特定疾病"], "advice": "全天烹饪使用植物油25克，盐4克。", "category": "健康生活方式", "page_num": 26}
+{"match_tokens": ["disease:无特定疾病"], "advice": "早餐可食用枸杞双色馒头、煮鸡蛋、脱脂牛奶和拌紫甘蓝。", "category": "健康生活方式", "page_num": 26}
+{"match_tokens": ["disease:无特定疾病"], "advice": "早餐可饮用百合葛根茶。", "category": "健康生活方式", "page_num": 26}
+{"match_tokens": ["disease:无特定疾病"], "advice": "中餐可食用紫薯饭、芹菜炒鸡丝、西红柿炒西葫芦和冬瓜玉米豆腐汤。", "category": "健康生活方式", "page_num": 26}
+{"match_tokens": ["disease:无特定疾病"], "advice": "加餐可食用橘子200克。", "category": "健康生活方式", "page_num": 26}
+{"match_tokens": ["disease:无特定疾病"], "advice": "晚餐可食用杂粮薄饼、百合粥和清炒油菜。", "category": "健康生活方式", "page_num": 26}
+{"match_tokens": ["disease:无特定疾病"], "advice": "早餐可食用玉米面馒头、煮鸡蛋、纯牛奶和凉拌萝卜丝。", "category": "健康生活方式", "page_num": 26}
+{"match_tokens": ["disease:无特定疾病"], "advice": "早餐可饮用百合菊苣茶。", "category": "健康生活方式", "page_num": 26}
+{"match_tokens": ["disease:无特定疾病"], "advice": "中餐可食用紫薯饭、西兰花炒牛肉和蒜蓉油麦菜。", "category": "健康生活方式", "page_num": 26}
+{"match_tokens": ["population:老年人"], "advice": "每日食谱可提供能量1600～1750kcal，蛋白质58～77g，碳水化合物223～256g，脂肪47～51g。", "category": "健康生活方式", "page_num": 27}
+{"match_tokens": ["population:老年人"], "advice": "每日摄入植物油25g，盐4g。", "category": "健康生活方式", "page_num": 27}
+{"match_tokens": ["population:老年人"], "advice": "早餐可食用鸡蛋饼（含面粉、鸡蛋、菊苣粉、圆白菜）并搭配低脂牛奶和凉拌莴笋丝。", "category": "健康生活方式", "page_num": 27}
+{"match_tokens": ["population:老年人"], "advice": "茶饮可选择山楂薏苡仁饮（含山楂、薏苡仁）。", "category": "健康生活方式", "page_num": 27}
+{"match_tokens": ["population:老年人"], "advice": "中餐可食用杂粮饭（含紫米、大米、薏苡仁）并搭配青椒炒肉丝、白灼生菜和西红柿鸡蛋汤。", "category": "健康生活方式", "page_num": 27}
+{"match_tokens": ["population:老年人"], "advice": "加餐可食用梨（200g）。", "category": "健康生活方式", "page_num": 27}
+{"match_tokens": ["population:老年人"], "advice": "晚餐可食用杂粮锅盔（含全麦面粉、面粉）并搭配蒜香西兰花、凉拌蒜蓉茄子和小白菜豆腐汤。", "category": "健康生活方式", "page_num": 27}
+{"match_tokens": ["population:老年人"], "advice": "冬季早餐可食用玉米面馒头、煮鸡蛋、脱脂牛奶和洋葱拌黄瓜。", "category": "健康生活方式", "page_num": 27}
+{"match_tokens": ["population:老年人"], "advice": "冬季茶饮可选择姜枣茶（含生姜、大枣、薏苡仁）。", "category": "健康生活方式", "page_num": 27}
+{"match_tokens": ["population:老年人"], "advice": "冬季中餐可食用杂粮饭（含大米、小米、薏苡仁）并搭配鱼香肉丝和韭菜莴笋丝。", "category": "健康生活方式", "page_num": 27}
+{"match_tokens": ["disease:无特定疾病", "population:老年人"], "advice": "早餐可食用菜团子（菠菜150g，玉米面粉70g）、煮鸡蛋（鸡蛋50g）、纯牛奶（300mL）和木耳拌西芹（木耳【水发】20g，西芹100g）。", "category": "健康生活方式", "page_num": 28}
+{"match_tokens": ["disease:无特定疾病", "population:老年人"], "advice": "午餐可食用二米饭（大米70g，小米30g）、木须肉（去皮鸡肉50g，黄瓜50g，鸡蛋20g，木耳【水发】30g）、白灼菜心（菜心100g）和冬瓜萝卜汤（白萝卜50g，冬瓜50g，鸡蛋10g）。", "category": "健康生活方式", "page_num": 28}
+{"match_tokens": ["disease:无特定疾病", "population:老年人"], "advice": "晚餐可食用玉米南瓜饼（玉米面粉30g，南瓜60g，面粉30g）。", "category": "健康生活方式", "page_num": 28}
+{"match_tokens": ["disease:无特定疾病", "population:老年人"], "advice": "加餐可食用柚子(200g)。", "category": "健康生活方式", "page_num": 28}
+{"match_tokens": ["disease:无特定疾病", "population:老年人"], "advice": "全天烹饪用油、盐总用量为：植物油25g，盐4g。", "category": "健康生活方式", "page_num": 28}
+{"match_tokens": ["disease:无特定疾病", "population:老年人"], "advice": "早餐可食用青菜包（油菜30g，鲜香菇10g，面粉60g）、煮鸡蛋（鸡蛋50g）、低脂牛奶（300mL）和凉拌胡萝卜丝（胡萝卜100g）。", "category": "健康生活方式", "page_num": 28}
+{"match_tokens": ["disease:无特定疾病", "population:老年人"], "advice": "午餐可食用玉米饭（玉米30g，大米100g）、西兰花炒牛肉（西兰花100g，牛瘦肉50g）、豆豉鲮鱼油麦菜（鲮鱼20g，油麦菜200g）和萝卜海带汤（白萝卜50g，海带10g）。", "category": "健康生活方式", "page_num": 28}
+{"match_tokens": ["disease:无特定疾病", "population:老年人"], "advice": "晚餐可食用杂粮馒头（玉米面粉30g，面粉15g，黑麦面粉15g，淀粉10g）、蒜蓉金针菇（金针菇100g）、西红柿炒菜花（西红柿100g，菜花100g）和冬瓜丸子汤（冬瓜100g，猪肉馅50g）。", "category": "健康生活方式", "page_num": 28}
+{"match_tokens": ["disease:无特定疾病", "population:老年人"], "advice": "加餐可食用橙子(200g)。", "category": "健康生活方式", "page_num": 28}
+{"match_tokens": ["disease:无特定疾病", "population:老年人"], "advice": "早餐可食用白菜豆腐汤（白菜100g，豆腐50g）。", "category": "健康生活方式", "page_num": 28}
+{"match_tokens": ["disease:无特定疾病", "population:老年人"], "advice": "晚餐可食用蒸南瓜（南瓜150g）、西红柿鸡蛋疙瘩汤（西红柿50g，鸡蛋20g，全麦面粉60g）和爆炒圆白菜（圆白菜200g）。", "category": "健康生活方式", "page_num": 28}
+{"match_tokens": ["disease:无特定疾病", "population:老年人"], "advice": "加餐可食用梨(200g)。", "category": "健康生活方式", "page_num": 28}
+{"match_tokens": ["disease:无特定疾病"], "advice": "每日烹饪使用植物油25克，食盐4克。", "category": "健康生活方式", "page_num": 29}
+{"match_tokens": ["disease:无特定疾病"], "advice": "每日食谱可提供能量1630～1790千卡，蛋白质67～75克，碳水化合物230～254克，脂肪50～64克。", "category": "健康生活方式", "page_num": 29}
+{"match_tokens": ["disease:无特定疾病", "population:老年人"], "advice": "主食以大米为主，膳食讲究荤素搭配，食物多样，蔬菜水果豆制品丰富，鱼虾水产多，烹调清淡少盐。", "category": "健康生活方式", "page_num": 30}
+{"match_tokens": ["disease:无特定疾病", "population:老年人"], "advice": "食养多采用健脾祛湿的食材。", "category": "健康生活方式", "page_num": 30}
+{"match_tokens": ["disease:无特定疾病", "population:老年人"], "advice": "遵循无症状高尿酸血症期及痛风间歇期食养特点，合理搭配沿海地区四季应季特色食材。", "category": "健康生活方式", "page_num": 30}
+{"match_tokens": ["disease:无特定疾病", "population:老年人"], "advice": "尊重各地区传统膳食文化、保留特色膳食。", "category": "健康生活方式", "page_num": 30}
+{"match_tokens": ["disease:无特定疾病", "population:老年人"], "advice": "早餐可食用青菜包、煮鸡蛋、脱脂牛奶、凉拌豆腐丝，茶饮可饮用菊花枸杞菊苣茶。", "category": "健康生活方式", "page_num": 30}
+{"match_tokens": ["disease:无特定疾病", "population:老年人"], "advice": "中餐可食用玉米饭、芹菜炒肉丝、蒜蓉茼蒿、西红柿鸡蛋汤，加餐可食用樱桃。", "category": "健康生活方式", "page_num": 30}
+{"match_tokens": ["disease:无特定疾病", "population:老年人"], "advice": "晚餐可食用二米饭、爆炒圆白菜、凉拌海蜇头、萝卜海带汤。", "category": "健康生活方式", "page_num": 30}
+{"match_tokens": ["disease:无特定疾病", "population:老年人"], "advice": "全天总用量：植物油25g，盐4g。", "category": "健康生活方式", "page_num": 30}
+{"match_tokens": ["disease:无特定疾病", "population:老年人"], "advice": "早餐可食用山药橘皮小米粥、煮鸡蛋、纯牛奶、凉拌莴笋。", "category": "健康生活方式", "page_num": 30}
+{"match_tokens": ["population:老年人"], "advice": "每日食谱可提供能量总值为1660～1790kcal，蛋白质69～83g，碳水化合物237～249g，脂肪48～53g。", "category": "健康生活方式", "page_num": 31}
+{"match_tokens": ["population:老年人"], "advice": "早餐可食用鸡蛋苕粉、低脂牛奶和凉拌黄豆芽。", "category": "健康生活方式", "page_num": 31}
+{"match_tokens": ["population:老年人"], "advice": "茶饮可选择桑叶菊苣茶。", "category": "健康生活方式", "page_num": 31}
+{"match_tokens": ["population:老年人"], "advice": "中餐可食用杂粮饭、蒜蓉西兰花、黄瓜炒肉片和西红柿玉米鸡蛋汤。", "category": "健康生活方式", "page_num": 31}
+{"match_tokens": ["population:老年人"], "advice": "加餐可食用苹果。", "category": "健康生活方式", "page_num": 31}
+{"match_tokens": ["population:老年人"], "advice": "晚餐可食用马齿苋金银花薏苡仁粥、醋熘白菜和凉拌豆腐丝。", "category": "健康生活方式", "page_num": 31}
+{"match_tokens": ["population:老年人"], "advice": "全天烹饪使用植物油25g，盐4g。", "category": "健康生活方式", "page_num": 31}
+{"match_tokens": ["population:老年人"], "advice": "早餐可食用鸡蛋肠粉和脱脂牛奶。", "category": "健康生活方式", "page_num": 31}
+{"match_tokens": ["population:老年人"], "advice": "茶饮可选择金银花栀子茶。", "category": "健康生活方式", "page_num": 31}
+{"match_tokens": ["population:老年人", "disease:高血压", "risk:高盐饮食"], "advice": "全天用盐总量控制在4克。", "category": "健康生活方式", "page_num": 32}
+{"match_tokens": ["population:老年人", "disease:高血压"], "advice": "中餐可食用荷叶玉米饭（鲜荷叶半张，大米80g，玉米20g）。", "category": "健康生活方式", "page_num": 32}
+{"match_tokens": ["population:老年人", "disease:高血压"], "advice": "中餐可食用苦瓜炒肉（苦瓜100g，猪瘦肉50g）。", "category": "健康生活方式", "page_num": 32}
+{"match_tokens": ["population:老年人", "disease:高血压"], "advice": "中餐可食用西红柿炒瓠瓜（西红柿100g，瓠瓜100g）。", "category": "健康生活方式", "page_num": 32}
+{"match_tokens": ["population:老年人", "disease:高血压"], "advice": "中餐可食用丝瓜豆腐汤（丝瓜150g，豆腐50g）。", "category": "健康生活方式", "page_num": 32}
+{"match_tokens": ["population:老年人", "disease:高血压"], "advice": "加餐可食用桃子（200g）。", "category": "健康生活方式", "page_num": 32}
+{"match_tokens": ["population:老年人", "disease:高血压"], "advice": "晚餐可食用紫薯小米粥（紫薯30g，百合6g，小米30g）。", "category": "健康生活方式", "page_num": 32}
+{"match_tokens": ["population:老年人", "disease:高血压"], "advice": "晚餐可食用白灼芥兰（芥兰100g）。", "category": "健康生活方式", "page_num": 32}
+{"match_tokens": ["population:老年人", "disease:高血压"], "advice": "晚餐可食用木须肉（去皮鸡肉30g，黄瓜30g，鸡蛋20g，木耳【水发】20g）。", "category": "健康生活方式", "page_num": 32}
+{"match_tokens": ["population:老年人", "disease:高血压"], "advice": "晚餐可食用青椒茄丁包（柿子椒30g，茄子100g，面粉50g）。", "category": "健康生活方式", "page_num": 32}
+{"match_tokens": ["population:老年人", "disease:高血压", "risk:高盐饮食"], "advice": "全天总用量：植物油25g，盐4g。", "category": "健康生活方式", "page_num": 32}
+{"match_tokens": ["population:老年人", "disease:高血压"], "advice": "早餐可食用蒸米糕（大枣4颗，小米面70g）。", "category": "健康生活方式", "page_num": 32}
+{"match_tokens": ["population:老年人", "disease:高血压"], "advice": "早餐可食用煮鸡蛋（鸡蛋50g）。", "category": "健康生活方式", "page_num": 32}
+{"match_tokens": ["population:老年人", "disease:高血压"], "advice": "早餐可饮用低脂牛奶（300mL）。", "category": "健康生活方式", "page_num": 32}
+{"match_tokens": ["population:老年人", "disease:高血压"], "advice": "早餐可食用凉拌黄瓜丝（黄瓜100g）。", "category": "健康生活方式", "page_num": 32}
+{"match_tokens": ["population:老年人", "disease:高血压"], "advice": "茶饮可饮用金银花薏苡仁茶（金银花3g，薏苡仁6g）。", "category": "健康生活方式", "page_num": 32}
+{"match_tokens": ["population:老年人", "disease:高血压"], "advice": "中餐可食用二米饭（大米50g，小米30g）。", "category": "健康生活方式", "page_num": 32}
+{"match_tokens": ["population:老年人", "disease:高血压"], "advice": "中餐可食用豇豆炒鸡肉丝（长豆角100g，去皮鸡肉50g）。", "category": "健康生活方式", "page_num": 32}
+{"match_tokens": ["population:老年人", "disease:高血压"], "advice": "中餐可食用西红柿炒茄子（西红柿100g，茄子100g，柿子椒20g）。", "category": "健康生活方式", "page_num": 32}
+{"match_tokens": ["population:老年人", "disease:高血压"], "advice": "中餐可食用苦瓜豆腐汤（苦瓜100g，豆腐50g，海带20g）。", "category": "健康生活方式", "page_num": 32}
+{"match_tokens": ["population:老年人", "disease:高血压"], "advice": "加餐可食用火龙果（200g）。", "category": "健康生活方式", "page_num": 32}
+{"match_tokens": ["population:老年人", "disease:高血压"], "advice": "晚餐可食用杂粮饭（玉米30g，大米40g）。", "category": "健康生活方式", "page_num": 32}
+{"match_tokens": ["population:老年人", "disease:高血压"], "advice": "晚餐可食用佛手瓜炒肉丝（佛手瓜100g，猪瘦肉30g)。", "category": "健康生活方式", "page_num": 32}
+{"match_tokens": ["population:老年人", "disease:高血压"], "advice": "晚餐可食用蒜蓉炒苋菜（苋菜100g）。", "category": "健康生活方式", "page_num": 32}
+{"match_tokens": ["population:老年人", "disease:高血压"], "advice": "晚餐可食用莲藕青菜汤（莲藕50g，茯苓9g，胡萝卜50g，娃娃菜100g）。", "category": "健康生活方式", "page_num": 32}
+{"match_tokens": ["population:老年人", "disease:高血压", "risk:高盐饮食"], "advice": "全天总用量：植物油25g，盐4g。", "category": "健康生活方式", "page_num": 32}
+{"match_tokens": ["population:老年人", "disease:高血压"], "advice": "早餐可食用茴香苗包子（茴香苗50g，鸡蛋50g，面粉50）。", "category": "健康生活方式", "page_num": 32}
+{"match_tokens": ["population:老年人", "disease:高血压"], "advice": "早餐可食用芹菜百合粥（芹菜100g，鲜百合30g，枸杞子2g，大米20g）。", "category": "健康生活方式", "page_num": 32}
+{"match_tokens": ["population:老年人", "disease:高血压"], "advice": "早餐可饮用纯牛奶（300mL）。", "category": "健康生活方式", "page_num": 32}
+{"match_tokens": ["population:老年人", "disease:高血压"], "advice": "茶饮可饮用金银花菊苣茶（金银花3g，菊苣3g）。", "category": "健康生活方式", "page_num": 32}
+{"match_tokens": ["population:老年人", "disease:高血压"], "advice": "中餐可食用紫薯饭（紫薯50g，大米50g）。", "category": "健康生活方式", "page_num": 32}
+{"match_tokens": ["population:老年人", "disease:高血压"], "advice": "中餐可食用清蒸鳕鱼（去皮鳕鱼50g）。", "category": "健康生活方式", "page_num": 32}
+{"match_tokens": ["population:老年人", "disease:高血压"], "advice": "中餐可食用木耳炒苦瓜（木耳【水发】20g，平菇30g，苦瓜100g）。", "category": "健康生活方式", "page_num": 32}
+{"match_tokens": ["population:老年人", "disease:高血压"], "advice": "中餐可食用海带豆腐汤（海带50g，豆腐50g）。", "category": "健康生活方式", "page_num": 32}
+{"match_tokens": ["disease:无特定疾病"], "advice": "全天烹饪使用植物油不超过25克，盐不超过4克。", "category": "健康生活方式", "page_num": 33}
+{"match_tokens": ["disease:无特定疾病"], "advice": "晚餐可食用杂粮饭（玉米20g，大米50g）、丝瓜炒肉（丝瓜200g，猪瘦肉50g）、蒜蓉红薯叶（红薯叶100g）和冬瓜萝卜汤（白萝卜60g，冬瓜60g，薏苡仁*9g，鸡蛋10g）。", "category": "健康生活方式", "page_num": 33}
+{"match_tokens": ["disease:无特定疾病"], "advice": "秋季早餐可食用百合粥（鲜百合*30g，大米30g，玉竹*6g，枸杞子*2g）、煮鸡蛋（鸡蛋50g）、纯牛奶（300mL）和凉拌莴笋丝（莴笋100g）。", "category": "健康生活方式", "page_num": 33}
+{"match_tokens": ["disease:无特定疾病"], "advice": "秋季可饮用百合葛根茶（百合*6g，葛根*6g）。", "category": "健康生活方式", "page_num": 33}
+{"match_tokens": ["disease:无特定疾病"], "advice": "秋季午餐可食用杂粮饭（大米70g，小米30g，薏苡仁*9g）、拌裙带菜（裙带菜50g）、木耳芹菜炒瘦肉（木耳【水发】30g，芹菜100g，猪瘦肉50g）和豆腐海带汤（海带10g，豆腐20g，小青菜30g）。", "category": "健康生活方式", "page_num": 33}
+{"match_tokens": ["disease:无特定疾病"], "advice": "秋季加餐可食用猕猴桃(200g)。", "category": "健康生活方式", "page_num": 33}
+{"match_tokens": ["disease:无特定疾病"], "advice": "秋季晚餐可食用二米饭（大米40g，小米30g）、葱爆海参（海参100g，大葱30g）、洋葱炒西红柿（洋葱100g，西红柿100g）和丝瓜鸡蛋汤（丝瓜100g，鸡蛋20g）。", "category": "健康生活方式", "page_num": 33}
+{"match_tokens": ["disease:无特定疾病"], "advice": "秋季另一早餐方案可食用玉米面馒头（玉米面粉40g，面粉40g）、煮鸡蛋（鸡蛋50g）、脱脂牛奶（300mL）和清炒圆白菜（圆白菜100g）。", "category": "健康生活方式", "page_num": 33}
+{"match_tokens": ["disease:无特定疾病"], "advice": "秋季可饮用百合菊苣茶（百合*6g，菊苣*6g）。", "category": "健康生活方式", "page_num": 33}
+{"match_tokens": ["disease:无特定疾病"], "advice": "秋季另一午餐方案可食用杂粮米饭（黑米20g，大米60g，小米20g）、丝瓜炒肉片（丝瓜100g，猪瘦肉50g）和西芹炒百合（西芹150g，鲜百合*50g，胡萝卜50g，枸杞子*3g）。", "category": "健康生活方式", "page_num": 33}
+{"match_tokens": ["population:老年人", "disease:无特定疾病"], "advice": "早餐可食用桃仁橘皮粥（含桃仁6g、薏苡仁9g、橘皮3g、大米20g）、胡萝卜鸡蛋饼（含胡萝卜100g、鸡蛋50g、面粉60g）和清炒圆白菜（100g），并饮用生姜桑椹茶（含生姜3g、桑椹6g）。", "category": "健康生活方式", "page_num": 34}
+{"match_tokens": ["population:老年人", "disease:无特定疾病"], "advice": "中餐可食用黑米饭（含黑米30g、大米70g）、西兰花炒肉丝（含西兰花100g、去皮鸡肉50g、胡萝卜50g）、西红柿炒丝瓜（含西红柿100g、丝瓜100g）和海带冬瓜薏苡仁汤（含海带30g、冬瓜100g、薏苡仁9g）。", "category": "健康生活方式", "page_num": 34}
+{"match_tokens": ["population:老年人", "disease:无特定疾病"], "advice": "加餐可食用一个橙子（200g）。", "category": "健康生活方式", "page_num": 34}
+{"match_tokens": ["population:老年人", "disease:无特定疾病"], "advice": "全天烹饪使用植物油25克，盐4克。", "category": "健康生活方式", "page_num": 34}
+{"match_tokens": ["disease:高血压", "risk:高盐饮食"], "advice": "全天总用量：植物油25g，盐4g。", "category": "健康生活方式", "page_num": 35}
+{"match_tokens": ["disease:糖尿病", "disease:肥胖症"], "advice": "晚餐可食用杂粮米饭（黑米10g，糙米50g，小米10g）。", "category": "健康生活方式", "page_num": 35}
+{"match_tokens": ["disease:糖尿病", "disease:肥胖症"], "advice": "晚餐可食用紫薯饭（紫薯40g，大米30g）。", "category": "健康生活方式", "page_num": 35}
+{"match_tokens": ["disease:糖尿病", "disease:肥胖症"], "advice": "中餐可食用紫薯饭（紫薯50g，大米50g）。", "category": "健康生活方式", "page_num": 35}
+{"match_tokens": ["disease:糖尿病", "disease:肥胖症"], "advice": "晚餐可食用全麦面（全麦面粉100g）。", "category": "健康生活方式", "page_num": 35}
+{"match_tokens": ["disease:高血压", "disease:糖尿病", "disease:肥胖症"], "advice": "早餐可食用凉拌萝卜丝（萝卜100g）。", "category": "健康生活方式", "page_num": 35}
+{"match_tokens": ["disease:高血压", "disease:糖尿病", "disease:肥胖症"], "advice": "中餐可食用白菜丝拌海蜇（海蜇皮100g，白菜丝100g）。", "category": "健康生活方式", "page_num": 35}
+{"match_tokens": ["disease:高血压", "disease:糖尿病", "disease:肥胖症"], "advice": "晚餐可食用蒜泥茄子（茄子100g）。", "category": "健康生活方式", "page_num": 35}
+{"match_tokens": ["disease:高血压", "disease:糖尿病", "disease:肥胖症"], "advice": "早餐可食用素炒空心菜（空心菜100g）。", "category": "健康生活方式", "page_num": 35}
+{"match_tokens": ["disease:高血压", "disease:糖尿病", "disease:肥胖症"], "advice": "中餐可食用手撕圆白菜（圆白菜100g）。", "category": "健康生活方式", "page_num": 35}
+{"match_tokens": ["disease:高血压", "disease:糖尿病", "disease:肥胖症"], "advice": "晚餐可食用山药木耳炒莴笋（鲜山药*30g，木耳【水发】20g，莴笋100g）。", "category": "健康生活方式", "page_num": 35}
+{"match_tokens": ["disease:高血压", "disease:糖尿病", "disease:肥胖症"], "advice": "加餐可食用柚子（200g）。", "category": "健康生活方式", "page_num": 35}
+{"match_tokens": ["disease:高血压", "disease:糖尿病", "disease:肥胖症"], "advice": "加餐可食用橘子（200g）。", "category": "健康生活方式", "page_num": 35}
+{"match_tokens": ["disease:高血压", "disease:糖尿病", "disease:肥胖症"], "advice": "早餐可食用煮鸡蛋（鸡蛋50g）。", "category": "健康生活方式", "page_num": 35}
+{"match_tokens": ["disease:高血压", "disease:糖尿病", "disease:肥胖症"], "advice": "中餐可食用芥菜蛋花汤（芥菜100g，鸡蛋30g）。", "category": "健康生活方式", "page_num": 35}
+{"match_tokens": ["disease:高血压", "disease:糖尿病", "disease:肥胖症"], "advice": "晚餐可食用木耳豆腐汤（豆腐50g，木耳【水发】20g，黄瓜100g）。", "category": "健康生活方式", "page_num": 35}
+{"match_tokens": ["disease:高血压", "disease:糖尿病", "disease:肥胖症"], "advice": "中餐可食用冬瓜萝卜汤（白萝卜60g，冬瓜60g，鸡蛋10g）。", "category": "健康生活方式", "page_num": 35}
+{"match_tokens": ["disease:高血压", "disease:糖尿病", "disease:肥胖症"], "advice": "早餐可食用纯牛奶（300mL）。", "category": "健康生活方式", "page_num": 35}
+{"match_tokens": ["disease:高血压", "disease:糖尿病", "disease:肥胖症"], "advice": "早餐可食用低脂牛奶（300mL）。", "category": "健康生活方式", "page_num": 35}
+{"match_tokens": ["disease:无特定疾病"], "advice": "本食谱可提供能量每天能量总值为1650～1720kcal，蛋白质66～78g，碳水化合物231～254g，脂肪42～52g；宏量营养素占总能量比为：蛋白质10%～20%，碳水化合物50%～60%，脂肪20%～30%。", "category": "健康生活方式", "page_num": 36}
+{"match_tokens": ["population:高原地区居民"], "advice": "适量减少牛羊肉的摄入，并补充优质植物蛋白，如大豆蛋白，同时尽量增加蔬菜水果的摄入。", "category": "健康生活方式", "page_num": 37}
+{"match_tokens": ["disease:无特定疾病"], "advice": "全天烹饪用油控制在25克以内，盐控制在4克以内。", "category": "健康生活方式", "page_num": 38}
+{"match_tokens": ["disease:无特定疾病"], "advice": "食谱中可加入食药物质，如葛根、菊苣、薏苡仁等。", "category": "健康生活方式", "page_num": 38}
+{"match_tokens": ["disease:无特定疾病"], "advice": "早餐可食用双色花卷、煮鸡蛋、低脂牛奶和凉拌黄瓜丝。", "category": "健康生活方式", "page_num": 38}
+{"match_tokens": ["disease:无特定疾病"], "advice": "中餐可食用全麦面条、芹菜炒牦牛肉、蒜蓉油麦菜和春笋萝卜汤。", "category": "健康生活方式", "page_num": 38}
+{"match_tokens": ["disease:无特定疾病"], "advice": "晚餐可食用杂粮饭、醋熘白菜、西红柿炒鸡蛋和冬瓜薏苡仁豆腐汤。", "category": "健康生活方式", "page_num": 38}
+{"match_tokens": ["disease:无特定疾病"], "advice": "加餐可食用樱桃。", "category": "健康生活方式", "page_num": 38}
+{"match_tokens": ["disease:无特定疾病"], "advice": "茶饮可饮用桑叶菊苣茶。", "category": "健康生活方式", "page_num": 38}
+{"match_tokens": ["disease:无特定疾病"], "advice": "早餐可食用糌粑、煮鸡蛋、脱脂牛奶和黄瓜拌木耳。", "category": "健康生活方式", "page_num": 38}
+{"match_tokens": ["disease:无特定疾病"], "advice": "茶饮可饮用金银花栀子茶。", "category": "健康生活方式", "page_num": 38}
+{"match_tokens": ["disease:无特定疾病"], "advice": "晚餐可食用玉米面馒头、洋葱拌黄瓜、蒜蓉油麦菜和白菜豆腐汤。", "category": "健康生活方式", "page_num": 38}
+{"match_tokens": ["disease:无特定疾病"], "advice": "中餐可食用荠菜拌豆腐和黄瓜木耳汤。", "category": "健康生活方式", "page_num": 38}
+{"match_tokens": ["disease:无特定疾病"], "advice": "加餐可食用苹果。", "category": "健康生活方式", "page_num": 38}
+{"match_tokens": ["disease:无特定疾病"], "advice": "全天烹饪用油总量控制在25克，用盐总量控制在4克。", "category": "健康生活方式", "page_num": 39}
+{"match_tokens": ["disease:无特定疾病"], "advice": "早餐可食用二米饭（大米70克，小米30克），搭配蒜蓉西兰花和青椒牛肉丝，并饮用丝瓜鸡蛋汤。", "category": "健康生活方式", "page_num": 39}
+{"match_tokens": ["disease:无特定疾病"], "advice": "加餐可食用一个约200克的苹果。", "category": "健康生活方式", "page_num": 39}
+{"match_tokens": ["disease:无特定疾病"], "advice": "晚餐可食用小米山药南瓜粥，搭配西红柿炒豆腐和蒜蓉空心菜。", "category": "健康生活方式", "page_num": 39}
+{"match_tokens": ["disease:无特定疾病"], "advice": "早餐可食用全麦面包、煮鸡蛋、纯牛奶，并搭配西芹拌百合。", "category": "健康生活方式", "page_num": 39}
+{"match_tokens": ["disease:无特定疾病"], "advice": "夏季可饮用金银花葛根茶作为茶饮。", "category": "健康生活方式", "page_num": 39}
+{"match_tokens": ["disease:无特定疾病"], "advice": "中餐可食用紫米饭，搭配苦瓜炒肉片、凉拌茄子和丝瓜木耳豆腐汤。", "category": "健康生活方式", "page_num": 39}
+{"match_tokens": ["disease:无特定疾病"], "advice": "加餐可食用约200克的西瓜。", "category": "健康生活方式", "page_num": 39}
+{"match_tokens": ["disease:无特定疾病"], "advice": "晚餐可食用杂粮饭，搭配松仁玉米、洋葱拌甘蓝和冬瓜丸子汤。", "category": "健康生活方式", "page_num": 39}
+{"match_tokens": ["disease:无特定疾病"], "advice": "早餐可食用玉米面馒头、煮鸡蛋、低脂牛奶，并搭配凉拌马齿苋。", "category": "健康生活方式", "page_num": 39}
+{"match_tokens": ["disease:无特定疾病"], "advice": "夏季可饮用金银花菊苣茶作为茶饮。", "category": "健康生活方式", "page_num": 39}
+{"match_tokens": ["disease:无特定疾病"], "advice": "中餐可食用黑米饭，搭配蒜苔炒牛肉、西红柿炒茄子和莲藕蔬菜汤。", "category": "健康生活方式", "page_num": 39}
+{"match_tokens": ["disease:无特定疾病"], "advice": "全天烹饪使用植物油不超过25克，盐不超过4克。", "category": "健康生活方式", "page_num": 40}
+{"match_tokens": ["disease:无特定疾病"], "advice": "晚餐可食用蔬菜面，包含面条70克、鲜菊苣叶50克、小青菜100克、豆腐50克。", "category": "健康生活方式", "page_num": 40}
+{"match_tokens": ["disease:无特定疾病"], "advice": "晚餐可食用干煸肉末四季豆，包含猪瘦肉20克、四季豆100克、柿子椒50克。", "category": "健康生活方式", "page_num": 40}
+{"match_tokens": ["disease:无特定疾病"], "advice": "晚餐可食用蒸南瓜100克。", "category": "健康生活方式", "page_num": 40}
+{"match_tokens": ["disease:无特定疾病"], "advice": "加餐可食用火龙果200克。", "category": "健康生活方式", "page_num": 40}
+{"match_tokens": ["disease:无特定疾病"], "advice": "早餐可食用蔬菜饼，包含面粉70克、菊苣叶15克、胡萝卜20克。", "category": "健康生活方式", "page_num": 40}
+{"match_tokens": ["disease:无特定疾病"], "advice": "早餐可食用煮鸡蛋50克。", "category": "健康生活方式", "page_num": 40}
+{"match_tokens": ["disease:无特定疾病"], "advice": "早餐可饮用羊奶300毫升。", "category": "健康生活方式", "page_num": 40}
+{"match_tokens": ["disease:无特定疾病"], "advice": "早餐可食用炝拌白菜100克。", "category": "健康生活方式", "page_num": 40}
+{"match_tokens": ["disease:无特定疾病"], "advice": "可饮用百合栀子茶，包含百合6克、栀子6克。", "category": "健康生活方式", "page_num": 40}
+{"match_tokens": ["disease:无特定疾病"], "advice": "中餐可食用杂粮饭，包含大米50克、小米30克、青稞20克。", "category": "健康生活方式", "page_num": 40}
+{"match_tokens": ["disease:无特定疾病"], "advice": "中餐可食用平菇炒西兰花，包含平菇50克、西兰花50克、去皮鸡肉40克。", "category": "健康生活方式", "page_num": 40}
+{"match_tokens": ["disease:无特定疾病"], "advice": "中餐可食用青椒炒豆皮，包含豆皮50克、柿子椒100克。", "category": "健康生活方式", "page_num": 40}
+{"match_tokens": ["disease:无特定疾病"], "advice": "中餐可食用芹菜萝卜汤，包含芹菜100克、白萝卜50克、鸡蛋20克。", "category": "健康生活方式", "page_num": 40}
+{"match_tokens": ["disease:无特定疾病"], "advice": "加餐可食用梨100克。", "category": "健康生活方式", "page_num": 40}
+{"match_tokens": ["disease:无特定疾病"], "advice": "晚餐可食用青稞面70克。", "category": "健康生活方式", "page_num": 40}
+{"match_tokens": ["disease:无特定疾病"], "advice": "晚餐可食用口蘑炒白菜，包含白菜60克、口蘑20克。", "category": "健康生活方式", "page_num": 40}
+{"match_tokens": ["disease:无特定疾病"], "advice": "晚餐可食用青椒炒肉丝，包含柿子椒50克、猪瘦肉30克。", "category": "健康生活方式", "page_num": 40}
+{"match_tokens": ["disease:无特定疾病"], "advice": "晚餐可食用西红柿鸡蛋汤，包含西红柿100克、鸡蛋20克。", "category": "健康生活方式", "page_num": 40}
+{"match_tokens": ["disease:无特定疾病"], "advice": "早餐可食用玉米面馒头，包含玉米面粉30克、面粉50克。", "category": "健康生活方式", "page_num": 40}
+{"match_tokens": ["disease:无特定疾病"], "advice": "早餐可饮用脱脂牛奶300毫升。", "category": "健康生活方式", "page_num": 40}
+{"match_tokens": ["disease:无特定疾病"], "advice": "早餐可食用凉拌莴笋丝100克。", "category": "健康生活方式", "page_num": 40}
+{"match_tokens": ["disease:无特定疾病"], "advice": "可饮用百合葛根茶，包含百合6克、葛根6克。", "category": "健康生活方式", "page_num": 40}
+{"match_tokens": ["disease:无特定疾病"], "advice": "中餐可食用二米饭，包含大米50克、小米50克。", "category": "健康生活方式", "page_num": 40}
+{"match_tokens": ["disease:无特定疾病"], "advice": "中餐可食用土豆炒肉丝，包含土豆50克、猪瘦肉50克、柿子椒50克。", "category": "健康生活方式", "page_num": 40}
+{"match_tokens": ["disease:无特定疾病"], "advice": "中餐可食用花菜炒西红柿，包含花菜100克、西红柿100克。", "category": "健康生活方式", "page_num": 40}
+{"match_tokens": ["disease:无特定疾病"], "advice": "中餐可食用豆腐白菜汤，包含豆腐30克、白菜100克。", "category": "健康生活方式", "page_num": 40}
+{"match_tokens": ["disease:无特定疾病"], "advice": "早餐可食用全麦面包、煮鸡蛋、纯牛奶和凉拌秋葵，搭配百合葛根茶。", "category": "健康生活方式", "page_num": 41}
+{"match_tokens": ["disease:无特定疾病"], "advice": "午餐可食用杂粮饭、芹菜炒牛肉、醋熘白菜和海带豆腐汤。", "category": "健康生活方式", "page_num": 41}
+{"match_tokens": ["disease:无特定疾病"], "advice": "加餐可食用李子。", "category": "健康生活方式", "page_num": 41}
+{"match_tokens": ["disease:无特定疾病"], "advice": "晚餐可食用糌粑、肉末豆腐、紫甘蓝拌白萝卜和丝瓜汤。", "category": "健康生活方式", "page_num": 41}
+{"match_tokens": ["disease:无特定疾病"], "advice": "全天烹饪使用植物油不超过25克，盐不超过4克。", "category": "健康生活方式", "page_num": 41}
+{"match_tokens": ["disease:无特定疾病"], "advice": "早餐可食用山药薤白粥、煮鸡蛋、脱脂牛奶和凉拌土豆丝，搭配生姜大枣薏米茶。", "category": "健康生活方式", "page_num": 41}
+{"match_tokens": ["disease:无特定疾病"], "advice": "午餐可食用杂粮饭、鱼香肉丝、清炒芥兰和冬瓜丸子汤。", "category": "健康生活方式", "page_num": 41}
+{"match_tokens": ["disease:无特定疾病", "risk:缺乏运动"], "advice": "早餐食用小白菜素包、煮鸡蛋、羊奶和黄瓜拌木耳，并饮用生姜葛根茶。", "category": "健康生活方式", "page_num": 42}
+{"match_tokens": ["disease:无特定疾病", "risk:缺乏运动"], "advice": "中餐食用杂粮饭、冬笋炒肉片、青椒土豆丝和西红柿金针菇豆腐汤。", "category": "健康生活方式", "page_num": 42}
+{"match_tokens": ["disease:无特定疾病", "risk:缺乏运动"], "advice": "加餐食用一个200g的苹果。", "category": "健康生活方式", "page_num": 42}
+{"match_tokens": ["disease:无特定疾病", "risk:缺乏运动"], "advice": "晚餐食用杂粮饭、洋葱木耳炒牛肉、虎皮尖椒和蘑菇萝卜汤。", "category": "健康生活方式", "page_num": 42}
+{"match_tokens": ["disease:无特定疾病", "risk:缺乏运动"], "advice": "全天烹饪使用植物油25g，盐4g。", "category": "健康生活方式", "page_num": 42}
+{"match_tokens": ["disease:无特定疾病", "risk:缺乏运动"], "advice": "早餐食用全麦面包、煮鸡蛋、低脂牛奶和蒜蓉菠菜，并饮用生姜菊苣茶。", "category": "健康生活方式", "page_num": 42}
+{"match_tokens": ["disease:无特定疾病", "risk:缺乏运动"], "advice": "中餐食用杂粮饭、洋葱拌木耳、冬菇肉片和青菜豆腐汤。", "category": "健康生活方式", "page_num": 42}
+{"match_tokens": ["disease:无特定疾病", "risk:缺乏运动"], "advice": "加餐食用200g柚子。", "category": "健康生活方式", "page_num": 42}
+{"match_tokens": ["disease:无特定疾病", "risk:缺乏运动"], "advice": "晚餐食用糌粑和芹菜炒肉丝。", "category": "健康生活方式", "page_num": 42}
+{"match_tokens": ["disease:无特定疾病", "risk:缺乏运动"], "advice": "加餐食用一个200g的苹果。", "category": "健康生活方式", "page_num": 42}
+{"match_tokens": ["disease:无特定疾病", "risk:缺乏运动"], "advice": "晚餐食用二米饭、辣椒炒茄子、白灼生菜和西红柿黄瓜汤。", "category": "健康生活方式", "page_num": 42}
+{"match_tokens": ["disease:无特定疾病"], "advice": "全天总用量：植物油25g，盐4g。", "category": "健康生活方式", "page_num": 43}
+{"match_tokens": ["disease:其他病症", "bmi:正常"], "advice": "急性痛风性关节炎期及慢性痛风性关节炎期患者，若体重正常，可参考一日食谱，能量控制在1400～1600kcal范围。", "category": "治疗与康复", "page_num": 44}
+{"match_tokens": ["disease:其他病症", "bmi:体重过低", "bmi:超重", "bmi:肥胖"], "advice": "当体重过重或过轻时，应根据理想体重及能量系数15～20kcal/（kg·d）适当调整食材用量。", "category": "治疗与康复", "page_num": 44}
+{"match_tokens": ["disease:其他病症"], "advice": "食谱中的食物重量均为其可食部的生重。", "category": "治疗与康复", "page_num": 44}
+{"match_tokens": ["disease:其他病症"], "advice": "早餐可食用玉米面馒头（玉米面粉20g，面粉40g）、煮鸡蛋（鸡蛋50g）、低脂牛奶（300mL）、芹菜炒百合（芹菜100g，鲜百合*20g）。", "category": "治疗与康复", "page_num": 44}
+{"match_tokens": ["disease:其他病症"], "advice": "茶饮可选用菊花菊苣薏苡仁茶（菊花*3g，菊苣*3g，薏苡仁*6g）。", "category": "治疗与康复", "page_num": 44}
+{"match_tokens": ["disease:其他病症"], "advice": "中餐可食用杂粮饭（大米50g，小米20g，薏苡仁*9g）、青椒炒猪血（柿子椒50g，猪血50g）、醋熘白菜（白菜200g）、荠菜豆腐汤（荠菜100g，豆腐50g）。", "category": "治疗与康复", "page_num": 44}
+{"match_tokens": ["disease:其他病症"], "advice": "加餐可食用草莓（200g）。", "category": "治疗与康复", "page_num": 44}
+{"match_tokens": ["disease:其他病症"], "advice": "晚餐可食用紫薯饭（紫薯40g，大米50g）、西葫芦炒鸡蛋（西葫芦100g，鸡蛋30g）、清炒丝瓜(丝瓜200g)。", "category": "治疗与康复", "page_num": 44}
+{"match_tokens": ["disease:其他病症"], "advice": "全天总用量：植物油25g，盐4g。", "category": "治疗与康复", "page_num": 44}
+{"match_tokens": ["disease:其他病症"], "advice": "早餐可食用素包子（荠菜40g，粉丝20g，面粉40g）、煮鸡蛋（鸡蛋50g）、脱脂牛奶（300mL）、凉拌土豆丝（土豆50g）。", "category": "治疗与康复", "page_num": 44}
+{"match_tokens": ["disease:其他病症"], "advice": "茶饮可选用桑叶葛根薏苡仁茶（桑叶*3g，葛根*6g，薏苡仁*6g）。", "category": "治疗与康复", "page_num": 44}
+{"match_tokens": ["population:老年人", "disease:无特定疾病"], "advice": "早餐可选择蔬菜面（面条90g，菜心50g）和芹菜炒豆腐（西芹100g，豆腐50g），午餐可食用清炒油麦菜（油麦菜200g），加餐可食用樱桃（200g），晚餐可食用二米饭（大米50g，小米10g，薏苡仁*9g）、胡萝卜拌笋丝（笋丝100g，胡萝卜丝20g）、蒜蓉茼蒿（茼蒿100g）和黄豆芽猪血汤（黄豆芽50g，猪血40g，荠菜30g），全天总用油量控制在植物油25g，盐4g。", "category": "健康生活方式", "page_num": 45}
+{"match_tokens": ["population:老年人", "disease:无特定疾病"], "advice": "早餐可选择荠菜小馄饨（荠菜40g，胡萝卜20g，面粉60g）、脱脂牛奶（300mL）和凉拌菜心（菜心50g），茶饮可选择菊花葛根薏苡仁茶（菊花*3g，葛根*6g，薏苡仁*6g），午餐可食用二米饭（大米50g，小米20g）、青椒炒猪血（柿子椒100g，猪血50g）、雪里蕻炒百合（雪里蕻100g，鲜百合*30g，枸杞子*2g）和莲藕汤（莲藕50g，胡萝卜20g，小白菜100g），加餐可食用菠萝(200g)，晚餐可食用二米饭（小米30g，大米30g）、蒸山药(鲜山药*100g)、菊苣炒鸡蛋（鲜菊苣叶*60g，鸡蛋70g）和素炒莴笋（莴笋100g），全天总用油量控制在植物油25g，盐4g。", "category": "健康生活方式", "page_num": 45}
+{"match_tokens": ["population:老年人", "disease:无特定疾病"], "advice": "早餐可选择紫薯馒头（紫薯30g，面粉50g）、荷包蛋（鸡蛋50g）、脱脂牛奶（300mL）和凉拌黄瓜（黄瓜100g），茶饮可选择金银花菊苣栀子茶（金银花*3g，菊苣*3g，栀子*3g），午餐可食用烙饼(面粉80g)。", "category": "健康生活方式", "page_num": 45}
+{"match_tokens": ["disease:无特定疾病"], "advice": "夏季食谱可参考：早餐食用土豆丝饼、煮鸡蛋、低脂牛奶和凉拌海带丝，茶饮可选择金银花葛根栀子茶。", "category": "健康生活方式", "page_num": 46}
+{"match_tokens": ["disease:无特定疾病"], "advice": "夏季食谱可参考：午餐食用蔬菜面、丝瓜炒猪血、西红柿炒西葫芦和冬瓜萝卜薏苡仁汤，加餐可食用红心李。", "category": "健康生活方式", "page_num": 46}
+{"match_tokens": ["disease:无特定疾病"], "advice": "夏季食谱可参考：晚餐食用紫薯饭、胡萝卜拌黄瓜、炒红薯叶和丝瓜汤，全天植物油用量25克，盐用量4克。", "category": "健康生活方式", "page_num": 46}
+{"match_tokens": ["disease:无特定疾病"], "advice": "夏季食谱可参考：早餐食用双色花卷、煮鸡蛋、脱脂牛奶和黄瓜丝拌桔梗根，茶饮可选择金银花葛根荷叶茶。", "category": "健康生活方式", "page_num": 46}
+{"match_tokens": ["disease:无特定疾病"], "advice": "夏季食谱可参考：午餐食用荷叶玉米饭、西葫芦炒豆腐、白灼空心菜和丝瓜木耳汤，加餐可食用水蜜桃。", "category": "健康生活方式", "page_num": 46}
+{"match_tokens": ["disease:无特定疾病"], "advice": "夏季食谱可参考：早餐食用西红柿炒豆腐、清炒芥兰、胡萝卜荸荠汤，加餐可食用桃子。", "category": "健康生活方式", "page_num": 46}
+{"match_tokens": ["disease:无特定疾病"], "advice": "夏季食谱可参考：晚餐食用蒸南瓜、百合薏米粥、凉拌蒜蓉茄子，全天植物油用量25克，盐用量4克。", "category": "健康生活方式", "page_num": 46}
+{"match_tokens": ["disease:无特定疾病"], "advice": "晚餐可食用二米饭（小米20g，大米40g）、茄子炒豆角（茄子75g，豆角75g）、拍黄瓜（黄瓜100g）和白菜豆腐汤（白菜100g，豆腐30g，茯苓*9g）。", "category": "健康生活方式", "page_num": 47}
+{"match_tokens": ["disease:无特定疾病"], "advice": "全天烹饪用油总量控制在25g，用盐总量控制在4g。", "category": "健康生活方式", "page_num": 47}
+{"match_tokens": ["disease:无特定疾病"], "advice": "早餐可食用枸杞子馒头（全麦面粉40g，玉米面粉20g，枸杞子*6g）、煮鸡蛋（鸡蛋50g）、低脂牛奶（300mL）和黄瓜拌紫甘蓝（紫甘蓝50g，黄瓜100g）。", "category": "健康生活方式", "page_num": 47}
+{"match_tokens": ["disease:无特定疾病"], "advice": "早餐后可饮用百合葛根薏苡仁茶（百合*6g，葛根*6g，薏苡仁*6g）。", "category": "健康生活方式", "page_num": 47}
+{"match_tokens": ["disease:无特定疾病"], "advice": "中餐可食用紫甘薯饭（紫甘薯30g，大米40g）、青椒炒猪血（柿子椒50g，猪血50g）、西红柿炒西葫芦（西红柿100g，西葫芦100g）和冬瓜玉米豆腐汤（冬瓜50g，鲜玉米60g，玉米须#10g，茯苓*9g，豆腐50g）。", "category": "健康生活方式", "page_num": 47}
+{"match_tokens": ["disease:无特定疾病"], "advice": "下午加餐可食用青桔（200g）。", "category": "健康生活方式", "page_num": 47}
+{"match_tokens": ["disease:无特定疾病"], "advice": "晚餐可食用杂粮饼（莜麦面粉20g，面粉30g）、山药黄精粥（鲜山药*30g，黄精*6g，枸杞子*3g，大枣*2g，大米20g）和清炒油菜（油菜200g）。", "category": "健康生活方式", "page_num": 47}
+{"match_tokens": ["disease:无特定疾病"], "advice": "早餐可食用玉米面馒头（玉米面粉30g，面粉30g，茯苓粉*3g）、脱脂牛奶（300mL）和凉拌萝卜丝（白萝卜100g）。", "category": "健康生活方式", "page_num": 47}
+{"match_tokens": ["disease:无特定疾病"], "advice": "早餐后可饮用百合菊苣葛根茶（百合*6g，菊苣*6g，葛根*6g）。", "category": "健康生活方式", "page_num": 47}
+{"match_tokens": ["disease:无特定疾病"], "advice": "中餐可食用菊苣面条（菊苣粉*15g，面粉90g）、蒜苔胡萝卜（蒜苔100g，胡萝卜50g）、油麦菜炒山药条（油麦菜100g，鲜山药*20g，柿子椒20g）和丝瓜汤（丝瓜100g，鸡蛋20g）。", "category": "健康生活方式", "page_num": 47}
+{"match_tokens": ["disease:无特定疾病"], "advice": "全天烹饪用油总量控制在25克。", "category": "健康生活方式", "page_num": 48}
+{"match_tokens": ["disease:无特定疾病"], "advice": "全天烹饪用盐总量控制在4克。", "category": "健康生活方式", "page_num": 48}
+{"match_tokens": ["disease:无特定疾病"], "advice": "早餐食用鸡蛋饼（含面粉、鸡蛋、菊苣粉、圆白菜）。", "category": "健康生活方式", "page_num": 48}
+{"match_tokens": ["disease:无特定疾病"], "advice": "早餐饮用300毫升脱脂牛奶。", "category": "健康生活方式", "page_num": 48}
+{"match_tokens": ["disease:无特定疾病"], "advice": "早餐食用凉拌莴笋丝（莴笋100克）。", "category": "健康生活方式", "page_num": 48}
+{"match_tokens": ["disease:无特定疾病"], "advice": "饮用山楂葛根薏苡仁饮（含山楂、葛根、薏苡仁）。", "category": "健康生活方式", "page_num": 48}
+{"match_tokens": ["disease:无特定疾病"], "advice": "中餐食用杂粮饭（含紫米、大米、薏苡仁）。", "category": "健康生活方式", "page_num": 48}
+{"match_tokens": ["disease:无特定疾病"], "advice": "中餐食用蒜苗炒豆腐（蒜苗150克，豆腐50克）。", "category": "健康生活方式", "page_num": 48}
+{"match_tokens": ["disease:无特定疾病"], "advice": "中餐食用白灼生菜（生菜100克）。", "category": "健康生活方式", "page_num": 48}
+{"match_tokens": ["disease:无特定疾病"], "advice": "中餐食用鸭血粉丝汤（鸭血50克，粉丝20克，香菜10克）。", "category": "健康生活方式", "page_num": 48}
+{"match_tokens": ["disease:无特定疾病"], "advice": "加餐食用苹果200克。", "category": "健康生活方式", "page_num": 48}
+{"match_tokens": ["disease:无特定疾病"], "advice": "晚餐食用杂粮锅盔（含面粉、全麦面粉）。", "category": "健康生活方式", "page_num": 48}
+{"match_tokens": ["disease:无特定疾病"], "advice": "晚餐食用蒜香西兰花（西兰花100克）。", "category": "健康生活方式", "page_num": 48}
+{"match_tokens": ["disease:无特定疾病"], "advice": "晚餐食用凉拌蒜蓉茄子（茄子100克，柿子椒50克）。", "category": "健康生活方式", "page_num": 48}
+{"match_tokens": ["disease:无特定疾病"], "advice": "晚餐食用西红柿鸡蛋汤（西红柿100克，鸡蛋20克）。", "category": "健康生活方式", "page_num": 48}
+{"match_tokens": ["disease:无特定疾病"], "advice": "早餐食用玉米面馒头（含玉米面粉、面粉）。", "category": "健康生活方式", "page_num": 48}
+{"match_tokens": ["disease:无特定疾病"], "advice": "早餐食用煮鸡蛋（鸡蛋50克）。", "category": "健康生活方式", "page_num": 48}
+{"match_tokens": ["disease:无特定疾病"], "advice": "早餐饮用300毫升低脂牛奶。", "category": "健康生活方式", "page_num": 48}
+{"match_tokens": ["disease:无特定疾病"], "advice": "早餐食用洋葱拌白萝卜（洋葱50克，白萝卜50克）。", "category": "健康生活方式", "page_num": 48}
+{"match_tokens": ["disease:无特定疾病"], "advice": "饮用姜枣茶（含生姜、大枣、薏苡仁、葛根）。", "category": "健康生活方式", "page_num": 48}
+{"match_tokens": ["disease:无特定疾病"], "advice": "中餐食用杂粮饭（含大米、小米、薏苡仁）。", "category": "健康生活方式", "page_num": 48}
+{"match_tokens": ["disease:无特定疾病"], "advice": "中餐食用蒜苗炒猪血（蒜苗100克，猪血50克，柿子椒50克）。", "category": "健康生活方式", "page_num": 48}
+{"match_tokens": ["disease:无特定疾病"], "advice": "中餐食用山药木耳炒莴笋（莴笋100克，鲜山药30克，水发木耳20克）。", "category": "健康生活方式", "page_num": 48}
+{"match_tokens": ["disease:糖尿病"], "advice": "早餐可食用青菜包、脱脂牛奶和凉拌胡萝卜丝，搭配生姜葛根菊苣茶。", "category": "治疗与康复", "page_num": 49}
+{"match_tokens": ["disease:糖尿病"], "advice": "午餐可食用玉米饭、白菜粉条炖豆腐、油麦菜炒山药条和萝卜蛋汤。", "category": "治疗与康复", "page_num": 49}
+{"match_tokens": ["disease:糖尿病"], "advice": "晚餐可食用杂粮馒头、蒜蓉油麦菜、西红柿炒鸡蛋和冬瓜汤。", "category": "治疗与康复", "page_num": 49}
+{"match_tokens": ["disease:糖尿病"], "advice": "全天烹饪用油控制在25克，用盐控制在4克。", "category": "治疗与康复", "page_num": 49}
+{"match_tokens": ["disease:糖尿病"], "advice": "早餐可食用菜团子、煮鸡蛋、脱脂牛奶和木耳西芹拌百合，搭配生姜大枣菊苣茶。", "category": "治疗与康复", "page_num": 49}
+{"match_tokens": ["disease:糖尿病"], "advice": "午餐可食用二米饭、洋葱木耳炒豆腐干、白灼菜心和冬瓜萝卜汤。", "category": "治疗与康复", "page_num": 49}
+{"match_tokens": ["disease:糖尿病"], "advice": "晚餐可食用玉米南瓜饼和清炒芥兰。", "category": "治疗与康复", "page_num": 49}
+{"match_tokens": ["disease:糖尿病"], "advice": "早餐可食用小白菜豆腐汤。", "category": "治疗与康复", "page_num": 49}
+{"match_tokens": ["disease:糖尿病"], "advice": "午餐可食用蒸南瓜、西红柿鸡蛋疙瘩汤和爆炒圆白菜。", "category": "治疗与康复", "page_num": 49}
+{"match_tokens": ["disease:无特定疾病"], "advice": "全天烹饪总用油量控制在25克以内，总用盐量控制在4克以内。", "category": "健康生活方式", "page_num": 50}
+{"match_tokens": ["disease:其他病症"], "advice": "春季食谱1：早餐食用素包子、煮鸡蛋、脱脂牛奶和凉拌黄瓜，饮用菊花枸杞菊苣薏苡仁茶；中餐食用玉米饭、萝卜丝拌海蜇皮、蒜蓉茼蒿和丝瓜枸杞豆腐汤，加餐樱桃；晚餐食用二米饭、爆炒圆白菜、凉拌海蜇头和西红柿鸡蛋汤，全天植物油用量25g，盐4g。", "category": "治疗与康复", "page_num": 51}
+{"match_tokens": ["disease:其他病症"], "advice": "春季食谱2：早餐食用山药橘皮小米粥、煮鸡蛋、低脂牛奶和黄瓜拌洋葱，饮用菊花菊苣葛根薏苡仁茶；中餐食用杂粮饭、油麦菜炒菊苣、莲藕炒海参和荠菜豆腐汤，加餐草莓；晚餐食用杂粮饭和猪血炒菊苣。", "category": "治疗与康复", "page_num": 51}
+{"match_tokens": ["age:成人", "disease:无特定疾病"], "advice": "全天烹饪使用植物油25克，盐4克。", "category": "健康生活方式", "page_num": 52}
+{"match_tokens": ["age:成人", "disease:无特定疾病"], "advice": "早餐食用鸡蛋苕粉（含鸡蛋50g，苕粉60g，生菜50g）和脱脂牛奶300mL。", "category": "健康生活方式", "page_num": 52}
+{"match_tokens": ["age:成人", "disease:无特定疾病"], "advice": "中餐食用紫米饭（含紫米20g，大米50g）、冬瓜炖豆腐（冬瓜200g，豆腐50g）和西红柿玉米鸡蛋汤（西红柿100g，玉米粒30g，鸡蛋20g）。", "category": "健康生活方式", "page_num": 52}
+{"match_tokens": ["age:成人", "disease:无特定疾病"], "advice": "加餐食用苹果200克。", "category": "健康生活方式", "page_num": 52}
+{"match_tokens": ["age:成人", "disease:无特定疾病"], "advice": "晚餐食用玉米薏苡仁粥（含玉米粒20g，薏苡仁*9g，葛根*9g，橘皮*1g，大枣*2g，大米50g）、西芹炒百合（西芹100g，鲜百合*30g，枸杞子*2g）和拌豆腐丝（豆腐丝50g）。", "category": "健康生活方式", "page_num": 52}
+{"match_tokens": ["age:成人", "disease:无特定疾病"], "advice": "全天烹饪使用植物油25克，盐4克。", "category": "健康生活方式", "page_num": 52}
+{"match_tokens": ["age:成人", "disease:无特定疾病"], "advice": "早餐食用鸡蛋肠粉（含粘米粉40g，玉米淀粉20g，鸡蛋50g，生菜100g）和低脂牛奶300mL。", "category": "健康生活方式", "page_num": 52}
+{"match_tokens": ["age:成人", "disease:无特定疾病"], "advice": "中餐食用玉米饭（玉米粒20g，大米70g）、西红柿炒瓠瓜（西红柿100g，瓠瓜100g）和丝瓜豆腐汤（丝瓜100g，豆腐50g）。", "category": "健康生活方式", "page_num": 52}
+{"match_tokens": ["age:成人", "disease:无特定疾病"], "advice": "加餐食用桃子200克。", "category": "健康生活方式", "page_num": 52}
+{"match_tokens": ["age:成人", "disease:无特定疾病"], "advice": "晚餐食用紫薯饭（紫薯30g，大米30g）和苦瓜炒蛋（苦瓜100g，鸡蛋30g）。", "category": "健康生活方式", "page_num": 52}
+{"match_tokens": ["population:任何"], "advice": "全天烹饪用油总量控制在25克以内。", "category": "健康生活方式", "page_num": 53}
+{"match_tokens": ["population:任何"], "advice": "全天食盐摄入量控制在4克以内。", "category": "健康生活方式", "page_num": 53}
+{"match_tokens": ["population:任何"], "advice": "早餐可食用大枣小米糕、煮鸡蛋、脱脂牛奶和凉拌黄瓜。", "category": "健康生活方式", "page_num": 53}
+{"match_tokens": ["population:任何"], "advice": "夏季可饮用金银花薏苡仁余甘子茶。", "category": "健康生活方式", "page_num": 53}
+{"match_tokens": ["population:任何"], "advice": "午餐可食用二米饭、炒丝瓜、长豆角炒茄子和西红柿豆腐汤。", "category": "健康生活方式", "page_num": 53}
+{"match_tokens": ["population:任何"], "advice": "加餐可食用200克火龙果。", "category": "健康生活方式", "page_num": 53}
+{"match_tokens": ["population:任何"], "advice": "晚餐可食用杂粮饭、佛手瓜炒猪血、蒜蓉炒苋菜和莲藕青菜汤。", "category": "健康生活方式", "page_num": 53}
+{"match_tokens": ["population:任何"], "advice": "早餐可食用茴香苗包子和芹菜百合粥。", "category": "健康生活方式", "page_num": 53}
+{"match_tokens": ["population:任何"], "advice": "夏季可饮用金银花菊苣余甘子茶。", "category": "健康生活方式", "page_num": 53}
+{"match_tokens": ["population:任何"], "advice": "午餐可食用紫薯饭、马齿苋炒鸡蛋、木耳炒苦瓜和海带豆腐汤。", "category": "健康生活方式", "page_num": 53}
+{"match_tokens": ["population:任何"], "advice": "加餐可食用200克杨桃。", "category": "健康生活方式", "page_num": 53}
+{"match_tokens": ["population:任何"], "advice": "晚餐可食用杂粮饭、黄瓜拌海蜇皮、蒜蓉炒红薯叶和冬瓜萝卜炖豆腐。", "category": "健康生活方式", "page_num": 53}
+{"match_tokens": ["disease:无特定疾病"], "advice": "秋季每日食谱可提供能量1450～1590kcal，蛋白质57～68g，碳水化合物206～219g，脂肪44～49g。", "category": "健康生活方式", "page_num": 54}
+{"match_tokens": ["disease:无特定疾病"], "advice": "秋季食谱1早餐可食用百合粥、煮鸡蛋、脱脂牛奶和凉拌莴笋丝，茶饮可饮用百合葛根菊苣茶。", "category": "健康生活方式", "page_num": 54}
+{"match_tokens": ["disease:无特定疾病"], "advice": "秋季食谱1中餐可食用杂粮饭、空心菜炒鸡蛋、洋葱炒西红柿和豆腐海带汤，加餐可食用猕猴桃。", "category": "健康生活方式", "page_num": 54}
+{"match_tokens": ["disease:无特定疾病"], "advice": "秋季食谱1晚餐可食用黑米饭、凉拌海蜇皮和丝瓜鸡蛋汤，全天总用植物油25g，盐4g。", "category": "健康生活方式", "page_num": 54}
+{"match_tokens": ["disease:无特定疾病"], "advice": "秋季食谱2早餐可食用玉米面馒头、煮鸡蛋、低脂牛奶和清炒圆白菜，茶饮可饮用百合枸杞子菊苣茶。", "category": "健康生活方式", "page_num": 54}
+{"match_tokens": ["disease:无特定疾病"], "advice": "秋季食谱2中餐可食用杂粮米饭、西红柿炒菜花、丝瓜炒猪血和萝卜汤，加餐可食用葡萄。", "category": "健康生活方式", "page_num": 54}
+{"match_tokens": ["disease:无特定疾病"], "advice": "秋季食谱2晚餐可食用二米饭、百合炒笋片和莲藕汤，全天总用植物油25g，盐4g。", "category": "健康生活方式", "page_num": 54}
+{"match_tokens": ["population:老年人"], "advice": "早餐可食用鸡蛋肠粉（粘米粉20g，玉米淀粉20g，鸡蛋50g，生菜100g），搭配脱脂牛奶300mL和凉拌胡萝卜丝100g。", "category": "健康生活方式", "page_num": 55}
+{"match_tokens": ["population:老年人"], "advice": "可饮用山药薏苡仁菊苣茶（山药*6g，薏苡仁*6g，菊苣*6g）。", "category": "健康生活方式", "page_num": 55}
+{"match_tokens": ["population:老年人"], "advice": "中餐可食用杂粮米饭（黑米10g，大米40g，小米10g，青稞10g），搭配彩椒拌海蜇皮（柿子椒100g，海蜇皮50g）、西芹炒百合（西芹100g，鲜百合*50g，胡萝卜50g，枸杞子*3g）和竹荪丝瓜汤（竹荪20g，丝瓜100g）。", "category": "健康生活方式", "page_num": 55}
+{"match_tokens": ["population:老年人"], "advice": "加餐可食用梨200g。", "category": "健康生活方式", "page_num": 55}
+{"match_tokens": ["population:老年人"], "advice": "晚餐可食用紫薯饭（紫薯30g，大米30g），搭配油麦菜炒山药条（油麦菜200g，鲜山药*30g，柿子椒30g）和冬瓜薏苡仁豆腐汤（豆腐50g，冬瓜100g，香菜10g，薏苡仁*9g）。", "category": "健康生活方式", "page_num": 55}
+{"match_tokens": ["population:老年人"], "advice": "全天烹饪用植物油不超过25g，盐不超过4g。", "category": "健康生活方式", "page_num": 55}
+{"match_tokens": ["population:老年人"], "advice": "冬季早餐可食用桃仁橘皮粥（桃仁*6g，薏苡仁*9g，橘皮*3g，大米20g）、胡萝卜鸡蛋饼（胡萝卜100g，鸡蛋50g，面粉40g）和清炒圆白菜100g。", "category": "健康生活方式", "page_num": 55}
+{"match_tokens": ["population:老年人"], "advice": "冬季可饮用生姜桑椹菊苣茶（生姜*3g，菊苣*6g，桑椹*6g）。", "category": "健康生活方式", "page_num": 55}
+{"match_tokens": ["population:老年人"], "advice": "冬季中餐可食用黑米饭（黑米20g，大米50g），搭配花菜炒豆腐（花菜100g，豆腐50g，柿子椒20g）、西红柿炒丝瓜（西红柿100g，丝瓜50g）和海带冬瓜薏苡仁汤（海带30g，冬瓜100g，薏苡仁*9g）。", "category": "健康生活方式", "page_num": 55}
+{"match_tokens": ["population:老年人"], "advice": "冬季加餐可食用金桔200g和脱脂牛奶300mL。", "category": "健康生活方式", "page_num": 55}
+{"match_tokens": ["population:老年人"], "advice": "冬季晚餐可食用杂粮米饭（黑米10g，大米40g，小米10g），搭配洋葱木耳炒蛋（洋葱100g，木耳【水发】20g，鸡蛋30g）和上汤娃娃菜100g。", "category": "健康生活方式", "page_num": 55}
+{"match_tokens": ["population:老年人"], "advice": "冬季全天烹饪用植物油不超过25g，盐不超过4g。", "category": "健康生活方式", "page_num": 55}
+{"match_tokens": ["population:老年人"], "advice": "冬季早餐可食用玉米面发糕（玉米面粉25g，面粉50g）和煮鸡蛋50g。", "category": "健康生活方式", "page_num": 55}
+{"match_tokens": ["disease:糖尿病"], "advice": "每日食谱可提供能量总值为1400～1600kcal，蛋白质53～65g，碳水化合物196～230g，脂肪41～48g，宏量营养素占总能量比为：蛋白质10%～20%，碳水化合物50%～60%，脂肪20%～30%。", "category": "治疗与康复", "page_num": 56}
+{"match_tokens": ["disease:糖尿病"], "advice": "早餐可食用脱脂牛奶300mL，凉拌胡萝卜丝100g，饮用生姜葛根菊苣茶。", "category": "治疗与康复", "page_num": 56}
+{"match_tokens": ["disease:糖尿病"], "advice": "中餐可食用二米饭（大米50g，小米20g），冬笋香菇烧豆腐（冬笋100g，香菇50g，豆腐30g），白菜丝拌海蜇（海蜇皮100g，白菜100g），芥菜蛋花汤（芥菜100g，鸡蛋30g）。", "category": "治疗与康复", "page_num": 56}
+{"match_tokens": ["disease:糖尿病"], "advice": "加餐可食用柚子200g。", "category": "治疗与康复", "page_num": 56}
+{"match_tokens": ["disease:糖尿病"], "advice": "晚餐可食用茯苓橘皮粥（茯苓*9g，橘皮*2g，大米50g），白灼芥兰100g，紫甘蓝炒豆腐（紫甘蓝100g，豆腐50g）。", "category": "治疗与康复", "page_num": 56}
+{"match_tokens": ["disease:糖尿病"], "advice": "全天总用油量为植物油25g，盐4g。", "category": "治疗与康复", "page_num": 56}
+{"match_tokens": ["disease:糖尿病"], "advice": "早餐可食用鸡蛋肠粉（粘米粉20g，玉米淀粉20g，鸡蛋50g，生菜100g），低脂牛奶300mL，手撕圆白菜100g，饮用生姜菊苣薏苡仁茶。", "category": "治疗与康复", "page_num": 56}
+{"match_tokens": ["disease:糖尿病"], "advice": "中餐可食用紫薯饭（紫薯20g，大米60g），鱼香茄子（茄子100g，胡萝卜50g），山药木耳炒莴笋（莴笋100g，鲜山药*30g，木耳【水发】20g），冬瓜萝卜豆腐汤（白萝卜60g，冬瓜60g，豆腐60g，薏苡仁*9g）。", "category": "治疗与康复", "page_num": 56}
+{"match_tokens": ["disease:糖尿病"], "advice": "加餐可食用橘子200g。", "category": "治疗与康复", "page_num": 56}
+{"match_tokens": ["disease:糖尿病"], "advice": "晚餐可食用杂粮饭（黑米20g，大米30g），韭黄炒海参（海参50g，韭黄100g），素炒空心菜100g，白菜炒豆腐（大白菜50g，豆腐50g，白萝卜50g）。", "category": "治疗与康复", "page_num": 56}
+{"match_tokens": ["disease:痛风"], "advice": "春季早餐可食用全麦馒头、煮鸡蛋、羊奶和凉拌土豆丝，并饮用葛根菊苣菊花茶。", "category": "治疗与康复", "page_num": 57}
+{"match_tokens": ["disease:痛风"], "advice": "春季中餐可食用杂粮饭、青椒炒鸭血、清炒圆白菜和丝瓜鸡蛋汤，加餐可食用草莓。", "category": "治疗与康复", "page_num": 57}
+{"match_tokens": ["disease:痛风"], "advice": "春季晚餐可食用拉条子、西红柿炒茄子和青菜汤，全天植物油用量为25克，盐用量为4克。", "category": "治疗与康复", "page_num": 57}
+{"match_tokens": ["disease:痛风"], "advice": "春季早餐可食用山药薤白粥、煮鸡蛋、脱脂牛奶和拌土豆丝，并饮用桑叶葛根菊花茶。", "category": "治疗与康复", "page_num": 57}
+{"match_tokens": ["disease:痛风"], "advice": "春季中餐可食用杂粮饭、青椒炒鸡蛋、荠菜拌豆腐和青菜木耳汤，加餐可食用梨。", "category": "治疗与康复", "page_num": 57}
+{"match_tokens": ["disease:痛风"], "advice": "春季晚餐可食用玉米面馒头、洋葱拌黄瓜、蒜蓉油麦菜和萝卜豆腐汤，全天植物油用量为25克，盐用量为4克。", "category": "治疗与康复", "page_num": 57}
+{"match_tokens": ["disease:无特定疾病"], "advice": "春季早餐可食用双色花卷、煮鸡蛋、脱脂牛奶和鱼腥草拌莴笋。", "category": "健康生活方式", "page_num": 58}
+{"match_tokens": ["disease:无特定疾病"], "advice": "春季茶饮可饮用桑叶菊苣葛根茶。", "category": "健康生活方式", "page_num": 58}
+{"match_tokens": ["disease:无特定疾病"], "advice": "春季午餐可食用青稞面条、萝卜炒猪血和雪里蕻炒百合。", "category": "健康生活方式", "page_num": 58}
+{"match_tokens": ["disease:无特定疾病"], "advice": "春季加餐可食用圣女果。", "category": "健康生活方式", "page_num": 58}
+{"match_tokens": ["disease:无特定疾病"], "advice": "春季晚餐可食用杂粮饭、醋熘白菜、西红柿炒鸡蛋和冬瓜薏苡仁豆腐汤。", "category": "健康生活方式", "page_num": 58}
+{"match_tokens": ["disease:无特定疾病"], "advice": "全天烹饪使用植物油不超过25克，盐不超过4克。", "category": "健康生活方式", "page_num": 58}
+{"match_tokens": ["disease:无特定疾病"], "advice": "夏季早餐可食用玉米糌粑、煮鸡蛋、低脂牛奶和黄瓜拌木耳。", "category": "健康生活方式", "page_num": 58}
+{"match_tokens": ["disease:无特定疾病"], "advice": "夏季茶饮可饮用金银花栀子葛根茶。", "category": "健康生活方式", "page_num": 58}
+{"match_tokens": ["disease:无特定疾病"], "advice": "夏季午餐可食用二米饭、猪血炒菊苣、虎皮尖椒和丝瓜鸡蛋汤。", "category": "健康生活方式", "page_num": 58}
+{"match_tokens": ["disease:无特定疾病"], "advice": "夏季加餐可食用苹果。", "category": "健康生活方式", "page_num": 58}
+{"match_tokens": ["disease:无特定疾病"], "advice": "夏季晚餐可食用小米南瓜粥、西红柿炒豆腐、蒜蓉空心菜和青椒茄丁包。", "category": "健康生活方式", "page_num": 58}
+{"match_tokens": ["disease:糖尿病", "bmi:肥胖"], "advice": "早餐食用全麦面包、煮鸡蛋、脱脂牛奶和西芹拌百合，搭配金银花菊苣薏苡仁茶。", "category": "健康生活方式", "page_num": 59}
+{"match_tokens": ["disease:糖尿病", "bmi:肥胖"], "advice": "中餐食用紫米饭、苦瓜炒蛋、蒜泥茄子和胡萝卜莲藕汤。", "category": "健康生活方式", "page_num": 59}
+{"match_tokens": ["disease:糖尿病", "bmi:肥胖"], "advice": "晚餐食用杂粮饭、长豆角炒茄子、百合洋葱拌甘蓝和冬瓜豆腐汤。", "category": "健康生活方式", "page_num": 59}
+{"match_tokens": ["disease:糖尿病", "bmi:肥胖"], "advice": "全天烹饪使用植物油不超过25克，盐不超过4克。", "category": "健康生活方式", "page_num": 59}
+{"match_tokens": ["disease:糖尿病", "bmi:肥胖"], "advice": "夏季早餐食用玉米面馒头、煮鸡蛋、脱脂牛奶和凉拌马齿苋，搭配金银花葛根薏苡仁茶。", "category": "健康生活方式", "page_num": 59}
+{"match_tokens": ["disease:糖尿病", "bmi:肥胖"], "advice": "夏季中餐食用荷叶黑米饭、丝瓜炒鸭血、西红柿炒茄子和莲藕蔬菜汤。", "category": "健康生活方式", "page_num": 59}
+{"match_tokens": ["disease:糖尿病", "bmi:肥胖"], "advice": "夏季晚餐食用蔬菜面、干煸豇豆和百合蒸南瓜。", "category": "健康生活方式", "page_num": 59}
+{"match_tokens": ["disease:糖尿病", "bmi:肥胖"], "advice": "遵循食谱，每日能量摄入控制在1500～1600kcal，蛋白质50～65g，碳水化合物220～250g，脂肪43～49g。", "category": "健康生活方式", "page_num": 59}
+{"match_tokens": ["disease:高血压", "disease:糖尿病"], "advice": "全天烹饪用盐总量控制在4克以内。", "category": "健康生活方式", "page_num": 60}
+{"match_tokens": ["disease:高血压", "disease:糖尿病"], "advice": "全天烹饪用油总量控制在25克以内。", "category": "健康生活方式", "page_num": 60}
+{"match_tokens": ["disease:高血压", "disease:糖尿病"], "advice": "早餐可饮用百合栀子葛根茶。", "category": "健康生活方式", "page_num": 60}
+{"match_tokens": ["disease:高血压", "disease:糖尿病"], "advice": "早餐可饮用百合葛根菊苣茶。", "category": "健康生活方式", "page_num": 60}
+{"match_tokens": ["disease:高血压", "disease:糖尿病"], "advice": "早餐可饮用百合菊苣荷叶茶。", "category": "健康生活方式", "page_num": 60}
+{"match_tokens": ["disease:高血压", "disease:糖尿病"], "advice": "晚餐可食用荷叶玉米须粥。", "category": "健康生活方式", "page_num": 60}
+{"match_tokens": ["disease:高血压", "disease:糖尿病"], "advice": "主食可选择杂粮饭，例如用大米、小米、青稞混合制作。", "category": "健康生活方式", "page_num": 60}
+{"match_tokens": ["disease:高血压", "disease:糖尿病"], "advice": "主食可选择二米饭，例如用大米、小米混合制作。", "category": "健康生活方式", "page_num": 60}
+{"match_tokens": ["disease:高血压", "disease:糖尿病"], "advice": "主食可选择杂粮饭，例如用黑米、大米混合制作。", "category": "健康生活方式", "page_num": 60}
+{"match_tokens": ["disease:高血压", "disease:糖尿病"], "advice": "主食可选择紫薯饭，例如用紫薯、大米混合制作。", "category": "健康生活方式", "page_num": 60}
+{"match_tokens": ["disease:高血压", "disease:糖尿病"], "advice": "主食可选择玉米面馒头，例如用玉米面粉、面粉、茯苓粉混合制作。", "category": "健康生活方式", "page_num": 60}
+{"match_tokens": ["disease:高血压", "disease:糖尿病"], "advice": "主食可选择全麦面包，例如用全麦面粉、高筋面粉混合制作。", "category": "健康生活方式", "page_num": 60}
+{"match_tokens": ["disease:高血压", "disease:糖尿病"], "advice": "每日保证摄入足量蔬菜，如炝拌白菜、蒜泥菠菜、凉拌莴笋丝、蒜蓉红薯叶、白灼秋葵等。", "category": "健康生活方式", "page_num": 60}
+{"match_tokens": ["disease:高血压", "disease:糖尿病"], "advice": "每日保证摄入足量蛋白质，如煮鸡蛋、猪血、豆腐、牛奶等。", "category": "健康生活方式", "page_num": 60}
+{"match_tokens": ["disease:无特定疾病"], "advice": "全天总用量：植物油25g，盐4g。", "category": "健康生活方式", "page_num": 61}
+{"match_tokens": ["disease:无特定疾病"], "advice": "本食谱可提供能量每天能量总值为1420～1550kcal。", "category": "健康生活方式", "page_num": 61}
+{"match_tokens": ["disease:无特定疾病"], "advice": "早餐食用山药茯苓粥（鲜山药*50g，茯苓*9g，大米40g，大枣*2g，橘皮*2g）、煮鸡蛋（鸡蛋50g）、羊奶（300mL）和芹菜炒百合（芹菜100g，鲜百合*20g）。", "category": "健康生活方式", "page_num": 61}
+{"match_tokens": ["disease:无特定疾病"], "advice": "茶饮可饮用生姜大枣薏米葛根茶（生姜*3g，大枣*3g，薏苡仁*6g，葛根*6g）。", "category": "健康生活方式", "page_num": 61}
+{"match_tokens": ["disease:无特定疾病"], "advice": "中餐食用杂粮饭（黑米20g，大米60g）、蒜苔炒猪血（蒜苔100g，猪血50g）、清炒芥兰（芥兰100g）和冬瓜萝卜汤（白萝卜50g，冬瓜50g，鸡蛋20g，薏苡仁*9g）。", "category": "健康生活方式", "page_num": 61}
+{"match_tokens": ["disease:无特定疾病"], "advice": "加餐食用苹果（200g）。", "category": "健康生活方式", "page_num": 61}
+{"match_tokens": ["disease:无特定疾病"], "advice": "晚餐食用二米饭（大米40g，小米20g）、莴笋炒山药（莴笋100g，鲜山药*30g）、白灼生菜（生菜100g）和西红柿黄瓜豆腐汤（西红柿100g，黄瓜50g，豆腐50g）。", "category": "健康生活方式", "page_num": 61}
+{"match_tokens": ["disease:无特定疾病"], "advice": "早餐食用小白菜素包（面粉60g，小白菜70g，胡萝卜10g）、煮鸡蛋（鸡蛋50g）、脱脂牛奶（300mL）和黄瓜拌木耳（黄瓜50g，木耳【水发】10g）。", "category": "健康生活方式", "page_num": 61}
+{"match_tokens": ["disease:无特定疾病"], "advice": "茶饮可饮用生姜葛根菊苣茶（生姜*3g，葛根*6g，菊苣*6g）。", "category": "健康生活方式", "page_num": 61}
+{"match_tokens": ["population:老年人"], "advice": "每日食谱可提供能量总值为1420～1550kcal，蛋白质55～64g，碳水化合物197～222g，脂肪46～50g。", "category": "健康生活方式", "page_num": 62}
+{"match_tokens": ["population:老年人"], "advice": "每日宏量营养素占总能量比为：蛋白质10%～20%，碳水化合物50%～60%，脂肪20%～30%。", "category": "健康生活方式", "page_num": 62}
+{"match_tokens": ["population:老年人"], "advice": "全天烹饪用油总量控制在25克植物油。", "category": "健康生活方式", "page_num": 62}
+{"match_tokens": ["population:老年人"], "advice": "全天烹饪用盐总量控制在4克。", "category": "健康生活方式", "page_num": 62}
+{"match_tokens": ["population:老年人"], "advice": "早餐可食用全麦面包、煮鸡蛋、脱脂牛奶和蒜蓉油麦菜。", "category": "健康生活方式", "page_num": 62}
+{"match_tokens": ["population:老年人"], "advice": "中餐可食用杂粮饭（如玉米粒大米饭、燕麦大米饭）、冬笋烧香菇、手撕圆白菜和西红柿金针菇鸡蛋汤。", "category": "健康生活方式", "page_num": 62}
+{"match_tokens": ["population:老年人"], "advice": "晚餐可食用杂粮饭（如黑米大米饭、紫薯饭）、洋葱炒豆腐、虎皮尖椒和小白菜冬瓜薏苡仁汤。", "category": "健康生活方式", "page_num": 62}
+{"match_tokens": ["population:老年人"], "advice": "加餐可选择香梨或柚子，每次约200克。", "category": "健康生活方式", "page_num": 62}
+{"match_tokens": ["population:老年人"], "advice": "茶饮可选择生姜菊苣薏苡仁茶。", "category": "健康生活方式", "page_num": 62}
+{"match_tokens": ["disease:其他病症"], "advice": "根据高尿酸血症及痛风不同分期特点，参考食物交换表和食谱示例，相互交换、合理搭配谷薯杂豆类食物。", "category": "治疗与康复", "page_num": 63}
+{"match_tokens": ["population:任何"], "advice": "如果难以区分蔬菜种类（如混合蔬菜），可按照蔬菜类（综合）的质量进行搭配。", "category": "健康生活方式", "page_num": 64}
+{"match_tokens": ["disease:糖尿病"], "advice": "如果难以区分水果种类（如混合水果），可按照水果类（综合）的质量（150g）进行搭配。", "category": "治疗与康复", "page_num": 65}
+{"match_tokens": ["disease:无特定疾病"], "advice": "食用内脏类（肚、舌、肾、肝、心、肫等）时，注意其胆固醇含量高，换算每份相当于70g，换算后需复核营养素的变化是否符合要求。", "category": "健康生活方式", "page_num": 66}
+{"match_tokens": ["age:老年人"], "advice": "根据坚果类食物交换表，每日可适量摄入坚果，例如一份20克综合坚果提供90千卡能量。", "category": "健康生活方式", "page_num": 67}
+{"match_tokens": ["age:老年人"], "advice": "选择淀粉类坚果如板栗、莲子时，注意一份为25克，提供90千卡能量和16.8克碳水化合物。", "category": "健康生活方式", "page_num": 67}
+{"match_tokens": ["age:老年人"], "advice": "选择高脂类坚果如花生仁、核桃时，注意一份为15克，提供90千卡能量和7.7克脂肪。", "category": "健康生活方式", "page_num": 67}
+{"match_tokens": ["age:老年人"], "advice": "选择中脂类坚果如腰果、鲜核桃时，注意一份为20克，提供90千卡能量和6.5克脂肪。", "category": "健康生活方式", "page_num": 67}
+{"match_tokens": ["age:老年人"], "advice": "根据大豆、乳及其制品食物交换表，每日可摄入大豆类食物，例如一份20克黄豆提供90千卡能量和6.9克蛋白质。", "category": "健康生活方式", "page_num": 67}
+{"match_tokens": ["age:老年人"], "advice": "选择北豆腐时，注意一份为90克，提供90千卡能量和11.0克蛋白质。", "category": "健康生活方式", "page_num": 67}
+{"match_tokens": ["age:老年人"], "advice": "选择南豆腐时，注意一份为150克，提供90千卡能量和9.3克蛋白质。", "category": "健康生活方式", "page_num": 67}
+{"match_tokens": ["age:老年人"], "advice": "选择豆皮、豆干时，注意一份为50克，提供90千卡能量和8.5克蛋白质。", "category": "健康生活方式", "page_num": 67}
+{"match_tokens": ["age:老年人"], "advice": "选择豆浆时，注意一份为330克，提供90千卡能量和8.0克蛋白质。", "category": "健康生活方式", "page_num": 67}
+{"match_tokens": ["age:老年人"], "advice": "选择全脂液态乳时，注意一份为150克，提供90千卡能量和5.0克蛋白质。", "category": "健康生活方式", "page_num": 67}
+{"match_tokens": ["age:老年人"], "advice": "选择脱脂液态乳时，注意一份为265克，提供90千卡能量和9.3克蛋白质。", "category": "健康生活方式", "page_num": 67}
+{"match_tokens": ["age:老年人"], "advice": "选择全脂发酵乳时，注意一份为100克，提供90千卡能量和2.8克蛋白质。", "category": "健康生活方式", "page_num": 67}
+{"match_tokens": ["age:老年人"], "advice": "选择乳酪时，注意一份为25克，提供90千卡能量和5.6克蛋白质。", "category": "健康生活方式", "page_num": 67}
+{"match_tokens": ["age:老年人"], "advice": "选择乳粉时，注意一份为20克，提供90千卡能量和4.0克蛋白质。", "category": "健康生活方式", "page_num": 67}
+{"match_tokens": ["disease:高血压", "risk:高盐饮食"], "advice": "使用调味料时，可参考调味料类盐含量交换表，例如1克盐、2克鸡精、4.8克味精、6克豆瓣酱、16克黄酱、6.5克酱油、10克蚝油、13克咸菜或17克腐乳均含有约1克盐，应注意控制总摄入量。", "category": "健康生活方式", "page_num": 68}
+{"match_tokens": ["disease:其他病症", "symptom:湿浊"], "advice": "取橘皮3g、茯苓9g、菊苣6g、葛根6g，加入适量水，先泡30分钟，煎煮后分多次代茶饮用。", "category": "治疗与康复", "page_num": 69}
+{"match_tokens": ["disease:其他病症", "symptom:湿浊"], "advice": "取砂仁6g、橘皮3g、生姜6g、菊苣6g，加入适量水，先泡30分钟，煎煮后分多次代茶饮用。", "category": "治疗与康复", "page_num": 69}
+{"match_tokens": ["disease:其他病症", "symptom:湿浊", "population:孕妇"], "advice": "取菊苣6g、薏苡仁9g、菊花3g，加入适量水，先泡30分钟，煎煮后分多次代茶饮用，孕妇慎用。", "category": "治疗与康复", "page_num": 69}
+{"match_tokens": ["disease:其他病症", "symptom:湿热", "population:孕妇"], "advice": "取金银花6g、荷叶6g、菊苣6g、薏苡仁9g、甘草3g，加入适量水，先泡30分钟，煎煮后分多次代茶饮用，孕妇慎用。", "category": "治疗与康复", "page_num": 69}
+{"match_tokens": ["disease:其他病症", "symptom:湿热"], "advice": "取玉米须30g、鲜白茅根30g、金银花9g、栀子3g，加入适量水，先泡30分钟，煎煮后分多次代茶饮用。", "category": "治疗与康复", "page_num": 69}
+{"match_tokens": ["disease:其他病症", "symptom:痰瘀", "population:孕妇"], "advice": "取橘皮6g、莱菔子6g、山楂12g、菊苣10g，加入适量水，先泡30分钟，煎煮后分多次代茶饮用，孕妇慎用。", "category": "治疗与康复", "page_num": 69}
+{"match_tokens": ["population:孕妇"], "advice": "孕妇慎用桔梗橘皮茶。", "category": "治疗与康复", "page_num": 70}
+{"match_tokens": ["population:孕妇"], "advice": "孕妇慎用山药茯苓茶。", "category": "治疗与康复", "page_num": 70}
+{"match_tokens": ["population:孕妇", "population:哺乳期妇女"], "advice": "孕妇、哺乳期妇女不宜食用人参黄芪茶。", "category": "治疗与康复", "page_num": 70}
+{"match_tokens": ["disease:无特定疾病"], "advice": "制作茯苓橘皮粥：茯苓浸泡1小时，与洗净的大米、橘皮，加水适量，共煮粥。代早餐或佐餐食用，1人1次量，可食用7～10天。", "category": "治疗与康复", "page_num": 70}
+{"match_tokens": ["disease:无特定疾病"], "advice": "制作山药茯苓粥：将茯苓浸泡1小时，山药切成细条，大枣去核，橘皮洗净，同大米一起放入锅，共煮粥。代早餐或佐餐食用，1人1次量。", "category": "治疗与康复", "page_num": 70}
+{"match_tokens": ["population:孕妇"], "advice": "孕妇慎用冬瓜薏苡仁豆腐汤。", "category": "健康生活方式", "page_num": 71}
+{"match_tokens": ["population:孕妇"], "advice": "孕妇慎用马齿苋金银花薏苡仁粥。", "category": "健康生活方式", "page_num": 71}
+{"match_tokens": ["disease:肥胖症"], "advice": "制作海带冬瓜薏苡仁汤，佐餐食用，１人１次量，可食用7～10 天。", "category": "治疗与康复", "page_num": 72}
+{"match_tokens": ["population:孕妇"], "advice": "孕妇慎用海带冬瓜薏苡仁汤。", "category": "治疗与康复", "page_num": 72}
+{"match_tokens": ["disease:肥胖症"], "advice": "制作菊苣蔬菜饼，代早餐食用或佐餐食用，１人１次量，可食用7～10 天。", "category": "治疗与康复", "page_num": 72}
+{"match_tokens": ["disease:肥胖症"], "advice": "制作桃仁橘皮粥，佐餐食用，１人１次量，可食用7～10 天。", "category": "治疗与康复", "page_num": 72}
+{"match_tokens": ["population:孕妇"], "advice": "孕妇慎用桃仁橘皮粥。", "category": "治疗与康复", "page_num": 72}
+{"match_tokens": ["population:孕妇"], "advice": "孕妇慎用冬瓜薏苡仁山楂粥。", "category": "治疗与康复", "page_num": 73}
+{"match_tokens": ["disease:无特定疾病"], "advice": "将莴笋去皮切片，水发木耳撕小块，山药去皮切片，木耳山药分别焯水。爆香葱花，倒入莴笋、山药、木耳，炒熟调味即可。佐餐食用，１人１次量，可食用7～10 天。", "category": "健康生活方式", "page_num": 74}

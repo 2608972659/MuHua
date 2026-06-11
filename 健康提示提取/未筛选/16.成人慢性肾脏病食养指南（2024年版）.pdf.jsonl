@@ -1,0 +1,537 @@
+{"match_tokens": ["disease:其他病症"], "advice": "成人慢性肾脏病患者应遵循《成人慢性肾脏病食养指南（2024年版）》。", "category": "治疗与康复", "page_num": 1}
+{"match_tokens": ["disease:其他病症"], "advice": "食物多样，分期选配。", "category": "健康生活方式", "page_num": 2}
+{"match_tokens": ["disease:其他病症"], "advice": "能量充足，体重合理，谷物适宜，主食优化。", "category": "健康生活方式", "page_num": 2}
+{"match_tokens": ["disease:其他病症"], "advice": "蛋白适量，合理摄入鱼禽豆蛋奶肉。", "category": "健康生活方式", "page_num": 2}
+{"match_tokens": ["disease:其他病症"], "advice": "蔬菜充足，水果适量。", "category": "健康生活方式", "page_num": 2}
+{"match_tokens": ["disease:其他病症"], "advice": "少盐控油，限磷控钾。", "category": "健康生活方式", "page_num": 2}
+{"match_tokens": ["disease:其他病症"], "advice": "适量饮水，量出为入。", "category": "健康生活方式", "page_num": 2}
+{"match_tokens": ["disease:其他病症"], "advice": "合理选择食药物质，调补有道。", "category": "健康生活方式", "page_num": 2}
+{"match_tokens": ["disease:其他病症"], "advice": "合理选择营养健康食品，改善营养状况。", "category": "健康生活方式", "page_num": 2}
+{"match_tokens": ["disease:其他病症"], "advice": "规律进餐，限制饮酒，适度运动。", "category": "健康生活方式", "page_num": 2}
+{"match_tokens": ["disease:其他病症"], "advice": "定期监测，强化自我管理。", "category": "治疗与康复", "page_num": 2}
+{"match_tokens": ["disease:高血压", "disease:糖尿病", "bmi:肥胖", "disease:其他病症"], "advice": "针对与不良生活方式密切有关的慢性病如糖尿病、高血压、肥胖、高尿酸血症等慢性肾脏病的重要危险因素，进行膳食干预。", "category": "健康生活方式", "page_num": 3}
+{"match_tokens": ["disease:无特定疾病"], "advice": "减少高饱和脂肪酸、高嘌呤、高盐摄入。", "category": "健康生活方式", "page_num": 3}
+{"match_tokens": ["disease:其他病症"], "advice": "慢性肾脏病非透析患者在合理用药的基础上进行膳食干预可明显延缓疾病的进展，推迟进入透析时间。", "category": "治疗与康复", "page_num": 3}
+{"match_tokens": ["disease:其他病症"], "advice": "慢性肾脏病透析患者在透析和合理药物治疗时，采用膳食干预可减少透析次数、预防营养不良，延长透析寿命。", "category": "治疗与康复", "page_num": 3}
+{"match_tokens": ["disease:其他病症"], "advice": "针对不同体质和证候的慢性肾脏病患者，选取不同特性的食物或食药物质食用，可明显改善肾脏病患者的状况。", "category": "治疗与康复", "page_num": 3}
+{"match_tokens": ["disease:其他病症", "symptom:蛋白尿", "symptom:水肿"], "advice": "出现蛋白尿、水肿等症状时，应及时就医，以利于疾病的治疗。", "category": "治疗与康复", "page_num": 4}
+{"match_tokens": ["disease:其他病症"], "advice": "慢性肾脏病患者应在临床营养师和专科医生等专业人员的指导下，根据具体情况设计个性化食养方案。", "category": "治疗与康复", "page_num": 4}
+{"match_tokens": ["disease:其他病症"], "advice": "慢性肾脏病患者应定期监测食养方案效果，并根据病情调整方案。", "category": "治疗与康复", "page_num": 4}
+{"match_tokens": ["disease:其他病症"], "advice": "慢性肾脏病患者若出现气短懒言、易疲劳、乏力、自汗、纳差、大便偏稀等症状，可考虑气虚证。", "category": "治疗与康复", "page_num": 5}
+{"match_tokens": ["disease:其他病症"], "advice": "慢性肾脏病患者若出现面色无华、唇甲色淡、经少色淡、贫血表现等症状，可考虑血虚证。", "category": "治疗与康复", "page_num": 5}
+{"match_tokens": ["disease:其他病症"], "advice": "慢性肾脏病患者若出现五心烦热、潮热盗汗、口干咽燥、腰膝酸软等症状，可考虑阴虚证。", "category": "治疗与康复", "page_num": 5}
+{"match_tokens": ["disease:其他病症"], "advice": "慢性肾脏病患者若出现怕冷、手脚凉、腰膝酸软、小便清长或夜尿多等症状，可考虑阳虚证。", "category": "治疗与康复", "page_num": 5}
+{"match_tokens": ["disease:其他病症"], "advice": "食物多样，分期选配。", "category": "健康生活方式", "page_num": 6}
+{"match_tokens": ["disease:其他病症"], "advice": "能量充足，保持体重合理，谷物适宜，主食优化。", "category": "健康生活方式", "page_num": 6}
+{"match_tokens": ["disease:其他病症"], "advice": "蛋白适量，合理摄入鱼、禽、豆、蛋、奶、肉。", "category": "健康生活方式", "page_num": 6}
+{"match_tokens": ["disease:其他病症"], "advice": "蔬菜充足，水果适量。", "category": "健康生活方式", "page_num": 6}
+{"match_tokens": ["disease:其他病症"], "advice": "少盐控油，限磷控钾。", "category": "健康生活方式", "page_num": 6}
+{"match_tokens": ["disease:其他病症"], "advice": "适量饮水，量出为入。", "category": "健康生活方式", "page_num": 6}
+{"match_tokens": ["disease:其他病症"], "advice": "合理选择食药物质，调补有道。", "category": "健康生活方式", "page_num": 6}
+{"match_tokens": ["disease:其他病症"], "advice": "合理选择营养健康食品，改善营养状况。", "category": "健康生活方式", "page_num": 6}
+{"match_tokens": ["disease:其他病症"], "advice": "规律进餐，限制饮酒，适度运动。", "category": "健康生活方式", "page_num": 6}
+{"match_tokens": ["disease:其他病症"], "advice": "定期监测，强化自我管理。", "category": "治疗与康复", "page_num": 6}
+{"match_tokens": ["disease:其他病症"], "advice": "食物多样，每日12种以上，每周达25种以上，合理搭配，保证营养素摄入全面和充足。", "category": "健康生活方式", "page_num": 7}
+{"match_tokens": ["disease:其他病症"], "advice": "少盐、少调味品、限酒或不饮酒，限制或禁食浓肉汤或老火汤。", "category": "健康生活方式", "page_num": 7}
+{"match_tokens": ["disease:其他病症"], "advice": "根据慢性肾脏病分期选配食物种类和质量，以减少肾脏负担为目标。", "category": "治疗与康复", "page_num": 7}
+{"match_tokens": ["disease:其他病症"], "advice": "主食来源以全谷物、杂豆类、薯类及水生蔬菜等为主。", "category": "健康生活方式", "page_num": 7}
+{"match_tokens": ["disease:其他病症"], "advice": "餐餐有蔬菜，每天应达300～500g，其中深色蔬菜占一半以上。", "category": "健康生活方式", "page_num": 7}
+{"match_tokens": ["disease:其他病症"], "advice": "水果应适量；常吃奶类、大豆及其制品，适量吃鱼、禽、蛋、畜肉。", "category": "健康生活方式", "page_num": 7}
+{"match_tokens": ["disease:其他病症"], "advice": "尽量不吃烟熏、烧烤、腌制等过度加工食品。", "category": "健康生活方式", "page_num": 7}
+{"match_tokens": ["disease:其他病症"], "advice": "控制盐、油、糖和调味品的使用量。", "category": "健康生活方式", "page_num": 8}
+{"match_tokens": ["disease:其他病症"], "advice": "遵守植物性食物为主的膳食原则，实施低蛋白饮食，蛋白质摄入总量为每日每公斤理想体重0.6g。", "category": "健康生活方式", "page_num": 8}
+{"match_tokens": ["disease:其他病症"], "advice": "主食兼顾蛋白质的用量，可选择淀粉含量高、蛋白质含量低的食物如红薯、土豆、莲藕、山药、绿豆粉丝等食物代替部分或全部谷类食物。", "category": "健康生活方式", "page_num": 8}
+{"match_tokens": ["disease:其他病症"], "advice": "餐餐有蔬菜；水果应适量；常吃大豆及其制品，适量鱼、禽、蛋、奶、畜肉。", "category": "健康生活方式", "page_num": 8}
+{"match_tokens": ["disease:其他病症"], "advice": "尽量不吃烟熏、烧烤、腌制等过度加工食品。", "category": "健康生活方式", "page_num": 8}
+{"match_tokens": ["disease:其他病症"], "advice": "充足的能量摄入是保持适宜体重的重要保障，推荐能量摄入量为每日每公斤理想体重30～35kcal。", "category": "健康生活方式", "page_num": 8}
+{"match_tokens": ["disease:其他病症", "bmi:超重", "bmi:肥胖"], "advice": "对于超重或肥胖患者，能量摄入可减少500～750kcal，使其体重降至适宜范围内。", "category": "健康生活方式", "page_num": 8}
+{"match_tokens": ["disease:其他病症"], "advice": "根据体质指数（BMI）来判断适宜体重，一般控制在18.5～23.9kg/m²。", "category": "健康生活方式", "page_num": 8}
+{"match_tokens": ["disease:其他病症", "age:老年人"], "advice": "65岁及以上老年人BMI可适当提高，适宜范围为20.0～26.9kg/m²。", "category": "健康生活方式", "page_num": 8}
+{"match_tokens": ["disease:其他病症"], "advice": "主食建议谷薯类为主，其中1/3为粗杂粮。", "category": "治疗与康复", "page_num": 9}
+{"match_tokens": ["disease:其他病症"], "advice": "为减轻肾脏负担，需实施低蛋白饮食，减少米面食物摄入。", "category": "治疗与康复", "page_num": 9}
+{"match_tokens": ["disease:其他病症"], "advice": "可选择蛋白质含量低、能量密度高的食物作为主食，如红薯、土豆、木薯、山药、芋头、沙葛等。", "category": "治疗与康复", "page_num": 9}
+{"match_tokens": ["disease:其他病症"], "advice": "可选择水生蔬菜，如莲藕、马蹄等食物来补充能量。", "category": "治疗与康复", "page_num": 9}
+{"match_tokens": ["disease:其他病症"], "advice": "有条件者可选择低蛋白大米、淀粉（米）和肾病专用能量补充剂等低蛋白高能量食品来辅助增加能量。", "category": "治疗与康复", "page_num": 9}
+{"match_tokens": ["disease:其他病症"], "advice": "临床营养师或专科医生应根据疾病分期来选择蛋白质种类和摄入量，其中优质蛋白应占蛋白质总量的50%以上。", "category": "治疗与康复", "page_num": 9}
+{"match_tokens": ["disease:其他病症"], "advice": "动物性食物可适当选择白肉类食物如鱼禽类。", "category": "治疗与康复", "page_num": 9}
+{"match_tokens": ["disease:其他病症"], "advice": "红肉如猪肉、牛肉、羊肉等尽量少吃，一般每周1～2次，每次不超过50g。", "category": "治疗与康复", "page_num": 9}
+{"match_tokens": ["disease:其他病症", "symptom:无特定症状"], "advice": "适当增加进食次数，以便补充血红素铁。", "category": "治疗与康复", "page_num": 10}
+{"match_tokens": ["disease:其他病症", "symptom:无特定症状"], "advice": "蛋类和奶类通常含磷较高，需适当控制用量，鸡蛋每天不要超过1个，奶类不超过300mL。", "category": "治疗与康复", "page_num": 10}
+{"match_tokens": ["disease:其他病症", "symptom:无特定症状"], "advice": "植物性食物更有利于减轻肾脏的负担，延缓疾病进展，可选择大豆及其制品如豆腐、腐竹等作为蛋白质和钙的重要来源。", "category": "治疗与康复", "page_num": 10}
+{"match_tokens": ["disease:其他病症", "symptom:无特定症状"], "advice": "在选择蛋白质食物来源时，可优先选择鱼禽类，其次是大豆类，最后是蛋、奶、畜肉。", "category": "治疗与康复", "page_num": 10}
+{"match_tokens": ["disease:其他病症", "symptom:无特定症状"], "advice": "鼓励慢性肾脏病患者适当进食蔬菜水果，推荐每日摄入蔬菜300～500g、水果200～350g。", "category": "治疗与康复", "page_num": 10}
+{"match_tokens": ["disease:糖尿病", "symptom:无特定症状"], "advice": "糖尿病肾病患者每日水果摄入量可适当减量至100～200g。", "category": "治疗与康复", "page_num": 10}
+{"match_tokens": ["disease:其他病症", "symptom:水肿"], "advice": "当患者出现水肿时，需谨慎选择蔬菜和水果，并计算其中的含水量和含钾量。", "category": "治疗与康复", "page_num": 10}
+{"match_tokens": ["disease:其他病症", "symptom:高钾血症"], "advice": "当患者出现高钾血症时，需谨慎选择蔬菜和水果，并计算其中的含水量和含钾量。", "category": "治疗与康复", "page_num": 10}
+{"match_tokens": ["disease:其他病症", "symptom:水肿"], "advice": "蔬菜推荐清水浸泡并飞水弃汤后进食。", "category": "治疗与康复", "page_num": 10}
+{"match_tokens": ["disease:其他病症", "symptom:高钾血症"], "advice": "蔬菜推荐清水浸泡并飞水弃汤后进食。", "category": "治疗与康复", "page_num": 10}
+{"match_tokens": ["disease:其他病症", "symptom:水肿"], "advice": "水果则可根据具体情况选用，必要时咨询临床营养师或专科医生。", "category": "治疗与康复", "page_num": 10}
+{"match_tokens": ["disease:其他病症", "symptom:高钾血症"], "advice": "水果则可根据具体情况选用，必要时咨询临床营养师或专科医生。", "category": "治疗与康复", "page_num": 10}
+{"match_tokens": ["disease:其他病症", "symptom:无特定症状"], "advice": "慢性肾脏病3～5期的患者，除关注蔬菜和水果中的水分和含钾量外，还需注意其中的蛋白质含量。", "category": "治疗与康复", "page_num": 10}
+{"match_tokens": ["disease:其他病症", "symptom:无特定症状"], "advice": "慢性肾脏病3～5期的患者可多选富含类胡萝卜素的深色蔬菜水果，能够延缓肾功能下降，对肾脏具有保护作用。", "category": "治疗与康复", "page_num": 10}
+{"match_tokens": ["disease:其他病症"], "advice": "择含蛋白质少的瓜菜，适当选择深色蔬菜水果。", "category": "健康生活方式", "page_num": 11}
+{"match_tokens": ["disease:其他病症"], "advice": "控制饮食中盐的摄入量，每日盐摄入量不超过5g，避免进食烟熏、烧烤、腌制等过度加工食品，限制酱油、味精、鸡精、各种酱料等调味品的摄入，尽量选择天然味道，如山楂、柠檬、辣椒、花椒、醋等。", "category": "健康生活方式", "page_num": 11}
+{"match_tokens": ["disease:其他病症", "symptom:水肿"], "advice": "对于出现水肿的患者应在临床营养师或专科医生的指导下实施低盐膳食，每日盐摄入量不超过3g；严重水肿则应实施无盐膳食（钠＜1000mg）或低钠膳食（钠＜500mg）。", "category": "治疗与康复", "page_num": 11}
+{"match_tokens": ["disease:其他病症", "bmi:超重", "bmi:肥胖"], "advice": "适当控制油脂摄入，建议烹调油摄入量不超过25～40g，脂肪占总能量的比例不宜超过35%。", "category": "健康生活方式", "page_num": 11}
+{"match_tokens": ["disease:其他病症"], "advice": "处于慢性肾脏病3～5期的患者，在实施低蛋白饮食的同时，可适当增加富含中链甘油三酯或ω-3脂肪酸的油脂，如亚麻籽油、紫苏籽油等作为能量补充来源。", "category": "治疗与康复", "page_num": 11}
+{"match_tokens": ["disease:其他病症"], "advice": "限制饮食中磷的摄入，避免摄入瘦肉、蛋、奶、肝、肾、海带、紫菜、芝麻酱、花生、干豆类、坚果粗粮等含磷丰富的食物。", "category": "治疗与康复", "page_num": 11}
+{"match_tokens": ["disease:其他病症"], "advice": "在选择加工食品时，要通过阅读食品标签，避免选择含磷添加剂较多的食品。", "category": "健康生活方式", "page_num": 12}
+{"match_tokens": ["disease:其他病症"], "advice": "推荐慢性肾脏病患者的膳食以植物性食物为主，控制每日膳食磷摄入量不超过800～1000mg。", "category": "健康生活方式", "page_num": 12}
+{"match_tokens": ["disease:其他病症"], "advice": "慢性肾脏病3～5期患者，在实施低蛋白饮食的同时，多选用磷/蛋白质含量比值低的食物。", "category": "健康生活方式", "page_num": 12}
+{"match_tokens": ["disease:其他病症"], "advice": "建议慢性肾脏病患者根据具体情况个体化调整钾摄入量。", "category": "健康生活方式", "page_num": 12}
+{"match_tokens": ["disease:其他病症"], "advice": "出现高钾血症的患者应及时就医，同时严格控制高钾食物摄入，每日钾摄入量不超过2000～3000mg。", "category": "治疗与康复", "page_num": 12}
+{"match_tokens": ["disease:其他病症"], "advice": "维持血钾浓度在3.5～5.5mmol/L范围，避免摄入浓肉汤、老火汤、菜汤，推荐烹调时先飞水弃汤后食用。", "category": "治疗与康复", "page_num": 12}
+{"match_tokens": ["disease:其他病症"], "advice": "对于无水肿且尿量正常的慢性肾脏病患者，每日饮水量1500～1700mL。", "category": "健康生活方式", "page_num": 12}
+{"match_tokens": ["disease:其他病症"], "advice": "对于存在水肿和（或）尿量较少的慢性肾脏病患者，需要根据每天的尿液排出量以及透析脱水量等来计划饮水量，量出为入。", "category": "治疗与康复", "page_num": 12}
+{"match_tokens": ["disease:其他病症"], "advice": "在临床营养师或专科医生的指导下实施低盐膳食，同时需减少摄入含水多的食物，避免加重水肿。", "category": "治疗与康复", "page_num": 12}
+{"match_tokens": ["disease:其他病症"], "advice": "根据不同的证型，选择合适的食养方案。", "category": "健康生活方式", "page_num": 12}
+{"match_tokens": ["disease:其他病症"], "advice": "气虚者，偏于脾气虚可选用山药、茯苓；偏于肾气虚可选用黄精、山药。", "category": "治疗与康复", "page_num": 13}
+{"match_tokens": ["disease:其他病症"], "advice": "血虚者，可选用阿胶。", "category": "治疗与康复", "page_num": 13}
+{"match_tokens": ["disease:其他病症"], "advice": "湿热者，可用赤小豆、金银花、菊花等。", "category": "治疗与康复", "page_num": 13}
+{"match_tokens": ["disease:其他病症"], "advice": "血瘀者，可食用桃仁、山楂等。", "category": "治疗与康复", "page_num": 13}
+{"match_tokens": ["disease:其他病症"], "advice": "春季主生、养阳，可适当摄入温补类物质，如大枣、龙眼肉、核桃仁等。", "category": "健康生活方式", "page_num": 13}
+{"match_tokens": ["disease:其他病症"], "advice": "夏季主长，天气炎热，汗液分泌增加，宜食用滋阴清热利湿的物质，如赤小豆、冬瓜、绿豆、薏苡仁。", "category": "健康生活方式", "page_num": 13}
+{"match_tokens": ["disease:其他病症"], "advice": "秋气燥，宜使用养肺润燥之品，如雪梨、山药、蜂蜜、银耳。", "category": "健康生活方式", "page_num": 13}
+{"match_tokens": ["disease:其他病症"], "advice": "冬季寒冷主收藏，可食用温补之味，如当归（仅作为香辛料和调味品使用）、阿胶等。", "category": "健康生活方式", "page_num": 13}
+{"match_tokens": ["disease:其他病症"], "advice": "东南地势低，气候温热潮湿，宜适当食用甘淡渗湿之品，如茯苓、橘皮、薏苡仁。", "category": "健康生活方式", "page_num": 13}
+{"match_tokens": ["disease:其他病症"], "advice": "西北地处高原，气候寒冷干燥，宜选用温热滋润之品，如百合、大枣、龙眼肉。", "category": "健康生活方式", "page_num": 13}
+{"match_tokens": ["disease:其他病症"], "advice": "慢性肾脏病患者应定期进行营养评定和监测，并由临床营养师或医生对其进行营养指导，防止出现营养不足。", "category": "治疗与康复", "page_num": 13}
+{"match_tokens": ["disease:其他病症"], "advice": "一旦发现营养风险，及时进行膳食指导，必要时给予营养健康食品如膳食营养补充剂、肾病型。", "category": "治疗与康复", "page_num": 13}
+{"match_tokens": ["disease:其他病症"], "advice": "规律进餐，一日三餐及加餐的时间应相对固定，避免过度饥饿或暴饮暴食，减少外卖和聚餐，零食要适当。", "category": "健康生活方式", "page_num": 14}
+{"match_tokens": ["disease:其他病症"], "advice": "加餐宜选择在餐间进行，以水果、薯类等天然食物为宜，并严格限制过度加工食品作为零食和加餐。", "category": "健康生活方式", "page_num": 14}
+{"match_tokens": ["disease:其他病症"], "advice": "对于体重下降的患者应适当增加餐次，以帮助增加体重，纠正营养不足。", "category": "健康生活方式", "page_num": 14}
+{"match_tokens": ["disease:其他病症"], "advice": "限制饮酒，尽量减少饮酒或不饮酒，慢性肾脏病3～5期患者不应饮酒。", "category": "健康生活方式", "page_num": 14}
+{"match_tokens": ["disease:其他病症"], "advice": "每周进行3～5次，每次30～60分钟中等强度运动，包括快走、骑车、乒乓球、羽毛球、慢跑、游泳等。", "category": "健康生活方式", "page_num": 14}
+{"match_tokens": ["disease:其他病症"], "advice": "如无禁忌，最好1周3次抗阻运动，如哑铃、俯卧撑、器械类运动等，提高肌肉力量和耐力。", "category": "健康生活方式", "page_num": 14}
+{"match_tokens": ["disease:其他病症"], "advice": "将日常活动和运动融入生活计划中，循序渐进达到上述运动目标。", "category": "健康生活方式", "page_num": 14}
+{"match_tokens": ["disease:其他病症"], "advice": "每日自我监测血压、体重、尿量等指标，每周进行饮食记录来监测食物摄入情况。", "category": "治疗与康复", "page_num": 15}
+{"match_tokens": ["disease:其他病症"], "advice": "每月到医院由医务人员进行营养风险筛查，必要时每季度或每年进行1次人体成分分析、握力、上臂围、小腿围、腰围或生化指标的监测。", "category": "治疗与康复", "page_num": 15}
+{"match_tokens": ["disease:其他病症"], "advice": "学习慢性肾脏病相关知识和自我管理技能，了解食物中能量、蛋白质、钠、钾、磷、钙含量，学习食物营养成分和营养标签的查询，掌握食物交换表的使用。", "category": "治疗与康复", "page_num": 15}
+{"match_tokens": ["disease:其他病症"], "advice": "家属和社区应积极为患者提供友好进餐氛围，提供适合慢性肾脏病患者的食物，定期举办慢性肾脏病膳食烹饪交流活动。", "category": "治疗与康复", "page_num": 15}
+{"match_tokens": ["disease:其他病症"], "advice": "患者应主动进行定期咨询，接受个性化营养教育、膳食指导，掌握慢性肾脏病相关膳食管理技能。", "category": "治疗与康复", "page_num": 16}
+{"match_tokens": ["disease:其他病症"], "advice": "在初诊、年度检查和（或）未达到治疗目标、疾病或环境变化时，应及时就诊或咨询。", "category": "治疗与康复", "page_num": 16}
+{"match_tokens": ["disease:其他病症"], "advice": "根据慢性肾脏病不同疾病分期营养管理原则做好食物选择，计划好1天需要的食物品种和数量。", "category": "治疗与康复", "page_num": 17}
+{"match_tokens": ["disease:其他病症"], "advice": "做好食物称量，确定好食物品种后，用电子秤称好1天所需食物（包括油、盐等调味品）的量。", "category": "治疗与康复", "page_num": 17}
+{"match_tokens": ["disease:其他病症"], "advice": "做好食物烹调方法选择，尽量选择清蒸、炖、焖、煮的方法。", "category": "治疗与康复", "page_num": 17}
+{"match_tokens": ["disease:其他病症"], "advice": "为减少食物中磷和钾的量，食物烹调前先飞水，后烹调，最后下调味品。", "category": "治疗与康复", "page_num": 17}
+{"match_tokens": ["disease:其他病症"], "advice": "慢性肾脏病患者的家庭照料者有条件时可多学习烹调方法，丰富膳食种类。", "category": "治疗与康复", "page_num": 17}
+{"match_tokens": ["disease:其他病症"], "advice": "学会看食物营养成分和营养标签，作为选择食物的重要参考资料。", "category": "治疗与康复", "page_num": 17}
+{"match_tokens": ["disease:其他病症"], "advice": "在保障能量充足和控制总蛋白质量的基础上，当需要控制膳食中的钠、钾、磷时，参考常见食物钠、钾、磷、蛋白质及磷/蛋白质比值及含量表来选择低钠、低钾、低磷的食物。", "category": "治疗与康复", "page_num": 17}
+{"match_tokens": ["disease:其他病症"], "advice": "选择磷/蛋白质比值低于5mg/g的食物，如杏仁、鸡蛋蛋白、海参。", "category": "治疗与康复", "page_num": 18}
+{"match_tokens": ["disease:其他病症"], "advice": "选择磷/蛋白质比值在5～10mg/g的食物，如火鸡胸脯肉、水面筋、黄油、鸭胸脯肉、叉烧肉、鸡胸脯肉、金枪鱼（油浸）、猪肉（代表值，脂肪30g）、鸡(均值)、苏打饼干、鲆[片口鱼，比目鱼]、羊肉（代表值，脂肪7g）、罗非鱼、牛肉(前腱)、鲑鱼[大马哈鱼,三文鱼]、牛肉(肥瘦)(均值)、猪肉(瘦)、曲奇饼、鸡蛋（代表值)。", "category": "治疗与康复", "page_num": 18}
+{"match_tokens": ["disease:其他病症"], "advice": "选择磷/蛋白质比值在10～15mg/g的食物，如葵花子（生）、小麦面粉(标准粉)、芝麻酱、带鱼(白带鱼，刀鱼)、河虾、鳕鱼[鳕狭，明太鱼]、豆腐(内酯)、豆腐干(均值)、龙虾、金枪鱼肉、草鱼、豆腐（北豆腐）、乌鳢(黑鱼，石斑鱼，生鱼)、奶酪（干酪）。", "category": "治疗与康复", "page_num": 18}
+{"match_tokens": ["disease:其他病症"], "advice": "选择磷/蛋白质比值低于15mg/g的食物，如黄鱼、面包、面条、黄豆、奶酪、鸡腿、冬笋、黑豆、豆浆、明虾、大米、豆奶。", "category": "治疗与康复", "page_num": 19}
+{"match_tokens": ["disease:其他病症"], "advice": "选择磷/蛋白质比值在15～20mg/g的食物，如花生、蛋糕、馒头、虾米、绿豆、面条、油饼、鸡蛋蛋黄、鸡肝、乳酪、黄豆芽、团粉、西兰花、花生酱、土豆、油菜、山药、踞缘青蟹、桃、小白菜、虾皮、籼米、三明治、蚕豆。", "category": "治疗与康复", "page_num": 19}
+{"match_tokens": ["disease:其他病症"], "advice": "选择磷/蛋白质比值在20～25mg/g的食物，如芥菜、粉丝、香蕉。", "category": "治疗与康复", "page_num": 19}
+{"match_tokens": ["disease:其他病症"], "advice": "选择磷/蛋白质比值较低的食物，如鳟鱼、西式蛋糕、花生、玉米淀粉、茄子、西葫芦、葫芦、豆角、西瓜子、米饭、西瓜、香菇、木耳。", "category": "治疗与康复", "page_num": 20}
+{"match_tokens": ["disease:其他病症"], "advice": "避免或限制食用磷/蛋白质比值大于25mg/g的食物，如豇豆、丝瓜、小米、四季豆、巧克力、腰果、酸奶、纯牛奶、橙、海带、啤酒、葡萄酒、低脂纯牛奶、中华猕猴桃、杏干、燕麦片、蘑菇、酱油。", "category": "治疗与康复", "page_num": 20}
+{"match_tokens": ["disease:其他病症", "population:老年人"], "advice": "慢性肾脏病患者需在专业人士指导下根据不同中医证型选择合适的食药物质。", "category": "治疗与康复", "page_num": 21}
+{"match_tokens": ["disease:其他病症"], "advice": "气虚证患者可选择黄芪、山药、甘草、党参、西洋参、茯苓作为食药物质。", "category": "治疗与康复", "page_num": 21}
+{"match_tokens": ["disease:其他病症"], "advice": "血虚证患者可选择蜂蜜、当归、龙眼肉、大枣、灵芝作为食药物质。", "category": "治疗与康复", "page_num": 21}
+{"match_tokens": ["disease:其他病症"], "advice": "阴虚证患者可选择黄精、火麻仁、百合、酸枣仁、山药、枸杞子、桑椹、黑芝麻、山茱萸、莲子作为食药物质。", "category": "治疗与康复", "page_num": 21}
+{"match_tokens": ["disease:其他病症"], "advice": "阳虚证患者可选择花椒、肉桂、肉苁蓉、姜（生姜、干姜）、丁香、肉豆蔻、刀豆作为食药物质。", "category": "治疗与康复", "page_num": 21}
+{"match_tokens": ["disease:其他病症"], "advice": "湿证患者可选择木瓜、白扁豆、茯苓、橘皮、莱菔子、昆布、白果作为食药物质。", "category": "治疗与康复", "page_num": 21}
+{"match_tokens": ["disease:其他病症"], "advice": "湿热证患者可选择赤小豆、金银花、鱼腥草、薏苡仁、荷叶、鲜白茅根作为食药物质。", "category": "治疗与康复", "page_num": 21}
+{"match_tokens": ["disease:其他病症"], "advice": "虚火证患者可选择罗汉果、胖大海、青果、桑叶、葛根、玉竹、鲜芦根作为食药物质。", "category": "治疗与康复", "page_num": 21}
+{"match_tokens": ["disease:其他病症"], "advice": "瘀证患者可选择山楂、桃仁、当归、西红花、姜黄、佛手、香橼作为食药物质。", "category": "治疗与康复", "page_num": 21}
+{"match_tokens": ["disease:其他病症"], "advice": "使用食药物质时，应在限定使用范围和剂量内，并咨询医生、营养指导人员等专业人员。", "category": "治疗与康复", "page_num": 21}
+{"match_tokens": ["disease:其他病症"], "advice": "当归、西红花、姜黄仅作为香辛料和调味品使用。", "category": "治疗与康复", "page_num": 21}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "根据慢性肾脏病不同分期特点，参考食物交换表和食谱示例，对谷薯杂豆类食物进行相互交换、合理搭配。", "category": "治疗与康复", "page_num": 22}
+{"match_tokens": ["population:任何"], "advice": "如果难以区分蔬菜种类（如混合蔬菜），可按照蔬菜类（综合）的质量进行搭配，每份250克。", "category": "健康生活方式", "page_num": 23}
+{"match_tokens": ["population:任何"], "advice": "选择深色嫩茎叶花菜类蔬菜（如油菜、菠菜、苋菜），每份300克。", "category": "健康生活方式", "page_num": 23}
+{"match_tokens": ["population:任何"], "advice": "选择浅色嫩茎叶花菜类蔬菜（如大白菜、圆白菜、菜花），每份330克。", "category": "健康生活方式", "page_num": 23}
+{"match_tokens": ["population:任何"], "advice": "选择茄果类蔬菜（如茄子、西红柿、黄瓜），每份375克。", "category": "健康生活方式", "page_num": 23}
+{"match_tokens": ["population:任何"], "advice": "选择根茎类蔬菜（如红萝卜、白萝卜、胡萝卜），每份300克。", "category": "健康生活方式", "page_num": 23}
+{"match_tokens": ["population:任何"], "advice": "选择鲜蘑菇类（如香菇、平菇、金针菇），每份275克。", "category": "健康生活方式", "page_num": 23}
+{"match_tokens": ["population:任何"], "advice": "选择干蘑菇类（如香菇、木耳、茶树菇），每份30克。", "category": "健康生活方式", "page_num": 23}
+{"match_tokens": ["population:任何"], "advice": "选择鲜豆类蔬菜（如豇豆、扁豆、四季豆），每份250克。", "category": "健康生活方式", "page_num": 23}
+{"match_tokens": ["disease:糖尿病", "population:老年人"], "advice": "如果难以区分水果种类（如混合水果），可按照水果类（综合）的质量进行搭配，每份150克。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:糖尿病"], "advice": "选择水果时，应优先选择常见新鲜水果（不包括干制、糖渍、罐头类制品）。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:糖尿病"], "advice": "食用柑橘类水果（如橘子、橙子、柚子、柠檬）时，每份质量为200克。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:糖尿病"], "advice": "食用仁果、核果、瓜果类水果（如苹果、梨、桃、李子、杏、樱桃、甜瓜、西瓜、黄金瓜、哈密瓜等）时，每份质量为175克。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:糖尿病"], "advice": "食用浆果类水果（如葡萄、石榴、柿子、桑椹、草莓、无花果、猕猴桃等）时，每份质量为150克。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:糖尿病"], "advice": "食用枣和热带水果类（如各类鲜枣、芒果、荔枝、桂圆、菠萝、香蕉、榴莲、火龙果等）时，每份质量为75克。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:糖尿病"], "advice": "食用果干类（如葡萄干、杏干、苹果干等）时，每份质量为25克。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:无特定疾病"], "advice": "选择畜肉类时，优先选择脂肪含量≤5%的纯瘦肉、牛里脊、羊里脊等，每份可食用80克。", "category": "健康生活方式", "page_num": 25}
+{"match_tokens": ["disease:无特定疾病"], "advice": "选择畜肉类时，对于脂肪含量6%~15%的猪里脊、羊肉（胸脯肉）等，每份可食用60克。", "category": "健康生活方式", "page_num": 25}
+{"match_tokens": ["disease:无特定疾病"], "advice": "选择畜肉类时，对于脂肪含量16%~35%的前臀尖、猪大排、猪肉（硬五花）等，每份可食用30克。", "category": "健康生活方式", "page_num": 25}
+{"match_tokens": ["disease:无特定疾病"], "advice": "选择畜肉类时，对于脂肪含量≥85%的肥肉、板油等，每份可食用10克。", "category": "健康生活方式", "page_num": 25}
+{"match_tokens": ["disease:无特定疾病"], "advice": "选择禽肉类如鸡、鸭、鹅、火鸡等，每份可食用50克。", "category": "健康生活方式", "page_num": 25}
+{"match_tokens": ["disease:无特定疾病"], "advice": "选择蛋类如鸡蛋、鸭蛋、鹅蛋、鹌鹑蛋等，每份可食用60克。", "category": "健康生活方式", "page_num": 25}
+{"match_tokens": ["disease:无特定疾病"], "advice": "选择水产类如常见淡水鱼、海水鱼、虾、蟹、贝类、海参等，每份可食用90克。", "category": "健康生活方式", "page_num": 25}
+{"match_tokens": ["disease:无特定疾病"], "advice": "选择鱼类如鲤鱼、草鱼、鲢鱼、鳙鱼、黄花鱼、带鱼、鲳鱼、鲈鱼等，每份可食用75克。", "category": "健康生活方式", "page_num": 25}
+{"match_tokens": ["disease:无特定疾病"], "advice": "选择虾蟹贝类如河虾、海虾、河蟹、海蟹、河蚌、蛤蜊、蛏子等，每份可食用115克。", "category": "健康生活方式", "page_num": 25}
+{"match_tokens": ["disease:无特定疾病"], "advice": "如果难以区分畜禽肉类食物种类（如混合肉），可按照畜禽肉类（综合）的质量进行搭配，每份可食用50克。", "category": "健康生活方式", "page_num": 25}
+{"match_tokens": ["disease:无特定疾病"], "advice": "食用内脏类（肚、舌、肾、肝、心、肫等）时，注意其胆固醇含量高，每份相当于70克，换算后需复核营养素的变化是否符合要求。", "category": "健康生活方式", "page_num": 25}
+{"match_tokens": ["disease:糖尿病"], "advice": "参考食物交换表，将坚果类食物按每份90千卡的能量标准进行交换，如综合坚果每份20克，淀粉类坚果每份25克，高脂类坚果每份15克，中脂类坚果每份20克。", "category": "治疗与康复", "page_num": 26}
+{"match_tokens": ["disease:糖尿病"], "advice": "参考食物交换表，将大豆、乳及其制品按每份90千卡的能量标准进行交换，如大豆每份20克，北豆腐每份90克，南豆腐每份150克，豆干每份50克，豆浆每份330毫升，全脂牛奶每份150毫升，脱脂牛奶每份265毫升。", "category": "治疗与康复", "page_num": 26}
+{"match_tokens": ["disease:高血压", "risk:高盐饮食"], "advice": "参考调味料类盐含量交换表，选择低盐或中盐调味品替代高盐调味品，如用黄酱替代豆瓣酱。", "category": "健康生活方式", "page_num": 27}
+{"match_tokens": ["disease:高血压"], "advice": "使用调味料时，注意控制总盐摄入量，可参考表格中每份食物的盐含量进行换算。", "category": "健康生活方式", "page_num": 27}
+{"match_tokens": ["disease:高血压"], "advice": "注意咸菜、腐乳、豆瓣酱等高盐调味品的摄入量，避免过量使用。", "category": "健康生活方式", "page_num": 27}
+{"match_tokens": ["disease:其他病症"], "advice": "慢性肾脏病患者可参照食养原则和建议，结合食物交换份表和食物成分表，根据具体情况进行合理搭配。", "category": "治疗与康复", "page_num": 28}
+{"match_tokens": ["disease:其他病症"], "advice": "慢性肾脏病患者可根据自己的身高、体重、体力活动以及疾病状态计算并调整食谱，寻求临床营养师或医生进行指导。", "category": "治疗与康复", "page_num": 28}
+{"match_tokens": ["disease:其他病症"], "advice": "慢性肾脏病患者可选用低蛋白大米和麦淀粉制品作为主食。", "category": "治疗与康复", "page_num": 29}
+{"match_tokens": ["disease:其他病症"], "advice": "慢性肾脏病患者应尽可能降低盐、油和肉类使用量。", "category": "治疗与康复", "page_num": 29}
+{"match_tokens": ["disease:其他病症"], "advice": "慢性肾脏病1～2期春季食谱示例：早餐可食用鸡蛋饼、凉拌菜和牛奶，加餐草莓，午餐可食用地三鲜、杂粮饭和红烧草鱼，加餐松子，晚餐可食用西红柿鸡蛋汤和韭菜麦淀粉蒸饺，全天植物油35g，盐3g。", "category": "治疗与康复", "page_num": 29}
+{"match_tokens": ["disease:其他病症"], "advice": "慢性肾脏病1～2期夏季食谱示例：早餐可食用麦淀粉蒸饺，加餐牛奶，午餐可食用炒豇豆、二米饭和香菇藕片炖鸡腿，加餐桃子，晚餐可食用莴笋炒虾仁、花卷和胡萝卜烧牛腩，全天植物油35g，盐3g。", "category": "治疗与康复", "page_num": 29}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "早餐可食用山药丝饼（鲜山药200g，小麦淀粉40g）、牛奶（250mL）和西芹拌腐竹（西芹50g，腐竹5g）。", "category": "治疗与康复", "page_num": 30}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "加餐可食用甜瓜（200g）。", "category": "治疗与康复", "page_num": 30}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "午餐可食用白菜猪肉粉条炖豆腐（大白菜100g，豆腐60g，粉条25g，猪五花肉20g）、清炒油麦菜（油麦菜100g）和杂粮米饭（低蛋白大米50g，甜玉米粒40g，小米10g，茯苓粉10g）。", "category": "治疗与康复", "page_num": 30}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "加餐可食用核桃（10g）。", "category": "治疗与康复", "page_num": 30}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "晚餐可食用青椒炒蛋（柿子椒150g，鸡蛋50g）、小鸡炖蘑菇（粉条25g，鸡肉25g，榛蘑15g）和馒头（面粉35g，小麦淀粉35g）。", "category": "治疗与康复", "page_num": 30}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "全天烹饪使用植物油30g，盐3g。", "category": "治疗与康复", "page_num": 30}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "早餐可食用地瓜饼（面粉30g，小麦淀粉30g，地瓜粉20g）、煮鸡蛋（鸡蛋25g）和清炒油麦菜（油麦菜100g）。", "category": "治疗与康复", "page_num": 30}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "加餐可饮用牛奶（150mL）。", "category": "治疗与康复", "page_num": 30}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "午餐可食用白萝卜炖羊肉（白萝卜100g，粉条40g，羊肉20g，枸杞子10g）、低蛋白大米饭（低蛋白大米30g，大米30g）和土豆炖茄子（茄子150g，土豆100g）。", "category": "治疗与康复", "page_num": 30}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "加餐可食用蜜橘（200g）。", "category": "治疗与康复", "page_num": 30}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "晚餐可食用酸菜炖排骨（酸菜100g，猪小排40g）、麦淀粉馒头（面粉35g，小麦淀粉15g）和芹菜炒肉（粉条50g，芹菜50g，猪瘦肉25g）。", "category": "治疗与康复", "page_num": 30}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "早餐可食用油饼（面粉55g，小麦淀粉10g）、腐竹瓜片（黄瓜100g，腐竹25g）和大枣粥（低蛋白大米25g，大枣5g）。", "category": "治疗与康复", "page_num": 30}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "加餐可食用苹果（100g）和榛子仁（10g）。", "category": "治疗与康复", "page_num": 30}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "午餐可食用西红柿炒鸡蛋（西红柿100g，鸡蛋50g）。", "category": "治疗与康复", "page_num": 30}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "早餐可食用西葫芦鸡蛋饼（西葫芦100g，土豆淀粉50g，面粉40g，鸡蛋25g）和酸辣海带根（鲜海带根100g）。", "category": "治疗与康复", "page_num": 31}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "午餐可食用黄蘑土豆片（土豆125g，黄蘑菇50g）、尖椒干豆腐（辣椒30g，猪五花肉20g，干豆腐10g）和低蛋白大米饭（低蛋白大米100g）。", "category": "治疗与康复", "page_num": 31}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "晚餐可食用红烧鲤鱼（鲤鱼70g，猪五花肉30g，姜*5g）、老虎菜（黄瓜100g，香葱20g，香菜20g，辣椒10g）和二米饭（低蛋白大米75g，小米10g）。", "category": "治疗与康复", "page_num": 31}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "全天烹饪使用植物油30g，盐3.5g。", "category": "治疗与康复", "page_num": 31}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "早餐可食用饭包（生菜150g，土豆60g，大米50g，黄豆酱10g）。", "category": "治疗与康复", "page_num": 31}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "午餐可食用排骨炖豆角（油豆角125g，猪精排40g，姜*5g）、凉拌拉皮（拉皮150g，黄瓜100g）和低蛋白大米饭（低蛋白大米95g）。", "category": "治疗与康复", "page_num": 31}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "晚餐可食用香煎豆腐（豆腐100g）、老黄瓜汤（老黄瓜100g）和杂粮饭（低蛋白大米50g，大米30g，黑米20g）。", "category": "治疗与康复", "page_num": 31}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "全天烹饪使用植物油30g，盐3g。", "category": "治疗与康复", "page_num": 31}
+{"match_tokens": ["disease:其他病症"], "advice": "慢性肾脏病5期透析阶段春季食谱中，午餐可食用牛肉面，包含牛后腱25g、牛腩25g、面粉70g、小麦淀粉15g、小白菜100g和姜5g。", "category": "治疗与康复", "page_num": 32}
+{"match_tokens": ["disease:其他病症"], "advice": "慢性肾脏病5期透析阶段春季食谱中，晚餐可食用锅包肉，包含猪里脊肉20g和土豆淀粉30g，并搭配炒杏鲍菇和杂粮米饭。", "category": "治疗与康复", "page_num": 32}
+{"match_tokens": ["disease:其他病症"], "advice": "慢性肾脏病5期透析阶段夏季食谱中，早餐可食用蒸山药50g、烙饼（面粉45g和小麦淀粉15g）、凉拌菜（菜花50g、水发木耳20g、腐竹20g）和煮鸡蛋50g。", "category": "治疗与康复", "page_num": 32}
+{"match_tokens": ["disease:其他病症"], "advice": "慢性肾脏病5期透析阶段夏季食谱中，午餐可食用荷塘小炒（莴笋50g、水发木耳50g、胡萝卜50g、莲藕30g、猪五花肉10g）、鲤鱼炖粉条（鲤鱼65g、粉条40g）和杂粮米饭（大米40g、小米10g、燕麦片10g）。", "category": "治疗与康复", "page_num": 32}
+{"match_tokens": ["disease:其他病症"], "advice": "慢性肾脏病5期透析阶段夏季食谱中，晚餐可食用烧鸡翅60g。", "category": "治疗与康复", "page_num": 32}
+{"match_tokens": ["disease:其他病症"], "advice": "慢性肾脏病5期透析阶段春季食谱中，加餐可食用草莓100g和牛奶100mL。", "category": "治疗与康复", "page_num": 32}
+{"match_tokens": ["disease:其他病症"], "advice": "慢性肾脏病5期透析阶段夏季食谱中，加餐可饮用豆浆200mL和食用鲜桑椹125g。", "category": "治疗与康复", "page_num": 32}
+{"match_tokens": ["disease:其他病症"], "advice": "慢性肾脏病5期透析阶段春季食谱中，早餐可食用鸡蛋饼（鸡蛋50g、面粉50g、小麦淀粉15g）、黄瓜炒虾仁（虾仁100g、黄瓜100g）和牛奶150mL。", "category": "治疗与康复", "page_num": 32}
+{"match_tokens": ["disease:其他病症"], "advice": "慢性肾脏病5期透析阶段春季食谱中，加餐可食用菠萝100g。", "category": "治疗与康复", "page_num": 32}
+{"match_tokens": ["disease:其他病症"], "advice": "慢性肾脏病5期透析阶段春季食谱中，午餐可食用凉拌水萝卜100g。", "category": "治疗与康复", "page_num": 32}
+{"match_tokens": ["disease:其他病症", "population:老年人"], "advice": "慢性肾脏病5期透析阶段秋季早餐可食用油菜拌豆腐、鸡蛋羹和麦淀粉馒头。", "category": "治疗与康复", "page_num": 33}
+{"match_tokens": ["disease:其他病症", "population:老年人"], "advice": "慢性肾脏病5期透析阶段秋季午餐可食用土豆粉条炖排骨、蒸窝头和西兰花炒虾仁。", "category": "治疗与康复", "page_num": 33}
+{"match_tokens": ["disease:其他病症", "population:老年人"], "advice": "慢性肾脏病5期透析阶段秋季晚餐可食用冬瓜虾皮汤和芹菜猪肉包。", "category": "治疗与康复", "page_num": 33}
+{"match_tokens": ["disease:其他病症", "population:老年人"], "advice": "慢性肾脏病5期透析阶段秋季全天烹饪使用植物油30克，盐3克。", "category": "治疗与康复", "page_num": 33}
+{"match_tokens": ["disease:其他病症", "population:老年人"], "advice": "慢性肾脏病5期透析阶段冬季早餐可食用韭菜盒子、青椒炒绿豆芽和酸奶。", "category": "治疗与康复", "page_num": 33}
+{"match_tokens": ["disease:其他病症", "population:老年人"], "advice": "慢性肾脏病5期透析阶段冬季午餐可食用二米饭、芹菜炒豆干和蔬菜牛肉花胶汤。", "category": "治疗与康复", "page_num": 33}
+{"match_tokens": ["disease:其他病症", "population:老年人"], "advice": "慢性肾脏病5期透析阶段冬季晚餐可食用炒菜花、麦淀粉馒头、杂粮粥和红烧带鱼。", "category": "治疗与康复", "page_num": 33}
+{"match_tokens": ["disease:其他病症", "population:老年人"], "advice": "慢性肾脏病5期透析阶段冬季全天烹饪使用植物油30克，盐3克。", "category": "治疗与康复", "page_num": 33}
+{"match_tokens": ["disease:其他病症"], "advice": "主食以小麦、玉米和其它杂粮为主，肉类以牛、羊肉为主，瓜果丰富，绿叶蔬菜相对较少。", "category": "健康生活方式", "page_num": 34}
+{"match_tokens": ["disease:其他病症"], "advice": "夏季喜清淡素食，冬季喜酸辣咸厚味食品。", "category": "健康生活方式", "page_num": 34}
+{"match_tokens": ["disease:其他病症"], "advice": "遵循慢性肾脏病患者食养原则，合理搭配西北地区各季特色食材，在尊重本地区传统和少数民族饮食文化、保留特色饮食的同时，尽可能的降低油、盐和肉类使用量。", "category": "治疗与康复", "page_num": 34}
+{"match_tokens": ["disease:其他病症"], "advice": "早餐食用全麦馒头、羊奶、鸡蛋羹和炝拌三丝。", "category": "治疗与康复", "page_num": 34}
+{"match_tokens": ["disease:其他病症"], "advice": "加餐食用柚子。", "category": "治疗与康复", "page_num": 34}
+{"match_tokens": ["disease:其他病症"], "advice": "午餐食用低蛋白大米饭、西红柿炒菜花、清蒸山药大虾和青菜汤。", "category": "治疗与康复", "page_num": 34}
+{"match_tokens": ["disease:其他病症"], "advice": "加餐食用猕猴桃。", "category": "治疗与康复", "page_num": 34}
+{"match_tokens": ["disease:其他病症"], "advice": "晚餐食用红薯发糕、牛肉炒蒜苔和素炒葫芦瓜。", "category": "治疗与康复", "page_num": 34}
+{"match_tokens": ["disease:其他病症"], "advice": "全天总用量：植物油35g，盐4g。", "category": "治疗与康复", "page_num": 34}
+{"match_tokens": ["disease:其他病症"], "advice": "早餐食用土豆丝饼、酸奶和凉拌粉丝苦菊。", "category": "治疗与康复", "page_num": 34}
+{"match_tokens": ["disease:其他病症"], "advice": "加餐食用苹果。", "category": "治疗与康复", "page_num": 34}
+{"match_tokens": ["disease:其他病症"], "advice": "午餐食用低蛋白大米饭、葱烧黄辣丁、西红柿烩丝瓜和海米冬瓜汤。", "category": "治疗与康复", "page_num": 34}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "早餐可食用玉米面花卷、酸奶、鸡蛋卷和清炒西葫芦。", "category": "健康生活方式", "page_num": 35}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "加餐可食用苹果。", "category": "健康生活方式", "page_num": 35}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "午餐可食用蒸玉米、面片汤、西红柿牛肉末和清炒藕片。", "category": "健康生活方式", "page_num": 35}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "加餐可食用鲜枣。", "category": "健康生活方式", "page_num": 35}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "晚餐可食用杂粮煎饼、莲子百合稀饭、鸡丝炒花菜和胡萝卜炒山药。", "category": "健康生活方式", "page_num": 35}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "全天烹饪用油量控制在35克，用盐量控制在4克。", "category": "健康生活方式", "page_num": 35}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "早餐可食用素包子、牛奶燕麦、鸡蛋羹和清炒芦笋。", "category": "健康生活方式", "page_num": 35}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "加餐可食用苹果。", "category": "健康生活方式", "page_num": 35}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "午餐可食用玉米饼、蒸南瓜、豆芽炒韭菜和卤鸡翅中。", "category": "健康生活方式", "page_num": 35}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "加餐可食用烤红薯。", "category": "健康生活方式", "page_num": 35}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "晚餐可食用南瓜发糕、西红柿炒鸡蛋和冬瓜粉丝汤。", "category": "健康生活方式", "page_num": 35}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "加餐可食用哈密瓜。", "category": "健康生活方式", "page_num": 35}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "晚餐可食用蒸山药、馄饨、肉丝炒茭白和清炒茼蒿。", "category": "健康生活方式", "page_num": 35}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "全天烹饪用油量控制在35克，用盐量控制在3克。", "category": "健康生活方式", "page_num": 35}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "全天总用量：植物油35g，盐4g。", "category": "治疗与康复", "page_num": 36}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "早餐食用麦淀粉蒸饺（小麦淀粉50g，大白菜50g，面粉30g，猪瘦肉25g，木耳[水发]20g）和黑芝麻拌菠菜（菠菜100g，黑芝麻*10g）。", "category": "治疗与康复", "page_num": 36}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "加餐食用酸奶（100g）。", "category": "治疗与康复", "page_num": 36}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "中餐食用低蛋白大米饭（低蛋白大米50g）、黄瓜木耳肉片（黄瓜100g，木耳【水发】25g，猪瘦肉15g）和白菜粉丝汤（大白菜100g，粉丝50g）。", "category": "治疗与康复", "page_num": 36}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "加餐食用苹果（200g）。", "category": "治疗与康复", "page_num": 36}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "晚餐食用麦淀粉馒头（小麦淀粉70g，面粉20g）、青椒茄子烧土豆（土豆70g，柿子椒50g，茄子50g）和萝卜羊肉汤（白萝卜100g，羊肉30g）。", "category": "治疗与康复", "page_num": 36}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "早餐食用麦淀粉葱油饼（小麦淀粉50g，大葱20g）和蒜泥茄子（茄子100g）。", "category": "治疗与康复", "page_num": 36}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "中餐食用低蛋白大米饭（低蛋白大米100g）和精烩菜（白菜100g，粉条80g，土豆50g，猪肉30g）。", "category": "治疗与康复", "page_num": 36}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "加餐食用猕猴桃（200g）。", "category": "治疗与康复", "page_num": 36}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "晚餐食用馒头（面粉50g）、黄豆芽炒肉（黄豆芽100g，猪瘦肉30g，姜*5g）和凉拌沙葱（沙葱100g）。", "category": "治疗与康复", "page_num": 36}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "早餐食用蒸红薯（红薯100g）和拌黄瓜（黄瓜100g）。", "category": "治疗与康复", "page_num": 36}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "加餐饮用牛奶（200mL）。", "category": "治疗与康复", "page_num": 36}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "中餐食用低蛋白大米饭（低蛋白大米100g）、牛肉炖胡萝卜（胡萝卜100g，牛瘦肉50g，姜*5g）和蒜蓉娃娃菜（娃娃菜150g）。", "category": "治疗与康复", "page_num": 36}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "晚餐可食用巴盟酿皮（酿皮80g，黄瓜10g，水萝卜10g）、麦淀粉摊饼（小麦淀粉100g）和炒土豆丝（土豆100g），全天用植物油30g，盐4g。", "category": "治疗与康复", "page_num": 37}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "早餐可食用素包子（面粉50g，西葫芦25g，鸡蛋20g）、小米粥（小米25g）和水煮油麦菜（油麦菜150g）。", "category": "治疗与康复", "page_num": 37}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "午餐可食用低蛋白大米饭（低蛋白大米50g）、冬瓜羊肉丸子汤（冬瓜200g，羊肉50g，玉米淀粉20g）和荷塘小炒（胡萝卜50g，莲藕50g，木耳[水发]25g，荷兰豆20g）。", "category": "治疗与康复", "page_num": 37}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "晚餐可食用低蛋白大米饭（低蛋白大米50g）、圆白菜炒粉丝（粉丝100g，圆白菜80g）和西红柿鸡蛋汤（西红柿75g，鸡蛋20g），全天用植物油30g，盐4g。", "category": "治疗与康复", "page_num": 37}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "早餐可食用素包子（面粉40g，荠菜20g，香菇10g）、牛奶（250mL）、煮鸡蛋（鸡蛋50g）和酸辣土豆丝（土豆100g，柿子椒20g）。", "category": "治疗与康复", "page_num": 37}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "午餐可食用荞麦面（荞麦面粉60g，面粉60g）、红烧鸡肉（鸡腿肉50g，胡萝卜50g）和手撕包菜（圆白菜150g）。", "category": "治疗与康复", "page_num": 37}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "晚餐可食用小米南瓜稀饭（小米20g，南瓜50g）、山药萝卜饼（鲜山药*40g，白萝卜30g，小麦淀粉30g，牛瘦肉20g）、时蔬炒虾仁（虾仁50g，胡萝卜20g，柿子椒10g）和西芹木耳（芹菜120g，木耳【水发】50g），全天用植物油30g，盐3g。", "category": "治疗与康复", "page_num": 37}
+{"match_tokens": ["disease:慢性肾脏病", "population:透析患者"], "advice": "早餐食用红薯粥（红薯100g，低蛋白大米40g，大枣5g）、煮鸡蛋1个（鸡蛋50g）和炒绿豆芽（绿豆芽100g）。", "category": "治疗与康复", "page_num": 38}
+{"match_tokens": ["disease:慢性肾脏病", "population:透析患者"], "advice": "中餐食用牛肉芹菜蒸饺（面粉100g，牛瘦肉80g，芹菜50g）和醋溜圆白菜（圆白菜200g）。", "category": "治疗与康复", "page_num": 38}
+{"match_tokens": ["disease:慢性肾脏病", "population:透析患者"], "advice": "加餐食用西瓜200g。", "category": "治疗与康复", "page_num": 38}
+{"match_tokens": ["disease:慢性肾脏病", "population:透析患者"], "advice": "晚餐食用白面饸饹（面粉100g，猪瘦肉60g，豆腐50g，土豆50g，粉条50g）和清炒西葫芦（西葫芦100g）。", "category": "治疗与康复", "page_num": 38}
+{"match_tokens": ["disease:慢性肾脏病", "population:透析患者"], "advice": "全天烹饪使用植物油30g，盐3g。", "category": "治疗与康复", "page_num": 38}
+{"match_tokens": ["disease:慢性肾脏病", "population:透析患者"], "advice": "早餐食用蒸南瓜100g、牛奶250mL和凉拌土豆丝（土豆120g）。", "category": "治疗与康复", "page_num": 38}
+{"match_tokens": ["disease:慢性肾脏病", "population:透析患者"], "advice": "加餐食用香梨100g。", "category": "治疗与康复", "page_num": 38}
+{"match_tokens": ["disease:慢性肾脏病", "population:透析患者"], "advice": "中餐食用二米饭（低蛋白大米100g，玉米粒30g）、猪肉炒菜花（菜花150g，猪五花肉50g，姜5g）和素炒菜心（油菜心150g）。", "category": "治疗与康复", "page_num": 38}
+{"match_tokens": ["disease:慢性肾脏病", "population:透析患者"], "advice": "加餐食用苹果200g。", "category": "治疗与康复", "page_num": 38}
+{"match_tokens": ["disease:慢性肾脏病", "population:透析患者"], "advice": "晚餐食用牛肉面（小白菜100g，面粉100g，牛瘦肉70g）和大拉皮（粉皮100g，鸡胸肉70g，胡萝卜15g，黄瓜15g）。", "category": "治疗与康复", "page_num": 38}
+{"match_tokens": ["disease:慢性肾脏病", "population:透析患者"], "advice": "全天烹饪使用植物油25g，盐4g。", "category": "治疗与康复", "page_num": 38}
+{"match_tokens": ["disease:慢性肾脏病", "population:透析患者"], "advice": "早餐食用菜馍（菠菜100g，面粉30g）、牛奶250mL和素炒芹菜（芹菜100g）。", "category": "治疗与康复", "page_num": 38}
+{"match_tokens": ["disease:慢性肾脏病", "population:透析患者"], "advice": "加餐食用雪梨200g。", "category": "治疗与康复", "page_num": 38}
+{"match_tokens": ["disease:慢性肾脏病", "population:透析患者"], "advice": "午餐食用二米饭（低蛋白大米50g，小米15g）、红烧鸡翅（鸡翅中100g）、蒜蓉金针菇（金针菇100g）和酸辣汤（鸡蛋20g，胡萝卜10g，木耳【干】5g，黄花菜【干】5g，姜5g）。", "category": "治疗与康复", "page_num": 38}
+{"match_tokens": ["disease:无特定疾病"], "advice": "全天烹饪总用油量为35克，总用盐量为3克。", "category": "健康生活方式", "page_num": 39}
+{"match_tokens": ["disease:其他病症"], "advice": "遵循肾病患者食养原则，在尊重传统饮食文化的同时，尽可能降低油盐使用量。", "category": "治疗与康复", "page_num": 40}
+{"match_tokens": ["disease:其他病症"], "advice": "早餐可食用豆浆、烤饼、煎鸡蛋和凉拌瓜条。", "category": "治疗与康复", "page_num": 40}
+{"match_tokens": ["disease:其他病症"], "advice": "加餐可食用苹果。", "category": "治疗与康复", "page_num": 40}
+{"match_tokens": ["disease:其他病症"], "advice": "中餐可食用低蛋白大米饭、红烧肉烩白萝卜粉丝和拌菠菜。", "category": "治疗与康复", "page_num": 40}
+{"match_tokens": ["disease:其他病症"], "advice": "加餐可冲饮无糖藕粉。", "category": "治疗与康复", "page_num": 40}
+{"match_tokens": ["disease:其他病症"], "advice": "晚餐可食用蒸饺、黑芝麻醋拌木耳和拌青椒洋葱片。", "category": "治疗与康复", "page_num": 40}
+{"match_tokens": ["disease:其他病症"], "advice": "全天总油盐用量为植物油30克，盐3克。", "category": "治疗与康复", "page_num": 40}
+{"match_tokens": ["disease:其他病症"], "advice": "早餐可食用西红柿手擀面和炒西葫芦。", "category": "治疗与康复", "page_num": 40}
+{"match_tokens": ["disease:其他病症"], "advice": "加餐可冲饮马蹄粉。", "category": "治疗与康复", "page_num": 40}
+{"match_tokens": ["disease:其他病症"], "advice": "中餐可食用低蛋白大米饭、香煎鳕鱼、拌茄泥、香菇油菜和薏米绿豆汤。", "category": "治疗与康复", "page_num": 40}
+{"match_tokens": ["disease:其他病症"], "advice": "加餐可食用草莓。", "category": "治疗与康复", "page_num": 40}
+{"match_tokens": ["disease:其他病症"], "advice": "晚餐可食用低蛋白韭菜盒子和桂圆红枣粥。", "category": "治疗与康复", "page_num": 40}
+{"match_tokens": ["disease:其他病症"], "advice": "全天总油盐用量为植物油25克，盐3克。", "category": "治疗与康复", "page_num": 40}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "早餐可食用豆腐脑100g、馒头（面粉30g）和拌芹菜100g，加餐可食用桃子100g。", "category": "健康生活方式", "page_num": 41}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "中餐可食用杂粮饭（含低蛋白大米、赤小豆、薏苡仁、黑米、小米）、水煮虾55g、炒山药木耳和素炒圆白菜丝150g。", "category": "健康生活方式", "page_num": 41}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "晚餐可食用烧麦（含小白菜、小麦淀粉、猪瘦肉）和小米粥（小米20g），全天使用植物油35g，盐3g。", "category": "健康生活方式", "page_num": 41}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "早餐可食用锅巴菜（含面粉、豆面）、煮鸡蛋50g和冲无糖藕粉50g，加餐可食用橙子100g。", "category": "健康生活方式", "page_num": 41}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "中餐可食用低蛋白大米饭80g、排骨烩白菜（含白菜、猪小排、姜）和炒鸡腿蘑（含胡萝卜、鸡腿蘑）。", "category": "健康生活方式", "page_num": 41}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "晚餐可食用炸酱面（含面粉、小麦淀粉、猪瘦肉）和菜码（含白菜、胡萝卜、黄豆芽、黄瓜），全天使用植物油30g，盐3g。", "category": "健康生活方式", "page_num": 41}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "早餐可食用馄饨（含面粉、韭菜、猪瘦肉）和椒油瓜条（黄瓜100g），加餐可食用苹果200g。", "category": "健康生活方式", "page_num": 41}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "中餐可食用低蛋白大米饭50g、红烧四喜丸子（含荸荠、猪瘦肉、姜）和素炒苋菜150g，加餐可食用橙子200g。", "category": "健康生活方式", "page_num": 41}
+{"match_tokens": ["disease:其他病症"], "advice": "早餐食用低蛋白大米粥（低蛋白大米60g）、猪肉大葱包子（面粉30g，猪瘦肉25g，大葱25g）和拌生菜（生菜100g）。", "category": "治疗与康复", "page_num": 42}
+{"match_tokens": ["disease:其他病症"], "advice": "加餐时冲饮马碲粉（马蹄粉25g）。", "category": "治疗与康复", "page_num": 42}
+{"match_tokens": ["disease:其他病症"], "advice": "中餐食用低蛋白大米饭（低蛋白大米100g）、黄芪鲤鱼汤（鲤鱼40g，黄芪3g，赤小豆3g，姜2g）和娃娃菜炒粉条（娃娃菜150g，粉条40g）。", "category": "治疗与康复", "page_num": 42}
+{"match_tokens": ["disease:其他病症"], "advice": "加餐时食用樱桃（150g）。", "category": "治疗与康复", "page_num": 42}
+{"match_tokens": ["disease:其他病症"], "advice": "晚餐食用茄子打卤面（麦淀粉60g,茄子50g，柿子椒50g，芹菜50g，面粉40g，猪瘦肉25g）。", "category": "治疗与康复", "page_num": 42}
+{"match_tokens": ["disease:其他病症"], "advice": "全天烹饪使用植物油30g，盐3g。", "category": "治疗与康复", "page_num": 42}
+{"match_tokens": ["disease:其他病症"], "advice": "早餐饮用低脂牛奶（200mL），食用面包（面粉25g）和温拌西兰花（西兰花100g）。", "category": "治疗与康复", "page_num": 42}
+{"match_tokens": ["disease:其他病症"], "advice": "加餐时食用桃子（100g）。", "category": "治疗与康复", "page_num": 42}
+{"match_tokens": ["disease:其他病症"], "advice": "中餐食用低蛋白大米饭（低蛋白大米100g）、清蒸鲈鱼（鲈鱼50g，姜5g）、干煸豆角（豆角100g）和素炒圆白菜丝（圆白菜150g）。", "category": "治疗与康复", "page_num": 42}
+{"match_tokens": ["disease:其他病症"], "advice": "加餐时食用梨（200g）。", "category": "治疗与康复", "page_num": 42}
+{"match_tokens": ["disease:其他病症"], "advice": "晚餐食用猪肉菜包（茴香150g，小麦淀粉100g，猪瘦肉20g）、拌青瓜丝（黄瓜100g）并冲饮无糖藕粉（无糖藕粉60g）。", "category": "治疗与康复", "page_num": 42}
+{"match_tokens": ["disease:其他病症"], "advice": "全天烹饪使用植物油35g，盐3g。", "category": "治疗与康复", "page_num": 42}
+{"match_tokens": ["disease:其他病症"], "advice": "加餐时冲饮无糖藕粉（无糖藕粉80g）。", "category": "治疗与康复", "page_num": 42}
+{"match_tokens": ["disease:其他病症"], "advice": "晚餐食用烙饼（小麦淀粉100g）、菜花炒虾球（菜花100g，虾仁20g）和鸡片炒油菜（油菜100g，鸡肉20g）。", "category": "治疗与康复", "page_num": 42}
+{"match_tokens": ["disease:其他病症"], "advice": "全天烹饪使用植物油35g，盐3g。", "category": "治疗与康复", "page_num": 42}
+{"match_tokens": ["disease:其他病症", "population:老年人"], "advice": "慢性肾脏病3～5期患者冬季早餐可食用疙瘩汤（白菜50g，鸡蛋25g，面粉20g）、南瓜发糕（面粉30g，南瓜20g）和拌白萝卜粉丝（白萝卜50g，粉丝50g）。", "category": "治疗与康复", "page_num": 43}
+{"match_tokens": ["disease:其他病症", "population:老年人"], "advice": "慢性肾脏病3～5期患者冬季加餐可食用冲马蹄粉（马蹄粉25g）。", "category": "治疗与康复", "page_num": 43}
+{"match_tokens": ["disease:其他病症", "population:老年人"], "advice": "慢性肾脏病3～5期患者冬季中餐可食用低蛋白大米饭（低蛋白大米100g）、葱烧带鱼（大葱50g，带鱼35g，姜*5g）和醋溜白菜（大白菜150g）。", "category": "治疗与康复", "page_num": 43}
+{"match_tokens": ["disease:其他病症", "population:老年人"], "advice": "慢性肾脏病3～5期患者冬季下午加餐可食用梨（200g）。", "category": "治疗与康复", "page_num": 43}
+{"match_tokens": ["disease:其他病症", "population:老年人"], "advice": "慢性肾脏病3～5期患者冬季晚餐可食用葱香花卷（面粉50g）、青萝卜丸子汤（青萝卜150g，红薯淀粉65g，猪瘦肉25g）和清炒娃娃菜（娃娃菜100g）。", "category": "治疗与康复", "page_num": 43}
+{"match_tokens": ["disease:其他病症", "population:老年人"], "advice": "慢性肾脏病3～5期患者冬季全天烹饪使用植物油30g，盐3g。", "category": "治疗与康复", "page_num": 43}
+{"match_tokens": ["disease:其他病症", "population:老年人"], "advice": "慢性肾脏病5期透析阶段患者春季早餐可食用豆浆（200mL）和大饼炒鸡蛋（生菜100g，鸡蛋50g，面粉40g，小麦淀粉40g）。", "category": "治疗与康复", "page_num": 43}
+{"match_tokens": ["disease:其他病症", "population:老年人"], "advice": "慢性肾脏病5期透析阶段患者春季加餐可食用梨（100g）。", "category": "治疗与康复", "page_num": 43}
+{"match_tokens": ["disease:其他病症", "population:老年人"], "advice": "慢性肾脏病5期透析阶段患者春季中餐可食用低蛋白大米饭（低蛋白大米100g）、鲶鱼炖豆腐（北豆腐100g，鲶鱼80g，姜*5g）和素炒芹菜丝（芹菜150g）。", "category": "治疗与康复", "page_num": 43}
+{"match_tokens": ["disease:其他病症", "population:老年人"], "advice": "慢性肾脏病5期透析阶段患者春季下午加餐可食用苹果（100g）。", "category": "治疗与康复", "page_num": 43}
+{"match_tokens": ["disease:其他病症", "population:老年人"], "advice": "慢性肾脏病5期透析阶段患者春季晚餐可食用两面发糕（面粉50g，玉米面粉30g，小麦淀粉25g）、青椒牛柳（柿子椒100g，牛瘦肉60g）和凉拌绿豆芽（绿豆芽125g）。", "category": "治疗与康复", "page_num": 43}
+{"match_tokens": ["disease:其他病症", "population:老年人"], "advice": "慢性肾脏病5期透析阶段患者春季全天烹饪使用植物油25g，盐3g。", "category": "治疗与康复", "page_num": 43}
+{"match_tokens": ["disease:其他病症", "population:老年人"], "advice": "慢性肾脏病5期透析阶段患者夏季早餐可食用西红柿鸡蛋挂面汤（挂面65g，鸡蛋50g，西红柿50g）和素包子（西葫芦100g，面粉25g，鸡蛋25g）。", "category": "治疗与康复", "page_num": 43}
+{"match_tokens": ["disease:其他病症", "population:老年人"], "advice": "慢性肾脏病5期透析阶段患者夏季加餐可食用樱桃（100g）和全脂无糖酸奶（150g）。", "category": "治疗与康复", "page_num": 43}
+{"match_tokens": ["disease:其他病症", "population:老年人"], "advice": "慢性肾脏病5期透析阶段患者夏季中餐可食用低蛋白大米饭（低蛋白大米40g，大米40g）、香酥鸭（鸭肉50g）和娃娃菜豆腐汤（娃娃菜100g，豆腐100g）。", "category": "治疗与康复", "page_num": 43}
+{"match_tokens": ["disease:其他病症", "population:老年人"], "advice": "慢性肾脏病5期透析阶段患者夏季下午加餐可食用草莓（100g）。", "category": "治疗与康复", "page_num": 43}
+{"match_tokens": ["disease:其他病症", "population:老年人"], "advice": "慢性肾脏病5期透析阶段患者夏季晚餐可食用银丝卷（面粉50g，小麦淀粉15g）和酿苦瓜（苦瓜100g，猪瘦肉50g，小麦淀粉15g，姜*2g）。", "category": "治疗与康复", "page_num": 43}
+{"match_tokens": ["disease:慢性肾脏病", "population:透析阶段"], "advice": "全天烹饪用盐量控制在3克。", "category": "治疗与康复", "page_num": 44}
+{"match_tokens": ["disease:慢性肾脏病", "population:透析阶段"], "advice": "全天烹饪用植物油量控制在25至35克。", "category": "治疗与康复", "page_num": 44}
+{"match_tokens": ["disease:慢性肾脏病", "population:透析阶段"], "advice": "早餐可选择豆腐脑、葱油饼、拌芹菜等食物。", "category": "治疗与康复", "page_num": 44}
+{"match_tokens": ["disease:慢性肾脏病", "population:透析阶段"], "advice": "加餐可选择火龙果、梨、橙子等水果。", "category": "治疗与康复", "page_num": 44}
+{"match_tokens": ["disease:慢性肾脏病", "population:透析阶段"], "advice": "中餐可选择什锦炒饭、鸡肉炒大头菜、木耳玉兰熘草鱼片、白菜豆腐等菜肴。", "category": "治疗与康复", "page_num": 44}
+{"match_tokens": ["disease:慢性肾脏病", "population:透析阶段"], "advice": "晚餐可选择戗面馒头、蒸紫薯、芙蓉虾仁、香菇紫甘蓝、打卤面等食物。", "category": "治疗与康复", "page_num": 44}
+{"match_tokens": ["disease:慢性肾脏病", "population:透析阶段"], "advice": "食谱中可使用姜、黑芝麻等食药物质。", "category": "治疗与康复", "page_num": 44}
+{"match_tokens": ["disease:其他病症"], "advice": "主食以大米为主，口味偏清淡，保持较少的油盐使用量，减少肉类使用量。", "category": "健康生活方式", "page_num": 45}
+{"match_tokens": ["disease:其他病症"], "advice": "遵循慢性肾脏病患者食养原则，合理搭配华东地区各季特色食材，尊重本地区传统饮食文化，保留特色饮食。", "category": "健康生活方式", "page_num": 45}
+{"match_tokens": ["disease:其他病症"], "advice": "慢性肾脏病1～2期春季早餐可食用槐花饼（鲜槐花*100g，小麦淀粉80g）和牛奶（250mL）。", "category": "治疗与康复", "page_num": 45}
+{"match_tokens": ["disease:其他病症"], "advice": "慢性肾脏病1～2期春季午餐可食用低蛋白大米饭（低蛋白大米90g）、龙井虾仁（虾仁70g，蛋清20g，龙井3g）和蒜泥米苋（米苋150g）。", "category": "治疗与康复", "page_num": 45}
+{"match_tokens": ["disease:其他病症"], "advice": "慢性肾脏病1～2期春季晚餐可食用低蛋白大米饭（低蛋白大米90g）、香椿炒蛋（香椿100g，鸡蛋70g）和清炒上海青（上海青150g）。", "category": "治疗与康复", "page_num": 45}
+{"match_tokens": ["disease:其他病症"], "advice": "全天总用量：植物油30g，盐3g。", "category": "治疗与康复", "page_num": 45}
+{"match_tokens": ["disease:其他病症"], "advice": "慢性肾脏病1～2期夏季早餐可食用奶油南瓜羹（牛奶200mL，南瓜100g，糯米45g，小米45g）和煮鸡蛋（50g）。", "category": "治疗与康复", "page_num": 45}
+{"match_tokens": ["disease:其他病症"], "advice": "慢性肾脏病1～2期夏季午餐可食用菜饭（菜心100g，低蛋白大米80g）、洋葱排骨（洋葱100g，猪排骨50g）和蒜蓉空心菜（空心菜100g）。", "category": "治疗与康复", "page_num": 45}
+{"match_tokens": ["disease:其他病症"], "advice": "慢性肾脏病1～2期夏季晚餐可食用低蛋白大米饭（低蛋白大米80g）、青椒肉片（柿子椒100g，猪瘦肉50g）和凉拌西红柿（西红柿100g）。", "category": "治疗与康复", "page_num": 45}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "秋季可参考以下一日食谱：早餐食用茯苓糕和玉米燕麦粥，加餐食用石榴；午餐食用黑米饭、板栗烧鸡和西芹炒白果，加餐饮用罗汉果雪梨汤；晚餐食用低蛋白大米饭、油爆明虾和青椒土豆丝。全天使用植物油38克，盐4克。", "category": "治疗与康复", "page_num": 46}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "冬季可参考以下一日食谱：早餐食用生煎和牛奶，加餐食用烤红薯；午餐食用杂粮饭、高良姜炖牛肉和清炒时蔬，加餐食用无糖藕粉；晚餐食用低蛋白大米饭和白菜粉丝煲。全天使用植物油30克，盐3克。", "category": "治疗与康复", "page_num": 46}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "春季可参考以下一日食谱：早餐食用枸杞核桃粥和水晶饺，加餐食用蓝莓；午餐食用低蛋白大米饭、黄瓜虾仁和百合芦笋，加餐食用橙子；晚餐食用小馄饨。", "category": "治疗与康复", "page_num": 46}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "全天使用植物油35g，盐4g。", "category": "治疗与康复", "page_num": 47}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "早餐食用南瓜莲子鸡蛋羹（南瓜150g，鸡蛋50g，莲子20g）和小米糕（小米40g）。", "category": "治疗与康复", "page_num": 47}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "加餐食用鲜覆盆子100g。", "category": "治疗与康复", "page_num": 47}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "午餐食用二米饭（低蛋白大米100g，小米20g）、苦瓜炒肉（苦瓜150g，猪瘦肉30g）和凉拌藕片（莲藕100g）。", "category": "治疗与康复", "page_num": 47}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "加餐食用苏式绿豆汤（糯米20g，绿豆10g，大枣5g，薄荷3g）。", "category": "治疗与康复", "page_num": 47}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "晚餐食用麦淀粉饼（小麦淀粉135g）、蚝油生菜（生菜150g）和丝瓜汤（丝瓜100g）。", "category": "治疗与康复", "page_num": 47}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "全天使用植物油38g，盐4g。", "category": "治疗与康复", "page_num": 47}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "早餐食用淮麦粳米粥（鲜山药60g，面粉30g，大米30g）和玉米100g。", "category": "治疗与康复", "page_num": 47}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "加餐食用鲜山楂100g。", "category": "治疗与康复", "page_num": 47}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "午餐食用杂粮饭（低蛋白大米70g，赤小豆10g）、藿香鲈鱼（鲈鱼30g，鲜藿香5g）和清炒西兰花（西兰花200g）。", "category": "治疗与康复", "page_num": 47}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "加餐食用秋月梨150g。", "category": "治疗与康复", "page_num": 47}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "晚餐食用苏式汤面（小麦淀粉150g）、姜丝炒肉（猪瘦肉20g，姜10g）和白灼秋葵（秋葵150g）。", "category": "治疗与康复", "page_num": 47}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "全天使用植物油35g，盐4g。", "category": "治疗与康复", "page_num": 47}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "早餐食用小笼包（小麦淀粉65g，大白菜50g，绿豆粉丝30g）和红薯薏仁粥（红薯50g，大米30g，薏苡仁20g）。", "category": "治疗与康复", "page_num": 47}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "加餐食用圣女果100g。", "category": "治疗与康复", "page_num": 47}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "午餐食用麦淀粉发糕（南瓜100g，小麦淀粉80g）、冬笋蒸鸡（冬笋100g，鸡肉90g）和素炒油麦菜（油麦菜150g）。", "category": "治疗与康复", "page_num": 47}
+{"match_tokens": ["disease:其他病症"], "advice": "慢性肾脏病5期透析阶段春季食谱：早餐可食用牛奶250mL、拌芹菜100g、小馒头（面粉40g）；加餐可食用草莓100g；午餐可食用低蛋白大米饭（低蛋白大米50g）、清蒸鳊鱼（鳊鱼110g，姜5g）、茼蒿炒香干（茼蒿100g，豆腐干60g）；加餐可食用樱桃100g；晚餐可食用低蛋白阳春面（面粉60g，小麦淀粉60g）、葱烧大排（猪大排60g）、干煸土豆片（土豆150g）；全天总用量：植物油30g，盐4g。", "category": "治疗与康复", "page_num": 48}
+{"match_tokens": ["disease:其他病症"], "advice": "慢性肾脏病5期透析阶段夏季食谱：早餐可食用烧麦（猪瘦肉50g，胡萝卜30g，面粉30g，糯米20g）、牛奶250mL；加餐可食用荔枝100g；午餐可食用荷叶排骨饭（鲜荷叶100g，猪排骨70g，低蛋白大米50g）、清炒丝瓜150g；加餐可食用猕猴桃200g；晚餐可食用葱油拌面（面粉95g）、抱蛋豆腐（豆腐70g，鸡蛋50g）、蒜炒鸡毛菜（鸡毛菜100g）；全天总用量：植物油30g，盐4g。", "category": "治疗与康复", "page_num": 48}
+{"match_tokens": ["disease:其他病症"], "advice": "慢性肾脏病5期透析阶段秋季食谱：早餐可食用鸡蛋饼（鸡蛋50g，低筋面粉30g）、蒸芋头100g。", "category": "治疗与康复", "page_num": 48}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "全天总用量：植物油35g，盐4g。", "category": "治疗与康复", "page_num": 49}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "全天总用量：植物油35g，盐3g。", "category": "治疗与康复", "page_num": 49}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "使用低蛋白大米作为主食。", "category": "治疗与康复", "page_num": 49}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "食谱中用到的食药物质，如薏苡仁、草果、山药，草果仅作为香辛料和调味品使用。", "category": "治疗与康复", "page_num": 49}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "主食以米面为主，合理搭配当季蔬菜和地方特色食材，保留特色饮食的同时，尽可能降低油、盐和腌制食物使用量。", "category": "健康生活方式", "page_num": 50}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "早餐可食用青菜香菇包、牛奶，加餐可食用冲藕粉。", "category": "健康生活方式", "page_num": 50}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "中餐可食用大米饭、青椒萝卜丝、西红柿豆腐汤。", "category": "健康生活方式", "page_num": 50}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "加餐可食用猕猴桃。", "category": "健康生活方式", "page_num": 50}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "晚餐可食用山药大米饭、清炒油菜、胡萝卜鸡块。", "category": "健康生活方式", "page_num": 50}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "全天总用量：植物油30g，盐4g。", "category": "健康生活方式", "page_num": 50}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "夏季早餐可食用香菇粉条包、牛奶，加餐可食用葛根粉羹。", "category": "健康生活方式", "page_num": 50}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "夏季中餐可食用大米饭、滑藕片、西红柿鱼块。", "category": "健康生活方式", "page_num": 50}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "夏季加餐可食用西瓜。", "category": "健康生活方式", "page_num": 50}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "夏季晚餐可食用薏米大米饭、清炒红苋菜、胡萝卜炖排骨。", "category": "健康生活方式", "page_num": 50}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "夏季全天总用量：植物油35g，盐4g。", "category": "健康生活方式", "page_num": 50}
+{"match_tokens": ["disease:其他病症"], "advice": "慢性肾脏病1-2期患者秋季可参考以下一日食谱：早餐食用生煎包和牛奶，加餐食用炒板栗，午餐食用大米饭、地三鲜和葱香武昌鱼，加餐食用苹果，晚餐食用百合大米饭、清炒生菜和芹菜肉丝，全天使用植物油28克，盐4克。", "category": "治疗与康复", "page_num": 51}
+{"match_tokens": ["disease:其他病症"], "advice": "慢性肾脏病1-2期患者冬季可参考以下一日食谱：早餐食用热干面和枸杞黄豆煮藕粉，加餐食用开心果，午餐食用大米饭、滑炒山药片和香菇鸡丝，加餐食用鲜枣，晚餐食用大米饭、清炒小白菜和西红柿鱼块，全天使用植物油35克，盐4克。", "category": "治疗与康复", "page_num": 51}
+{"match_tokens": ["disease:其他病症"], "advice": "慢性肾脏病3-5期患者春季可参考以下一日食谱：早餐食用清汤粉和香椿炒蛋，加餐食用炒瓜子，午餐食用大米饭、清炒魔芋豌豆和莴苣肉片，加餐食用苹果，晚餐食用山药大米饭、彩椒西兰花和白菜肉丸，全天使用植物油35克，盐4克。", "category": "治疗与康复", "page_num": 51}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "夏季可参考食谱：早餐食用凉拌粉丝和西红柿炒蛋，加餐食用玉米发糕，午餐食用大米饭、地三鲜和莴苣肉片，加餐食用苹果，晚餐食用薏米大米饭、彩椒西兰花和丝瓜肉片，全天使用植物油35g，盐4g。", "category": "治疗与康复", "page_num": 52}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "秋季可参考食谱：早餐食用汤粉和洋葱炒蛋，加餐食用蒸玉米，午餐食用大米饭、青椒炒南瓜和莴苣肉丝，加餐食用苹果，晚餐食用百合大米饭、彩椒笋瓜和蒜苗牛柳，全天使用植物油35g，盐4g。", "category": "治疗与康复", "page_num": 52}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "冬季可参考食谱：早餐食用枸杞汤粉和香葱炒鸡蛋，加餐食用烤红薯，午餐食用大米饭和青椒萝卜丝。", "category": "治疗与康复", "page_num": 52}
+{"match_tokens": ["disease:其他病症"], "advice": "早餐食用生菜荞麦面（荞麦面条100g，生菜50g）和枸杞豆浆（黄豆30g，枸杞子5g）。", "category": "治疗与康复", "page_num": 53}
+{"match_tokens": ["disease:其他病症"], "advice": "加餐食用草莓（200g）。", "category": "治疗与康复", "page_num": 53}
+{"match_tokens": ["disease:其他病症"], "advice": "中餐食用大米饭（大米70g）、清炒豆芽（绿豆芽100g）和冬瓜烧排骨（冬瓜100g，猪肋排70g）。", "category": "治疗与康复", "page_num": 53}
+{"match_tokens": ["disease:其他病症"], "advice": "加餐食用冲藕粉（藕粉20g，蜂蜜5g）。", "category": "治疗与康复", "page_num": 53}
+{"match_tokens": ["disease:其他病症"], "advice": "晚餐食用大米饭（大米70g）、醋溜包菜粉条（圆白菜150g，粉条50g）和木耳肉丝（木耳【水发】100g，鸡胸肉100g）。", "category": "治疗与康复", "page_num": 53}
+{"match_tokens": ["disease:其他病症"], "advice": "全天烹饪使用植物油30g，盐4g。", "category": "治疗与康复", "page_num": 53}
+{"match_tokens": ["disease:其他病症"], "advice": "早餐食用三鲜豆皮（糯米75g，鸡蛋50g，香菇5g，豆腐干5g）和薏米豆浆（黄豆35g，薏苡仁15g）。", "category": "治疗与康复", "page_num": 53}
+{"match_tokens": ["disease:其他病症"], "advice": "加餐食用荸荠（50g）。", "category": "治疗与康复", "page_num": 53}
+{"match_tokens": ["disease:其他病症"], "advice": "中餐食用大米饭（大米70g）、青椒炒豆角（豆角100g，柿子椒50g）和玉米烧排骨（玉米100g，猪肋排100g）。", "category": "治疗与康复", "page_num": 53}
+{"match_tokens": ["disease:其他病症"], "advice": "加餐食用桃子（100g）。", "category": "治疗与康复", "page_num": 53}
+{"match_tokens": ["disease:其他病症"], "advice": "晚餐食用大米饭（大米70g）、清炒空心菜（空心菜150g）和洋葱牛肉（洋葱100g，牛瘦肉90g）。", "category": "治疗与康复", "page_num": 53}
+{"match_tokens": ["disease:其他病症"], "advice": "全天烹饪使用植物油25g，盐4g。", "category": "治疗与康复", "page_num": 53}
+{"match_tokens": ["disease:其他病症", "population:老年人"], "advice": "早餐可食用三鲜豆皮（绿豆芽50g，粉丝50g，豆腐干30g，香菇10g）并搭配豆浆250mL。", "category": "治疗与康复", "page_num": 54}
+{"match_tokens": ["disease:其他病症", "population:老年人"], "advice": "加餐可食用米发糕（米粉50g）。", "category": "治疗与康复", "page_num": 54}
+{"match_tokens": ["disease:其他病症", "population:老年人"], "advice": "中餐可食用大米饭（大米50g）、三色蔬菜丁（青豆50g，玉米50g，胡萝卜50g）和海带烧排骨（海带100g，猪肋排100g）。", "category": "治疗与康复", "page_num": 54}
+{"match_tokens": ["disease:其他病症", "population:老年人"], "advice": "下午加餐可食用葡萄200g。", "category": "治疗与康复", "page_num": 54}
+{"match_tokens": ["disease:其他病症", "population:老年人"], "advice": "晚餐可食用百合大米饭（大米50g，百合*5g）、醋溜包菜粉条（圆白菜150g，粉条70g）和洋葱青椒牛肉（洋葱100g，牛瘦肉100g，柿子椒50g）。", "category": "治疗与康复", "page_num": 54}
+{"match_tokens": ["disease:其他病症", "population:老年人"], "advice": "全天烹饪使用植物油35g，盐4g。", "category": "治疗与康复", "page_num": 54}
+{"match_tokens": ["disease:其他病症", "population:老年人"], "advice": "早餐可食用香菇包（面粉60g，圆白菜10g，香菇5g）并搭配枸杞牛奶（牛奶250mL，枸杞子*5g）。", "category": "治疗与康复", "page_num": 54}
+{"match_tokens": ["disease:其他病症", "population:老年人"], "advice": "加餐可食用冲藕粉（藕粉20g，蜂蜜*5g）。", "category": "治疗与康复", "page_num": 54}
+{"match_tokens": ["disease:其他病症", "population:老年人"], "advice": "中餐可食用大米饭（大米30g）、青椒炒四季豆（柿子椒100g，豆角50g）和板栗烧排骨（猪肋排100g，板栗80g）。", "category": "治疗与康复", "page_num": 54}
+{"match_tokens": ["disease:其他病症", "population:老年人"], "advice": "下午加餐可食用雪梨200g。", "category": "治疗与康复", "page_num": 54}
+{"match_tokens": ["disease:其他病症", "population:老年人"], "advice": "晚餐可食用大米饭（大米30g）、清炒芝麻菜苔（菜苔150g，黑芝麻*10g）和萝卜烧牛肉（牛肉100g，白萝卜50g）。", "category": "治疗与康复", "page_num": 54}
+{"match_tokens": ["disease:其他病症", "population:老年人"], "advice": "全天烹饪使用植物油30g，盐4g。", "category": "治疗与康复", "page_num": 54}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "遵循慢性肾脏病患者食养原则，合理搭配西南地区特色食材，适当增加水产品摄入，尽可能降低油、盐和调味品的使用量。", "category": "治疗与康复", "page_num": 55}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "早餐可食用肥肠粉（含小白菜、红薯粉条、肥肠）和煮鸡蛋，加餐可食用草莓。", "category": "治疗与康复", "page_num": 55}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "午餐可食用米饭、苕皮盐煎肉（含猪瘦肉、红薯淀粉）和蒜蓉生菜，加餐可食用凉拌粉条。", "category": "治疗与康复", "page_num": 55}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "晚餐可食用酸辣粉（含红薯粉条、花椒）、米饭、葱葱鲫鱼（含小葱、鲫鱼）和炝拌豌豆苗。", "category": "治疗与康复", "page_num": 55}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "全天控制植物油用量为35克，盐用量为3克。", "category": "治疗与康复", "page_num": 55}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "早餐可食用凉粉锅盔（含面粉、豌豆淀粉）、冲藕粉和牛奶，加餐可食用黄瓜。", "category": "治疗与康复", "page_num": 55}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "午餐可食用米饭和拌三丝（含绿豆粉丝、柿子椒、腐竹），加餐可食用炒粉丝。", "category": "治疗与康复", "page_num": 55}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "晚餐可食用米饭、酸菜粉丝（含粉丝、酸白菜）、口水鸡（含鸡胸肉、花椒）和虎皮青椒。", "category": "治疗与康复", "page_num": 55}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "全天控制植物油用量为30克，盐用量为3克。", "category": "治疗与康复", "page_num": 55}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "早餐食用鸡蛋面（面粉50g，鸡蛋50g，大白菜50g）。", "category": "治疗与康复", "page_num": 56}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "加餐食用素汤黑芝麻粉丝（粉丝50g，大白菜25g，黑芝麻5g）。", "category": "治疗与康复", "page_num": 56}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "午餐食用米饭（大米50g）、酸菜滑肉粉丝（猪瘦肉50g，红薯粉丝25g，红薯淀粉25g，酸白菜25g）和清炒冬瓜（冬瓜200g）。", "category": "治疗与康复", "page_num": 56}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "加餐食用苹果（200g）。", "category": "治疗与康复", "page_num": 56}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "晚餐食用米饭（大米25g）、麻辣宽粉（宽粉75g）和宫保鸡丁（莴笋100g，鸡胸肉50g，大葱25g）。", "category": "治疗与康复", "page_num": 56}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "全天烹饪使用植物油30g，盐4g。", "category": "治疗与康复", "page_num": 56}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "早餐食用牛奶冲藕粉（牛奶150mL，藕粉50g）。", "category": "治疗与康复", "page_num": 56}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "加餐食用热凉粉（豌豆淀粉50g）。", "category": "治疗与康复", "page_num": 56}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "午餐食用米饭（大米50g）、莲白粉丝（圆白菜100g，绿豆粉丝50g）和汽锅鸡（鸡胸肉60g）。", "category": "治疗与康复", "page_num": 56}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "加餐食用水煮胡萝卜（胡萝卜100g）。", "category": "治疗与康复", "page_num": 56}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "晚餐食用米饭（大米50g）、麻婆豆腐（豆腐100g，猪瘦肉20g，花椒2g）和水煮芥菜（芥菜200g）。", "category": "治疗与康复", "page_num": 56}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "全天烹饪使用植物油30g，盐3g。", "category": "治疗与康复", "page_num": 56}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "早餐食用花卷（面粉25g）和牛奶（150mL）。", "category": "治疗与康复", "page_num": 56}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "加餐食用冲藕粉（35g）。", "category": "治疗与康复", "page_num": 56}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "午餐食用砂锅粉条（绿豆芽100g，粉条80g）、莴笋焖兔丁（莴笋100g，兔肉50g，花椒2g）和清炒茼蒿（茼蒿100g）。", "category": "治疗与康复", "page_num": 56}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "加餐食用苹果（200g）。", "category": "治疗与康复", "page_num": 56}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "晚餐食用干捞粉丝（粉丝70g）。", "category": "治疗与康复", "page_num": 56}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "夏季每日食谱可参考：早餐食用川北凉粉和鸡蛋羹，加餐食用豌豆凉粉，午餐食用酸辣粉、蒜泥白肉和素炒红薯叶，加餐食用荞麦面，晚餐食用酸汤鱼片和清炒空心菜。", "category": "治疗与康复", "page_num": 57}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "夏季每日烹饪使用植物油35克，盐3克。", "category": "治疗与康复", "page_num": 57}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "秋季每日食谱可参考：早餐食用肉沫酸辣粉和鸡蛋羹，加餐食用面包，午餐食用低蛋白大米饭、凉拌粉丝和粉蒸肉，加餐食用苹果，晚餐食用冒菜和低蛋白大米饭。", "category": "治疗与康复", "page_num": 57}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "秋季每日烹饪使用植物油35克，盐3克。", "category": "治疗与康复", "page_num": 57}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "冬季每日食谱可参考：早餐食用酸辣粉，加餐食用豌豆淀粉凉粉，午餐食用粉丝丸子汤和炒儿菜，加餐食用苹果。", "category": "治疗与康复", "page_num": 57}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "冬季每日烹饪使用植物油35克，盐3克。", "category": "治疗与康复", "page_num": 57}
+{"match_tokens": ["disease:慢性肾脏病", "population:透析阶段"], "advice": "晚餐可食用肉沫粉条（牛瘦肉60g，红薯粉条50g）、清炒白菜（大白菜200g）和低蛋白大米饭（低蛋白大米50g），全天植物油用量35g，盐3g。", "category": "治疗与康复", "page_num": 58}
+{"match_tokens": ["disease:慢性肾脏病", "population:透析阶段"], "advice": "早餐可食用馒头（100g）、煮鸡蛋（鸡蛋60g）和牛奶（250mL），加餐可食用面包（面粉25g）。", "category": "治疗与康复", "page_num": 58}
+{"match_tokens": ["disease:慢性肾脏病", "population:透析阶段"], "advice": "午餐可食用低蛋白大米饭（低蛋白大米70g）、清炖牛肉（牦牛腱子肉100g）和青笋拌粉丝（青笋100g，粉丝25g），加餐可食用狼牙土豆（土豆100g）。", "category": "治疗与康复", "page_num": 58}
+{"match_tokens": ["disease:慢性肾脏病", "population:透析阶段"], "advice": "晚餐可食用低蛋白大米饭（低蛋白大米80g）、蒜苔炒肉（蒜苔150g，猪瘦肉100g）和鱼香茄子（茄子150g，姜*2g），全天植物油用量35g，盐3g。", "category": "治疗与康复", "page_num": 58}
+{"match_tokens": ["disease:慢性肾脏病", "population:透析阶段"], "advice": "早餐可食用重庆小面（空心菜100g，面粉75g，猪瘦肉50g，花椒*2g）和煎鸡蛋（鸡蛋50g），加餐可食用麦淀粉煎饼（小麦淀粉15g）。", "category": "治疗与康复", "page_num": 58}
+{"match_tokens": ["disease:慢性肾脏病", "population:透析阶段"], "advice": "午餐可食用低蛋白大米饭（低蛋白大米80g）、茭白炒肉（茭白150g，猪瘦肉100g，淀粉10g）和素炒丝瓜（丝瓜250g），加餐可食用猕猴桃（150g）。", "category": "治疗与康复", "page_num": 58}
+{"match_tokens": ["disease:慢性肾脏病", "population:透析阶段"], "advice": "晚餐可食用低蛋白大米饭（低蛋白大米100g）、甜皮鸭（鸭胸肉100g）和素炒油麦菜（油麦菜200g），全天植物油用量35g，盐4g。", "category": "治疗与康复", "page_num": 58}
+{"match_tokens": ["disease:慢性肾脏病", "population:透析阶段"], "advice": "早餐可食用蒸馒头（面粉75g）和鸡蛋羹（鸡蛋60g）。", "category": "治疗与康复", "page_num": 58}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "全天总用量：植物油25g，盐3g。", "category": "治疗与康复", "page_num": 59}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "全天总用量：植物油35g，盐4g。", "category": "治疗与康复", "page_num": 59}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "使用低蛋白大米制作米饭。", "category": "治疗与康复", "page_num": 59}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "食谱中可加入姜、花椒等食药物质。", "category": "治疗与康复", "page_num": 59}
+{"match_tokens": ["disease:慢阻肺"], "advice": "遵循慢性肾脏病患者食养原则，合理搭配华南地区特色食材，尊重本地区传统饮食文化，保留特色饮食，减少喝汤或不喝老火汤。", "category": "治疗与康复", "page_num": 60}
+{"match_tokens": ["disease:慢阻肺"], "advice": "保持较少的油、盐使用量，尽可能减少烧腊食品的使用。", "category": "治疗与康复", "page_num": 60}
+{"match_tokens": ["disease:慢阻肺"], "advice": "早餐食用鸡蛋娃娃菜汤粉丝（娃娃菜75g，碗豆粉丝75g，鸡蛋60g）。", "category": "治疗与康复", "page_num": 60}
+{"match_tokens": ["disease:慢阻肺"], "advice": "加餐食用雪梨（150g）和清热利咽茶（金银花*6g，桔梗*5g，青果*5g，薄荷*2.5g）。", "category": "治疗与康复", "page_num": 60}
+{"match_tokens": ["disease:慢阻肺"], "advice": "午餐食用低蛋白大米饭（低蛋白大米100g）、葱花豆腐（南豆腐120g，小葱15g）和蒜蓉炒油麦菜（油麦菜200g）。", "category": "治疗与康复", "page_num": 60}
+{"match_tokens": ["disease:慢阻肺"], "advice": "加餐食用藕粉甜羹（藕粉20g，蜂蜜*5g）。", "category": "治疗与康复", "page_num": 60}
+{"match_tokens": ["disease:慢阻肺"], "advice": "晚餐食用米饭（大米75g）、南瓜蒸排骨（南瓜75g，猪小排75g）和炝大豆芽（黄豆芽100g）。", "category": "治疗与康复", "page_num": 60}
+{"match_tokens": ["disease:慢阻肺"], "advice": "全天总用量：植物油25g，盐4g。", "category": "治疗与康复", "page_num": 60}
+{"match_tokens": ["disease:慢阻肺"], "advice": "早餐食用鸡蛋炒粉丝（豌豆粉丝100g，莴笋75g，鸡蛋50g）和三仁润肠饮（甜杏仁*5g，郁李仁*5g，火麻仁*5g，蜂蜜*5g）。", "category": "治疗与康复", "page_num": 60}
+{"match_tokens": ["disease:慢阻肺"], "advice": "加餐食用西瓜（200g）。", "category": "治疗与康复", "page_num": 60}
+{"match_tokens": ["disease:慢阻肺"], "advice": "午餐食用米饭（大米75g）、香菇蒸鸡（鸡肉50g，香菇[干]10g）和素炒苋菜（绿苋菜150g）。", "category": "治疗与康复", "page_num": 60}
+{"match_tokens": ["disease:慢阻肺"], "advice": "加餐食用凉粉（凉粉200g，蜂蜜*15g）。", "category": "治疗与康复", "page_num": 60}
+{"match_tokens": ["disease:慢阻肺"], "advice": "晚餐食用米饭（大米75g）、酿豆腐（北豆腐100g，猪五花肉15g）和素炒节瓜（节瓜200g）。", "category": "治疗与康复", "page_num": 60}
+{"match_tokens": ["disease:慢阻肺"], "advice": "全天总用量：植物油33g，盐3g。", "category": "治疗与康复", "page_num": 60}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "早餐可食用素拌粉皮（粉皮150g，青瓜50g，胡萝卜50g）和酸奶（130g），加餐食用苹果（150g）。", "category": "治疗与康复", "page_num": 61}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "午餐可食用低蛋白大米饭（低蛋白大米100g）、橘皮焖鸭（去皮鸭肉75g，橘皮5g）和素炒菜心（菜心150g）。", "category": "治疗与康复", "page_num": 61}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "加餐可食用麦淀粉蒸糕（小麦淀粉50g，鸡蛋25g）。", "category": "治疗与康复", "page_num": 61}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "晚餐可食用米饭（大米100g）、紫苏蒸草鱼（鲜紫苏5g，草鱼65g）、素炒西葫芦（西葫芦200g）和猪腰二仁汤（猪腰10g，益智仁1g、核桃仁2g）。", "category": "治疗与康复", "page_num": 61}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "全天烹饪使用植物油35g，盐4g。", "category": "治疗与康复", "page_num": 61}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "早餐可食用猪肉煮红薯粉（红薯粉条125g，绿豆芽50g，猪五花肉25g）。", "category": "治疗与康复", "page_num": 61}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "加餐可食用苹果（100g）和槐花茶（槐花5g，蜂蜜3g，绿茶3g）。", "category": "治疗与康复", "page_num": 61}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "午餐可食用米饭（大米100g）、姜丝炒牛肉（牛肉50g，姜10g）和素炒番薯叶（红薯叶150g）。", "category": "治疗与康复", "page_num": 61}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "加餐可食用樱桃（100g）。", "category": "治疗与康复", "page_num": 61}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "晚餐可食用米饭（大米100g）、清蒸鲈鱼（鲈鱼50g）和素炒苦瓜（苦瓜200g）。", "category": "治疗与康复", "page_num": 61}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "全天烹饪使用植物油30g，盐4g。", "category": "治疗与康复", "page_num": 61}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "早餐可食用山药肉末粥（鲜山药75g，大米25g，猪瘦肉15g）、马蹄糕（马蹄粉25g，荸荠20g）和凉拌海带丝（鲜海带75g）。", "category": "治疗与康复", "page_num": 61}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "加餐可食用苹果（150g）。", "category": "治疗与康复", "page_num": 61}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "午餐可食用青瓜鸡蛋炒粉丝（青瓜200g，粉丝100g，鸡蛋60g）。", "category": "治疗与康复", "page_num": 61}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "加餐可食用藕粉糊（藕粉20g）。", "category": "治疗与康复", "page_num": 61}
+{"match_tokens": ["disease:其他病症", "population:老年人"], "advice": "晚餐食用低蛋白大米饭（低蛋白大米100g）、土豆蒸鸡（土豆75g，鸡肉75g）和炒小白菜（小白菜150g），全天使用植物油35g，盐4g。", "category": "治疗与康复", "page_num": 62}
+{"match_tokens": ["disease:其他病症", "population:老年人"], "advice": "早餐食用麦淀粉蒸虾饺（小麦淀粉125g，基围虾25g，胡萝卜25g）和娃娃菜汤（娃娃菜50g），加餐食用苹果（100g）。", "category": "治疗与康复", "page_num": 62}
+{"match_tokens": ["disease:其他病症", "population:老年人"], "advice": "午餐食用赤小豆米饭（大米60g，赤小豆15g）、蒸香芋排骨（猪小排50g，芋头50g）和素炒油麦菜（油麦菜200g），加餐食用荔枝（75g）。", "category": "治疗与康复", "page_num": 62}
+{"match_tokens": ["disease:其他病症", "population:老年人"], "advice": "晚餐食用西红柿鸡蛋炒银针粉（西红柿250g，小麦淀粉100g，鸡蛋50g），全天使用植物油30g，盐4g。", "category": "治疗与康复", "page_num": 62}
+{"match_tokens": ["disease:其他病症", "population:老年人"], "advice": "早餐食用水晶饼（小麦淀粉60g，豆沙20g）、低脂牛奶（200mL）和热拌莴笋丝（莴笋75g），加餐食用金桔（100g）。", "category": "治疗与康复", "page_num": 62}
+{"match_tokens": ["disease:其他病症", "population:老年人"], "advice": "午餐食用低筋面条（低筋面粉50g，小麦淀粉20g）、洋葱白果炒牛肉（洋葱100g，牛瘦肉40g，鲜白果20g）和姜丝炒生菜（生菜150g，姜5g），加餐食用草莓（100g）。", "category": "治疗与康复", "page_num": 62}
+{"match_tokens": ["disease:其他病症", "population:老年人"], "advice": "晚餐食用麦淀粉饺子（大白菜150g，小麦淀粉100g，猪五花肉50g），全天使用植物油35g，盐4g。", "category": "治疗与康复", "page_num": 62}
+{"match_tokens": ["disease:其他病症", "population:老年人"], "advice": "早餐食用麦淀粉蒸饼（小麦淀粉100g）、牛奶（200mL）和迷你黄瓜（100g），加餐食用葡萄（200g）。", "category": "治疗与康复", "page_num": 62}
+{"match_tokens": ["disease:其他病症", "population:老年人"], "advice": "午餐食用米饭（大米75g）、白切鸡（鸡肉50g）和素炒芥兰（芥兰200g）。", "category": "治疗与康复", "page_num": 62}
+{"match_tokens": ["disease:其他病症"], "advice": "慢性肾脏病5期透析阶段患者，可参考夏秋食谱1，早餐食用扁豆山药粥、鸡蛋和蒸玉米，加餐饮用牛奶，午餐食用薏米饭、枸杞蒸鸡和素炒上海青，加餐食用番石榴，晚餐食用米饭、香煎黄花鱼和素炒苦瓜，全天植物油用量30g，盐用量3g。", "category": "治疗与康复", "page_num": 63}
+{"match_tokens": ["disease:其他病症"], "advice": "慢性肾脏病5期透析阶段患者，可参考夏秋食谱2，早餐食用炒米粉和牛奶，加餐食用火龙果，午餐食用米饭和生菜牛肉丸，加餐食用雪梨，晚餐食用米饭、清蒸桂鱼和素炒菜心，全天植物油用量25g，盐用量3g。", "category": "治疗与康复", "page_num": 63}
+{"match_tokens": ["disease:其他病症"], "advice": "慢性肾脏病5期透析阶段患者，可参考春冬食谱1，早餐食用菜肉包、牛奶和蒸红薯。", "category": "治疗与康复", "page_num": 63}
+{"match_tokens": ["disease:慢阻肺"], "advice": "早餐食用牛奶250mL、煮鸡蛋50g、馒头（面粉75g）和迷你黄瓜100g。", "category": "治疗与康复", "page_num": 64}
+{"match_tokens": ["disease:慢阻肺"], "advice": "午餐食用米饭（大米100g）、紫苏焖鸭（鸭肉75g，鲜紫苏10g）和素炒丝瓜（丝瓜200g）。", "category": "治疗与康复", "page_num": 64}
+{"match_tokens": ["disease:慢阻肺"], "advice": "晚餐食用米饭（大米100g）、白灼沙虾（沙虾75g）和素炒茼蒿（茼蒿200g）。", "category": "治疗与康复", "page_num": 64}
+{"match_tokens": ["disease:慢阻肺"], "advice": "全天烹饪使用植物油20g，盐3g。", "category": "治疗与康复", "page_num": 64}
+{"match_tokens": ["disease:慢阻肺"], "advice": "加餐食用梨100g和橙子100g。", "category": "治疗与康复", "page_num": 64}
+{"match_tokens": ["disease:其他病症", "symptom:水肿"], "advice": "气虚湿盛证患者可食用黄芪鲤鱼汤，制作方法为：鲤鱼500g、生黄芪30g、赤小豆30g、大葱白1根、生姜1块，全部食材清洗浸泡15分钟，葱姜切断，不添加盐及其他调味料，水开后小火煎煮1～2个小时，鱼汤煎至100～150mL为宜，佐餐食用。", "category": "治疗与康复", "page_num": 65}
+{"match_tokens": ["disease:其他病症", "symptom:尿频尿急"], "advice": "湿热下注证患者可食用薏米绿豆汤，制作方法为：薏苡仁30g、绿豆20g浸泡1小时，取水600mL加入薏苡仁、绿豆同煎，大火滚沸后改成中小火至绿豆煮烂，佐餐食用。", "category": "治疗与康复", "page_num": 65}
+{"match_tokens": ["disease:其他病症", "symptom:贫血"], "advice": "气血亏虚证患者可食用桂圆红枣粥，制作材料为大米50g、龙眼肉12g、大枣12g、莲子肉12g。", "category": "治疗与康复", "page_num": 65}
+{"match_tokens": ["symptom:腹泻", "symptom:纳差"], "advice": "将白扁豆、鲜山药洗净备用。大米淘洗后，加入适量清水，将所有材料放入，煮熟即可。佐餐食用。", "category": "治疗与康复", "page_num": 66}
+{"match_tokens": ["symptom:便秘"], "advice": "将甜杏仁、郁李仁、火麻仁加水共煎后取汁，加入适量蜂蜜调匀即可。佐餐食用。", "category": "治疗与康复", "page_num": 66}
+{"match_tokens": ["symptom:便秘"], "advice": "将材料洗净，以350～500mL 沸水冲泡槐花和绿茶，加入蜂蜜搅匀，代茶饮。", "category": "治疗与康复", "page_num": 66}
+{"match_tokens": ["symptom:咽干", "symptom:咽痛"], "advice": "将金银花、桔梗、青果、薄荷洗净，以350～500mL 沸水冲泡，代茶饮。", "category": "治疗与康复", "page_num": 66}
+{"match_tokens": ["age:老年人", "symptom:腰膝酸软", "symptom:夜尿多"], "advice": "将猪腰洗净切丝，与纱布包好的益智仁、核桃仁一同入锅，加水煎煮，煮沸后小火继续煎煮30分钟，加入盐调味后佐餐食用。", "category": "治疗与康复", "page_num": 67}
+{"match_tokens": ["disease:其他病症"], "advice": "若出现白蛋白尿（UAER≥30mg/24h或UACR≥30mg/g）、尿沉渣异常、肾小管相关病变、组织学异常、影像学所见结构异常或肾移植病史，且持续时间超过3个月，应及时就医诊断慢性肾脏病。", "category": "治疗与康复", "page_num": 68}
+{"match_tokens": ["disease:其他病症"], "advice": "若估算肾小球滤过率（eGFR）小于60mL/min/1.73m²，且持续时间超过3个月，应及时就医诊断慢性肾脏病。", "category": "治疗与康复", "page_num": 68}
+{"match_tokens": ["disease:其他病症"], "advice": "根据肾小球滤过率将慢性肾脏病分为1～5期，不同分期的营养管理原则不同，应参考相关指南和共识选择食物并设计食谱。", "category": "治疗与康复", "page_num": 68}
+{"match_tokens": ["disease:其他病症", "symptom:水肿"], "advice": "如果出现严重水肿或少尿，液体摄入量应根据个体情况调整。", "category": "治疗与康复", "page_num": 69}
+{"match_tokens": ["disease:其他病症"], "advice": "慢性肾脏病1-2期患者，每日蛋白质摄入量应为0.8g/kg理想体重，并应避免高蛋白饮食。", "category": "治疗与康复", "page_num": 69}
+{"match_tokens": ["disease:其他病症"], "advice": "慢性肾脏病3-5期（非透析）患者，每日蛋白质摄入量应为0.6g/kg理想体重，其中50%应为高生物价蛋白质。", "category": "治疗与康复", "page_num": 69}
+{"match_tokens": ["disease:其他病症", "disease:糖尿病"], "advice": "慢性肾脏病3-5期（非透析）的糖尿病患者，每日蛋白质摄入量应为0.6-0.8g/kg理想体重。", "category": "治疗与康复", "page_num": 69}
+{"match_tokens": ["disease:其他病症"], "advice": "慢性肾脏病5期（透析期）患者，每日蛋白质摄入量应为1.0-1.2g/kg理想体重，其中50%应为高生物价蛋白质。", "category": "治疗与康复", "page_num": 69}
+{"match_tokens": ["disease:其他病症"], "advice": "慢性肾脏病各期患者，每日碳水化合物摄入量应占总能量的50%-65%。", "category": "治疗与康复", "page_num": 69}
+{"match_tokens": ["disease:其他病症"], "advice": "慢性肾脏病1-2期患者，每日碳水化合物摄入中，来自精制糖的部分应少于总能量的10%。", "category": "治疗与康复", "page_num": 69}
+{"match_tokens": ["disease:其他病症"], "advice": "慢性肾脏病各期患者，每日脂肪摄入量应占总能量的30%-35%。", "category": "治疗与康复", "page_num": 69}
+{"match_tokens": ["disease:其他病症"], "advice": "慢性肾脏病1-2期及透析期患者，饱和脂肪酸摄入量应少于总能量的10%。", "category": "治疗与康复", "page_num": 69}
+{"match_tokens": ["disease:其他病症"], "advice": "慢性肾脏病1-2期患者，应适当增加多不饱和脂肪酸的摄入量。", "category": "治疗与康复", "page_num": 69}
+{"match_tokens": ["disease:其他病症"], "advice": "慢性肾脏病3-5期（非透析）及透析期患者，应适当增加中链甘油三酯和多不饱和脂肪酸的摄入量。", "category": "治疗与康复", "page_num": 69}
+{"match_tokens": ["disease:其他病症"], "advice": "慢性肾脏病各期患者，每日膳食纤维摄入量应为14g/1000kcal能量。", "category": "治疗与康复", "page_num": 69}
+{"match_tokens": ["disease:其他病症"], "advice": "慢性肾脏病1-2期及3-5期（非透析）患者，每日液体摄入量应为1.5-1.7L。", "category": "治疗与康复", "page_num": 69}
+{"match_tokens": ["disease:其他病症"], "advice": "血液透析患者，每日液体摄入量应为0.5L加上前一日尿量。", "category": "治疗与康复", "page_num": 69}
+{"match_tokens": ["disease:其他病症"], "advice": "腹膜透析患者，每日液体摄入量应为0.5L加上前一日尿量及前一日透析脱水量。", "category": "治疗与康复", "page_num": 69}
+{"match_tokens": ["disease:其他病症"], "advice": "慢性肾脏病各期患者，每日钠摄入量不应超过2300mg。", "category": "治疗与康复", "page_num": 69}
+{"match_tokens": ["disease:其他病症"], "advice": "慢性肾脏病3-5期（非透析）及透析期患者，如出现高血钾，需控制钾摄入量，每日不超过2000-3000mg。", "category": "治疗与康复", "page_num": 69}
+{"match_tokens": ["disease:其他病症"], "advice": "慢性肾脏病1-2期患者，每日钙摄入量为800mg，不应超过2000mg。", "category": "治疗与康复", "page_num": 69}
+{"match_tokens": ["disease:其他病症"], "advice": "慢性肾脏病3-5期（非透析）患者，每日钙摄入量为800-1000mg。", "category": "治疗与康复", "page_num": 69}
+{"match_tokens": ["disease:其他病症"], "advice": "慢性肾脏病5期（透析期）患者，每日钙摄入量不应超过1500mg。", "category": "治疗与康复", "page_num": 69}
+{"match_tokens": ["disease:其他病症"], "advice": "慢性肾脏病3-5期（非透析）及透析期患者，每日磷摄入量不应超过800-1000mg。", "category": "治疗与康复", "page_num": 69}
+{"match_tokens": ["disease:其他病症"], "advice": "慢性肾脏病各期患者，应采用以植物性食物为主的膳食模式。", "category": "治疗与康复", "page_num": 69}
+{"match_tokens": ["disease:其他病症"], "advice": "慢性肾脏病3-5期（非透析）及透析期患者，由于蛋白质、钠、磷、钾的限制，膳食模式需要作相应调整。", "category": "治疗与康复", "page_num": 69}

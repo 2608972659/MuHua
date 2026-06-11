@@ -1,0 +1,54 @@
+{"match_tokens": ["age:成人", "disease:其他病症"], "advice": "坚持以植物性食物为主、动物性食物适量的膳食模式，做到食物多样，保证碳水化合物供能占比不低于50%，不建议生酮饮食。", "category": "健康生活方式", "page_num": 1}
+{"match_tokens": ["age:成人", "disease:其他病症"], "advice": "可参照“中国居民平衡膳食餐盘”帮助搭配不同种类食物。", "category": "健康生活方式", "page_num": 1}
+{"match_tokens": ["bmi:超重", "bmi:肥胖"], "advice": "控制能量摄入，可根据减重目标，在现有能量摄入基础上每天减少500kcal左右的能量摄入。", "category": "健康生活方式", "page_num": 2}
+{"match_tokens": ["disease:无特定疾病"], "advice": "每日膳食总能量以达到或保持健康体重为宜，注意肌肉量的维持。", "category": "健康生活方式", "page_num": 2}
+{"match_tokens": ["disease:无特定疾病"], "advice": "控制脂肪总量，少油烹饪，每日烹调油不超过25g。", "category": "健康生活方式", "page_num": 2}
+{"match_tokens": ["disease:无特定疾病"], "advice": "以脂肪摄入量占总能量20% ~ 25%为宜。", "category": "健康生活方式", "page_num": 2}
+{"match_tokens": ["disease:无特定疾病"], "advice": "以饱和脂肪酸摄入供能比不超过总能量10%为宜；尽量避免反式脂肪酸摄入；提高不饱和脂肪酸的摄入比例。", "category": "健康生活方式", "page_num": 2}
+{"match_tokens": ["disease:无特定疾病"], "advice": "增加膳食纤维摄入，每天摄入25g ~ 40g膳食纤维。", "category": "健康生活方式", "page_num": 2}
+{"match_tokens": ["disease:无特定疾病"], "advice": "多吃新鲜蔬菜和水果，每日摄入新鲜蔬菜不少于500g，新鲜水果摄入200g-350g。", "category": "健康生活方式", "page_num": 2}
+{"match_tokens": ["disease:无特定疾病"], "advice": "多吃粗杂粮和豆类。", "category": "健康生活方式", "page_num": 2}
+{"match_tokens": ["disease:其他病症"], "advice": "高胆固醇血症人群每天膳食胆固醇摄入量少于300毫克。", "category": "治疗与康复", "page_num": 2}
+{"match_tokens": ["disease:其他病症"], "advice": "高胆固醇血症人群适量增加富含植物甾醇食物的摄入，如燕麦、玉米胚芽油等。", "category": "治疗与康复", "page_num": 2}
+{"match_tokens": ["disease:高脂血症", "risk:高盐饮食"], "advice": "高甘油三酯血症人群应适当限制碳水化合物摄入量，特别是精米精面类食物。", "category": "健康生活方式", "page_num": 3}
+{"match_tokens": ["disease:高脂血症", "risk:饮酒"], "advice": "高甘油三酯血症人群应限制饮酒。", "category": "健康生活方式", "page_num": 3}
+{"match_tokens": ["disease:高脂血症"], "advice": "坚持有规律的运动，保持充足身体活动，减少久坐时间。", "category": "健康生活方式", "page_num": 3}
+{"match_tokens": ["disease:高脂血证"], "advice": "以有氧运动为主，每周进行230~300分钟的中等至较高强度的有氧运动。", "category": "健康生活方式", "page_num": 4}
+{"match_tokens": ["disease:高脂血证"], "advice": "提倡结合多种形式的抗阻训练并辅以柔韧性训练。", "category": "健康生活方式", "page_num": 4}
+{"match_tokens": ["disease:高脂血证"], "advice": "适度量力，循序渐进，避免突然大幅度增加运动强度、时间、频率或类型。", "category": "健康生活方式", "page_num": 4}
+{"match_tokens": ["disease:高脂血证"], "advice": "可以通过心率、主观用力感觉或谈话测试来确定运动强度。", "category": "健康生活方式", "page_num": 4}
+{"match_tokens": ["disease:高脂血证"], "advice": "中等强度运动时可以正常节奏说话，但不能唱歌；高强度运动时不能够正常节奏说话。", "category": "健康生活方式", "page_num": 4}
+{"match_tokens": ["disease:高脂血证"], "advice": "每周大于5天，累计250~300分钟每周。", "category": "健康生活方式", "page_num": 4}
+{"match_tokens": ["disease:高脂血证"], "advice": "逐步增加运动时长，建议每天进行50~60分钟或更长时间的锻炼。", "category": "健康生活方式", "page_num": 4}
+{"match_tokens": ["disease:高脂血证"], "advice": "进行快走，慢跑，骑车，游泳，爬楼梯，跳舞，球类活动等有氧运动。", "category": "健康生活方式", "page_num": 4}
+{"match_tokens": ["disease:高脂血证"], "advice": "使用抗阻健身器械，哑铃，杠铃，弹力带，身体自重训练等进行抗阻训练。", "category": "健康生活方式", "page_num": 4}
+{"match_tokens": ["disease:高脂血证"], "advice": "抗阻训练每周2~3次，每次2~4组，每组8~12次，要训练到全身主要大肌群。", "category": "健康生活方式", "page_num": 4}
+{"match_tokens": ["disease:高脂血证", "age:老年人"], "advice": "建议老年人从小力量、多次重复的运动开始。", "category": "健康生活方式", "page_num": 4}
+{"match_tokens": ["disease:高脂血症"], "advice": "每周进行2~3次柔韧性训练，每次拉伸10~30秒，每个动作重复2~4次，每个动作的总拉伸时间至少60秒，拉伸至感觉紧张或轻度不适。", "category": "健康生活方式", "page_num": 5}
+{"match_tokens": ["disease:高脂血症"], "advice": "服用他汀类降脂药物期间，若在运动时出现异常或持续性肌肉酸痛，应及时咨询医生。", "category": "治疗与康复", "page_num": 5}
+{"match_tokens": ["disease:高脂血症"], "advice": "合并心血管病中高危风险的高脂血症患者，在开始运动前应进行心血管风险评估和运动测试，并根据测试结果确定运动方案。", "category": "治疗与康复", "page_num": 5}
+{"match_tokens": ["disease:糖尿病"], "advice": "使用食物交换表，将大米、面粉、玉米面、杂粮等谷薯类食物进行等量交换，每份提供90kcal能量。", "category": "治疗与康复", "page_num": 6}
+{"match_tokens": ["disease:糖尿病"], "advice": "如混食多种蔬菜时，选择新鲜蔬菜（综合）的重量；如果单选某类蔬菜，按类确定重量。", "category": "治疗与康复", "page_num": 7}
+{"match_tokens": ["disease:糖尿病"], "advice": "如混食多种水果时，选择新鲜水果（综合）的重量；如果单选某类水果，按类确定重量。", "category": "治疗与康复", "page_num": 8}
+{"match_tokens": ["population:任何"], "advice": "如混食多种畜禽肉类时，选择畜禽肉类（综合）的重量；如果单食某类畜禽肉，按类确定重量。", "category": "健康生活方式", "page_num": 9}
+{"match_tokens": ["disease:糖尿病", "disease:肥胖症"], "advice": "坚果类食物可按等量交换表进行选择，每份提供90kcal能量。", "category": "健康生活方式", "page_num": 10}
+{"match_tokens": ["disease:糖尿病"], "advice": "使用大豆、乳及其制品等量交换表，每份提供90kcal能量，进行食物交换。", "category": "治疗与康复", "page_num": 11}
+{"match_tokens": ["risk:高盐饮食"], "advice": "了解主要食物的含盐量，例如约63克榨菜、酱八宝菜、腌雪里蕻、腌萝卜干等相当于5克盐。", "category": "健康生活方式", "page_num": 12}
+{"match_tokens": ["risk:高盐饮食"], "advice": "了解主要食物的含盐量，例如约9克豆办酱相当于5克盐。", "category": "健康生活方式", "page_num": 12}
+{"match_tokens": ["risk:高盐饮食"], "advice": "了解主要食物的含盐量，例如约10克豆豉酱、辣椒酱、状酱等相当于5克盐。", "category": "健康生活方式", "page_num": 12}
+{"match_tokens": ["risk:高盐饮食"], "advice": "了解主要食物的含盐量，例如约168克花生酱相当于5克盐。", "category": "健康生活方式", "page_num": 12}
+{"match_tokens": ["risk:高盐饮食"], "advice": "了解主要食物的含盐量，例如约208克甜面酱相当于5克盐。", "category": "健康生活方式", "page_num": 12}
+{"match_tokens": ["age:成人", "risk:饮酒"], "advice": "避免饮用高度白酒（如52%酒精度）。", "category": "健康生活方式", "page_num": 13}
+{"match_tokens": ["disease:其他病症"], "advice": "高脂血症患者若静息心电图有明显缺血表现、2周内有心肌梗死或其他急性心血管事件，应遵从医生建议选择适当运动类型及强度。", "category": "治疗与康复", "page_num": 14}
+{"match_tokens": ["disease:其他病症"], "advice": "高脂血症患者若有不稳定型心绞痛，应遵从医生建议选择适当运动类型及强度。", "category": "治疗与康复", "page_num": 14}
+{"match_tokens": ["disease:其他病症"], "advice": "高脂血症患者若有未控制的心律失常，应遵从医生建议选择适当运动类型及强度。", "category": "治疗与康复", "page_num": 14}
+{"match_tokens": ["disease:其他病症"], "advice": "高脂血症患者若有重度主动脉瓣狭窄或其他瓣膜疾病，应遵从医生建议选择适当运动类型及强度。", "category": "治疗与康复", "page_num": 14}
+{"match_tokens": ["disease:其他病症"], "advice": "高脂血症患者若有心力衰竭失代偿，应遵从医生建议选择适当运动类型及强度。", "category": "治疗与康复", "page_num": 14}
+{"match_tokens": ["disease:其他病症"], "advice": "高脂血症患者若有急性肺栓塞或肺梗死，应遵从医生建议选择适当运动类型及强度。", "category": "治疗与康复", "page_num": 14}
+{"match_tokens": ["disease:其他病症"], "advice": "高脂血症患者若有急性甲状腺功能亢进，应遵从医生建议选择适当运动类型及强度。", "category": "治疗与康复", "page_num": 14}
+{"match_tokens": ["disease:其他病症"], "advice": "高脂血症患者若有急性心肌炎或心包炎，应遵从医生建议选择适当运动类型及强度。", "category": "治疗与康复", "page_num": 14}
+{"match_tokens": ["disease:其他病症"], "advice": "高脂血症患者若有急性血栓性静脉炎，应遵从医生建议选择适当运动类型及强度。", "category": "治疗与康复", "page_num": 14}
+{"match_tokens": ["disease:其他病症"], "advice": "高脂血症患者若有其他妨碍安全和运动锻炼的残疾，应遵从医生建议选择适当运动类型及强度。", "category": "治疗与康复", "page_num": 14}
+{"match_tokens": ["disease:其他病症"], "advice": "高脂血症患者若有电解质异常，应遵从医生建议选择适当运动类型及强度。", "category": "治疗与康复", "page_num": 14}
+{"match_tokens": ["disease:其他病症"], "advice": "高脂血症患者若有梗阻性肥厚型心脏病且静息最大左心室流出道压差>25mmHg，应遵从医生建议选择适当运动类型及强度。", "category": "治疗与康复", "page_num": 14}
+{"match_tokens": ["disease:其他病症"], "advice": "高脂血症患者若有主动脉夹层，应遵从医生建议选择适当运动类型及强度。", "category": "治疗与康复", "page_num": 14}

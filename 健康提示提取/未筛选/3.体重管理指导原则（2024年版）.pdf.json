@@ -1,0 +1,558 @@
+{
+  "source_file": "3.体重管理指导原则（2024年版）.pdf",
+  "saved_at": "2026-04-20T16:17:06",
+  "total": 61,
+  "suggestions": [
+    {
+      "match_tokens": [
+        "age:成人",
+        "bmi:正常"
+      ],
+      "advice": "保持体质指数（BMI）在18.5kg/m2至24.0kg/m2的正常范围内。",
+      "category": "健康生活方式",
+      "page_num": 2
+    },
+    {
+      "match_tokens": [
+        "age:成人",
+        "bmi:体重过低"
+      ],
+      "advice": "若体质指数（BMI）低于18.5kg/m2，属于体重过低，需关注体重管理。",
+      "category": "健康生活方式",
+      "page_num": 2
+    },
+    {
+      "match_tokens": [
+        "age:成人",
+        "bmi:超重"
+      ],
+      "advice": "若体质指数（BMI）在24.0kg/m2至28.0kg/m2之间，属于超重，需关注体重管理。",
+      "category": "健康生活方式",
+      "page_num": 2
+    },
+    {
+      "match_tokens": [
+        "age:成人",
+        "bmi:肥胖"
+      ],
+      "advice": "若体质指数（BMI）达到或超过28.0kg/m2，属于肥胖，需关注体重管理。",
+      "category": "健康生活方式",
+      "page_num": 2
+    },
+    {
+      "match_tokens": [
+        "age:小孩",
+        "bmi:超重"
+      ],
+      "advice": "7~18岁儿童青少年，应根据性别年龄别BMI筛查超重，需关注体重管理。",
+      "category": "健康生活方式",
+      "page_num": 2
+    },
+    {
+      "match_tokens": [
+        "age:小孩",
+        "bmi:肥胖"
+      ],
+      "advice": "7~18岁儿童青少年，应根据性别年龄别BMI筛查肥胖，需关注体重管理。",
+      "category": "健康生活方式",
+      "page_num": 2
+    },
+    {
+      "match_tokens": [
+        "age:老年人"
+      ],
+      "advice": "对于80岁以上高龄老人，建议将体质指数（BMI）保持在22.0至26.9kg/m2的适宜范围内。",
+      "category": "健康生活方式",
+      "page_num": 2
+    },
+    {
+      "match_tokens": [
+        "bmi:超重",
+        "bmi:肥胖"
+      ],
+      "advice": "设立每周减轻体重约0.5~1kg，每月减轻2~4kg的目标，6个月内减轻当前体重的5%~15%并维持。",
+      "category": "治疗与康复",
+      "page_num": 5
+    },
+    {
+      "match_tokens": [
+        "bmi:肥胖"
+      ],
+      "advice": "对于中、重度肥胖者，建议设立周、月目标，定期评估，按减轻现体重的5%、10%、15%划分阶段性减重目标，周期为3至6个月。",
+      "category": "治疗与康复",
+      "page_num": 5
+    },
+    {
+      "match_tokens": [
+        "bmi:超重",
+        "bmi:肥胖"
+      ],
+      "advice": "采用限制能量饮食，每日减少500~1000千卡或减少30%总能量摄入，同时保持碳水化合物、脂肪、蛋白质的均衡摄入。",
+      "category": "健康生活方式",
+      "page_num": 5
+    },
+    {
+      "match_tokens": [
+        "bmi:超重",
+        "bmi:肥胖"
+      ],
+      "advice": "采用高蛋白饮食，使每日蛋白质供能比超过每日总能量的20%、但一般不超过每日总能量的30%，以增加饱腹感、减轻饥饿感。",
+      "category": "健康生活方式",
+      "page_num": 6
+    },
+    {
+      "match_tokens": [
+        "bmi:超重",
+        "bmi:肥胖"
+      ],
+      "advice": "采用短期低碳水化合物饮食干预，严格限制碳水化合物摄入（供能比≤40%），脂肪供能比≥30%，蛋白质摄入量相对增加。",
+      "category": "健康生活方式",
+      "page_num": 6
+    },
+    {
+      "match_tokens": [
+        "age:成人",
+        "bmi:超重",
+        "bmi:肥胖"
+      ],
+      "advice": "使用代餐食品减重，每日替代一餐或两餐加工配制控能食品。",
+      "category": "健康生活方式",
+      "page_num": 6
+    },
+    {
+      "match_tokens": [
+        "bmi:超重",
+        "bmi:肥胖"
+      ],
+      "advice": "应以减脂为主要目标、维持瘦体重为次要目标进行运动，推荐长时间中低强度有氧运动，通常需要每日进行一次或两次运动。",
+      "category": "健康生活方式",
+      "page_num": 7
+    },
+    {
+      "match_tokens": [
+        "population:一般人群"
+      ],
+      "advice": "进行有氧运动干预时，建议由小运动量开始，逐渐达到30分钟/天的中等至较大强度。",
+      "category": "健康生活方式",
+      "page_num": 7
+    },
+    {
+      "match_tokens": [
+        "population:一般人群"
+      ],
+      "advice": "对于运动依从性较差的个体，可以通过累计多次、每次不少于10分钟的连续运动达到总的运动量。",
+      "category": "健康生活方式",
+      "page_num": 7
+    },
+    {
+      "match_tokens": [
+        "population:一般人群"
+      ],
+      "advice": "为了实现长期控制体重的效果，建议应逐渐达到至少250分钟/周中等至较大强度运动，且将运动分在每周的5~7天内进行。",
+      "category": "健康生活方式",
+      "page_num": 7
+    },
+    {
+      "match_tokens": [
+        "population:高危人群"
+      ],
+      "advice": "对存在运动风险的人群应适当降低运动强度、缩短每次运动时长、增加运动频率，必要时在专业人员指导下制订个体化运动方案。",
+      "category": "治疗与康复",
+      "page_num": 7
+    },
+    {
+      "match_tokens": [
+        "age:成人",
+        "bmi:肥胖",
+        "disease:肥胖症"
+      ],
+      "advice": "对于BMI≥28kg/m2且经过3~6个月的生活方式干预仍不能减重5%的成人患者，可以考虑在综合生活方式干预的基础上加用药物治疗。",
+      "category": "治疗与康复",
+      "page_num": 8
+    },
+    {
+      "match_tokens": [
+        "age:成人",
+        "bmi:超重",
+        "disease:高血压"
+      ],
+      "advice": "对于BMI≥24kg/m2且合并高血压的成人患者，可以考虑在综合生活方式干预的基础上加用药物治疗。",
+      "category": "治疗与康复",
+      "page_num": 8
+    },
+    {
+      "match_tokens": [
+        "disease:肥胖症",
+        "bmi:肥胖"
+      ],
+      "advice": "对于BMI≥32.5kg/m2或27.5kg/m2≤BMI<32.5kg/m2且存在肥胖相关并发症的成年人，经生活方式和内科治疗无效后，可考虑手术治疗。",
+      "category": "治疗与康复",
+      "page_num": 9
+    },
+    {
+      "match_tokens": [
+        "disease:肥胖症"
+      ],
+      "advice": "定期定时称重，跟踪体重变化，记录每日的饮食和身体活动，及时发现问题并调整。",
+      "category": "健康生活方式",
+      "page_num": 9
+    },
+    {
+      "match_tokens": [
+        "age:成人",
+        "bmi:正常"
+      ],
+      "advice": "三餐的食物能量分配及间隔时间要合理，一般早、晚餐各占30%，午餐占40%。",
+      "category": "健康生活方式",
+      "page_num": 10
+    },
+    {
+      "match_tokens": [
+        "age:成人",
+        "bmi:任何"
+      ],
+      "advice": "每周至少150分钟中等强度有氧运动及2~3次抗阻训练。",
+      "category": "健康生活方式",
+      "page_num": 10
+    },
+    {
+      "match_tokens": [
+        "age:小孩",
+        "risk:缺乏运动"
+      ],
+      "advice": "1岁以内鼓励自由活动，1~5岁儿童每日至少进行180分钟的多样化身体活动，以户外为主。",
+      "category": "健康生活方式",
+      "page_num": 11
+    },
+    {
+      "match_tokens": [
+        "age:小孩",
+        "bmi:超重",
+        "bmi:肥胖"
+      ],
+      "advice": "超重肥胖儿童应根据个体情况增加运动量。3~5岁儿童确保每日至少进行60分钟中等以上强度身体活动（包括30分钟指导下的运动）。",
+      "category": "健康生活方式",
+      "page_num": 11
+    },
+    {
+      "match_tokens": [
+        "age:小孩"
+      ],
+      "advice": "2岁以下避免电子产品，2~5岁每日使用电子产品时间少于1小时。",
+      "category": "健康生活方式",
+      "page_num": 11
+    },
+    {
+      "match_tokens": [
+        "age:小孩",
+        "risk:缺乏运动"
+      ],
+      "advice": "建议校内和校外每日至少累计达到60分钟中等至较高强度的运动。",
+      "category": "健康生活方式",
+      "page_num": 12
+    },
+    {
+      "match_tokens": [
+        "age:小孩",
+        "risk:缺乏运动"
+      ],
+      "advice": "减少久坐，每日使用电子产品时间限制在2小时内。",
+      "category": "健康生活方式",
+      "page_num": 12
+    },
+    {
+      "match_tokens": [
+        "age:小孩",
+        "symptom:失眠"
+      ],
+      "advice": "确保早睡，避免睡前使用电子产品。建议6~12岁每日睡眠时间9~12小时；13~17岁青少年每日保持8~10小时睡眠。维持规律的睡眠－觉醒作息时间。",
+      "category": "健康生活方式",
+      "page_num": 12
+    },
+    {
+      "match_tokens": [
+        "population:孕妇",
+        "bmi:正常"
+      ],
+      "advice": "建议孕前女性将BMI调整至18.5~23.9kg/m²。",
+      "category": "健康生活方式",
+      "page_num": 12
+    },
+    {
+      "match_tokens": [
+        "population:孕妇",
+        "bmi:超重",
+        "bmi:肥胖"
+      ],
+      "advice": "超重肥胖者应结合饮食调整，每周至少进行150分钟中等强度有氧运动及2~3次抗阻运动。",
+      "category": "健康生活方式",
+      "page_num": 12
+    },
+    {
+      "match_tokens": [
+        "population:孕妇"
+      ],
+      "advice": "妊娠早期保持孕前能量需求，中期每日增加300千卡，晚期每日增加450千卡。",
+      "category": "健康生活方式",
+      "page_num": 12
+    },
+    {
+      "match_tokens": [
+        "population:孕妇"
+      ],
+      "advice": "推荐适度孕期运动，每周进行150分钟包括有氧和阻抗的中等强度运动。根据个体情况循序渐进，避免有身体接触、增加摔倒风险和胎儿伤害的运动。",
+      "category": "健康生活方式",
+      "page_num": 12
+    },
+    {
+      "match_tokens": [
+        "population:产后"
+      ],
+      "advice": "母乳喂养者在相应年龄阶段的成年女性能量需要量基础上，每日增加400千卡。",
+      "category": "健康生活方式",
+      "page_num": 13
+    },
+    {
+      "match_tokens": [
+        "age:老年人"
+      ],
+      "advice": "建议每日保持7小时睡眠，午睡时长控制在1小时以内。",
+      "category": "健康生活方式",
+      "page_num": 14
+    },
+    {
+      "match_tokens": [
+        "bmi:体重过低"
+      ],
+      "advice": "保证每日三餐能量充足，调整膳食结构，增加高能量、高蛋白、高营养密度的食物摄入，如坚果、肉类、全脂奶制品等。",
+      "category": "治疗与康复",
+      "page_num": 14
+    },
+    {
+      "match_tokens": [
+        "age:成人"
+      ],
+      "advice": "根据体质指数（BMI）判定体重类别：体重过低（<18.5）、体重正常（18.5～23.9）、超重（24.0～27.9）、肥胖（≥28.0）。",
+      "category": "健康生活方式",
+      "page_num": 16
+    },
+    {
+      "match_tokens": [
+        "age:成人",
+        "sex:男",
+        "bmi:肥胖"
+      ],
+      "advice": "测量腰围，若腰围≥90cm，则为中心型肥胖。",
+      "category": "健康生活方式",
+      "page_num": 17
+    },
+    {
+      "match_tokens": [
+        "age:成人",
+        "sex:女",
+        "bmi:肥胖"
+      ],
+      "advice": "测量腰围，若腰围≥85cm，则为中心型肥胖。",
+      "category": "健康生活方式",
+      "page_num": 17
+    },
+    {
+      "match_tokens": [
+        "age:成人",
+        "sex:男",
+        "bmi:超重"
+      ],
+      "advice": "测量腰围，若85cm≤腰围<90cm，则为中心型肥胖前期。",
+      "category": "健康生活方式",
+      "page_num": 17
+    },
+    {
+      "match_tokens": [
+        "age:成人",
+        "sex:女",
+        "bmi:超重"
+      ],
+      "advice": "测量腰围，若80cm≤腰围<85cm，则为中心型肥胖前期。",
+      "category": "健康生活方式",
+      "page_num": 17
+    },
+    {
+      "match_tokens": [
+        "age:小孩"
+      ],
+      "advice": "根据年龄别BMI标准，当BMI≥+3 SD时，判定为重度肥胖；当+2 SD≤BMI<+3 SD时，判定为肥胖；当+1 SD≤BMI<+2 SD时，判定为超重；当-3 SD≤BMI<-2 SD时，判定为消瘦；当BMI<-3 SD时，判定为重度消瘦。",
+      "category": "健康生活方式",
+      "page_num": 20
+    },
+    {
+      "match_tokens": [
+        "age:小孩",
+        "sex:男",
+        "population:学生"
+      ],
+      "advice": "7岁男孩应参照BMI筛查表，若BMI达到或超过18.7 kg/m²则为超重，达到或超过18.7 kg/m²则为肥胖。",
+      "category": "健康生活方式",
+      "page_num": 23
+    },
+    {
+      "match_tokens": [
+        "age:小孩",
+        "sex:女",
+        "population:学生"
+      ],
+      "advice": "7岁女孩应参照BMI筛查表，若BMI达到或超过18.5 kg/m²则为超重，达到或超过18.5 kg/m²则为肥胖。",
+      "category": "健康生活方式",
+      "page_num": 23
+    },
+    {
+      "match_tokens": [
+        "population:孕妇",
+        "bmi:体重过低"
+      ],
+      "advice": "妊娠期体重总增长值范围为11.0~16.0千克，妊娠中、晚期每周体重增长推荐值为0.46千克（范围0.37~0.56千克）。",
+      "category": "健康生活方式",
+      "page_num": 24
+    },
+    {
+      "match_tokens": [
+        "population:孕妇",
+        "bmi:正常"
+      ],
+      "advice": "妊娠期体重总增长值范围为8.0~14.0千克，妊娠中、晚期每周体重增长推荐值为0.37千克（范围0.26~0.48千克）。",
+      "category": "健康生活方式",
+      "page_num": 24
+    },
+    {
+      "match_tokens": [
+        "population:孕妇",
+        "bmi:超重"
+      ],
+      "advice": "妊娠期体重总增长值范围为7.0~11.0千克，妊娠中、晚期每周体重增长推荐值为0.30千克（范围0.22~0.37千克）。",
+      "category": "健康生活方式",
+      "page_num": 24
+    },
+    {
+      "match_tokens": [
+        "population:孕妇",
+        "bmi:肥胖"
+      ],
+      "advice": "妊娠期体重总增长值范围为5.0~9.0千克，妊娠中、晚期每周体重增长推荐值为0.22千克（范围0.15~0.30千克）。",
+      "category": "健康生活方式",
+      "page_num": 24
+    },
+    {
+      "match_tokens": [
+        "bmi:肥胖"
+      ],
+      "advice": "建议根据个体体能基础，以低－中强度有氧运动开始，逐渐增加身体活动量（频率、强度、持续时间），每周至少进行150分钟中等强度运动，逐渐达到250分钟/周中等至较大强度运动。",
+      "category": "健康生活方式",
+      "page_num": 26
+    },
+    {
+      "match_tokens": [
+        "bmi:肥胖"
+      ],
+      "advice": "建议根据个体体能基础，从低强度有氧运动开始，循序渐进地增加身体活动量（频率、强度、持续时间）。初始阶段应避免剧烈运动，在有监督的环境下开始低强度有氧运动，最佳强度为最大脂肪氧化强度运动，持续训练时间从30分钟开始，逐渐增加至60~120分钟。",
+      "category": "健康生活方式",
+      "page_num": 26
+    },
+    {
+      "match_tokens": [
+        "bmi:肥胖"
+      ],
+      "advice": "建议重量选取为该肌群一次最大重量（1RM）的65%~85%，每组练习重复次数6~12次，重复3~5组，组间间歇休息2分钟；每次持续运动60分钟；每周至少3次；每个肌肉群每周可训练1~2次（后续可增至3次），同一肌肉群训练间隔在48小时以上。",
+      "category": "健康生活方式",
+      "page_num": 26
+    },
+    {
+      "match_tokens": [
+        "age:成人",
+        "bmi:超重",
+        "bmi:肥胖"
+      ],
+      "advice": "每周进行不少于5天的有氧运动，每天30分钟，累计每周150分钟；可逐渐增加至每天60分钟或每周不少于250至300分钟。",
+      "category": "健康生活方式",
+      "page_num": 27
+    },
+    {
+      "match_tokens": [
+        "age:成人",
+        "bmi:超重",
+        "bmi:肥胖"
+      ],
+      "advice": "进行有氧运动时，以中等强度（如40%~50%VO2R或HRR）起始，逐渐递增至较大强度（≥60%VO2R或HRR）。",
+      "category": "健康生活方式",
+      "page_num": 27
+    },
+    {
+      "match_tokens": [
+        "age:成人",
+        "bmi:超重",
+        "bmi:肥胖"
+      ],
+      "advice": "每周进行2至3天的抗阻运动。",
+      "category": "健康生活方式",
+      "page_num": 27
+    },
+    {
+      "match_tokens": [
+        "age:成人",
+        "bmi:超重",
+        "bmi:肥胖"
+      ],
+      "advice": "进行抗阻运动时，使用60%~70%1RM的强度，可逐渐递增以增加肌力和肌肉量。",
+      "category": "健康生活方式",
+      "page_num": 27
+    },
+    {
+      "match_tokens": [
+        "age:成人",
+        "bmi:超重",
+        "bmi:肥胖"
+      ],
+      "advice": "每个主要肌群进行2至4组，每组重复8至12次的抗阻练习。",
+      "category": "健康生活方式",
+      "page_num": 27
+    },
+    {
+      "match_tokens": [
+        "age:成人",
+        "bmi:超重",
+        "bmi:肥胖"
+      ],
+      "advice": "每周进行不少于2至3天的柔韧性练习。",
+      "category": "健康生活方式",
+      "page_num": 27
+    },
+    {
+      "match_tokens": [
+        "age:成人",
+        "bmi:超重",
+        "bmi:肥胖"
+      ],
+      "advice": "每个柔韧性练习动作静态拉伸10至30秒，重复2至4次。",
+      "category": "健康生活方式",
+      "page_num": 27
+    },
+    {
+      "match_tokens": [
+        "age:老年人",
+        "bmi:超重",
+        "bmi:肥胖"
+      ],
+      "advice": "老年人进行抗阻运动时，以40%~50%1RM为起始强度提高力量。",
+      "category": "健康生活方式",
+      "page_num": 27
+    },
+    {
+      "match_tokens": [
+        "population:学生",
+        "bmi:超重",
+        "bmi:肥胖"
+      ],
+      "advice": "严控限量食物和不宜食物，同时减少总能量的1/3~1/2，增加蔬菜类食物，改进烹调方式。",
+      "category": "健康生活方式",
+      "page_num": 29
+    }
+  ]
+}

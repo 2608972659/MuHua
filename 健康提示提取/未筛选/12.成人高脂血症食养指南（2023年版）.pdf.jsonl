@@ -1,0 +1,261 @@
+{"match_tokens": ["age:成人", "disease:其他病症"], "advice": "遵循成人高脂血症食养指南（2023年版）进行饮食管理。", "category": "健康生活方式", "page_num": 1}
+{"match_tokens": ["age:成人", "disease:其他病症"], "advice": "吃动平衡，保持健康体重。", "category": "健康生活方式", "page_num": 2}
+{"match_tokens": ["age:成人", "disease:其他病症"], "advice": "调控脂肪，少油烹饪。", "category": "健康生活方式", "page_num": 2}
+{"match_tokens": ["age:成人", "disease:其他病症"], "advice": "食物多样，蛋白质和膳食纤维摄入充足。", "category": "健康生活方式", "page_num": 2}
+{"match_tokens": ["age:成人", "disease:其他病症"], "advice": "少盐控糖，戒烟限酒。", "category": "健康生活方式", "page_num": 2}
+{"match_tokens": ["age:成人", "disease:其他病症"], "advice": "因人制宜，辨证施膳。", "category": "健康生活方式", "page_num": 2}
+{"match_tokens": ["age:成人", "disease:其他病症"], "advice": "因时制宜，分季调理。", "category": "健康生活方式", "page_num": 2}
+{"match_tokens": ["age:成人", "disease:其他病症"], "advice": "因地制宜，合理搭配。", "category": "健康生活方式", "page_num": 2}
+{"match_tokens": ["age:成人", "disease:其他病症"], "advice": "会看慧选，科学食养，适量食用食药物质。", "category": "健康生活方式", "page_num": 2}
+{"match_tokens": ["age:成人", "disease:高血压", "disease:糖尿病", "disease:脑血管病", "risk:高盐饮食"], "advice": "通过调节血脂、血压或血糖水平等危险因素，影响动脉粥样硬化的发生，从而预防高脂血症引起的心血管疾病。", "category": "健康生活方式", "page_num": 3}
+{"match_tokens": ["age:成人", "disease:高血压", "disease:糖尿病", "disease:脑血管病", "risk:高盐饮食"], "advice": "根据体质、病因、证候给予不同食养方案，在调和气血、平衡人体营养、辅助预防疾病上效果显著。", "category": "健康生活方式", "page_num": 3}
+{"match_tokens": ["age:成人", "disease:高血压", "disease:糖尿病", "disease:脑血管病", "risk:高盐饮食"], "advice": "针对不同体质高脂血症人群，选取不同特性的食物或食药物质食用，可有效改善患者血脂水平。", "category": "治疗与康复", "page_num": 3}
+{"match_tokens": ["disease:其他病症", "population:老年人"], "advice": "根据患者具体情况，在医师或营养指导人员等专业人员的指导下设计个性化食养方案。", "category": "治疗与康复", "page_num": 4}
+{"match_tokens": ["disease:其他病症"], "advice": "有其他合并症的高脂血症人群，可参考（但不拘泥于）本指南制定食养方案。", "category": "治疗与康复", "page_num": 4}
+{"match_tokens": ["disease:其他病症"], "advice": "饮食有节，避免嗜食油腻甘甜、醇酒厚味。", "category": "健康生活方式", "page_num": 5}
+{"match_tokens": ["disease:其他病症"], "advice": "避免情志失调，保持情绪稳定。", "category": "健康生活方式", "page_num": 5}
+{"match_tokens": ["disease:其他病症"], "advice": "避免过逸少劳，进行适度的体力活动。", "category": "健康生活方式", "page_num": 5}
+{"match_tokens": ["disease:其他病症"], "advice": "在满足每日必需营养需要的基础上，通过改善膳食结构，控制能量摄入，维持健康体重，减少体脂含量。", "category": "健康生活方式", "page_num": 6}
+{"match_tokens": ["bmi:超重", "bmi:肥胖"], "advice": "通过控制能量摄入以减重，每天可减少300～500kcal的能量摄入。", "category": "健康生活方式", "page_num": 6}
+{"match_tokens": ["bmi:正常"], "advice": "保持能量摄入和消耗平衡，预防超重和肥胖。", "category": "健康生活方式", "page_num": 7}
+{"match_tokens": ["bmi:超重", "bmi:肥胖"], "advice": "通过改善膳食结构和增加运动，实现能量摄入小于能量消耗，使体重减少10%以上。", "category": "健康生活方式", "page_num": 7}
+{"match_tokens": ["disease:其他病症", "symptom:高脂血症"], "advice": "每周进行5～7次体育锻炼或身体活动，每次30分钟中等及以上强度身体运动，如快走、跑步、游泳、爬山和球类运动等，每天锻炼至少消耗200kcal。", "category": "健康生活方式", "page_num": 7}
+{"match_tokens": ["disease:脑血管病"], "advice": "应先进行运动负荷试验，充分评估其安全性后，再进行身体活动。运动强度宜循序渐进、量力而行，以运动后第2天感觉精力充沛、无不适感为宜。", "category": "治疗与康复", "page_num": 7}
+{"match_tokens": ["disease:其他病症", "symptom:高脂血症"], "advice": "限制总脂肪、饱和脂肪、胆固醇和反式脂肪酸的摄入。脂肪摄入量以占总能量20%～25%为宜。", "category": "健康生活方式", "page_num": 7}
+{"match_tokens": ["disease:其他病症", "symptom:高甘油三酯血症"], "advice": "尽可能减少每日脂肪摄入总量。", "category": "健康生活方式", "page_num": 7}
+{"match_tokens": ["age:成人"], "advice": "以每日能量摄入1800～2000kcal为例，全天各种食物来源的脂肪摄入量应在40～55g之间，每日烹调油应不超过25g。", "category": "健康生活方式", "page_num": 7}
+{"match_tokens": ["disease:其他病症", "symptom:高脂血症"], "advice": "饱和脂肪摄入量应少于总能量的10%。", "category": "健康生活方式", "page_num": 7}
+{"match_tokens": ["disease:其他病症", "symptom:高胆固醇血症"], "advice": "饱和脂肪摄入量应低于总能量的7%。", "category": "健康生活方式", "page_num": 7}
+{"match_tokens": ["disease:其他病症", "symptom:高脂血症"], "advice": "胆固醇每日摄入量应少于300mg，少吃富含胆固醇的食物，如动物脑和动物内脏等。", "category": "健康生活方式", "page_num": 7}
+{"match_tokens": ["disease:其他病症", "symptom:高胆固醇血症"], "advice": "每日胆固醇摄入量应少于200mg。", "category": "健康生活方式", "page_num": 7}
+{"match_tokens": ["disease:其他病症", "symptom:高脂血症"], "advice": "反式脂肪酸摄入量应低于总能量的1%，即每天不宜超过2g，减少或避免食用部分含反式脂肪酸的食物。", "category": "健康生活方式", "page_num": 7}
+{"match_tokens": ["disease:高血压", "risk:高盐饮食"], "advice": "少盐控糖，戒烟限酒。", "category": "健康生活方式", "page_num": 8}
+{"match_tokens": ["disease:高血压", "risk:饮酒"], "advice": "少盐控糖，戒烟限酒。", "category": "健康生活方式", "page_num": 8}
+{"match_tokens": ["disease:高血压", "risk:吸烟"], "advice": "少盐控糖，戒烟限酒。", "category": "健康生活方式", "page_num": 8}
+{"match_tokens": ["disease:糖尿病", "risk:高盐饮食"], "advice": "少盐控糖，戒烟限酒。", "category": "健康生活方式", "page_num": 8}
+{"match_tokens": ["disease:糖尿病", "risk:饮酒"], "advice": "少盐控糖，戒烟限酒。", "category": "健康生活方式", "page_num": 8}
+{"match_tokens": ["disease:糖尿病", "risk:吸烟"], "advice": "少盐控糖，戒烟限酒。", "category": "健康生活方式", "page_num": 8}
+{"match_tokens": ["disease:脑血管病", "risk:高盐饮食"], "advice": "少盐控糖，戒烟限酒。", "category": "健康生活方式", "page_num": 8}
+{"match_tokens": ["disease:脑血管病", "risk:饮酒"], "advice": "少盐控糖，戒烟限酒。", "category": "健康生活方式", "page_num": 8}
+{"match_tokens": ["disease:脑血管病", "risk:吸烟"], "advice": "少盐控糖，戒烟限酒。", "category": "健康生活方式", "page_num": 8}
+{"match_tokens": ["disease:慢阻肺", "risk:吸烟"], "advice": "少盐控糖，戒烟限酒。", "category": "健康生活方式", "page_num": 8}
+{"match_tokens": ["disease:慢阻肺", "risk:饮酒"], "advice": "少盐控糖，戒烟限酒。", "category": "健康生活方式", "page_num": 8}
+{"match_tokens": ["disease:慢阻肺", "risk:高盐饮食"], "advice": "少盐控糖，戒烟限酒。", "category": "健康生活方式", "page_num": 8}
+{"match_tokens": ["disease:肥胖症", "risk:高盐饮食"], "advice": "少盐控糖，戒烟限酒。", "category": "健康生活方式", "page_num": 8}
+{"match_tokens": ["disease:肥胖症", "risk:饮酒"], "advice": "少盐控糖，戒烟限酒。", "category": "健康生活方式", "page_num": 8}
+{"match_tokens": ["disease:肥胖症", "risk:吸烟"], "advice": "少盐控糖，戒烟限酒。", "category": "健康生活方式", "page_num": 8}
+{"match_tokens": ["disease:无特定疾病", "risk:高盐饮食"], "advice": "少盐控糖，戒烟限酒。", "category": "健康生活方式", "page_num": 8}
+{"match_tokens": ["disease:无特定疾病", "risk:饮酒"], "advice": "少盐控糖，戒烟限酒。", "category": "健康生活方式", "page_num": 8}
+{"match_tokens": ["disease:无特定疾病", "risk:吸烟"], "advice": "少盐控糖，戒烟限酒。", "category": "健康生活方式", "page_num": 8}
+{"match_tokens": ["disease:高血压", "disease:糖尿病", "disease:脑血管病"], "advice": "要将血脂、血压、血糖控制在理想水平。", "category": "治疗与康复", "page_num": 9}
+{"match_tokens": ["disease:高血压", "disease:糖尿病", "disease:脑血管病"], "advice": "培养清淡口味，食盐用量每日不宜超过5g。", "category": "健康生活方式", "page_num": 9}
+{"match_tokens": ["disease:高血压", "disease:糖尿病", "disease:脑血管病"], "advice": "少吃酱油、鸡精、味精、咸菜、咸肉、酱菜等高盐食品。", "category": "健康生活方式", "page_num": 9}
+{"match_tokens": ["disease:高血压", "disease:糖尿病", "disease:脑血管病"], "advice": "限制单糖和双糖的摄入，少吃甜食，添加糖摄入不应超过总能量的10%。", "category": "健康生活方式", "page_num": 9}
+{"match_tokens": ["bmi:肥胖"], "advice": "添加糖摄入应更低。", "category": "健康生活方式", "page_num": 9}
+{"match_tokens": ["disease:高血压", "disease:糖尿病", "disease:脑血管病"], "advice": "生活作息应规律，保持乐观、愉快的情绪，劳逸结合，睡眠充足，戒烟限酒，培养健康生活习惯。", "category": "健康生活方式", "page_num": 9}
+{"match_tokens": ["risk:吸烟"], "advice": "完全戒烟和有效避免吸入二手烟。", "category": "健康生活方式", "page_num": 9}
+{"match_tokens": ["risk:饮酒"], "advice": "提倡限制饮酒。", "category": "健康生活方式", "page_num": 9}
+{"match_tokens": ["disease:高脂血症"], "advice": "饮食不可过烫、过凉，要做到寒温适中，规律进食，勿饥饱不均。", "category": "健康生活方式", "page_num": 10}
+{"match_tokens": ["disease:高脂血症"], "advice": "长期过量食用油腻和甘甜的食物能够使人产生内热、胸腹胀满，导致肥胖，引发各种疾病，高脂血症人群尤应注意。", "category": "健康生活方式", "page_num": 10}
+{"match_tokens": ["disease:高脂血症"], "advice": "春季膳食应当以护阳保肝为主，多食时令蔬菜（如芹菜、芦笋等），可适当食用具有疏肝理气、养肝清肝作用的食药物质，如佛手、生麦芽、菊花等。注意忌过食寒凉、黏滞、肥腻之物。", "category": "健康生活方式", "page_num": 10}
+{"match_tokens": ["disease:高脂血症"], "advice": "初夏膳食当以益气清心为主。可适当食用鸭肉、鱼类、兔肉、小麦、绿豆、豆腐及时令蔬菜瓜果。", "category": "健康生活方式", "page_num": 10}
+{"match_tokens": ["disease:高脂血症"], "advice": "长夏膳食应以清利湿热、健运脾胃为主。所食之物应清淡，少油腻，要以温食为主。适当食用健脾化湿作用的食药物质，如橘皮、薏苡仁、白扁豆、赤小豆、莱菔子等。", "category": "健康生活方式", "page_num": 10}
+{"match_tokens": ["disease:高脂血症"], "advice": "秋季膳食当以滋阴润肺为主，可适当食用具有滋阴作用的食药物质，如桑椹、黑芝麻、乌梅、百合等。秋燥易伤津耗液，故秋天应少吃辛辣、煎炸、油腻及热性食物。", "category": "健康生活方式", "page_num": 10}
+{"match_tokens": ["disease:高脂血症"], "advice": "冬季食养重在散寒邪，补肾阳，可适当食用羊肉等性质偏温的食物，以及具有滋阴作用的食药物质。", "category": "健康生活方式", "page_num": 10}
+{"match_tokens": ["disease:高脂血症", "population:北方地区居民"], "advice": "多食新鲜蔬果、鱼虾类、奶类、豆类，控制油、盐摄入量，减少腌制蔬菜的摄入。", "category": "健康生活方式", "page_num": 11}
+{"match_tokens": ["disease:高脂血症", "population:北方地区居民"], "advice": "可适当食用具有祛湿、化痰的食药物质，如橘皮、薏苡仁、白扁豆、赤小豆、莱菔子、山楂、桃仁、沙棘等。", "category": "健康生活方式", "page_num": 11}
+{"match_tokens": ["disease:高脂血症", "population:南方地区居民"], "advice": "控制油、盐摄入量，适量增加粗粮摄入，如紫薯、玉米、黑米、大麦、青稞等。", "category": "健康生活方式", "page_num": 11}
+{"match_tokens": ["disease:高脂血症", "population:南方地区居民"], "advice": "可适当食用具有祛湿化痰、益气健脾作用的食药物质，如人参、白扁豆、薏苡仁、山药、大枣、麦芽、茯苓等。", "category": "健康生活方式", "page_num": 11}
+{"match_tokens": ["disease:高脂血症", "population:西北地区居民"], "advice": "在蛋白质摄入充足的条件下，适当减少牛羊肉的食用（可由去皮禽肉、鱼、虾、蛋等代替）。", "category": "健康生活方式", "page_num": 11}
+{"match_tokens": ["disease:高脂血症", "population:西北地区居民"], "advice": "多食蔬菜和水果。", "category": "健康生活方式", "page_num": 11}
+{"match_tokens": ["age:老年人"], "advice": "冬天应忌食生冷之物，以防阳伤而生寒。", "category": "健康生活方式", "page_num": 11}
+{"match_tokens": ["age:老年人"], "advice": "可适当食用具有滋阴补肾作用的食药物质，如枸杞子、黄精、山茱萸等。", "category": "健康生活方式", "page_num": 11}
+{"match_tokens": ["disease:高脂血症"], "advice": "可适当食用具有滋养肝肾阴津作用的食药物质，如枸杞子、桑椹、菊花、黑芝麻、百合、乌梅、决明子等。", "category": "健康生活方式", "page_num": 12}
+{"match_tokens": ["disease:高脂血症", "population:青藏地区居民"], "advice": "建议多食用去皮禽肉、鱼等动物蛋白，并补充优质的植物蛋白，如大豆蛋白等，同时增加蔬菜水果的摄入。", "category": "健康生活方式", "page_num": 12}
+{"match_tokens": ["disease:高脂血症"], "advice": "可通过看营养标签选择脂肪含量低的食品，同时了解食品中能量和相关营养成分的含量，包括碳水化合物、蛋白质、膳食纤维以及钠等，做到科学合理选择。", "category": "健康生活方式", "page_num": 12}
+{"match_tokens": ["disease:高脂血症"], "advice": "可适当多吃富含植物甾醇、多糖等植物化学物的食物，如大豆、洋葱、香菇以及深色蔬果等，每日可摄入2g左右植物甾醇。", "category": "健康生活方式", "page_num": 12}
+{"match_tokens": ["disease:高脂血症"], "advice": "适量食用能调节血脂水平的食药物质，可以起到辅助降低血脂的作用。", "category": "健康生活方式", "page_num": 12}
+{"match_tokens": ["disease:高脂血症"], "advice": "已知对某种食药物质过敏者，正在服用某些药物与食药物质有禁忌时，应在医师、执业药师及营养指导人员等专业人员指导下使用。", "category": "治疗与康复", "page_num": 12}
+{"match_tokens": ["age:成人", "disease:其他病症"], "advice": "选择糙米、全麦面粉、玉米、青稞、荞麦、黄米、燕麦、小米、高粱、藜麦、红薯、紫薯等谷薯类食物。", "category": "健康生活方式", "page_num": 13}
+{"match_tokens": ["age:成人", "disease:其他病症"], "advice": "减少或限制黄油面包、糕点等高能量加工食品，以及油条、油饼等油煎油炸食品。", "category": "健康生活方式", "page_num": 13}
+{"match_tokens": ["age:成人", "disease:其他病症"], "advice": "选择鱼虾类、瘦肉、去皮禽肉等肉类。", "category": "健康生活方式", "page_num": 13}
+{"match_tokens": ["age:成人", "disease:其他病症"], "advice": "减少或限制肥肉、加工肉制品、咸肉、鱼籽、蟹黄、鱿鱼、动物内脏等肉类。", "category": "健康生活方式", "page_num": 13}
+{"match_tokens": ["age:成人", "disease:其他病症"], "advice": "选择鸡蛋、鸭蛋等蛋类。", "category": "健康生活方式", "page_num": 13}
+{"match_tokens": ["age:成人", "disease:其他病症"], "advice": "减少或限制咸蛋等蛋类。", "category": "健康生活方式", "page_num": 13}
+{"match_tokens": ["age:成人", "disease:其他病症"], "advice": "选择脱脂奶、低脂奶、鲜牛奶、低糖酸奶等奶类。", "category": "健康生活方式", "page_num": 13}
+{"match_tokens": ["age:成人", "disease:其他病症"], "advice": "减少或限制奶油、黄油等奶类。", "category": "健康生活方式", "page_num": 13}
+{"match_tokens": ["age:成人", "disease:其他病症"], "advice": "选择黄豆、黑豆、青豆、豆腐、豆腐干等大豆及制品。", "category": "健康生活方式", "page_num": 13}
+{"match_tokens": ["age:成人", "disease:其他病症"], "advice": "减少或限制油豆腐皮、豆腐泡等油炸豆制品。", "category": "健康生活方式", "page_num": 13}
+{"match_tokens": ["age:成人", "disease:其他病症"], "advice": "选择新鲜蔬菜。", "category": "健康生活方式", "page_num": 13}
+{"match_tokens": ["age:成人", "disease:其他病症"], "advice": "减少或限制腌制蔬菜。", "category": "健康生活方式", "page_num": 13}
+{"match_tokens": ["age:成人", "disease:其他病症"], "advice": "选择新鲜水果。", "category": "健康生活方式", "page_num": 13}
+{"match_tokens": ["age:成人", "disease:其他病症"], "advice": "减少或限制添加糖高的水果制品。", "category": "健康生活方式", "page_num": 13}
+{"match_tokens": ["age:成人", "disease:其他病症"], "advice": "选择紫苏油、亚麻籽油、核桃油、橄榄油、茶籽油、菜籽油、葵花籽油、玉米油、芝麻油、豆油、花生油、青稞胚芽油等食用油。", "category": "健康生活方式", "page_num": 13}
+{"match_tokens": ["age:成人", "disease:其他病症"], "advice": "减少或限制棕榈油、椰子油，猪油、牛油、羊油及其他动物油。", "category": "健康生活方式", "page_num": 13}
+{"match_tokens": ["age:成人", "disease:其他病症"], "advice": "选择低钠盐，每日使用不超过5g。", "category": "健康生活方式", "page_num": 13}
+{"match_tokens": ["age:成人", "disease:其他病症"], "advice": "减少或限制酱类、腐乳等高盐调味品；红糖、白糖、糖浆等调味品。", "category": "健康生活方式", "page_num": 13}
+{"match_tokens": ["disease:其他病症"], "advice": "痰浊内阻型高脂血症患者，可在限定使用范围和剂量内选用佛手、杏仁、昆布、香薷、桔红、桔梗、荷叶、葛根、橘皮、薏苡仁、莱菔子、紫苏子、山药、莲子、茯苓、决明子、山楂、白扁豆、菊花、赤小豆作为食药物质。", "category": "治疗与康复", "page_num": 14}
+{"match_tokens": ["disease:其他病症"], "advice": "痰瘀互结型高脂血症患者，可在限定使用范围和剂量内选用莱菔子、桔梗、白果、薏苡仁、山药、橘皮、昆布、茯苓、荷叶、决明子、山楂、桃仁、杏仁、葛根、白扁豆、沙棘作为食药物质。", "category": "治疗与康复", "page_num": 14}
+{"match_tokens": ["disease:其他病症"], "advice": "气滞血瘀型高脂血症患者，可在限定使用范围和剂量内选用佛手、杏仁、当归、西红花、姜黄、荜茇、桃仁、山楂、重瓣玫瑰、陈皮、刀豆、葛根、决明子作为食药物质。", "category": "治疗与康复", "page_num": 14}
+{"match_tokens": ["disease:其他病症"], "advice": "气虚血瘀型高脂血症患者，可在限定使用范围和剂量内选用人参（人工种植≤5年）、山药、白扁豆、茯苓、莲子、薏苡仁、大枣、昆布、山楂、荷叶、桃仁、决明子、葛根、黄芪、党参、西洋参、沙棘作为食药物质。", "category": "治疗与康复", "page_num": 14}
+{"match_tokens": ["disease:其他病症"], "advice": "肝肾阴虚型高脂血症患者，可在限定使用范围和剂量内选用桑椹、枸杞子、菊花、黄精、山茱萸、百合、天麻、夏枯草、山药、荷叶、桑叶、黑芝麻、决明子、山楂、葛根、乌梅、铁皮石斛作为食药物质。", "category": "治疗与康复", "page_num": 14}
+{"match_tokens": ["disease:其他病症"], "advice": "脾虚湿盛型高脂血症患者，可在限定使用范围和剂量内选用人参（人工种植≤5年）、生姜、山药、白扁豆、茯苓、莲子、薏苡仁、山楂、橘皮、赤小豆、昆布、莱菔子、荷叶、桑叶、决明子、葛根、党参、麦芽作为食药物质。", "category": "治疗与康复", "page_num": 14}
+{"match_tokens": ["disease:其他病症"], "advice": "使用食药物质时，其食用方法应咨询医生、营养指导人员等专业人员。", "category": "治疗与康复", "page_num": 14}
+{"match_tokens": ["disease:其他病症"], "advice": "对于标记为试点物质的食药物质，在非试点地区应限执业医师使用。", "category": "治疗与康复", "page_num": 14}
+{"match_tokens": ["disease:其他病症"], "advice": "对于标记为新食品原料的食药物质，每种每天食用量不能超过相关规定中使用量，多种联合食用时宜酌情控制食用量。", "category": "治疗与康复", "page_num": 14}
+{"match_tokens": ["disease:无特定疾病"], "advice": "参考食物交换表和食谱示例，将不同类别的食物相互交换、合理搭配。", "category": "健康生活方式", "page_num": 15}
+{"match_tokens": ["disease:无特定疾病"], "advice": "交换谷薯类食物时，可参考等量交换表，例如23-27克大米、面粉等谷物可交换34-38克馒头或米饭。", "category": "健康生活方式", "page_num": 15}
+{"match_tokens": ["disease:无特定疾病"], "advice": "交换谷薯类食物时，可参考等量交换表，例如23-27克全谷物（如小米）可交换90-110克薯芋类（如马铃薯）。", "category": "健康生活方式", "page_num": 15}
+{"match_tokens": ["disease:糖尿病"], "advice": "如混食多种蔬菜时，选择蔬菜（综合）的份量；如果单选某类蔬菜，按类确定份量。", "category": "治疗与康复", "page_num": 16}
+{"match_tokens": ["disease:糖尿病"], "advice": "如混食多种水果时，选择水果（综合）的份量（140-160克）；如果单选某类水果，按类确定份量（如柑橘类180-220克，仁果核果瓜果类160-180克，浆果类140-160克，枣和热带水果70-90克，干果24-28克）。", "category": "治疗与康复", "page_num": 17}
+{"match_tokens": ["disease:无特定疾病"], "advice": "如不便判断肉类脂肪含量，选择畜肉（综合）的份量，否则按类确定份量。", "category": "健康生活方式", "page_num": 18}
+{"match_tokens": ["disease:无特定疾病"], "advice": "五花肉、肥肉宜减少食用频次或摄入总量。", "category": "健康生活方式", "page_num": 18}
+{"match_tokens": ["disease:糖尿病", "disease:高血压"], "advice": "使用大豆、乳及其制品等量交换表（90kcal）进行食物交换，例如一份北豆腐为80-100克（约1/3盒），一份纯牛乳为130-150克（约2/3杯）。", "category": "治疗与康复", "page_num": 19}
+{"match_tokens": ["disease:糖尿病", "disease:高血压"], "advice": "使用调味料类的盐含量等量交换表（2000mg钠或5g盐）控制钠摄入，例如5克食用盐、10克鸡精或32克酱油均相当于5克盐。", "category": "治疗与康复", "page_num": 19}
+{"match_tokens": ["population:任何"], "advice": "使用油脂时，每份重量控制在9-11克，约为一汤勺。", "category": "健康生活方式", "page_num": 20}
+{"match_tokens": ["disease:高脂血症", "population:成人"], "advice": "应根据高脂血症的不同证型，制定相应人群的食养方案，以达到精准施膳的目的。", "category": "健康生活方式", "page_num": 21}
+{"match_tokens": ["disease:高脂血症", "population:成人"], "advice": "食谱制作坚持食物多样、能量适宜、控制脂肪、主食定量、蔬果丰富、肉类适当的原则。", "category": "健康生活方式", "page_num": 21}
+{"match_tokens": ["disease:高脂血症", "population:成人"], "advice": "食谱适合轻体力活动的成人高脂血症人群，一天食谱的能量在1700～1900kcal范围，可结合自身活动量及其他因素合理调整能量。", "category": "健康生活方式", "page_num": 21}
+{"match_tokens": ["disease:高脂血症", "population:成人"], "advice": "使用者可基于不同证型选择相应的食药物质和食养方，并参照本指南提出的食养原则和建议，结合食物互换法，根据自身情况对食谱进行合理搭配。", "category": "健康生活方式", "page_num": 21}
+{"match_tokens": ["disease:高脂血症", "symptom:身体肥胖", "symptom:肢体沉重感", "symptom:头昏多眠", "symptom:容易困倦", "symptom:胸闷气短", "symptom:大便黏或不成形"], "advice": "痰浊内阻型高脂血症人群可选择具有祛湿、化痰、理气作用的茶饮，以及和证型相适应的食养方。", "category": "健康生活方式", "page_num": 21}
+{"match_tokens": ["disease:高脂血症"], "advice": "早餐可食用全麦面包、煮鸡蛋、脱脂牛奶和凉拌海带丝。", "category": "健康生活方式", "page_num": 21}
+{"match_tokens": ["disease:高脂血症"], "advice": "可饮用山楂菊花决明子茶。", "category": "健康生活方式", "page_num": 21}
+{"match_tokens": ["disease:高脂血症"], "advice": "中餐可食用红芸豆米饭和香菇炒芹菜。", "category": "健康生活方式", "page_num": 21}
+{"match_tokens": ["disease:无特定疾病"], "advice": "全天烹饪用油总量控制在20克以内。", "category": "健康生活方式", "page_num": 22}
+{"match_tokens": ["disease:无特定疾病"], "advice": "全天烹饪用盐总量控制在5克以内。", "category": "健康生活方式", "page_num": 22}
+{"match_tokens": ["disease:无特定疾病"], "advice": "主食可选用杂粮米饭，例如黑米、糙米、小米和高粱米混合。", "category": "健康生活方式", "page_num": 22}
+{"match_tokens": ["disease:无特定疾病"], "advice": "主食可选用紫薯芋头饭，例如芋头、紫薯和大米混合。", "category": "健康生活方式", "page_num": 22}
+{"match_tokens": ["disease:无特定疾病"], "advice": "主食可选用荞麦面条，例如荞麦面粉和高筋面粉混合。", "category": "健康生活方式", "page_num": 22}
+{"match_tokens": ["disease:无特定疾病"], "advice": "早餐可饮用脱脂牛奶300毫升。", "category": "健康生活方式", "page_num": 22}
+{"match_tokens": ["disease:无特定疾病"], "advice": "早餐可食用一个煮鸡蛋（约50克）。", "category": "健康生活方式", "page_num": 22}
+{"match_tokens": ["disease:无特定疾病"], "advice": "加餐可选择食用水果，例如橙子200克或苹果200克。", "category": "健康生活方式", "page_num": 22}
+{"match_tokens": ["disease:无特定疾病"], "advice": "加餐可食用少量坚果，例如甜杏仁10克或腰果10克。", "category": "健康生活方式", "page_num": 22}
+{"match_tokens": ["disease:无特定疾病"], "advice": "每日摄入足量蔬菜，例如每餐搭配油麦菜、西兰花、胡萝卜、空心菜等。", "category": "健康生活方式", "page_num": 22}
+{"match_tokens": ["disease:无特定疾病"], "advice": "每日摄入适量豆制品，例如豆腐干、豆腐皮、香干或豆腐。", "category": "健康生活方式", "page_num": 22}
+{"match_tokens": ["disease:无特定疾病"], "advice": "每日摄入适量菌菇类食物，例如木耳、香菇、草菇、口蘑等。", "category": "健康生活方式", "page_num": 22}
+{"match_tokens": ["disease:无特定疾病"], "advice": "每日摄入适量海产品，例如海带、紫菜、海蜇皮或虾仁。", "category": "健康生活方式", "page_num": 22}
+{"match_tokens": ["disease:无特定疾病"], "advice": "肉类选择可多样化，例如牛肉、鸭肉、兔肉、猪瘦肉、鸡肉等，并控制每餐份量。", "category": "健康生活方式", "page_num": 22}
+{"match_tokens": ["disease:无特定疾病"], "advice": "可选择饮用三鲜茶（鲜荷叶、鲜藿香、鲜橘皮各10克）作为茶饮。", "category": "健康生活方式", "page_num": 22}
+{"match_tokens": ["disease:无特定疾病"], "advice": "可选择饮用三鲜饮（鲜山楂15克，鲜白萝卜15克，鲜橘皮3克）作为茶饮。", "category": "健康生活方式", "page_num": 22}
+{"match_tokens": ["disease:无特定疾病"], "advice": "本食谱可提供每日能量1790～1880kcal，蛋白质80～90g，碳水化合物245～275g及脂肪45～50g；宏量营养素占总能量比为：蛋白质15%～20%，碳水化合物50%～60%，脂肪20%～25%。", "category": "健康生活方式", "page_num": 23}
+{"match_tokens": ["disease:无特定疾病"], "advice": "食谱中可使用食药物质，如山楂、菊花、决明子等。", "category": "健康生活方式", "page_num": 23}
+{"match_tokens": ["disease:高脂血症", "symptom:肥胖", "symptom:肢体沉重", "symptom:头昏", "symptom:困倦", "symptom:胸痛", "symptom:口唇暗紫", "symptom:大便黏腻"], "advice": "早餐可食用全麦面包、煮鸡蛋、脱脂牛奶和腐竹拌油麦菜，并饮用山楂薏苡仁饮。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:高脂血症", "symptom:肥胖", "symptom:肢体沉重", "symptom:头昏", "symptom:困倦", "symptom:胸痛", "symptom:口唇暗紫", "symptom:大便黏腻"], "advice": "中餐可食用荞麦面条、豆干肉丝、香菇木耳炒芹菜和虾仁紫菜丝瓜汤，加餐可食用橙子。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:高脂血症", "symptom:肥胖", "symptom:肢体沉重", "symptom:头昏", "symptom:困倦", "symptom:胸痛", "symptom:口唇暗紫", "symptom:大便黏腻"], "advice": "晚餐可食用山药粥、芦笋炒香菇和洋葱西红柿烩牛肉，全天植物油用量不超过20克，盐不超过5克。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:高脂血症", "symptom:肥胖", "symptom:肢体沉重", "symptom:头昏", "symptom:困倦", "symptom:胸痛", "symptom:口唇暗紫", "symptom:大便黏腻"], "advice": "早餐可食用玉米面馒头、橘皮佛手山楂粥、煮鸡蛋、小葱拌豆腐和脱脂牛奶，并饮用山楂菊花决明子茶。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:高脂血症", "symptom:肥胖", "symptom:肢体沉重", "symptom:头昏", "symptom:困倦", "symptom:胸痛", "symptom:口唇暗紫", "symptom:大便黏腻"], "advice": "中餐可食用红芸豆米饭、扁豆大枣蒸海鱼、山楂西兰花炒肉片和冬瓜萝卜汤，加餐可食用苹果。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:高脂血症", "symptom:肥胖", "symptom:肢体沉重", "symptom:头昏", "symptom:困倦", "symptom:胸痛", "symptom:口唇暗紫", "symptom:大便黏腻"], "advice": "晚餐可食用素馅饺子、素烩三菇、洋葱炒木耳和豆腐海带汤。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:无特定疾病"], "advice": "全天烹饪用油总量控制在20克植物油，用盐总量控制在5克。", "category": "健康生活方式", "page_num": 25}
+{"match_tokens": ["disease:无特定疾病"], "advice": "早餐可食用粳米豆浆、煮鸡蛋、双色花卷和胡萝卜拌笋丝。", "category": "健康生活方式", "page_num": 25}
+{"match_tokens": ["disease:无特定疾病"], "advice": "茶饮可饮用海带绿豆水。", "category": "健康生活方式", "page_num": 25}
+{"match_tokens": ["disease:无特定疾病"], "advice": "中餐可食用杂粮米饭、滑炒鸡片、凉拌蔬菜丁和鲫鱼山楂萝卜汤。", "category": "健康生活方式", "page_num": 25}
+{"match_tokens": ["disease:无特定疾病"], "advice": "加餐可食用苹果和核桃仁。", "category": "健康生活方式", "page_num": 25}
+{"match_tokens": ["disease:无特定疾病"], "advice": "晚餐可食用荞麦面条、香菇西红柿烩羊肉、炒时蔬和山楂黑木耳乌鸡汤。", "category": "健康生活方式", "page_num": 25}
+{"match_tokens": ["disease:高脂血症", "symptom:胸部胀满", "symptom:胁部胀满", "symptom:针刺样疼痛", "symptom:情绪低落", "symptom:急躁易怒", "symptom:口唇紫暗"], "advice": "选择具有行气解郁、活血化瘀作用的茶饮，如山楂橘皮饮或菊楂决明饮。", "category": "治疗与康复", "page_num": 26}
+{"match_tokens": ["disease:高脂血症", "symptom:胸部胀满", "symptom:胁部胀满", "symptom:针刺样疼痛", "symptom:情绪低落", "symptom:急躁易怒", "symptom:口唇紫暗"], "advice": "早餐可食用桃仁粳米粥、木耳山楂粥或香菇菜包。", "category": "治疗与康复", "page_num": 26}
+{"match_tokens": ["disease:高脂血症", "symptom:胸部胀满", "symptom:胁部胀满", "symptom:针刺样疼痛", "symptom:情绪低落", "symptom:急躁易怒", "symptom:口唇紫暗"], "advice": "中餐可食用红芸豆米饭、西兰花炒胡萝卜、莲藕焖鸭、清蒸带鱼或蒜蓉油麦菜。", "category": "治疗与康复", "page_num": 26}
+{"match_tokens": ["disease:高脂血症", "symptom:胸部胀满", "symptom:胁部胀满", "symptom:针刺样疼痛", "symptom:情绪低落", "symptom:急躁易怒", "symptom:口唇紫暗"], "advice": "晚餐可食用荞麦面条、芦笋豆腐干、土豆炖鸡块、山楂黑木耳乌鸡汤、紫薯馒头、猪肉炒山楂或胡萝卜木耳炒芹菜。", "category": "治疗与康复", "page_num": 26}
+{"match_tokens": ["disease:高脂血症", "symptom:胸部胀满", "symptom:胁部胀满", "symptom:针刺样疼痛", "symptom:情绪低落", "symptom:急躁易怒", "symptom:口唇紫暗"], "advice": "加餐可食用橙子、桃子、脱脂牛奶或核桃仁。", "category": "治疗与康复", "page_num": 26}
+{"match_tokens": ["disease:高脂血症", "symptom:胸部胀满", "symptom:胁部胀满", "symptom:针刺样疼痛", "symptom:情绪低落", "symptom:急躁易怒", "symptom:口唇紫暗"], "advice": "控制全天总用量：植物油20g，盐5g。", "category": "治疗与康复", "page_num": 26}
+{"match_tokens": ["disease:无特定疾病", "population:老年人"], "advice": "早餐可食用全麦面包、煮鸡蛋、燕麦酸奶和香干拌笋丝，并饮用山楂玫瑰花茶。", "category": "健康生活方式", "page_num": 27}
+{"match_tokens": ["disease:无特定疾病", "population:老年人"], "advice": "中餐可食用杂粮米饭、木耳炒鸡胸肉、凉拌蔬菜丁和香菇萝卜汤。", "category": "健康生活方式", "page_num": 27}
+{"match_tokens": ["disease:无特定疾病", "population:老年人"], "advice": "加餐可食用一个苹果。", "category": "健康生活方式", "page_num": 27}
+{"match_tokens": ["disease:无特定疾病", "population:老年人"], "advice": "晚餐可食用双色花卷、平菇炒西兰花、西红柿炒鸡蛋和佛手桃仁煲瘦肉。", "category": "健康生活方式", "page_num": 27}
+{"match_tokens": ["disease:无特定疾病", "population:老年人"], "advice": "全天烹饪用油总用量控制在植物油20克。", "category": "健康生活方式", "page_num": 27}
+{"match_tokens": ["disease:无特定疾病", "population:老年人"], "advice": "全天食盐总用量控制在5克。", "category": "健康生活方式", "page_num": 27}
+{"match_tokens": ["disease:高脂血症", "symptom:气短乏力", "symptom:精神疲倦", "symptom:少言懒言", "symptom:胸部或胁部针刺样疼痛"], "advice": "早餐可食用山楂小米粥（山楂3g，大枣3g，小米30g）、煮鸡蛋（50g）、燕麦酸奶（酸奶300g，燕麦片10g）和凉拌紫甘蓝黄瓜（紫甘蓝50g，黄瓜丝100g）。", "category": "治疗与康复", "page_num": 28}
+{"match_tokens": ["disease:高脂血症", "symptom:气短乏力", "symptom:精神疲倦", "symptom:少言懒言", "symptom:胸部或胁部针刺样疼痛"], "advice": "可饮用山楂甘草茶（山楂3g，甘草6g）。", "category": "治疗与康复", "page_num": 28}
+{"match_tokens": ["disease:高脂血症", "symptom:气短乏力", "symptom:精神疲倦", "symptom:少言懒言", "symptom:胸部或胁部针刺样疼痛"], "advice": "中餐可食用红芸豆米饭（红芸豆10g，小米10g，大米70g）、香菇炒芹菜（芹菜200g，香菇20g，淀粉5g）、洋葱西红柿烩牛肉（洋葱20g，牛肉50g，土豆50g，西红柿100g）和芪参鲤鱼汤（当归3g，黄芪3g，党参5g，生姜2片，鲤鱼60g）。", "category": "治疗与康复", "page_num": 28}
+{"match_tokens": ["disease:高脂血症", "symptom:气短乏力", "symptom:精神疲倦", "symptom:少言懒言", "symptom:胸部或胁部针刺样疼痛"], "advice": "加餐可食用橙子（200g）。", "category": "治疗与康复", "page_num": 28}
+{"match_tokens": ["disease:高脂血症", "symptom:气短乏力", "symptom:精神疲倦", "symptom:少言懒言", "symptom:胸部或胁部针刺样疼痛"], "advice": "晚餐可食用紫薯芋头粥（芋头50g，紫薯50g，小米30g，大米30g）、芦笋豆腐干（芦笋150g，豆腐干20g，口蘑20g）和山楂黑木耳乌鸡汤（山楂6g，山药60g，木耳20g，乌鸡肉40g）。", "category": "治疗与康复", "page_num": 28}
+{"match_tokens": ["disease:高脂血症", "symptom:气短乏力", "symptom:精神疲倦", "symptom:少言懒言", "symptom:胸部或胁部针刺样疼痛"], "advice": "全天烹饪使用植物油20g，盐5g。", "category": "治疗与康复", "page_num": 28}
+{"match_tokens": ["disease:高脂血症", "symptom:气短乏力", "symptom:精神疲倦", "symptom:少言懒言", "symptom:胸部或胁部针刺样疼痛"], "advice": "早餐可食用莲子桃仁粥（莲子9g，茯苓9g，桃仁（去皮尖）3g，粳米20g）、煮鸡蛋（50g）、杂粮馒头（玉米面30g，荞麦面15g，黑麦面15g，淀粉10g）和黄瓜拌笋丝（黄瓜100g，笋丝100g，胡萝卜丝10g）。", "category": "治疗与康复", "page_num": 28}
+{"match_tokens": ["disease:高脂血症", "symptom:气短乏力", "symptom:精神疲倦", "symptom:少言懒言", "symptom:胸部或胁部针刺样疼痛"], "advice": "可饮用山楂甘草薏苡仁饮（甘草、山楂、薏苡仁各9g）。", "category": "治疗与康复", "page_num": 28}
+{"match_tokens": ["disease:高脂血症", "symptom:气短乏力", "symptom:精神疲倦", "symptom:少言懒言", "symptom:胸部或胁部针刺样疼痛"], "advice": "中餐可食用杂粮米饭（黑米10g，糙米50g，小米10g，高粱米10g）、清蒸鲈鱼（鲈鱼60g，生姜2片，葱2段）、蒜蓉油麦菜（油麦菜200g）和桃仁鸡（桃仁（去皮尖）3g，山药15g，大枣3g，龙眼肉5g，生姜1片，鸡肉50g）。", "category": "治疗与康复", "page_num": 28}
+{"match_tokens": ["disease:高脂血症", "symptom:气短乏力", "symptom:精神疲倦", "symptom:少言懒言", "symptom:胸部或胁部针刺样疼痛"], "advice": "加餐可食用苹果（200g）和核桃仁（10g）。", "category": "治疗与康复", "page_num": 28}
+{"match_tokens": ["disease:高脂血症", "symptom:气短乏力", "symptom:精神疲倦", "symptom:少言懒言", "symptom:胸部或胁部针刺样疼痛"], "advice": "晚餐可食用杂粮米饭（黑米15g，糙米60g，小米15g，高粱米15g）、山楂西兰花炒肉片（猪瘦肉60g，西兰花100g，山楂3g，鸡蛋清10g）、香菇木耳炒芹菜（香菇20g，木耳20g，芹菜200g）和西红柿豆腐汤（西红柿100g，豆腐40g）。", "category": "治疗与康复", "page_num": 28}
+{"match_tokens": ["disease:无特定疾病"], "advice": "全天烹饪用油总量控制在20克以内。", "category": "健康生活方式", "page_num": 29}
+{"match_tokens": ["disease:无特定疾病"], "advice": "全天食盐摄入量控制在5克以内。", "category": "健康生活方式", "page_num": 29}
+{"match_tokens": ["disease:无特定疾病"], "advice": "早餐可食用香菇菜包、山楂小米粥、煮鸡蛋、脱脂牛奶和蒜片黄瓜。", "category": "健康生活方式", "page_num": 29}
+{"match_tokens": ["disease:无特定疾病"], "advice": "中餐可食用杂粮米饭、荷叶兔肉、炒时蔬和归芪鸡汤。", "category": "健康生活方式", "page_num": 29}
+{"match_tokens": ["disease:无特定疾病"], "advice": "加餐可食用一个苹果。", "category": "健康生活方式", "page_num": 29}
+{"match_tokens": ["disease:无特定疾病"], "advice": "晚餐可食用荞麦面条、平菇炒西兰花、芹菜炒胡萝卜粒和山楂鲫鱼汤。", "category": "健康生活方式", "page_num": 29}
+{"match_tokens": ["disease:高脂血症", "symptom:头晕耳鸣", "symptom:腰酸腿软", "symptom:手心、脚心发热", "symptom:心烦失眠", "symptom:健忘多梦"], "advice": "早餐可食用银耳炖牛奶、煮鸡蛋、枸杞子馒头和黄瓜拌紫甘蓝，并饮用杞菊饮。", "category": "治疗与康复", "page_num": 30}
+{"match_tokens": ["disease:高脂血症", "symptom:头晕耳鸣", "symptom:腰酸腿软", "symptom:手心、脚心发热", "symptom:心烦失眠", "symptom:健忘多梦"], "advice": "中餐可食用杂粮米饭、口蘑炒芹菜、芥兰炒牛肉和枸杞叶蛋花汤。", "category": "治疗与康复", "page_num": 30}
+{"match_tokens": ["disease:高脂血症", "symptom:头晕耳鸣", "symptom:腰酸腿软", "symptom:手心、脚心发热", "symptom:心烦失眠", "symptom:健忘多梦"], "advice": "加餐可食用橙子。", "category": "治疗与康复", "page_num": 30}
+{"match_tokens": ["disease:高脂血症", "symptom:头晕耳鸣", "symptom:腰酸腿软", "symptom:手心、脚心发热", "symptom:心烦失眠", "symptom:健忘多梦"], "advice": "晚餐可食用素馅饺子、青椒豆腐干、土豆炖鸡肉和冬瓜紫菜汤。", "category": "治疗与康复", "page_num": 30}
+{"match_tokens": ["disease:高脂血症", "symptom:头晕耳鸣", "symptom:腰酸腿软", "symptom:手心、脚心发热", "symptom:心烦失眠", "symptom:健忘多梦"], "advice": "全天烹饪油、盐总用量控制在植物油20克，盐5克。", "category": "治疗与康复", "page_num": 30}
+{"match_tokens": ["disease:高脂血症", "symptom:头晕耳鸣", "symptom:腰酸腿软", "symptom:手心、脚心发热", "symptom:心烦失眠", "symptom:健忘多梦"], "advice": "早餐可食用牛奶燕麦粥、煮鸡蛋、双色花卷和木耳甜椒拌洋葱，并饮用山楂菊花决明子茶。", "category": "治疗与康复", "page_num": 30}
+{"match_tokens": ["disease:高脂血症", "symptom:头晕耳鸣", "symptom:腰酸腿软", "symptom:手心、脚心发热", "symptom:心烦失眠", "symptom:健忘多梦"], "advice": "中餐可食用枸杞芝麻蔬菜饼、海带炖黄花鱼、蒜蓉油麦菜和山药枸杞乌鸡汤。", "category": "治疗与康复", "page_num": 30}
+{"match_tokens": ["disease:高脂血症", "symptom:头晕耳鸣", "symptom:腰酸腿软", "symptom:手心、脚心发热", "symptom:心烦失眠", "symptom:健忘多梦"], "advice": "加餐可食用葡萄。", "category": "治疗与康复", "page_num": 30}
+{"match_tokens": ["disease:高脂血症", "symptom:头晕耳鸣", "symptom:腰酸腿软", "symptom:手心、脚心发热", "symptom:心烦失眠", "symptom:健忘多梦"], "advice": "晚餐可食用紫薯芋头粥、莴笋山楂炒牛肉、黄精枸杞焖鸭和蘑菇豆腐汤。", "category": "治疗与康复", "page_num": 30}
+{"match_tokens": ["disease:高血压", "risk:高盐饮食"], "advice": "全天食盐总用量控制在5克。", "category": "健康生活方式", "page_num": 31}
+{"match_tokens": ["disease:高血压", "risk:高盐饮食"], "advice": "全天植物油总用量控制在20克。", "category": "健康生活方式", "page_num": 31}
+{"match_tokens": ["disease:高血压"], "advice": "早餐可食用枸杞芝麻粥、煮鸡蛋、脱脂牛奶和洋葱千张。", "category": "健康生活方式", "page_num": 31}
+{"match_tokens": ["disease:高血压"], "advice": "中餐可食用杂粮米饭、枸杞子炖兔肉、凉拌蔬菜丁和豆腐海带汤。", "category": "健康生活方式", "page_num": 31}
+{"match_tokens": ["disease:高血压"], "advice": "晚餐可食用荞麦面条、芦笋炒香菇、洋葱炒西红柿和枸杞叶瘦肉汤。", "category": "健康生活方式", "page_num": 31}
+{"match_tokens": ["disease:高血压"], "advice": "加餐可食用苹果。", "category": "健康生活方式", "page_num": 31}
+{"match_tokens": ["disease:高血压"], "advice": "茶饮可选择荷叶夏枯草枸杞茶。", "category": "健康生活方式", "page_num": 31}
+{"match_tokens": ["disease:高脂血症", "symptom:身体困倦", "symptom:大便不成形", "symptom:腹泻", "symptom:食后腹胀"], "advice": "早餐可食用双色花卷、山药芡薏粥、煮鸡蛋、脱脂牛奶和紫甘蓝拌白萝卜，并饮用健脾饮。", "category": "治疗与康复", "page_num": 32}
+{"match_tokens": ["disease:高脂血症", "symptom:身体困倦", "symptom:大便不成形", "symptom:腹泻", "symptom:食后腹胀"], "advice": "中餐可食用红芸豆米饭、木耳拌芹菜、洋葱西红柿烩牛肉和山药茯苓煲乳鸽。", "category": "治疗与康复", "page_num": 32}
+{"match_tokens": ["disease:高脂血症", "symptom:身体困倦", "symptom:大便不成形", "symptom:腹泻", "symptom:食后腹胀"], "advice": "晚餐可食用青菜面条、水煮芥兰、鸡丝炖粉条和薏苡仁玉米粥。", "category": "治疗与康复", "page_num": 32}
+{"match_tokens": ["disease:高脂血症", "symptom:身体困倦", "symptom:大便不成形", "symptom:腹泻", "symptom:食后腹胀"], "advice": "全天烹饪用油不超过20克，用盐不超过5克。", "category": "治疗与康复", "page_num": 32}
+{"match_tokens": ["disease:高脂血症", "symptom:身体困倦", "symptom:大便不成形", "symptom:腹泻", "symptom:食后腹胀"], "advice": "早餐可食用玉米面馒头、煮鸡蛋、脱脂牛奶和香干拌莴笋，并饮用三花橘皮茶。", "category": "治疗与康复", "page_num": 32}
+{"match_tokens": ["disease:高脂血症", "symptom:身体困倦", "symptom:大便不成形", "symptom:腹泻", "symptom:食后腹胀"], "advice": "中餐可食用荞麦面条、扁豆大枣蒸海鱼、油麦菜炒蒜苔和西红柿冬瓜虾米汤。", "category": "治疗与康复", "page_num": 32}
+{"match_tokens": ["disease:高脂血症", "symptom:身体困倦", "symptom:大便不成形", "symptom:腹泻", "symptom:食后腹胀"], "advice": "晚餐可食用紫薯芋头粥、山楂黄瓜炒肉片和芹菜炒胡萝卜粒。", "category": "治疗与康复", "page_num": 32}
+{"match_tokens": ["disease:高脂血症", "symptom:身体困倦", "symptom:大便不成形", "symptom:腹泻", "symptom:食后腹胀"], "advice": "加餐可选择食用橙子，或苹果和腰果。", "category": "治疗与康复", "page_num": 32}
+{"match_tokens": ["disease:无特定疾病"], "advice": "早餐可食用全麦面包、煮鸡蛋、茯苓赤小豆粥、脱脂牛奶和三色凉拌菜。", "category": "健康生活方式", "page_num": 33}
+{"match_tokens": ["disease:无特定疾病"], "advice": "茶饮可选择山楂橘皮茶。", "category": "健康生活方式", "page_num": 33}
+{"match_tokens": ["disease:无特定疾病"], "advice": "中餐可食用杂粮米饭、鸽肉炒菠萝、芹菜豆干炒肉丝和紫菜蛋花汤。", "category": "健康生活方式", "page_num": 33}
+{"match_tokens": ["disease:无特定疾病"], "advice": "加餐可食用苹果。", "category": "健康生活方式", "page_num": 33}
+{"match_tokens": ["disease:无特定疾病"], "advice": "晚餐可食用蔬菜面、芡实八珍糕、土豆炖鸡肉、冬瓜豆腐汤和芦笋炒香菇。", "category": "健康生活方式", "page_num": 33}
+{"match_tokens": ["disease:无特定疾病"], "advice": "全天烹饪用油总量控制在20克植物油，用盐总量控制在5克。", "category": "健康生活方式", "page_num": 33}
+{"match_tokens": ["disease:高血压", "symptom:头晕", "symptom:恶心"], "advice": "夏天头晕泛恶心者，可饮用三鲜茶（鲜荷叶、鲜藿香、鲜橘皮各10g，洗净、切碎，用滚开水冲泡或稍煮，分多次代茶饮用）。", "category": "治疗与康复", "page_num": 34}
+{"match_tokens": ["population:孕妇"], "advice": "孕妇慎用三鲜饮（鲜山楂15g，鲜白萝卜15g，鲜橘皮3g，加水350ml，用小火煮，煮沸后取汁约250ml，分多次代茶饮）。", "category": "治疗与康复", "page_num": 34}
+{"match_tokens": ["disease:无特定疾病"], "advice": "制作鸭肉冬瓜汤时，加入适量菜、葱、蒜末等调味品即可，佐餐食用，1人1次量，可食用7-10天。", "category": "健康生活方式", "page_num": 35}
+{"match_tokens": ["disease:无特定疾病"], "advice": "制作海带冬瓜薏苡仁汤，将海带、冬瓜、薏苡仁加入水适量同煮汤，佐餐食用，1人1次量，可食用7-10天。", "category": "健康生活方式", "page_num": 35}
+{"match_tokens": ["population:孕妇"], "advice": "孕妇慎用海带冬瓜薏苡仁汤。", "category": "健康生活方式", "page_num": 35}
+{"match_tokens": ["disease:无特定疾病"], "advice": "制作冬瓜莲蓬薏苡仁煲瘦肉，将处理好的莲蓬、薏苡仁、冬瓜块、大枣、猪瘦肉块及清水放入汤煲，大火烧开后转小火煲1小时，略微加盐调味，佐餐食用，1人1次量，可食用7-10天。", "category": "健康生活方式", "page_num": 35}
+{"match_tokens": ["population:孕妇"], "advice": "孕妇慎用冬瓜莲蓬薏苡仁煲瘦肉。", "category": "健康生活方式", "page_num": 35}
+{"match_tokens": ["disease:无特定疾病"], "advice": "制作山楂薏苡仁饮，将山楂、薏苡仁、炒莱菔子加入适量水煎煮，分多次代茶饮用。", "category": "健康生活方式", "page_num": 35}
+{"match_tokens": ["population:孕妇"], "advice": "孕妇慎用山楂薏苡仁饮。", "category": "健康生活方式", "page_num": 35}
+{"match_tokens": ["disease:无特定疾病"], "advice": "制作山楂菊花决明子茶，将山楂、菊花、炒决明子加入适量水煎煮，分多次代茶饮用。", "category": "健康生活方式", "page_num": 35}
+{"match_tokens": ["population:孕妇"], "advice": "橘皮佛手山楂粥孕妇慎用。", "category": "健康生活方式", "page_num": 36}
+{"match_tokens": ["population:孕妇"], "advice": "山楂西兰花炒肉片孕妇慎用。", "category": "健康生活方式", "page_num": 36}
+{"match_tokens": ["population:孕妇"], "advice": "孕妇慎用山楂白萝卜汤。", "category": "健康生活方式", "page_num": 37}
+{"match_tokens": ["population:孕妇"], "advice": "孕妇慎用山楂黑木耳乌鸡汤。", "category": "健康生活方式", "page_num": 37}
+{"match_tokens": ["population:孕妇"], "advice": "孕妇慎用山楂橘皮饮。", "category": "健康生活方式", "page_num": 37}
+{"match_tokens": ["population:孕妇"], "advice": "孕妇慎用菊楂决明饮。", "category": "健康生活方式", "page_num": 37}
+{"match_tokens": ["population:孕妇"], "advice": "孕妇慎用山楂玫瑰花茶。", "category": "健康生活方式", "page_num": 37}
+{"match_tokens": ["population:孕妇"], "advice": "山楂甘草茶孕妇慎用。", "category": "治疗与康复", "page_num": 38}
+{"match_tokens": ["population:孕妇"], "advice": "山楂甘草薏苡仁饮孕妇慎用。", "category": "治疗与康复", "page_num": 38}
+{"match_tokens": ["population:孕妇"], "advice": "慎用芪参鲤鱼汤、桃仁鸡、归芪鸡汤等食养方。", "category": "治疗与康复", "page_num": 39}
+{"match_tokens": ["disease:无特定疾病"], "advice": "制作芪参鲤鱼汤时，将鲤鱼洗净去腥线，与当归、黄芪、党参等药材一同煎煮，大火烧开后小火煨40分钟，略微加盐调味后佐餐食用。", "category": "治疗与康复", "page_num": 39}
+{"match_tokens": ["disease:无特定疾病"], "advice": "制作桃仁鸡时，将鸡肉焯水后，与桃仁、山药、大枣、龙眼肉、生姜一同放入汤煲，加水适量，大火烧开，小火煲60分钟，略微加盐调味后佐餐食用。", "category": "治疗与康复", "page_num": 39}
+{"match_tokens": ["disease:无特定疾病"], "advice": "制作归芪鸡汤时，将当归、黄芪、生姜与鸡肉一同煲汤，佐餐食用。", "category": "治疗与康复", "page_num": 39}
+{"match_tokens": ["disease:高血压", "symptom:面赤眼干"], "advice": "气火亢盛所致面赤眼干等症状者慎用黄芪。", "category": "治疗与康复", "page_num": 40}
+{"match_tokens": ["disease:高血压"], "advice": "可用枸杞子6g，菊花6g，炒决明子9g，绿茶3g，加入适量水，煎煮，分多次代茶饮用。", "category": "治疗与康复", "page_num": 40}
+{"match_tokens": ["disease:高血压"], "advice": "可用山楂、菊花各6g，炒决明子9g，加入适量水，煎煮，分多次代茶饮用。", "category": "治疗与康复", "page_num": 40}
+{"match_tokens": ["disease:高血压"], "advice": "可用鲜荷叶20g，夏枯草9g，枸杞子6g，水煎，分多次代茶饮用。", "category": "治疗与康复", "page_num": 40}
+{"match_tokens": ["population:老年人", "disease:无特定疾病"], "advice": "可用枸杞叶或其他绿色蔬菜代替制作枸杞叶饼。", "category": "健康生活方式", "page_num": 41}
+{"match_tokens": ["population:老年人", "disease:无特定疾病"], "advice": "枸杞叶饼可代早餐或佐餐食用，1人1次量，可食用7～10天。", "category": "健康生活方式", "page_num": 41}
+{"match_tokens": ["population:老年人", "disease:无特定疾病"], "advice": "脾虚厌食、腹胀消化不良者慎用枸杞叶饼。", "category": "治疗与康复", "page_num": 41}
+{"match_tokens": ["population:老年人", "disease:无特定疾病"], "advice": "黄精枸杞焖鸭佐餐食用，1人1次量，可食用7～10天。", "category": "健康生活方式", "page_num": 41}
+{"match_tokens": ["population:老年人", "disease:无特定疾病"], "advice": "枸杞芝麻粥可代早餐食用，1人1次量，可食用7～10天。", "category": "健康生活方式", "page_num": 41}
+{"match_tokens": ["population:老年人", "disease:无特定疾病"], "advice": "枸杞子炖兔肉佐餐食用，1人1次量，可食用7～10天。", "category": "健康生活方式", "page_num": 41}
+{"match_tokens": ["population:孕妇"], "advice": "孕妇慎用健脾饮。", "category": "治疗与康复", "page_num": 42}
+{"match_tokens": ["population:孕妇"], "advice": "孕妇慎用山楂橘皮茶。", "category": "治疗与康复", "page_num": 42}
+{"match_tokens": ["symptom:大便粘腻", "symptom:口舌生疮"], "advice": "湿热内蕴所致大便粘腻、口舌生疮等症状者慎用相关食养方。", "category": "治疗与康复", "page_num": 42}
+{"match_tokens": ["population:孕妇", "symptom:内热旺盛", "symptom:头目潮红", "symptom:尿赤便干"], "advice": "若为孕妇，或出现内热旺盛所致头目潮红、尿赤便干等症状，应慎用相关药膳。", "category": "治疗与康复", "page_num": 43}
+{"match_tokens": ["disease:无特定疾病"], "advice": "制作山药茯苓煲乳鸽：将山药、茯苓洗净浸泡60分钟，龙眼肉洗净；乳鸽处理干净；猪瘦肉切块；将乳鸽和猪瘦肉焯水；将所有原料放入汤煲中，加水适量，大火烧开，转小火煲60分钟，略微加盐调味即可。佐餐食用，1人１次量，可食用7～10天。", "category": "健康生活方式", "page_num": 43}
+{"match_tokens": ["disease:无特定疾病"], "advice": "制作扁豆大枣蒸海鱼：将白扁豆、大枣洗净煮熟后捞出；带鱼切花刀，放入盘中，倒上少许料酒、酱油；将带鱼放入蒸锅，撒盐少许；香菜切碎撒在带鱼上，把白扁豆、大枣均匀平铺在带鱼表面，大火蒸20分钟，熟后出锅即可。佐餐食用，１人１次量，可食用7～10天。", "category": "健康生活方式", "page_num": 43}
+{"match_tokens": ["disease:无特定疾病"], "advice": "制作茯苓赤小豆粥：将茯苓、赤小豆洗净备用；粳米洗净，温水泡30分钟备用；将茯苓、赤小豆放入砂锅中，加水适量，大火煮沸后改小火煮10分钟，加粳米继续煮30分钟即可。", "category": "健康生活方式", "page_num": 43}
+{"match_tokens": ["disease:无特定疾病"], "advice": "对鱼肉过敏者禁用扁豆大枣蒸海鱼。", "category": "治疗与康复", "page_num": 43}
+{"match_tokens": ["population:孕妇"], "advice": "孕妇慎用芡实八珍糕。", "category": "治疗与康复", "page_num": 44}
+{"match_tokens": ["symptom:头目潮红", "symptom:尿赤", "symptom:便干"], "advice": "实热内盛所致头目潮红、尿赤便干等症状者慎用。", "category": "治疗与康复", "page_num": 44}
+{"match_tokens": ["disease:动脉粥样硬化性心血管疾病", "risk:缺乏运动"], "advice": "对于ASCVD一级预防人群，应维持总胆固醇低于5.2 mmol/L，甘油三酯低于1.7 mmol/L，低密度脂蛋白胆固醇低于3.4 mmol/L。", "category": "治疗与康复", "page_num": 45}
+{"match_tokens": ["disease:动脉粥样硬化性心血管疾病", "risk:缺乏运动"], "advice": "对于ASCVD一级预防人群，应维持非高密度脂蛋白胆固醇低于3.4 mmol/L。", "category": "治疗与康复", "page_num": 45}
+{"match_tokens": ["disease:高胆固醇血症"], "advice": "对于高胆固醇血症患者，应关注并控制总胆固醇水平。", "category": "治疗与康复", "page_num": 45}
+{"match_tokens": ["disease:高甘油三酯血症"], "advice": "对于高甘油三酯血症患者，应关注并控制甘油三酯水平。", "category": "治疗与康复", "page_num": 45}
+{"match_tokens": ["disease:混合型高脂血症"], "advice": "对于混合型高脂血症患者，应同时关注并控制总胆固醇和甘油三酯水平。", "category": "治疗与康复", "page_num": 45}
+{"match_tokens": ["disease:低高密度脂蛋白胆固醇血症"], "advice": "对于低高密度脂蛋白胆固醇血症患者，应关注并提升高密度脂蛋白胆固醇水平。", "category": "治疗与康复", "page_num": 45}

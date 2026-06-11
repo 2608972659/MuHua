@@ -1,0 +1,43 @@
+{"match_tokens": ["age:小孩", "population:学生", "risk:缺乏运动", "bmi:超重", "bmi:肥胖"], "advice": "鼓励学校和家长运用《中小学生超重肥胖风险自测评估表》评估个体和群体发生超重肥胖的风险，包括饮食、身体活动、父母是否肥胖等。", "category": "健康生活方式", "page_num": 1, "source_file": "11.中小学生超重肥胖公共卫生综合防控技术导则_20260420223400.pdf"}
+{"match_tokens": ["age:小孩", "population:学生", "bmi:超重", "bmi:肥胖"], "advice": "早期识别超重肥胖高危个体，为针对性地开展饮食、身体活动干预提供依据。", "category": "健康生活方式", "page_num": 1, "source_file": "11.中小学生超重肥胖公共卫生综合防控技术导则_20260420223400.pdf"}
+{"match_tokens": ["population:学生"], "advice": "规律、适量进餐，每天吃好早餐，减少在外就餐，合理选择零食，少喝或不喝含糖饮料，足量饮水。", "category": "健康生活方式", "page_num": 2, "source_file": "11.中小学生超重肥胖公共卫生综合防控技术导则_20260420223400.pdf"}
+{"match_tokens": ["population:学生"], "advice": "进餐时不看电视、手机等电子设备。", "category": "健康生活方式", "page_num": 2, "source_file": "11.中小学生超重肥胖公共卫生综合防控技术导则_20260420223400.pdf"}
+{"match_tokens": ["population:学生"], "advice": "每天进行至少1小时中等及以上强度的身体活动，以户外活动为主。", "category": "健康生活方式", "page_num": 2, "source_file": "11.中小学生超重肥胖公共卫生综合防控技术导则_20260420223400.pdf"}
+{"match_tokens": ["population:学生"], "advice": "每周至少进行3天增强肌肉和（或）骨骼的运动，积极参加跑步、打球、健身操（舞）、跳绳等简便易行的运动。", "category": "健康生活方式", "page_num": 2, "source_file": "11.中小学生超重肥胖公共卫生综合防控技术导则_20260420223400.pdf"}
+{"match_tokens": ["population:学生"], "advice": "减少久坐等静态行为和视屏时间，久坐45分钟后应起身活动，每天视屏时间少于2小时。", "category": "健康生活方式", "page_num": 2, "source_file": "11.中小学生超重肥胖公共卫生综合防控技术导则_20260420223400.pdf"}
+{"match_tokens": ["population:学生"], "advice": "保持充足睡眠。", "category": "健康生活方式", "page_num": 2, "source_file": "11.中小学生超重肥胖公共卫生综合防控技术导则_20260420223400.pdf"}
+{"match_tokens": ["population:学生"], "advice": "学校应科学管理自动售卖机和小卖部，避免提供高盐、高糖及高脂食品。", "category": "健康生活方式", "page_num": 3, "source_file": "11.中小学生超重肥胖公共卫生综合防控技术导则_20260420223400.pdf"}
+{"match_tokens": ["population:学生"], "advice": "学校应积极开展“小手拉大手，大手牵小手”活动，通过多种途径提高家长和学生的健康素养，树立科学养育观念。", "category": "健康生活方式", "page_num": 3, "source_file": "11.中小学生超重肥胖公共卫生综合防控技术导则_20260420223400.pdf"}
+{"match_tokens": ["population:学生", "bmi:超重", "bmi:肥胖"], "advice": "专业机构指导学校结合中小学生健康体检等工作，开展中小学生超重肥胖监测，建立学生健康档案，及时向家长反馈体检结果。", "category": "健康生活方式", "page_num": 3, "source_file": "11.中小学生超重肥胖公共卫生综合防控技术导则_20260420223400.pdf"}
+{"match_tokens": ["population:学生", "bmi:超重", "bmi:肥胖"], "advice": "指导家长关注并定期监测学生体重变化。", "category": "健康生活方式", "page_num": 3, "source_file": "11.中小学生超重肥胖公共卫生综合防控技术导则_20260420223400.pdf"}
+{"match_tokens": ["population:学生", "bmi:超重", "bmi:肥胖"], "advice": "开展学生健康体检时，建议配备符合要求的身高计和体重秤，采用分年龄和性别的体质指数（BMI）筛查中小学生超重肥胖，并结合腰围、体成分等指标综合评估超重肥胖状况。", "category": "健康生活方式", "page_num": 3, "source_file": "11.中小学生超重肥胖公共卫生综合防控技术导则_20260420223400.pdf"}
+{"match_tokens": ["population:学生", "bmi:超重", "bmi:肥胖"], "advice": "对已发生超重或肥胖的学生，根据综合评估结果予以预警，并及时告知学校和家长。", "category": "治疗与康复", "page_num": 3, "source_file": "11.中小学生超重肥胖公共卫生综合防控技术导则_20260420223400.pdf"}
+{"match_tokens": ["population:学生", "bmi:超重", "bmi:肥胖"], "advice": "建议家长每周监测超重肥胖学生体重，并定期测定血压、血糖、血脂、血尿酸等指标，根据测定结果及变化特点，接受医疗机构指导和服务。", "category": "治疗与康复", "page_num": 3, "source_file": "11.中小学生超重肥胖公共卫生综合防控技术导则_20260420223400.pdf"}
+{"match_tokens": ["population:学生", "bmi:超重", "bmi:肥胖"], "advice": "适当控制膳食总能量的摄入，并监测生长发育水平。", "category": "健康生活方式", "page_num": 4, "source_file": "11.中小学生超重肥胖公共卫生综合防控技术导则_20260420223400.pdf"}
+{"match_tokens": ["population:学生", "bmi:超重", "bmi:肥胖"], "advice": "合理选择和摄入食物，多吃新鲜蔬菜、鱼类及瘦肉、大豆及其制品，适量增加全谷物、杂粮和杂豆的摄入。", "category": "健康生活方式", "page_num": 4, "source_file": "11.中小学生超重肥胖公共卫生综合防控技术导则_20260420223400.pdf"}
+{"match_tokens": ["population:学生", "bmi:超重", "bmi:肥胖"], "advice": "减少摄入精制白米面、添加糖、脂肪、特别是饱和脂肪酸含量较多的食物，避免摄入含反式脂肪酸较多的食物。", "category": "健康生活方式", "page_num": 4, "source_file": "11.中小学生超重肥胖公共卫生综合防控技术导则_20260420223400.pdf"}
+{"match_tokens": ["population:学生", "bmi:超重", "bmi:肥胖"], "advice": "有计划地进行中等及以上强度的身体活动（3-5次/周，每次50分钟）。", "category": "健康生活方式", "page_num": 4, "source_file": "11.中小学生超重肥胖公共卫生综合防控技术导则_20260420223400.pdf"}
+{"match_tokens": ["population:学生", "bmi:超重", "bmi:肥胖"], "advice": "进行增强肌肉力量和（或）骨骼健康的运动（2-3次/周）。", "category": "健康生活方式", "page_num": 4, "source_file": "11.中小学生超重肥胖公共卫生综合防控技术导则_20260420223400.pdf"}
+{"match_tokens": ["population:学生", "bmi:超重", "bmi:肥胖"], "advice": "掌握1-2项运动技能，培养终身运动习惯。", "category": "健康生活方式", "page_num": 4, "source_file": "11.中小学生超重肥胖公共卫生综合防控技术导则_20260420223400.pdf"}
+{"match_tokens": ["population:学生", "bmi:超重", "bmi:肥胖"], "advice": "不经常运动的肥胖学生可先从每天20分钟低强度有氧运动开始，逐渐增加运动量，直至达到推荐的身体活动量。", "category": "健康生活方式", "page_num": 4, "source_file": "11.中小学生超重肥胖公共卫生综合防控技术导则_20260420223400.pdf"}
+{"match_tokens": ["population:学生", "bmi:超重", "bmi:肥胖"], "advice": "鼓励父母或其他家庭成员共同参与儿童超重肥胖干预。", "category": "健康生活方式", "page_num": 4, "source_file": "11.中小学生超重肥胖公共卫生综合防控技术导则_20260420223400.pdf"}
+{"match_tokens": ["population:学生", "bmi:超重", "bmi:肥胖"], "advice": "采用提高认知、目标设定、自我监测等行为改变方法，养成良好的生活方式和行为习惯。", "category": "健康生活方式", "page_num": 4, "source_file": "11.中小学生超重肥胖公共卫生综合防控技术导则_20260420223400.pdf"}
+{"match_tokens": ["population:学生", "bmi:超重", "bmi:肥胖"], "advice": "按时、规律进餐，控制吃饭速度，吃好早餐，少吃零食，不喝含糖饮料，足量饮水。", "category": "健康生活方式", "page_num": 4, "source_file": "11.中小学生超重肥胖公共卫生综合防控技术导则_20260420223400.pdf"}
+{"match_tokens": ["population:学生", "bmi:超重", "bmi:肥胖"], "advice": "避免久坐，减少观看电子产品屏幕时间，保持充足、规律的睡眠。", "category": "健康生活方式", "page_num": 4, "source_file": "11.中小学生超重肥胖公共卫生综合防控技术导则_20260420223400.pdf"}
+{"match_tokens": ["population:学生", "bmi:肥胖", "risk:缺乏运动", "risk:高盐饮食"], "advice": "开展以合理膳食和身体活动为主的干预。", "category": "健康生活方式", "page_num": 5, "source_file": "11.中小学生超重肥胖公共卫生综合防控技术导则_20260420223400.pdf"}
+{"match_tokens": ["population:学生", "bmi:肥胖", "risk:缺乏运动", "risk:高盐饮食"], "advice": "控制膳食结构不合理、户外活动不足等危险因素。", "category": "健康生活方式", "page_num": 5, "source_file": "11.中小学生超重肥胖公共卫生综合防控技术导则_20260420223400.pdf"}
+{"match_tokens": ["population:学生", "bmi:肥胖"], "advice": "筛查超重肥胖学生，评估危险因素，形成预警机制。", "category": "健康生活方式", "page_num": 5, "source_file": "11.中小学生超重肥胖公共卫生综合防控技术导则_20260420223400.pdf"}
+{"match_tokens": ["population:学生", "bmi:肥胖"], "advice": "对严重肥胖及肥胖伴有临床危险因素的学生，开展医疗卫生、膳食、运动、心理和行为矫正等联合干预。", "category": "治疗与康复", "page_num": 5, "source_file": "11.中小学生超重肥胖公共卫生综合防控技术导则_20260420223400.pdf"}
+{"match_tokens": ["population:学生"], "advice": "提高学生、家长和教师防控知识和技能。", "category": "健康生活方式", "page_num": 5, "source_file": "11.中小学生超重肥胖公共卫生综合防控技术导则_20260420223400.pdf"}
+{"match_tokens": ["population:学生"], "advice": "加强健康教育教师培训，提高专业指导水平。", "category": "健康生活方式", "page_num": 5, "source_file": "11.中小学生超重肥胖公共卫生综合防控技术导则_20260420223400.pdf"}
+{"match_tokens": ["population:学生"], "advice": "组织各类健康知识培训和讲座，向学校、家庭、社区和单位宣传。", "category": "健康生活方式", "page_num": 5, "source_file": "11.中小学生超重肥胖公共卫生综合防控技术导则_20260420223400.pdf"}
+{"match_tokens": ["population:学生"], "advice": "鼓励学校、社区超市、蔬果店及餐馆饭店等公共场所设置营养标识或健康提示，为学生提供健康的食物和饮用水。", "category": "健康生活方式", "page_num": 5, "source_file": "11.中小学生超重肥胖公共卫生综合防控技术导则_20260420223400.pdf"}
+{"match_tokens": ["population:学生", "bmi:超重", "bmi:肥胖"], "advice": "鼓励有条件的地区和单位积极开发中小学生超重肥胖快速评估工具、智能餐盘、可穿戴设备等健康支持性工具，及时发现超重肥胖学生，开展个性化指导，实时评估效果。", "category": "健康生活方式", "page_num": 6, "source_file": "11.中小学生超重肥胖公共卫生综合防控技术导则_20260420223400.pdf"}
+{"match_tokens": ["population:学生", "risk:缺乏运动"], "advice": "每天进行中等到高等强度身体活动，时间达到1小时以上。", "category": "健康生活方式", "page_num": 7, "source_file": "11.中小学生超重肥胖公共卫生综合防控技术导则_20260420223400.pdf"}
+{"match_tokens": ["population:学生", "risk:缺乏运动"], "advice": "每天非学习久坐时间小于2小时。", "category": "健康生活方式", "page_num": 7, "source_file": "11.中小学生超重肥胖公共卫生综合防控技术导则_20260420223400.pdf"}
+{"match_tokens": ["population:学生"], "advice": "定期测量体重。", "category": "健康生活方式", "page_num": 7, "source_file": "11.中小学生超重肥胖公共卫生综合防控技术导则_20260420223400.pdf"}
+{"match_tokens": ["population:学生"], "advice": "每天吃全谷物、杂粮或杂豆。", "category": "健康生活方式", "page_num": 7, "source_file": "11.中小学生超重肥胖公共卫生综合防控技术导则_20260420223400.pdf"}
+{"match_tokens": ["population:学生"], "advice": "每顿饭都吃新鲜蔬菜和水果。", "category": "健康生活方式", "page_num": 7, "source_file": "11.中小学生超重肥胖公共卫生综合防控技术导则_20260420223400.pdf"}
+{"match_tokens": ["population:学生", "risk:高盐饮食"], "advice": "含糖饮料食用频率低于1次/周。", "category": "健康生活方式", "page_num": 7, "source_file": "11.中小学生超重肥胖公共卫生综合防控技术导则_20260420223400.pdf"}
+{"match_tokens": ["population:学生", "risk:高盐饮食"], "advice": "油炸食品食用频率低于1次/周。", "category": "健康生活方式", "page_num": 7, "source_file": "11.中小学生超重肥胖公共卫生综合防控技术导则_20260420223400.pdf"}
+{"match_tokens": ["population:学生"], "advice": "每天吃早餐。", "category": "健康生活方式", "page_num": 7, "source_file": "11.中小学生超重肥胖公共卫生综合防控技术导则_20260420223400.pdf"}

@@ -1,0 +1,557 @@
+{"match_tokens": ["disease:其他病症"], "advice": "定期进行心力衰竭的规范化诊断和治疗，遵循最新的临床指南。", "category": "治疗与康复", "page_num": 1}
+{"match_tokens": ["disease:其他病症"], "advice": "结合国内外最新临床研究成果和我国国情，更新心力衰竭的诊疗方法。", "category": "治疗与康复", "page_num": 1}
+{"match_tokens": ["disease:其他病症"], "advice": "参考欧洲心脏病学会和美国相关协会发布的心力衰竭指南，优化临床实践。", "category": "治疗与康复", "page_num": 1}
+{"match_tokens": ["disease:高血压", "disease:糖尿病", "disease:肥胖症", "risk:缺乏运动"], "advice": "控制高血压、糖尿病、肥胖等慢性病，以降低心力衰竭的患病风险。", "category": "健康生活方式", "page_num": 2}
+{"match_tokens": ["age:老年人", "disease:冠心病", "disease:高血压", "disease:糖尿病", "disease:肥胖症"], "advice": "老年人应积极管理冠心病、高血压、糖尿病、肥胖等慢性病，以应对心力衰竭患病率上升的趋势。", "category": "治疗与康复", "page_num": 2}
+{"match_tokens": ["disease:高血压", "disease:糖尿病", "disease:肥胖症"], "advice": "通过控制高血压、糖尿病、肥胖等慢性病，降低心力衰竭的患病风险。", "category": "健康生活方式", "page_num": 2}
+{"match_tokens": ["age:成人", "disease:高血压", "disease:糖尿病", "disease:脑血管病"], "advice": "根据病史、体格检查、心电图、胸部影像学检查判断有无心衰的可能性。", "category": "治疗与康复", "page_num": 3}
+{"match_tokens": ["age:成人", "disease:高血压", "disease:糖尿病", "disease:脑血管病"], "advice": "通过血浆利钠肽检测和超声心动图明确是否存在心衰。", "category": "治疗与康复", "page_num": 3}
+{"match_tokens": ["age:成人", "disease:高血压", "disease:糖尿病", "disease:脑血管病"], "advice": "结合具有针对性的特殊检查进一步确定心衰的病因、诱因和分型。", "category": "治疗与康复", "page_num": 3}
+{"match_tokens": ["age:成人", "disease:高血压", "disease:糖尿病", "disease:脑血管病"], "advice": "评估病情的严重程度及预后，以及是否存在并发症及合并症。", "category": "治疗与康复", "page_num": 3}
+{"match_tokens": ["age:成人", "disease:高血压", "disease:糖尿病", "disease:脑血管病"], "advice": "体格检查应评估患者的生命体征和判断液体潴留的严重程度，注意有无近期体重增加、颈静脉充盈、外周水肿等。", "category": "治疗与康复", "page_num": 3}
+{"match_tokens": ["age:成人", "disease:高血压", "disease:糖尿病", "disease:脑血管病"], "advice": "所有心衰和怀疑心衰患者均应行心电图检查，明确心律、心率、QRS形态和宽度及是否存在频发房性或室性早搏、心房颤动（房颤）或左心室肥厚等。", "category": "治疗与康复", "page_num": 3}
+{"match_tokens": ["age:成人", "disease:高血压", "disease:糖尿病", "disease:脑血管病"], "advice": "怀疑存在心律失常或无症状性心肌缺血时应行24 h动态心电图检查。", "category": "治疗与康复", "page_num": 3}
+{"match_tokens": ["age:成人", "disease:高血压", "disease:糖尿病", "disease:脑血管病"], "advice": "对疑似、急性、新发的心衰患者应行胸部影像学检查，以识别/排除肺部疾病或其他引起呼吸困难的疾病，提供肺淤血/水肿和心脏增大的信息。", "category": "治疗与康复", "page_num": 3}
+{"match_tokens": ["age:成人", "disease:高血压", "disease:糖尿病", "disease:脑血管病"], "advice": "血浆利钠肽检测推荐用于心衰筛查、诊断和鉴别诊断，病情严重程度及预后评估。", "category": "治疗与康复", "page_num": 3}
+{"match_tokens": ["age:成人", "disease:高血压", "disease:糖尿病", "disease:脑血管病"], "advice": "出院前的血浆利钠肽检测有助于评估心衰患者出院后的心血管事件风险。", "category": "治疗与康复", "page_num": 3}
+{"match_tokens": ["disease:高血压"], "advice": "对于高血压患者，建议进行24小时动态血压监测、血尿儿茶酚胺、肾素和醛固酮检查以及肾动脉成像。", "category": "治疗与康复", "page_num": 4}
+{"match_tokens": ["disease:糖尿病"], "advice": "对于糖尿病患者，建议进行血糖检查。", "category": "治疗与康复", "page_num": 4}
+{"match_tokens": ["disease:肥胖症"], "advice": "对于肥胖患者，建议进行血清营养素检测。", "category": "治疗与康复", "page_num": 4}
+{"match_tokens": ["disease:甲状腺疾病"], "advice": "对于甲状腺疾病患者，建议进行甲状腺功能检查。", "category": "治疗与康复", "page_num": 4}
+{"match_tokens": ["disease:贫血"], "advice": "对于贫血患者，建议进行血清营养素检测。", "category": "治疗与康复", "page_num": 4}
+{"match_tokens": ["disease:肾功能不全"], "advice": "对于肾功能不全患者，建议进行血肌酐检查。", "category": "治疗与康复", "page_num": 4}
+{"match_tokens": ["disease:系统性红斑狼疮"], "advice": "对于系统性红斑狼疮患者，建议进行血清学检查、心脏磁共振和心内膜心肌活检。", "category": "治疗与康复", "page_num": 4}
+{"match_tokens": ["disease:心肌梗死"], "advice": "对于心肌梗死患者，建议进行冠状动脉造影、冠状动脉CTA和运动负荷试验。", "category": "治疗与康复", "page_num": 4}
+{"match_tokens": ["disease:冠状动脉病变"], "advice": "对于冠状动脉病变患者，建议进行冠状动脉造影、冠状动脉CTA和运动负荷试验。", "category": "治疗与康复", "page_num": 4}
+{"match_tokens": ["disease:心肌淀粉样变"], "advice": "对于心肌淀粉样变患者，建议进行血清免疫固定电泳和血清游离轻链、尿本周氏蛋白、血清ACE、铁、α半乳糖苷酶、基因检测、骨闪烁显像、超声心动图、心脏磁共振、胸部CT、CT-PET、FDG-PET和心内膜心肌活检。", "category": "治疗与康复", "page_num": 4}
+{"match_tokens": ["disease:结节病"], "advice": "对于结节病患者，建议进行血清免疫固定电泳和血清游离轻链、尿本周氏蛋白、血清ACE、铁、α半乳糖苷酶、基因检测、骨闪烁显像、超声心动图、心脏磁共振、胸部CT、CT-PET、FDG-PET和心内膜心肌活检。", "category": "治疗与康复", "page_num": 4}
+{"match_tokens": ["disease:血色病"], "advice": "对于血色病患者，建议进行血清免疫固定电泳和血清游离轻链、尿本周氏蛋白、血清ACE、铁、α半乳糖苷酶、基因检测、骨闪烁显像、超声心动图、心脏磁共振、胸部CT、CT-PET、FDG-PET和心内膜心肌活检。", "category": "治疗与康复", "page_num": 4}
+{"match_tokens": ["disease:糖原贮积病"], "advice": "对于糖原贮积病患者，建议进行血清免疫固定电泳和血清游离轻链、尿本周氏蛋白、血清ACE、铁、α半乳糖苷酶、基因检测、骨闪烁显像、超声心动图、心脏磁共振、胸部CT、CT-PET、FDG-PET和心内膜心肌活检。", "category": "治疗与康复", "page_num": 4}
+{"match_tokens": ["disease:肥厚型心肌病"], "advice": "对于肥厚型心肌病患者，建议进行超声心动图、心脏磁共振、心内膜心肌活检、肌肉活检和基因检测。", "category": "治疗与康复", "page_num": 4}
+{"match_tokens": ["disease:扩张型心肌病"], "advice": "对于扩张型心肌病患者，建议进行超声心动图、心脏磁共振、心内膜心肌活检、肌肉活检和基因检测。", "category": "治疗与康复", "page_num": 4}
+{"match_tokens": ["disease:限制型心肌病"], "advice": "对于限制型心肌病患者，建议进行超声心动图、心脏磁共振、心内膜心肌活检、肌肉活检和基因检测。", "category": "治疗与康复", "page_num": 4}
+{"match_tokens": ["disease:致心律失常性右心室心肌病"], "advice": "对于致心律失常性右心室心肌病患者，建议进行超声心动图、心脏磁共振、心内膜心肌活检、肌肉活检和基因检测。", "category": "治疗与康复", "page_num": 4}
+{"match_tokens": ["disease:左心室致密化不全"], "advice": "对于左心室致密化不全患者，建议进行超声心动图、心脏磁共振、心内膜心肌活检、肌肉活检和基因检测。", "category": "治疗与康复", "page_num": 4}
+{"match_tokens": ["disease:核纤层蛋白病"], "advice": "对于核纤层蛋白病患者，建议进行超声心动图、心脏磁共振、心内膜心肌活检、肌肉活检和基因检测。", "category": "治疗与康复", "page_num": 4}
+{"match_tokens": ["disease:肌营养不良症"], "advice": "对于肌营养不良症患者，建议进行超声心动图、心脏磁共振、心内膜心肌活检、肌肉活检和基因检测。", "category": "治疗与康复", "page_num": 4}
+{"match_tokens": ["disease:应激性心肌病"], "advice": "对于应激性心肌病患者，建议进行超声心动图、冠状动脉造影、左心室造影和心脏磁共振。", "category": "治疗与康复", "page_num": 4}
+{"match_tokens": ["disease:先天性心脏病"], "advice": "对于先天性心脏病患者，建议进行超声心动图（经胸、经食管/负荷试验）和心导管检查。", "category": "治疗与康复", "page_num": 4}
+{"match_tokens": ["disease:缩窄性心包炎"], "advice": "对于缩窄性心包炎患者，建议进行胸部CT、心脏磁共振、心内膜心肌活检和右心导管检查。", "category": "治疗与康复", "page_num": 4}
+{"match_tokens": ["disease:心内膜纤维化"], "advice": "对于心内膜纤维化患者，建议进行胸部CT、心脏磁共振、心内膜心肌活检和右心导管检查。", "category": "治疗与康复", "page_num": 4}
+{"match_tokens": ["disease:肺血管疾病"], "advice": "对于肺血管疾病患者，建议进行胸部CT、右心导管、肺血管CT或造影。", "category": "治疗与康复", "page_num": 4}
+{"match_tokens": ["disease:室上性和室性心律失常"], "advice": "对于室上性和室性心律失常患者，建议进行电生理检查（如有指征）。", "category": "治疗与康复", "page_num": 4}
+{"match_tokens": ["disease:窦房结功能异常"], "advice": "对于窦房结功能异常患者，建议进行动态心电图检查。", "category": "治疗与康复", "page_num": 4}
+{"match_tokens": ["disease:传导系统异常"], "advice": "对于传导系统异常患者，建议进行动态心电图检查。", "category": "治疗与康复", "page_num": 4}
+{"match_tokens": ["disease:其他病症"], "advice": "对于使用血管紧张素受体脑啡肽酶抑制剂的患者，血浆BNP不能作为评估心衰好转或恶化指标，而血浆NT-proBNP可以作为相应指标。", "category": "治疗与康复", "page_num": 4}
+{"match_tokens": ["disease:其他病症"], "advice": "对于心衰患者，推荐入院时行心肌肌钙蛋白检测，用于急性心衰患者的病因诊断和预后评估。", "category": "治疗与康复", "page_num": 4}
+{"match_tokens": ["disease:高血压", "disease:冠心病", "disease:糖尿病", "risk:酗酒"], "advice": "高血压、冠心病、糖尿病、肥胖、代谢综合征患者及具有使用心脏毒性药物史、酗酒史、风湿热史、心肌病家族史的患者等属于心衰高危人群，应定期进行心脏结构和功能评估。", "category": "治疗与康复", "page_num": 5}
+{"match_tokens": ["symptom:疲劳", "symptom:心悸"], "advice": "日常活动引起明显的气促、疲乏或心悸时，应评估心功能分级。", "category": "治疗与康复", "page_num": 5}
+{"match_tokens": ["symptom:呼吸困难"], "advice": "休息时也有呼吸困难等症状，任何体力活动均会引起不适时，应及时就医并可能需要静脉给药支持。", "category": "急症处理", "page_num": 5}
+{"match_tokens": ["disease:高血压", "disease:冠心病", "disease:糖尿病", "bmi:肥胖"], "advice": "高血压、冠心病、糖尿病、肥胖、代谢综合征患者应定期进行经胸超声心动图检查，以评估心脏结构和功能。", "category": "治疗与康复", "page_num": 5}
+{"match_tokens": ["disease:高血压", "disease:冠心病", "disease:糖尿病", "bmi:肥胖"], "advice": "对于存在心衰风险的患者，应考虑采用超声斑点跟踪技术测量的心肌应变参数，以利于早期诊断。", "category": "治疗与康复", "page_num": 5}
+{"match_tokens": ["disease:高血压", "disease:糖尿病"], "advice": "进行血常规、血钠、血钾、血糖、尿素氮、肌酐或eGFR、肝酶和胆红素、血清铁、铁蛋白、总铁结合力、转铁蛋白饱和度、血脂、糖化血红蛋白、促甲状腺激素、利钠肽等初始常规检查。", "category": "治疗与康复", "page_num": 6}
+{"match_tokens": ["disease:高血压", "disease:糖尿病"], "advice": "当临床怀疑心衰由某种特殊病因（如心肌淀粉样变、嗜铬细胞瘤等）导致时，应进行相应的筛查和确诊性检查。", "category": "治疗与康复", "page_num": 6}
+{"match_tokens": ["disease:高血压", "disease:糖尿病"], "advice": "当超声心动图未能作出诊断时，心脏磁共振（CMR）是最好的替代影像学检查，可用于测量左/右心室容量、质量和LVEF。", "category": "治疗与康复", "page_num": 6}
+{"match_tokens": ["disease:高血压", "disease:糖尿病"], "advice": "对于扩张型心肌病患者，在临床和其他影像学检查不能明确诊断的情况下，应考虑采用延迟钆增强（LGE），以鉴别缺血性与非缺血性心肌损害。", "category": "治疗与康复", "page_num": 6}
+{"match_tokens": ["disease:高血压", "disease:糖尿病"], "advice": "对于疑似心肌炎、淀粉样变、结节病、Chagas病、Fabry病、心室致密化不全和血色病的患者，推荐采用CMR来显示心肌组织的特征。", "category": "治疗与康复", "page_num": 6}
+{"match_tokens": ["disease:高血压", "disease:糖尿病"], "advice": "适用于经药物治疗后仍有心绞痛的患者或合并有症状的室性心律失常患者进行冠状动脉造影。", "category": "治疗与康复", "page_num": 6}
+{"match_tokens": ["disease:高血压", "disease:糖尿病"], "advice": "对有冠心病危险因素、无创检查提示存在心肌缺血的心衰患者，可考虑进行冠状动脉造影。", "category": "治疗与康复", "page_num": 6}
+{"match_tokens": ["disease:高血压", "disease:糖尿病"], "advice": "对低中度可疑的冠心病或负荷试验未能明确诊断心肌缺血的心衰患者，可考虑行冠状动脉CTA以排除冠状动脉狭窄。", "category": "治疗与康复", "page_num": 6}
+{"match_tokens": ["disease:高血压", "disease:糖尿病"], "advice": "运动或药物负荷超声心动图可用于HFpEF、不明原因的呼吸困难、心肌缺血和（或）部分瓣膜性心脏病患者的评估。", "category": "治疗与康复", "page_num": 6}
+{"match_tokens": ["disease:高血压", "disease:糖尿病"], "advice": "对存在劳力性呼吸困难，LVEF正常但静息舒张功能参数不能明确是否存在异常的患者，负荷超声心动图有一定辅助作用。", "category": "治疗与康复", "page_num": 6}
+{"match_tokens": ["disease:高血压", "disease:糖尿病"], "advice": "当超声心动图未能作出诊断时，可使用核素心室造影评估左心室容量和LVEF。", "category": "治疗与康复", "page_num": 6}
+{"match_tokens": ["disease:高血压", "disease:糖尿病"], "advice": "对心衰合并冠心病的患者，在决定行血运重建前，可考虑用核素心肌灌注和（或）代谢显像评估心肌缺血和心肌存活情况。", "category": "治疗与康复", "page_num": 6}
+{"match_tokens": ["disease:高血压", "disease:糖尿病"], "advice": "心肺运动试验能够量化运动能力，可用于接受心脏移植和（或）机械循环辅助（MCS）患者的临床评估。", "category": "治疗与康复", "page_num": 6}
+{"match_tokens": ["disease:高血压", "disease:糖尿病"], "advice": "心肺运动试验适用于临床症状稳定2周以上的慢性心衰患者，可用于指导运动处方的优化。", "category": "治疗与康复", "page_num": 6}
+{"match_tokens": ["disease:高血压", "disease:糖尿病"], "advice": "心肺运动试验可用于原因不明呼吸困难的鉴别诊断。", "category": "治疗与康复", "page_num": 6}
+{"match_tokens": ["disease:高血压", "disease:糖尿病"], "advice": "进行6 min步行试验以评估运动耐量，并根据步行距离判断心衰严重程度。", "category": "治疗与康复", "page_num": 6}
+{"match_tokens": ["disease:高血压", "disease:糖尿病"], "advice": "在慢性心衰时，考虑心脏移植或MCS的重症心衰患者应进行右心导管和肺动脉导管检查作为术前评估。", "category": "治疗与康复", "page_num": 6}
+{"match_tokens": ["disease:高血压", "disease:糖尿病"], "advice": "超声心动图提示肺高血压的患者，在瓣膜性或结构性心脏病干预治疗前应通过右心导管和肺动脉导管检查评估肺高血压严重程度及其可逆性。", "category": "治疗与康复", "page_num": 6}
+{"match_tokens": ["disease:高血压", "disease:糖尿病"], "advice": "疑似由缩窄性心包炎、限制型心肌病、先天性心脏病或高输出量状态引起的心衰患者，可进行右心导管和肺动脉导管检查以辅助诊断。", "category": "治疗与康复", "page_num": 6}
+{"match_tokens": ["disease:高血压", "disease:糖尿病"], "advice": "对经规范治疗后仍存在严重症状或血流动力学状态不明确的患者，可进行右心导管和肺动脉导管检查以调整治疗方案。", "category": "治疗与康复", "page_num": 6}
+{"match_tokens": ["disease:高血压", "disease:糖尿病"], "advice": "右心导管和肺动脉导管检查可用于HFpEF诊断。", "category": "治疗与康复", "page_num": 6}
+{"match_tokens": ["disease:高血压", "disease:糖尿病"], "advice": "仅推荐用于经规范治疗后病情仍快速进展，临床怀疑心衰是由可治疗的特殊病因所致且只能通过心肌活检明确诊断者进行心肌活检。", "category": "治疗与康复", "page_num": 6}
+{"match_tokens": ["disease:高血压", "disease:糖尿病"], "advice": "对肥厚型心肌病、特发性扩张型心肌病、致心律失常性右心室心肌病患者，推荐基因检测和遗传咨询。", "category": "治疗与康复", "page_num": 6}
+{"match_tokens": ["disease:高血压", "disease:糖尿病"], "advice": "限制型心肌病和孤立的致密化不全心肌病亦可能具有遗传起源，也可考虑基因检测。", "category": "治疗与康复", "page_num": 6}
+{"match_tokens": ["disease:高血压"], "advice": "根据高血压指南控制高血压以预防或延缓心衰发生。", "category": "治疗与康复", "page_num": 7}
+{"match_tokens": ["disease:高血压", "risk:高盐饮食"], "advice": "限钠（<3 g/d）有助于减轻和控制NYHA 心功能Ⅲ/Ⅳ级心衰患者的淤血症状和体征。", "category": "治疗与康复", "page_num": 7}
+{"match_tokens": ["disease:高血压"], "advice": "对存在多种心血管疾病危险因素、靶器官损伤或心血管疾病的高血压患者，血压应控制在130/80 mmHg以下。", "category": "治疗与康复", "page_num": 7}
+{"match_tokens": ["disease:糖尿病"], "advice": "根据目前糖尿病指南控制糖尿病。", "category": "治疗与康复", "page_num": 7}
+{"match_tokens": ["disease:糖尿病"], "advice": "在合并心血管疾病或心血管高危因素的糖尿病患者中使用钠-葡萄糖协同转运蛋白2抑制剂降低心衰住院风险。", "category": "治疗与康复", "page_num": 7}
+{"match_tokens": ["bmi:肥胖"], "advice": "控制肥胖可能有助于预防心衰发生。", "category": "健康生活方式", "page_num": 7}
+{"match_tokens": ["bmi:肥胖", "risk:缺乏运动"], "advice": "对肥胖或具有久坐习惯的患者，在生活管理上应加强身体活动或体育锻炼，注重健康饮食。", "category": "健康生活方式", "page_num": 7}
+{"match_tokens": ["risk:吸烟"], "advice": "戒烟有助于预防或延缓心衰发生。", "category": "健康生活方式", "page_num": 7}
+{"match_tokens": ["risk:饮酒"], "advice": "限酒有助于预防或延缓心衰发生。", "category": "健康生活方式", "page_num": 7}
+{"match_tokens": ["disease:高血压", "disease:糖尿病", "disease:脑血管病"], "advice": "心衰高危人群（高血压、糖尿病、血管疾病等）经利钠肽筛查，并接受专业团队的管理和干预，可预防心衰发生。", "category": "治疗与康复", "page_num": 7}
+{"match_tokens": ["disease:高血压", "disease:糖尿病", "disease:脑血管病"], "advice": "建议检测利钠肽水平以筛查心衰高危人群，控制危险因素和干预生活方式有助于预防左心室功能障碍或新发心衰。", "category": "治疗与康复", "page_num": 7}
+{"match_tokens": ["disease:高血压"], "advice": "存在心脏结构改变（如左心室肥厚）的高血压患者应优化血压控制，预防发展为有症状的心衰。", "category": "治疗与康复", "page_num": 7}
+{"match_tokens": ["disease:无特定疾病"], "advice": "慢性心衰急性发作伴有容量负荷过重且无低钠血症的患者，应限制钠摄入<2 g/d。", "category": "治疗与康复", "page_num": 7}
+{"match_tokens": ["disease:无特定疾病"], "advice": "对于轻中度症状的患者常规限制液体并无益处，但对严重低钠血症（血钠<130 mmol/L）患者水摄入量应<2 L/d。", "category": "治疗与康复", "page_num": 7}
+{"match_tokens": ["disease:无特定疾病"], "advice": "心衰患者宜摄入低脂饮食。", "category": "健康生活方式", "page_num": 7}
+{"match_tokens": ["disease:其他病症"], "advice": "吸烟患者应戒烟。", "category": "健康生活方式", "page_num": 8}
+{"match_tokens": ["disease:其他病症", "bmi:肥胖"], "advice": "肥胖患者应酌情减轻体重。", "category": "健康生活方式", "page_num": 8}
+{"match_tokens": ["disease:其他病症"], "advice": "失代偿期的患者需卧床休息，多做被动运动以预防深部静脉血栓形成。", "category": "治疗与康复", "page_num": 8}
+{"match_tokens": ["disease:其他病症"], "advice": "患者临床情况改善后在不诱发症状的前提下，应鼓励进行运动训练或规律的体力活动。", "category": "治疗与康复", "page_num": 8}
+{"match_tokens": ["disease:其他病症"], "advice": "开始应用利尿剂或增加剂量1~2周后，应复查血钾和肾功能。", "category": "治疗与康复", "page_num": 8}
+{"match_tokens": ["disease:其他病症"], "advice": "每日体重变化是常用的监测指标。可指导患者根据病情需要（症状、水肿、体重变化）调整剂量。", "category": "治疗与康复", "page_num": 8}
+{"match_tokens": ["disease:其他病症"], "advice": "血钾3.0~4.0 mmol/L可给予口服补钾治疗，而对于血钾<3.0 mmol/L应采取口服和静脉联合补钾，必要时经深静脉补钾。", "category": "治疗与康复", "page_num": 8}
+{"match_tokens": ["disease:其他病症"], "advice": "低钠血症（血钠<135 mmol/L）时应注意区别缺钠性低钠血症和稀释性低钠血症。", "category": "治疗与康复", "page_num": 8}
+{"match_tokens": ["disease:其他病症"], "advice": "若低钠血症合并容量不足时，可考虑停用利尿剂。低钠血症合并容量过多时应限制入量，考虑托伐普坦及超滤治疗。", "category": "治疗与康复", "page_num": 8}
+{"match_tokens": ["disease:其他病症"], "advice": "若无淤血症状及体征，应先减少利尿剂剂量；若仍伴有低血压症状，还应调整其他扩血管药物（如硝酸酯）的剂量。", "category": "治疗与康复", "page_num": 8}
+{"match_tokens": ["disease:高血压", "disease:脑血管病"], "advice": "联合使用襻利尿剂和噻嗪类利尿剂者若出现肾功能损伤，应停用噻嗪类利尿剂。", "category": "治疗与康复", "page_num": 9}
+{"match_tokens": ["disease:高血压", "disease:脑血管病"], "advice": "避免使用非甾体抗炎药等肾毒性药物，因其会影响利尿剂药效并导致肾功能损害。", "category": "治疗与康复", "page_num": 9}
+{"match_tokens": ["disease:高血压", "disease:脑血管病"], "advice": "出现高尿酸血症时，可考虑生活方式干预和加用降尿酸药。", "category": "治疗与康复", "page_num": 9}
+{"match_tokens": ["disease:高血压", "disease:脑血管病"], "advice": "痛风发作时可用秋水仙碱，避免用非甾体抗炎药。", "category": "治疗与康复", "page_num": 9}
+{"match_tokens": ["disease:高血压", "disease:脑血管病"], "advice": "使用托伐普坦时，若出现慢性低钠血症，纠正不宜过快，以避免渗透性脱髓鞘综合征。", "category": "治疗与康复", "page_num": 9}
+{"match_tokens": ["disease:高血压", "disease:脑血管病"], "advice": "对NYHA心功能Ⅱ/Ⅲ级的HFrEF患者，推荐使用ARNI以降低心衰的发病率及死亡率。", "category": "治疗与康复", "page_num": 9}
+{"match_tokens": ["disease:高血压", "disease:脑血管病"], "advice": "对NYHA心功能Ⅱ/Ⅲ级、接受ACEI/ARB治疗仍有症状的HFrEF患者，推荐使用ARNI替代ACEI/ARB。", "category": "治疗与康复", "page_num": 9}
+{"match_tokens": ["disease:高血压", "disease:脑血管病"], "advice": "沙库巴曲缬沙坦起始剂量推荐为50 mg，2次/d，适用于新诊断、未服用过ACEI/ARB、或既往使用低/中等剂量ACEI/ARB等患者。", "category": "治疗与康复", "page_num": 9}
+{"match_tokens": ["disease:高血压", "disease:脑血管病"], "advice": "对于收缩压95~100 mmHg以及合并脏器功能损伤的高龄患者，沙库巴曲缬沙坦起始剂量需降至25 mg，2次/d。", "category": "治疗与康复", "page_num": 9}
+{"match_tokens": ["disease:高血压", "disease:脑血管病"], "advice": "对于合并高血压或既往服用中等以上剂量ACEI/ARB的患者，沙库巴曲缬沙坦起始剂量可调整为100 mg，2次/d。", "category": "治疗与康复", "page_num": 9}
+{"match_tokens": ["disease:高血压", "disease:脑血管病"], "advice": "由ACEI/ARB转为ARNI治疗前，需停用ACEI 36小时，并确保患者血压稳定，eGFR≥30 ml·min⁻¹·1.73 m⁻²。", "category": "治疗与康复", "page_num": 9}
+{"match_tokens": ["disease:高血压", "disease:脑血管病"], "advice": "每2~4周将ARNI剂量加倍，逐渐滴定至目标剂量，并在起始治疗和剂量调整后监测血压、肾功能和血钾。", "category": "治疗与康复", "page_num": 9}
+{"match_tokens": ["disease:高血压", "symptom:低血压"], "advice": "若出现症状性低血压，可先调整或停用其他有降压作用的药物；若无液体潴留，利尿剂可减量；若血钠<130 mmol/L，可增加食盐摄入。", "category": "治疗与康复", "page_num": 10}
+{"match_tokens": ["disease:高血压", "symptom:高钾血症"], "advice": "若血钾>5.5 mmol/L，应停用ARNI类药物；血钾>6.0 mmol/L时，还应采取降低血钾的措施，如口服钾结合剂。", "category": "治疗与康复", "page_num": 10}
+{"match_tokens": ["disease:高血压", "symptom:肾功能恶化"], "advice": "开始服药和调整剂量后应监测血压、血钾及肾功能。", "category": "治疗与康复", "page_num": 10}
+{"match_tokens": ["disease:高血压", "symptom:血管神经性水肿"], "advice": "发生血管神经性水肿的患者应终生禁用ARNI类药物。", "category": "治疗与康复", "page_num": 10}
+{"match_tokens": ["disease:高血压", "population:孕妇"], "advice": "妊娠妇女禁用ACEI类药物。", "category": "治疗与康复", "page_num": 10}
+{"match_tokens": ["disease:高血压"], "advice": "使用ACEI类药物时，应尽早使用，从小剂量开始，逐渐递增，每隔2周剂量倍增1次，直至达到最大耐受剂量或目标剂量。", "category": "治疗与康复", "page_num": 10}
+{"match_tokens": ["disease:高血压"], "advice": "调整至最佳剂量后应长期维持，避免突然停药。", "category": "治疗与康复", "page_num": 10}
+{"match_tokens": ["disease:高血压"], "advice": "使用ARB类药物时，应从小剂量开始，逐渐增至推荐的目标剂量或可耐受的最大剂量。", "category": "治疗与康复", "page_num": 10}
+{"match_tokens": ["disease:高血压"], "advice": "开始应用ARB类药物及调整剂量后1~2周内，应监测血压、肾功能和血钾。", "category": "治疗与康复", "page_num": 10}
+{"match_tokens": ["disease:高血压"], "advice": "使用β受体阻滞剂时，起始剂量须小，每隔2~4周可剂量加倍，逐渐达到指南推荐的目标剂量或最大可耐受剂量，并长期使用。", "category": "治疗与康复", "page_num": 10}
+{"match_tokens": ["disease:高血压"], "advice": "使用β受体阻滞剂时，要密切观察心率、血压。", "category": "治疗与康复", "page_num": 10}
+{"match_tokens": ["disease:高血压", "symptom:心动过缓"], "advice": "心率<50次/min、低血压（收缩压<90 mmHg）时，禁用β受体阻滞剂。", "category": "治疗与康复", "page_num": 10}
+{"match_tokens": ["disease:高血压", "symptom:哮喘"], "advice": "支气管哮喘急性发作期禁用β受体阻滞剂。", "category": "治疗与康复", "page_num": 10}
+{"match_tokens": ["disease:其他病症"], "advice": "有液体潴留或最近曾有液体潴留的心衰患者，必须同时使用利尿剂。", "category": "治疗与康复", "page_num": 11}
+{"match_tokens": ["disease:其他病症"], "advice": "β受体阻滞剂突然停药可能会导致病情恶化，在慢性心衰急性失代偿期，一般情况下尽可能继续维持使用。", "category": "治疗与康复", "page_num": 11}
+{"match_tokens": ["disease:其他病症"], "advice": "心动过缓（50~60次/min）和血压偏低（收缩压85~90 mmHg）的患者可减少β受体阻滞剂剂量。", "category": "治疗与康复", "page_num": 11}
+{"match_tokens": ["disease:其他病症"], "advice": "严重心动过缓（<50 次/min）、严重低血压（收缩压<85 mmHg）和休克患者应停用β受体阻滞剂，但在出院前应再次启动治疗。", "category": "治疗与康复", "page_num": 11}
+{"match_tokens": ["disease:其他病症"], "advice": "使用β受体阻滞剂时，当液体潴留加重，先增加利尿剂剂量，如无效或病情严重，β受体阻滞剂应减量。", "category": "治疗与康复", "page_num": 11}
+{"match_tokens": ["disease:其他病症"], "advice": "使用β受体阻滞剂出现明显乏力时，需排除睡眠呼吸暂停低通气综合征、过度利尿或抑郁等，若考虑与β受体阻滞剂应用或加量相关，则应减量。", "category": "治疗与康复", "page_num": 11}
+{"match_tokens": ["disease:其他病症"], "advice": "使用β受体阻滞剂时，心率<50 次/min，或出现二度及以上AVB时，应减量或停药。", "category": "治疗与康复", "page_num": 11}
+{"match_tokens": ["disease:其他病症"], "advice": "使用β受体阻滞剂出现低血压，若伴有低灌注的症状，应减量或停用，并重新评估患者的临床情况。", "category": "治疗与康复", "page_num": 11}
+{"match_tokens": ["disease:其他病症"], "advice": "对有症状的HFrEF患者，推荐使用MRA降低心衰死亡率和住院率，除非有禁忌证或不能耐受。", "category": "治疗与康复", "page_num": 11}
+{"match_tokens": ["disease:其他病症"], "advice": "使用螺内酯，初始剂量10~20 mg，1次/d，至少观察2周后再加量，目标剂量20~40 mg，1次/d。", "category": "治疗与康复", "page_num": 11}
+{"match_tokens": ["disease:其他病症"], "advice": "使用依普利酮，初始剂量25 mg，1次/d，目标剂量50 mg，1次/d。", "category": "治疗与康复", "page_num": 11}
+{"match_tokens": ["disease:其他病症"], "advice": "MRA与襻利尿剂合用便不需要再同时补钾，除非有低钾血症。", "category": "治疗与康复", "page_num": 11}
+{"match_tokens": ["disease:其他病症"], "advice": "使用MRA治疗后3 d和1周应监测血钾和肾功能，前3个月每月监测1次，以后每3个月1次。", "category": "治疗与康复", "page_num": 11}
+{"match_tokens": ["disease:其他病症"], "advice": "使用MRA时，如血钾>5.5 mmol/L 或eGFR<30 ml·min-1·1.73 m-2 应减量并密切观察。", "category": "治疗与康复", "page_num": 11}
+{"match_tokens": ["disease:其他病症"], "advice": "使用MRA时，血钾>6.0 mmol/L 或eGFR<20 ml·min-1·1.73 m-2应停用。", "category": "治疗与康复", "page_num": 11}
+{"match_tokens": ["disease:其他病症"], "advice": "有症状的HFrEF患者，无论是否伴有糖尿病均推荐使用SGLT2i（达格列净或恩格列净）以降低心衰住院和死亡率，除非有禁忌证或不能耐受。", "category": "治疗与康复", "page_num": 11}
+{"match_tokens": ["disease:其他病症"], "advice": "达格列净和恩格列净的起始剂量和目标剂量均为10 mg，1次/d。对于收缩压<100 mmHg的患者起始剂量可为2.5~5 mg。", "category": "治疗与康复", "page_num": 11}
+{"match_tokens": ["disease:其他病症"], "advice": "开始使用SGLT2i治疗后定期检查和监测肾功能、血糖和体液平衡，特别是高龄、体弱及糖尿病患者。", "category": "治疗与康复", "page_num": 11}
+{"match_tokens": ["disease:其他病症"], "advice": "对具有代谢性酸中毒症状与体征的患者，无论患者血糖水平如何，均需评估是否存在酮症酸中毒。", "category": "治疗与康复", "page_num": 11}
+{"match_tokens": ["disease:其他病症"], "advice": "使用SGLT2i应定期评估患者尿路感染的症状和体征，并及时治疗。", "category": "治疗与康复", "page_num": 11}
+{"match_tokens": ["disease:其他病症"], "advice": "SGLT2i与利尿剂、RASI合用时可能会导致过度利尿、脱水、症状性低血压和肾前性肾功能衰竭，因此需定期监测液体平衡和肾功能，并调整利尿剂的剂量。", "category": "治疗与康复", "page_num": 11}
+{"match_tokens": ["disease:其他病症"], "advice": "为避免酮症酸中毒的潜在风险，建议糖尿病患者在计划手术前暂停使用SGLT2i。", "category": "治疗与康复", "page_num": 11}
+{"match_tokens": ["disease:其他病症"], "advice": "使用SGLT2i时，在经口摄入量减少或液体丢失的情况下考虑暂时停药。", "category": "治疗与康复", "page_num": 11}
+{"match_tokens": ["disease:其他病症"], "advice": "SGLT2i与胰岛素和（或）磺酰脲类衍生物合用时可能会引起低血糖，建议调整糖尿病治疗策略。", "category": "治疗与康复", "page_num": 11}
+{"match_tokens": ["disease:其他病症"], "advice": "使用SGLT2i时，需评估生殖器或会阴区疼痛、压痛、红斑或肿胀，并伴有发热或不适，以警惕会阴坏死性筋膜炎。", "category": "治疗与康复", "page_num": 11}
+{"match_tokens": ["disease:其他病症"], "advice": "如果怀疑是福涅尔坏疽，应停止使用SGLT2i并立即开始使用广谱抗生素，必要时进行外科清创。", "category": "治疗与康复", "page_num": 12}
+{"match_tokens": ["disease:其他病症"], "advice": "近期发生过心衰加重事件、NYHA心功能Ⅱ~Ⅳ级，LVEF<45%的心衰患者，推荐在标准治疗基础上尽早加用维立西呱。", "category": "治疗与康复", "page_num": 12}
+{"match_tokens": ["disease:其他病症"], "advice": "NYHA心功能Ⅱ~Ⅳ级、LVEF<45%的心衰患者，可考虑在标准治疗基础上加用维立西呱，以降低心血管死亡和心衰住院风险。", "category": "治疗与康复", "page_num": 12}
+{"match_tokens": ["disease:其他病症"], "advice": "维立西呱推荐起始剂量为2.5~5 mg，1次/d。根据患者耐受情况，约每2周剂量加倍，以达到10 mg，1次/d的目标剂量。", "category": "治疗与康复", "page_num": 12}
+{"match_tokens": ["disease:其他病症"], "advice": "维立西呱常见不良反应为低血压，建议加强监测。", "category": "治疗与康复", "page_num": 12}
+{"match_tokens": ["disease:其他病症"], "advice": "维立西呱与5型磷酸二酯酶抑制剂或长效硝酸盐同时服用可能增加低血压的潜在风险，不推荐同时服用。", "category": "治疗与康复", "page_num": 12}
+{"match_tokens": ["disease:其他病症"], "advice": "有症状的窦性心律HFrEF患者，β受体阻滞剂已达到目标剂量或最大耐受剂量，心率仍≥70次/min，可加用伊伐布雷定。", "category": "治疗与康复", "page_num": 12}
+{"match_tokens": ["disease:其他病症"], "advice": "有症状的窦性心律HFrEF患者，心率≥70次/min，对β受体阻滞剂禁忌或不能耐受者，可加用伊伐布雷定。", "category": "治疗与康复", "page_num": 12}
+{"match_tokens": ["disease:其他病症"], "advice": "伊伐布雷定起始剂量2.5~5 mg，2次/d，治疗2周后，根据静息心率调整剂量，每次剂量增加2.5 mg，使患者的静息心率控制在60次/min左右，最大剂量7.5 mg，2次/d。", "category": "治疗与康复", "page_num": 12}
+{"match_tokens": ["disease:其他病症"], "advice": "老年、伴有室内传导障碍的患者起始剂量要减少。", "category": "治疗与康复", "page_num": 12}
+{"match_tokens": ["disease:其他病症"], "advice": "对合用β受体阻滞剂、地高辛、胺碘酮的患者应监测心率和QT间期。", "category": "治疗与康复", "page_num": 12}
+{"match_tokens": ["disease:其他病症"], "advice": "避免伊伐布雷定与强效细胞色素P4503A4抑制剂（如唑类抗真菌药、大环内酯类抗生素）合用。", "category": "治疗与康复", "page_num": 12}
+{"match_tokens": ["disease:其他病症"], "advice": "伊伐布雷定最常见不良反应为光幻症和心动过缓。如发生视觉功能恶化，应考虑停药。", "category": "治疗与康复", "page_num": 12}
+{"match_tokens": ["disease:其他病症"], "advice": "伊伐布雷定治疗期间，心率<50次/min或出现相关症状时应减量或停用。", "category": "治疗与康复", "page_num": 12}
+{"match_tokens": ["disease:其他病症"], "advice": "伊伐布雷定治疗期间如患者出现持续房颤，应停药。", "category": "治疗与康复", "page_num": 12}
+{"match_tokens": ["disease:其他病症"], "advice": "已应用利尿剂、RASI、β受体阻滞剂、SGLT2i和MRA，仍持续有症状的HFrEF患者，可考虑使用地高辛。", "category": "治疗与康复", "page_num": 12}
+{"match_tokens": ["disease:其他病症"], "advice": "地高辛0.125~0.25 mg/d，老年、肾功能受损、低体重患者可0.125 mg，1次/d或隔天1次。", "category": "治疗与康复", "page_num": 12}
+{"match_tokens": ["disease:其他病症"], "advice": "应监测地高辛血药浓度，建议维持在0.5~0.9 μg/L，不应高于1.2 μg/L。", "category": "治疗与康复", "page_num": 12}
+{"match_tokens": ["disease:其他病症"], "advice": "对于已接受指南推荐的标准抗心衰治疗的HFrEF患者，可考虑联合应用芪苈强心胶囊12周。", "category": "治疗与康复", "page_num": 13}
+{"match_tokens": ["disease:其他病症"], "advice": "应用中西医结合治疗时，注意评估和监测患者的eGFR，且不推荐同时服用其他中药及草药。", "category": "治疗与康复", "page_num": 13}
+{"match_tokens": ["disease:其他病症"], "advice": "对于NYHA心功能Ⅱ~Ⅳ级的心衰患者，可考虑补充ω-3多不饱和脂肪酸作为辅助治疗。", "category": "治疗与康复", "page_num": 13}
+{"match_tokens": ["disease:其他病症"], "advice": "服用RASI、MRA等药物的心衰患者发生高钾血症（血清钾≥5.5 mmol/L）时，可使用钾离子结合剂（环硅酸锆钠）以维持此类药物长期使用。", "category": "治疗与康复", "page_num": 13}
+{"match_tokens": ["disease:其他病症"], "advice": "心衰患者在药物优化治疗至少3个月后仍存在特定情况（如窦性心律，QRS时限≥150 ms，左束支传导阻滞，LVEF≤35%等）应进行心脏再同步化治疗（CRT）。", "category": "治疗与康复", "page_num": 13}
+{"match_tokens": ["disease:其他病症"], "advice": "医生应在综合考虑手术获益及风险基础上，与患者及家属共同决策，选择CRT手术方法，同时做出首选方法失败时的补救方案。", "category": "治疗与康复", "page_num": 13}
+{"match_tokens": ["disease:其他病症"], "advice": "对诊断为射血分数降低的心力衰竭患者，应尽早接受多种能够改善预后的药物治疗。", "category": "治疗与康复", "page_num": 14}
+{"match_tokens": ["disease:其他病症"], "advice": "推荐血管紧张素受体脑啡肽酶抑制剂/血管紧张素转换酶抑制剂/血管紧张素Ⅱ受体阻滞剂、β受体阻滞剂、盐皮质激素受体拮抗剂、钠-葡萄糖协同转运蛋白2抑制剂四联疗法作为射血分数降低的心力衰竭患者的基础治疗方案，除非药物禁忌或不耐受。", "category": "治疗与康复", "page_num": 14}
+{"match_tokens": ["disease:其他病症"], "advice": "对有淤血症状和（或）体征的心衰患者应先使用利尿剂以减轻液体潴留。", "category": "治疗与康复", "page_num": 14}
+{"match_tokens": ["disease:其他病症"], "advice": "当患者处于淤血状态时，血管紧张素受体脑啡肽酶抑制剂/血管紧张素转换酶抑制剂/血管紧张素Ⅱ受体阻滞剂、盐皮质激素受体拮抗剂和钠-葡萄糖协同转运蛋白2抑制剂的耐受性更好。", "category": "治疗与康复", "page_num": 14}
+{"match_tokens": ["disease:其他病症"], "advice": "若患者无明显水肿而静息心率较快时，β受体阻滞剂耐受性会更好。", "category": "治疗与康复", "page_num": 14}
+{"match_tokens": ["disease:其他病症"], "advice": "应根据用药指征合理选择药物及起始剂量，推荐不同机制药物联合起始治疗，逐渐滴定至各自的目标剂量或最大耐受剂量。", "category": "治疗与康复", "page_num": 15}
+{"match_tokens": ["disease:其他病症"], "advice": "治疗中应注意监测患者症状、体征、血压、心率和心律、肾功能和电解质等。", "category": "治疗与康复", "page_num": 15}
+{"match_tokens": ["disease:其他病症"], "advice": "应注意避免使用可导致心衰恶化的药物，如非二氢吡啶类钙通道阻滞剂、Ⅰc类抗心律失常药和决奈达隆、噻唑烷二酮类、DPP⁃4抑制剂沙格列汀和阿格列汀、非甾体抗炎药等。", "category": "治疗与康复", "page_num": 15}
+{"match_tokens": ["disease:其他病症"], "advice": "建议治疗后的HFimpEF患者，无论有无症状，应继续使用GDMT预防心衰和左心室功能障碍复发。", "category": "治疗与康复", "page_num": 15}
+{"match_tokens": ["disease:其他病症"], "advice": "应重复评估HFmrEF患者的LVEF，以确定疾病演变过程。", "category": "治疗与康复", "page_num": 15}
+{"match_tokens": ["disease:其他病症"], "advice": "推荐在有淤血表现的HFmrEF患者中使用利尿剂来减轻症状和体征。", "category": "治疗与康复", "page_num": 15}
+{"match_tokens": ["disease:其他病症"], "advice": "有液体潴留证据的心衰患者均应使用利尿剂。", "category": "治疗与康复", "page_num": 15}
+{"match_tokens": ["disease:其他病症"], "advice": "NYHA心功能Ⅱ/Ⅲ级的HFrEF患者均应使用ARNI，除非有禁忌证或不能耐受。", "category": "治疗与康复", "page_num": 15}
+{"match_tokens": ["disease:其他病症"], "advice": "NYHA心功能Ⅱ~Ⅳ级HFrEF患者均应使用ACEI，除非有禁忌证或不能耐受。", "category": "治疗与康复", "page_num": 15}
+{"match_tokens": ["disease:其他病症"], "advice": "既往或目前有症状的HFrEF患者均应使用β受体阻滞剂，除非有禁忌证或不能耐受。", "category": "治疗与康复", "page_num": 15}
+{"match_tokens": ["disease:其他病症"], "advice": "有症状的HFrEF患者均应使用MRA，除非有禁忌证或不能耐受。", "category": "治疗与康复", "page_num": 15}
+{"match_tokens": ["disease:其他病症"], "advice": "有症状的HFrEF患者均应使用SGLT2i（达格列净/恩格列净），除非有禁忌证或不能耐受。", "category": "治疗与康复", "page_num": 15}
+{"match_tokens": ["disease:其他病症"], "advice": "不能耐受ACEI或ARNI的HFrEF患者推荐用ARB。", "category": "治疗与康复", "page_num": 15}
+{"match_tokens": ["disease:其他病症"], "advice": "对于近期发生过心衰加重事件、NYHA心功能Ⅱ~Ⅳ级，LVEF<45%的心衰患者，推荐在标准治疗基础上尽早加用维立西呱。", "category": "治疗与康复", "page_num": 15}
+{"match_tokens": ["disease:其他病症"], "advice": "对于NYHA心功能Ⅱ~Ⅳ级、LVEF<45%的心衰患者，可考虑在标准治疗基础上加用维立西呱，以降低心血管死亡和心衰住院风险。", "category": "治疗与康复", "page_num": 15}
+{"match_tokens": ["disease:其他病症"], "advice": "β受体阻滞剂已达到目标剂量或最大耐受剂量的有症状的窦性心律HFrEF患者，心率仍≥70次/min，可考虑加用伊伐布雷定。", "category": "治疗与康复", "page_num": 15}
+{"match_tokens": ["disease:其他病症"], "advice": "窦性心率≥70次/min，对β受体阻滞剂禁忌或不能耐受者，可考虑使用伊伐布雷定。", "category": "治疗与康复", "page_num": 15}
+{"match_tokens": ["disease:其他病症"], "advice": "应用利尿剂、ACEI/ARB/ARNI、β受体阻滞剂、MRA后，仍持续有症状的HFrEF患者，可考虑使用地高辛。", "category": "治疗与康复", "page_num": 15}
+{"match_tokens": ["disease:其他病症"], "advice": "对急性心衰患者应积极查找病因和诱因。", "category": "急症处理", "page_num": 16}
+{"match_tokens": ["disease:其他病症"], "advice": "推荐在HFmrEF患者中应用SGLT2i降低心衰住院和心血管死亡的风险。", "category": "治疗与康复", "page_num": 16}
+{"match_tokens": ["disease:其他病症"], "advice": "对目前或既往有症状的HFmrEF患者，可考虑应用ACEI/ARB、ARNI、β受体阻滞剂、MRA降低心衰住院风险和心血管死亡。", "category": "治疗与康复", "page_num": 16}
+{"match_tokens": ["disease:其他病症"], "advice": "HFpEF患者的治疗主要使用利尿剂和SGLT2i，以及针对心血管基础疾病、合并症和心血管疾病危险因素采取综合性治疗手段。", "category": "治疗与康复", "page_num": 16}
+{"match_tokens": ["disease:其他病症"], "advice": "建议对HFpEF患者进行心血管疾病和非心血管疾病合并症的筛查及评估，并给予相应的治疗和管理，以改善症状及预后。", "category": "治疗与康复", "page_num": 16}
+{"match_tokens": ["disease:其他病症"], "advice": "推荐有液体潴留的HFpEF患者使用利尿剂。", "category": "治疗与康复", "page_num": 16}
+{"match_tokens": ["disease:其他病症"], "advice": "推荐HFpEF患者使用SGLT2i降低心衰住院或心血管死亡复合终点风险。", "category": "治疗与康复", "page_num": 16}
+{"match_tokens": ["disease:其他病症"], "advice": "建议HFpEF患者进行病因、心血管和非心血管合并症的筛查和治疗。", "category": "治疗与康复", "page_num": 16}
+{"match_tokens": ["disease:其他病症"], "advice": "可以在部分LVEF介于45%~57%的HFpEF患者中使用ARB和ARNI这两种药物，降低心衰住院风险。", "category": "治疗与康复", "page_num": 16}
+{"match_tokens": ["disease:其他病症"], "advice": "可考虑在一些特定HFpEF患者中（LVEF<55%~60%，BNP升高或1年内因心衰住院）使用MRA以降低住院风险。", "category": "治疗与康复", "page_num": 16}
+{"match_tokens": ["disease:其他病症"], "advice": "不推荐常规使用β受体阻滞剂，除非有适应证。", "category": "治疗与康复", "page_num": 16}
+{"match_tokens": ["disease:其他病症"], "advice": "不推荐常规使用伊伐布雷定、外源性硝酸盐和5型磷酸二酯酶抑制剂。", "category": "治疗与康复", "page_num": 16}
+{"match_tokens": ["disease:高血压", "symptom:疲劳"], "advice": "原心功能正常患者出现原因不明的疲乏或运动耐量明显减低，以及心率增加15~20次/min，应警惕左心功能降低的可能。", "category": "治疗与康复", "page_num": 17}
+{"match_tokens": ["symptom:呼吸困难"], "advice": "出现劳力性呼吸困难、夜间阵发性呼吸困难、端坐呼吸等症状时，应及时就医评估。", "category": "治疗与康复", "page_num": 17}
+{"match_tokens": ["disease:慢阻肺", "symptom:呼吸困难"], "advice": "伴有急性肺水肿或有COPD者，应进行动脉血气分析以明确酸碱状态和动脉CO2分压情况。", "category": "治疗与康复", "page_num": 17}
+{"match_tokens": ["disease:高血压", "disease:糖尿病", "disease:脑血管病"], "advice": "大多数急性心衰患者既往有心血管疾病及心血管病危险因素，应定期监测并控制相关疾病。", "category": "治疗与康复", "page_num": 17}
+{"match_tokens": ["symptom:呼吸困难"], "advice": "呼吸窘迫者（呼吸频率>25次/min）可给予无创通气。", "category": "急症处理", "page_num": 17}
+{"match_tokens": ["symptom:呼吸困难"], "advice": "若经皮血氧饱和度（SpO2）<90%，应给予常规氧疗。", "category": "急症处理", "page_num": 17}
+{"match_tokens": ["disease:高血压"], "advice": "根据血压和（或）淤血程度决定应用血管扩张药和（或）利尿剂。", "category": "急症处理", "page_num": 17}
+{"match_tokens": ["symptom:呼吸困难"], "advice": "尽快转运至最近的大中型医院（具备心脏专科/心脏监护室/重症监护室）。", "category": "急症处理", "page_num": 17}
+{"match_tokens": ["disease:高血压", "disease:糖尿病", "disease:脑血管病"], "advice": "到达急诊室时，应及时启动查体、辅助检查和治疗，尽快明确循环、呼吸是否稳定。", "category": "急症处理", "page_num": 17}
+{"match_tokens": ["disease:高血压", "disease:糖尿病", "disease:脑血管病"], "advice": "迅速识别需要紧急处理的临床情况，如ACS、高血压急症、严重心律失常、心脏急性机械并发症、急性肺栓塞、感染、心脏压塞，尽早给予相应处理。", "category": "急症处理", "page_num": 17}
+{"match_tokens": ["disease:高血压", "disease:糖尿病", "disease:脑血管病"], "advice": "所有急性心衰患者均需急查心电图、胸部影像学检查、利钠肽、肌钙蛋白、肌酐、电解质、血糖、全血细胞计数、肝功能、促甲状腺激素。", "category": "治疗与康复", "page_num": 17}
+{"match_tokens": ["disease:高血压", "disease:糖尿病", "disease:脑血管病"], "advice": "对可能伴有心原性休克的患者，需检测并动态监测乳酸、pH值水平。", "category": "治疗与康复", "page_num": 17}
+{"match_tokens": ["disease:高血压", "disease:糖尿病", "disease:脑血管病"], "advice": "所有急性呼吸困难和疑诊急性心衰患者均推荐检测血浆利钠肽水平。", "category": "治疗与康复", "page_num": 17}
+{"match_tokens": ["disease:高血压", "disease:糖尿病", "disease:脑血管病"], "advice": "怀疑并存肺部感染的患者，可检测降钙素原水平指导抗生素治疗。", "category": "治疗与康复", "page_num": 17}
+{"match_tokens": ["disease:高血压", "disease:糖尿病", "disease:脑血管病"], "advice": "对血流动力学不稳定的急性心衰患者，推荐立即进行超声心动图检查。", "category": "治疗与康复", "page_num": 17}
+{"match_tokens": ["disease:高血压", "disease:糖尿病", "disease:脑血管病"], "advice": "对心脏结构和功能不明或临床怀疑有变化的患者，推荐在48 h内进行超声心动图检查。", "category": "治疗与康复", "page_num": 17}
+{"match_tokens": ["disease:高血压", "disease:糖尿病", "disease:脑血管病"], "advice": "心原性休克患者应行动脉血气分析。", "category": "治疗与康复", "page_num": 17}
+{"match_tokens": ["disease:高血压", "symptom:疼痛"], "advice": "静息时呼吸困难明显者，应半卧位或端坐位，双腿下垂以减少回心血量，降低心脏前负荷。", "category": "急症处理", "page_num": 18}
+{"match_tokens": ["disease:高血压", "symptom:疼痛"], "advice": "当SpO2<90% 或动脉血氧分压（PaO2）<60 mmHg时应给予氧疗，使患者SpO2≥95%（伴COPD者SpO2>90%）。", "category": "急症处理", "page_num": 18}
+{"match_tokens": ["disease:高血压", "symptom:疼痛"], "advice": "鼻导管吸氧：低氧流量（1~2 L/min）开始，若无CO2潴留，可采用高流量给氧。", "category": "急症处理", "page_num": 18}
+{"match_tokens": ["disease:高血压", "disease:冠心病心肌缺血", "disease:其他病症"], "advice": "急性心衰合并高血压、冠心病心肌缺血、明显二尖瓣反流的患者，可考虑使用硝酸酯类药物。", "category": "治疗与康复", "page_num": 19}
+{"match_tokens": ["disease:其他病症"], "advice": "急性心衰患者，如收缩压>90 mmHg，可考虑使用血管扩张药，尤其适用于血压>110 mmHg的患者。", "category": "治疗与康复", "page_num": 19}
+{"match_tokens": ["disease:其他病症"], "advice": "有液体潴留证据的急性心衰患者均应使用利尿剂，首选静脉襻利尿剂，应及早应用。", "category": "治疗与康复", "page_num": 19}
+{"match_tokens": ["disease:其他病症"], "advice": "肺淤血、体循环淤血及水肿明显者应严格限制饮水量和静脉输液速度，每日摄入液体量一般宜在1 500 ml以内，不要超过2 000 ml。", "category": "治疗与康复", "page_num": 19}
+{"match_tokens": ["disease:其他病症"], "advice": "保持每日出入量负平衡约500 ml，严重水肿者水负平衡为1 000~2 000 ml/d，以减少水钠潴留，缓解症状。", "category": "治疗与康复", "page_num": 19}
+{"match_tokens": ["disease:其他病症"], "advice": "硝普钠适用于严重心衰、前后负荷增加及伴肺淤血或肺水肿的患者，特别是高血压危象、急性主动脉瓣反流、急性二尖瓣反流和急性室间隔穿孔合并急性心衰等需快速减轻前、后负荷的疾病。", "category": "治疗与康复", "page_num": 19}
+{"match_tokens": ["disease:其他病症"], "advice": "急性心衰患者，如收缩压<90 mmHg或症状性低血压时，禁用血管扩张药。", "category": "治疗与康复", "page_num": 19}
+{"match_tokens": ["disease:其他病症"], "advice": "当患者的临床状况稳定时，应开始向口服利尿剂过渡。为了充分减轻淤血，需要在出院前确定合适的长期利尿剂剂量。", "category": "治疗与康复", "page_num": 19}
+{"match_tokens": ["disease:其他病症"], "advice": "应用血管扩张药过程中需密切监测血压，根据血压情况调整合适的维持剂量。", "category": "治疗与康复", "page_num": 19}
+{"match_tokens": ["disease:其他病症"], "advice": "硝普钠使用不应超过72 h，停药应逐渐减量，并加用口服血管扩张药，以避免反跳现象。", "category": "治疗与康复", "page_num": 19}
+{"match_tokens": ["disease:其他病症"], "advice": "利尿剂反应不佳或抵抗时，可采取增加襻利尿剂剂量或改用另一种襻利尿剂、静脉推注联合持续静脉滴注、2种及以上利尿剂联合使用等措施。", "category": "治疗与康复", "page_num": 19}
+{"match_tokens": ["disease:其他病症"], "advice": "需监测患者淤血或低灌注的症状、尿量、体重、肾功能和电解质。", "category": "治疗与康复", "page_num": 19}
+{"match_tokens": ["disease:其他病症"], "advice": "有低灌注表现的患者应在纠正后再使用利尿剂。", "category": "治疗与康复", "page_num": 19}
+{"match_tokens": ["disease:其他病症"], "advice": "在负平衡下应注意防止发生低血容量、低钾血症和低钠血症等。", "category": "治疗与康复", "page_num": 19}
+{"match_tokens": ["disease:其他病症"], "advice": "3~5 d后，如肺循环和体循环淤血明显消退，应减少水负平衡量，逐渐过渡到出入量大体平衡。", "category": "治疗与康复", "page_num": 19}
+{"match_tokens": ["disease:其他病症"], "advice": "急性肺水肿患者可谨慎使用阿片类药物如吗啡缓解焦虑和呼吸困难，应密切观察疗效和呼吸抑制的不良反应。", "category": "治疗与康复", "page_num": 19}
+{"match_tokens": ["disease:其他病症"], "advice": "伴明显和持续低血压、休克、意识障碍、COPD等患者禁用阿片类药物如吗啡。", "category": "治疗与康复", "page_num": 19}
+{"match_tokens": ["disease:其他病症"], "advice": "苯二氮䓬类药物是较为安全的抗焦虑和镇静剂。", "category": "治疗与康复", "page_num": 19}
+{"match_tokens": ["disease:其他病症"], "advice": "急性心衰患者，如收缩压≥90 mmHg，则给予血管扩张药、利尿剂，若治疗效果欠佳可考虑使用正性肌力药物。", "category": "治疗与康复", "page_num": 19}
+{"match_tokens": ["disease:其他病症"], "advice": "急性心衰患者，如收缩压<90 mmHg，则首选正性肌力药物，若无效可考虑使用血管收缩药，当低灌注纠正后再使用利尿剂。", "category": "治疗与康复", "page_num": 19}
+{"match_tokens": ["disease:其他病症"], "advice": "急性心衰患者，机体处于低血容量状态、出现外周组织低灌注（干冷），首先适当扩容，如低灌注仍无法纠正可给予正性肌力药物。", "category": "治疗与康复", "page_num": 19}
+{"match_tokens": ["disease:其他病症"], "advice": "急性心衰患者，由液体血管内再分布引起，高血压为主要表现（湿暖血管型），首选血管扩张药，其次为利尿剂。", "category": "治疗与康复", "page_num": 19}
+{"match_tokens": ["disease:其他病症"], "advice": "急性心衰患者，由液体潴留引起，淤血为主要表现（湿暖心脏型），首选利尿剂，其次为血管扩张药，如利尿剂抵抗可行超滤治疗。", "category": "治疗与康复", "page_num": 19}
+{"match_tokens": ["disease:其他病症"], "advice": "急性心衰患者，机体容量负荷重且外周组织灌注差（湿冷），对药物治疗无反应的患者，可行MCS治疗。", "category": "治疗与康复", "page_num": 19}
+{"match_tokens": ["disease:其他病症"], "advice": "急性心衰患者，机体容量状态和外周组织灌注尚可（干暖），只要调整口服药物即可。", "category": "治疗与康复", "page_num": 19}
+{"match_tokens": ["disease:其他病症"], "advice": "急性心衰患者，可考虑使用重组人利钠肽，适用于急性失代偿性心衰。", "category": "治疗与康复", "page_num": 19}
+{"match_tokens": ["disease:其他病症"], "advice": "紧急时亦可选择舌下含服硝酸甘油。", "category": "急症处理", "page_num": 19}
+{"match_tokens": ["disease:其他病症"], "advice": "对于左心室收缩功能不全、低血压（收缩压<90 mmHg）和心输出量低导致组织器官低灌注的患者，可短期静脉应用正性肌力药物。", "category": "治疗与康复", "page_num": 20}
+{"match_tokens": ["disease:其他病症"], "advice": "应用正性肌力药物时，当器官灌注恢复和（或）淤血减轻时应尽快停用。", "category": "治疗与康复", "page_num": 20}
+{"match_tokens": ["disease:其他病症"], "advice": "应用正性肌力药物时，药物的剂量和静脉滴注速度应根据患者的临床反应进行调整，强调个体化治疗。", "category": "治疗与康复", "page_num": 20}
+{"match_tokens": ["disease:其他病症"], "advice": "应用正性肌力药物期间，应持续进行心电、血压监测。", "category": "治疗与康复", "page_num": 20}
+{"match_tokens": ["disease:其他病症"], "advice": "血压正常且无器官和组织灌注不足的急性心衰患者不宜使用正性肌力药物。", "category": "治疗与康复", "page_num": 20}
+{"match_tokens": ["disease:其他病症"], "advice": "因低血容量或其他可纠正因素导致的低血压患者，需先去除这些因素再权衡使用正性肌力药物。", "category": "治疗与康复", "page_num": 20}
+{"match_tokens": ["disease:其他病症"], "advice": "正在应用β受体阻滞剂的患者不推荐应用多巴酚丁胺和多巴胺，此类患者建议使用左西孟旦。", "category": "治疗与康复", "page_num": 20}
+{"match_tokens": ["disease:其他病症"], "advice": "应用正性肌力药物后仍合并明显低血压状态者，可考虑使用血管收缩药（如去甲肾上腺素、肾上腺素）以升高血压，维持重要脏器灌注。", "category": "治疗与康复", "page_num": 20}
+{"match_tokens": ["disease:脑血管病"], "advice": "对于心原性休克患者，可考虑使用血管升压药，最好选择去甲肾上腺素，以增加血压和重要器官灌注压。用药过程中应密切监测血压、心律、心率、血流动力学和临床状态变化，当器官灌注恢复和（或）循环淤血减轻时应尽快停用。", "category": "治疗与康复", "page_num": 21}
+{"match_tokens": ["disease:脑血管病"], "advice": "洋地黄类药物可用于房颤伴快速心室率（>110 次/min）的急性心衰患者，使用剂量为地高辛0.25~0.5 mg 或西地兰0.2~0.4 mg 缓慢静脉注射，2~4 h 后可再用0.25 mg 地高辛或0.2 mg 西地兰。AMI 后24 h 内应尽量避免使用。", "category": "治疗与康复", "page_num": 21}
+{"match_tokens": ["disease:脑血管病"], "advice": "对于深静脉血栓和肺栓塞发生风险较高且无抗凝治疗禁忌证的患者，建议预防静脉血栓，可选择低分子肝素或非维生素K 拮抗剂口服抗凝药。", "category": "治疗与康复", "page_num": 21}
+{"match_tokens": ["disease:脑血管病"], "advice": "慢性HFrEF 患者出现失代偿和心衰恶化，如无血流动力学不稳定或禁忌证，应继续原有的GDMT 方案，可根据病情适当调整用量。如血流动力学不稳定（收缩压<85 mmHg，心率<50 次/min），血钾>5.5 mmol/L 或严重肾功能不全时应停用，在出院前应尽可能重启这些药物。对于新发心衰患者，在血流动力学稳定后，应给予改善心衰预后的药物。", "category": "治疗与康复", "page_num": 21}
+{"match_tokens": ["disease:脑血管病"], "advice": "有呼吸窘迫者（呼吸频率>25 次/min，SpO2<90%）应尽快给予无创通气，可采用持续气道正压通气和压力支持通气2 种模式。使用时应监测血压，低血压患者需谨慎使用。", "category": "治疗与康复", "page_num": 21}
+{"match_tokens": ["disease:脑血管病"], "advice": "对于呼吸衰竭导致低氧血症（PaO2<60 mmHg）、PaCO2>50 mmHg 和酸中毒（pH 值<7.35），经无创通气治疗不能改善者，应进行气道插管和人工机械通气。", "category": "治疗与康复", "page_num": 21}
+{"match_tokens": ["disease:脑血管病"], "advice": "高容量负荷如肺水肿或严重外周水肿，且存在利尿剂抵抗的患者可考虑超滤治疗。难治性容量负荷过重合并液体复苏后仍然少尿；血钾>6.5 mmol/L；pH 值<7.2；血尿素氮>25 mmol/L，血肌酐>300 mmol/L时可考虑肾脏替代治疗。", "category": "治疗与康复", "page_num": 21}
+{"match_tokens": ["disease:脑血管病"], "advice": "对于心原性休克或者药物治疗无效的急性心衰患者可以考虑短期（数天至数周）使用MCS，作为心脏恢复或其他循环辅助装置或心脏移植前的过渡治疗。", "category": "治疗与康复", "page_num": 21}
+{"match_tokens": ["disease:脑血管病"], "advice": "主动脉内球囊反搏（IABP）可用于AMI或严重心肌缺血并发心原性休克，且不能由药物纠正；伴血流动力学障碍的严重冠心病（如AMI伴机械并发症）；心肌缺血或急性重症心肌炎伴顽固性肺水肿；作为心脏恢复的过渡治疗、LVAD 或心脏移植前的过渡治疗。", "category": "治疗与康复", "page_num": 21}
+{"match_tokens": ["disease:脑血管病"], "advice": "经皮心室辅助装置和体外膜肺氧合（ECMO）可作为暴发性心肌炎、急重症心衰或心原性休克的过渡治疗，以便进一步评估是否需要接受心脏移植或长期MCS治疗。", "category": "治疗与康复", "page_num": 21}
+{"match_tokens": ["disease:脑血管病"], "advice": "对所有疑似心原性休克的患者应转移至有条件（有心脏监护室/重症监护室、可进行心导管治疗、MCS 治疗）的医疗机构，由有经验的多学科团队协作治疗。给予持续心电和血压监测，推荐行有创血流动力学监测，如动脉内血压监测，有选择地使用右心导管监测。", "category": "治疗与康复", "page_num": 21}
+{"match_tokens": ["disease:脑血管病"], "advice": "患者病情稳定后仍需要监测，每天评估心衰相关症状、容量负荷、治疗的不良反应。根据心衰的病因、诱因、合并症，调整治疗方案。应注意避免再次诱发急性心衰，对各种可能的诱因要及早控制。", "category": "治疗与康复", "page_num": 21}
+{"match_tokens": ["disease:脑血管病"], "advice": "对伴基础心脏病变的急性心衰患者，应针对原发疾病进行积极有效的预防、治疗和康复。对于慢性心衰失代偿的患者，应恢复或启动慢性心衰的治疗方案，评估有无器械治疗的适应证，制定随访计划。", "category": "治疗与康复", "page_num": 21}
+{"match_tokens": ["disease:脑血管病"], "advice": "在出院前需要认真评估淤血的迹象，并优化口服药物的治疗。", "category": "治疗与康复", "page_num": 21}
+{"match_tokens": ["disease:其他病症", "symptom:心衰症状"], "advice": "对于终末期心衰患者，若存在低血压、严重肾功能损伤或高钾血症，应继续接受或启动GDMT。", "category": "治疗与康复", "page_num": 22}
+{"match_tokens": ["disease:其他病症", "symptom:心衰症状"], "advice": "诊断终末期心衰需满足以下标准：存在严重或持续的心衰症状（NYHA心功能Ⅲ/Ⅳ级）；有严重的心脏功能不全表现；需要静脉注射大剂量利尿剂或正性肌力药物治疗；运动能力严重受损。", "category": "治疗与康复", "page_num": 22}
+{"match_tokens": ["disease:其他病症", "symptom:心衰症状"], "advice": "对于难治性终末期心衰患者，应合理控制24小时液体出入量，保持出量多于入量500~1500毫升。", "category": "治疗与康复", "page_num": 22}
+{"match_tokens": ["disease:其他病症", "symptom:心衰症状"], "advice": "对于难治性终末期心衰患者，应纠正低钠、低钾血症，选择襻利尿剂联合托伐普坦治疗。", "category": "治疗与康复", "page_num": 22}
+{"match_tokens": ["disease:其他病症", "symptom:心衰症状"], "advice": "对于难治性终末期心衰患者，可考虑床旁超滤治疗以减轻液体潴留。", "category": "治疗与康复", "page_num": 22}
+{"match_tokens": ["disease:其他病症", "symptom:心衰症状"], "advice": "对于特定终末期心衰患者，静脉应用正性肌力药物可作为进行临时MCS、长期MCS或心脏移植前的过渡治疗，或为缓解淤血症状短期使用。", "category": "治疗与康复", "page_num": 22}
+{"match_tokens": ["disease:其他病症", "symptom:心衰症状"], "advice": "对于无后续治疗选择的终末期心衰患者，可将静脉应用正性肌力药物作为姑息治疗长期应用来减轻症状。", "category": "治疗与康复", "page_num": 22}
+{"match_tokens": ["disease:其他病症", "symptom:心衰症状"], "advice": "升压药（多巴胺、去甲肾上腺素、肾上腺素）仅考虑在收缩压较低且有器官灌注不足证据的晚期心衰患者中短期使用。", "category": "治疗与康复", "page_num": 22}
+{"match_tokens": ["disease:其他病症", "symptom:心衰症状"], "advice": "对于终末期心衰患者，若对ACEI/ARB和β受体阻滞剂耐受性差，一旦液体潴留缓解，可考虑从极小剂量开始应用或重新启动这些药物。", "category": "治疗与康复", "page_num": 22}
+{"match_tokens": ["disease:其他病症", "symptom:心衰症状"], "advice": "对于终末期心衰患者，如果存在低血压、低心排或者器官灌注不足，建议停用ACEI/ARB和β受体阻滞剂。", "category": "治疗与康复", "page_num": 22}
+{"match_tokens": ["disease:其他病症", "symptom:心衰症状"], "advice": "心脏移植是终末期心衰的有效治疗方法，主要适用于严重心功能损害而无其他治疗方法的重度心衰患者。", "category": "治疗与康复", "page_num": 22}
+{"match_tokens": ["disease:其他病症", "symptom:心衰症状"], "advice": "LVAD主要用于药物和器械治疗无效的终末期心衰患者在心脏移植前的过渡治疗或部分严重心衰患者的替代治疗。", "category": "治疗与康复", "page_num": 22}
+{"match_tokens": ["disease:其他病症", "symptom:心衰症状"], "advice": "对于优化内科治疗后仍有严重症状>2个月，且符合特定条件的终末期心衰患者，可考虑LVAD治疗。", "category": "治疗与康复", "page_num": 22}
+{"match_tokens": ["disease:其他病症", "symptom:心衰症状"], "advice": "对合并右心衰竭的终末期心衰患者，应考虑双心室辅助装置。", "category": "治疗与康复", "page_num": 22}
+{"match_tokens": ["disease:其他病症"], "advice": "怀疑右心衰竭时，首选经胸超声心动图检查。", "category": "治疗与康复", "page_num": 23}
+{"match_tokens": ["disease:其他病症"], "advice": "对难治性右心衰竭或通过无创检查不能明确诊断时，建议行右心导管检查。", "category": "治疗与康复", "page_num": 23}
+{"match_tokens": ["disease:其他病症"], "advice": "积极治疗导致右心衰竭的原发病。", "category": "治疗与康复", "page_num": 23}
+{"match_tokens": ["disease:其他病症"], "advice": "纠正右心衰竭的诱发因素，如感染、发热、劳累、情绪激动、妊娠或分娩、长时间乘飞机或高原旅行等。", "category": "治疗与康复", "page_num": 23}
+{"match_tokens": ["disease:其他病症"], "advice": "急性右心衰竭治疗初期应确定患者的容量状态。", "category": "急症处理", "page_num": 23}
+{"match_tokens": ["disease:其他病症"], "advice": "急性右心衰竭患者容量状态不明或存在血流动力学不稳定或肾功能恶化时，可采用有创血流动力学监测以帮助确定和维持合适的前负荷。", "category": "急症处理", "page_num": 23}
+{"match_tokens": ["disease:其他病症"], "advice": "对于肺高血压导致的右心衰竭，应避免使用硝酸酯类药物和硝普钠。", "category": "治疗与康复", "page_num": 23}
+{"match_tokens": ["disease:其他病症"], "advice": "正性肌力药物多巴酚丁胺、左西孟旦和米力农可能会加重动脉低血压，如果需要，应与去甲肾上腺素联合使用，且不建议长期应用。", "category": "治疗与康复", "page_num": 23}
+{"match_tokens": ["disease:高血压", "disease:脑血管病"], "advice": "根据现行国内外高血压指南进行治疗。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:糖尿病"], "advice": "优化治疗，给予SGLT2i，考虑内分泌科医生会诊，根据现行国内外糖尿病指南进行治疗。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:慢阻肺", "disease:支气管炎"], "advice": "优化治疗，请呼吸科医生会诊。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:脑血管病"], "advice": "根据现行国内外卒中指南进行治疗。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:高血压"], "advice": "对于肺动脉高压患者，无论有无右心衰竭，不推荐使用ACEI、ARB和β受体阻滞剂，除非合并高血压、冠状动脉疾病或左心衰竭。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:高血压"], "advice": "对于左心疾病导致的肺高血压，主要是优化控制基础左心疾病，上述选择性肺血管扩张药物不推荐使用。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:高血压"], "advice": "心衰患者可并发不同类型的心律失常，首先要治疗基础疾病，改善心功能，纠正神经内分泌过度激活，并注意寻找、纠正诱发因素，如感染、电解质紊乱、心肌缺血、低氧、高血压、甲状腺功能亢进或减退症等。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:脑血管病", "risk:吸烟"], "advice": "尽量避免吸烟，不在室内吸烟，必要时前往戒烟门诊寻求帮助。", "category": "健康生活方式", "page_num": 25}
+{"match_tokens": ["disease:高血压", "risk:高盐饮食"], "advice": "减少食盐摄入，每日食盐量不超过5克。", "category": "健康生活方式", "page_num": 25}
+{"match_tokens": ["disease:糖尿病", "risk:缺乏运动"], "advice": "保持规律运动，每周至少进行150分钟中等强度有氧运动。", "category": "健康生活方式", "page_num": 25}
+{"match_tokens": ["disease:慢阻肺", "risk:吸烟"], "advice": "戒烟是预防和治疗慢阻肺最重要的措施。", "category": "健康生活方式", "page_num": 25}
+{"match_tokens": ["disease:肥胖症", "risk:缺乏运动"], "advice": "增加体力活动，控制体重。", "category": "健康生活方式", "page_num": 25}
+{"match_tokens": ["disease:高血压", "disease:糖尿病", "risk:高盐饮食"], "advice": "限制钠盐摄入，每日食盐摄入量低于5克。", "category": "健康生活方式", "page_num": 25}
+{"match_tokens": ["disease:脑血管病", "risk:饮酒"], "advice": "限制饮酒，最好不饮酒。", "category": "健康生活方式", "page_num": 25}
+{"match_tokens": ["disease:高血压", "risk:缺乏运动"], "advice": "规律运动，每周进行5-7次、每次30分钟的中等强度有氧运动。", "category": "健康生活方式", "page_num": 25}
+{"match_tokens": ["disease:糖尿病", "risk:高盐饮食"], "advice": "减少烹调用盐及含盐高的调味品。", "category": "健康生活方式", "page_num": 25}
+{"match_tokens": ["disease:慢阻肺", "risk:缺乏运动"], "advice": "在医生指导下进行康复锻炼，如散步、慢跑、呼吸操等。", "category": "健康生活方式", "page_num": 25}
+{"match_tokens": ["disease:高血压", "disease:糖尿病", "risk:缺乏运动"], "advice": "进行规律的中等强度有氧运动，如快走、慢跑、骑自行车等。", "category": "健康生活方式", "page_num": 25}
+{"match_tokens": ["disease:脑血管病", "risk:高盐饮食"], "advice": "清淡饮食，减少食盐摄入。", "category": "健康生活方式", "page_num": 25}
+{"match_tokens": ["disease:高血压", "risk:吸烟"], "advice": "不吸烟，彻底戒烟，避免被动吸烟。", "category": "健康生活方式", "page_num": 25}
+{"match_tokens": ["disease:糖尿病", "risk:吸烟"], "advice": "戒烟。", "category": "健康生活方式", "page_num": 25}
+{"match_tokens": ["disease:慢阻肺", "risk:饮酒"], "advice": "避免酗酒。", "category": "健康生活方式", "page_num": 25}
+{"match_tokens": ["disease:高血压", "disease:糖尿病", "risk:吸烟"], "advice": "戒烟。", "category": "健康生活方式", "page_num": 25}
+{"match_tokens": ["disease:脑血管病", "risk:缺乏运动"], "advice": "坚持适度的体育锻炼，如散步、慢跑、太极拳等。", "category": "健康生活方式", "page_num": 25}
+{"match_tokens": ["disease:高血压", "disease:糖尿病", "risk:饮酒"], "advice": "限制饮酒。", "category": "健康生活方式", "page_num": 25}
+{"match_tokens": ["disease:慢阻肺", "risk:高盐饮食"], "advice": "低盐饮食。", "category": "健康生活方式", "page_num": 25}
+{"match_tokens": ["disease:高血压", "risk:饮酒"], "advice": "限制饮酒，每日酒精摄入量男性不超过25克，女性不超过15克。", "category": "健康生活方式", "page_num": 25}
+{"match_tokens": ["disease:糖尿病", "risk:饮酒"], "advice": "女性一天饮酒的酒精量不超过15克，男性不超过25克。", "category": "健康生活方式", "page_num": 25}
+{"match_tokens": ["disease:脑血管病", "disease:高血压", "risk:高盐饮食"], "advice": "减少钠盐摄入，每人每日食盐摄入量逐步降至5克以下。", "category": "健康生活方式", "page_num": 25}
+{"match_tokens": ["disease:高血压", "disease:糖尿病", "disease:脑血管病", "risk:缺乏运动"], "advice": "进行中等强度运动，每周至少5天，每次30分钟以上。", "category": "健康生活方式", "page_num": 25}
+{"match_tokens": ["disease:慢阻肺", "disease:高血压", "risk:吸烟"], "advice": "戒烟。", "category": "健康生活方式", "page_num": 25}
+{"match_tokens": ["disease:高血压", "disease:糖尿病", "disease:脑血管病", "risk:高盐饮食"], "advice": "食盐摄入量每日不超过5克。", "category": "健康生活方式", "page_num": 25}
+{"match_tokens": ["disease:糖尿病", "disease:脑血管病", "risk:缺乏运动"], "advice": "增加日常身体活动，减少久坐时间。", "category": "健康生活方式", "page_num": 25}
+{"match_tokens": ["disease:慢阻肺", "disease:糖尿病", "risk:吸烟"], "advice": "戒烟。", "category": "健康生活方式", "page_num": 25}
+{"match_tokens": ["disease:高血压", "disease:糖尿病", "disease:脑血管病", "risk:吸烟"], "advice": "戒烟。", "category": "健康生活方式", "page_num": 25}
+{"match_tokens": ["disease:脑血管病", "disease:高血压", "risk:缺乏运动"], "advice": "坚持规律的中等强度有氧运动。", "category": "健康生活方式", "page_num": 25}
+{"match_tokens": ["disease:慢阻肺", "disease:高血压", "risk:高盐饮食"], "advice": "低盐饮食。", "category": "健康生活方式", "page_num": 25}
+{"match_tokens": ["disease:糖尿病", "disease:脑血管病", "risk:高盐饮食"], "advice": "控制食盐摄入。", "category": "健康生活方式", "page_num": 25}
+{"match_tokens": ["disease:高血压", "disease:糖尿病", "disease:脑血管病", "risk:饮酒"], "advice": "限酒。", "category": "健康生活方式", "page_num": 25}
+{"match_tokens": ["disease:慢阻肺", "disease:糖尿病", "risk:缺乏运动"], "advice": "在身体条件允许下进行适度锻炼。", "category": "健康生活方式", "page_num": 25}
+{"match_tokens": ["disease:脑血管病", "disease:高血压", "risk:饮酒"], "advice": "限酒。", "category": "健康生活方式", "page_num": 25}
+{"match_tokens": ["disease:慢阻肺", "disease:高血压", "risk:缺乏运动"], "advice": "根据自身情况规律运动。", "category": "健康生活方式", "page_num": 25}
+{"match_tokens": ["disease:糖尿病", "disease:脑血管病", "risk:饮酒"], "advice": "饮酒应适量。", "category": "健康生活方式", "page_num": 25}
+{"match_tokens": ["disease:慢阻肺", "disease:糖尿病", "risk:高盐饮食"], "advice": "饮食清淡，少盐。", "category": "健康生活方式", "page_num": 25}
+{"match_tokens": ["disease:脑血管病", "disease:高血压", "disease:糖尿病", "risk:缺乏运动"], "advice": "保持规律的身体活动。", "category": "健康生活方式", "page_num": 25}
+{"match_tokens": ["disease:慢阻肺", "disease:高血压", "disease:糖尿病", "risk:吸烟"], "advice": "戒烟。", "category": "健康生活方式", "page_num": 25}
+{"match_tokens": ["disease:脑血管病", "disease:高血压", "disease:糖尿病", "risk:高盐饮食"], "advice": "低盐饮食。", "category": "健康生活方式", "page_num": 25}
+{"match_tokens": ["disease:慢阻肺", "disease:高血压", "disease:糖尿病", "risk:缺乏运动"], "advice": "在医生指导下进行适宜的运动。", "category": "健康生活方式", "page_num": 25}
+{"match_tokens": ["disease:脑血管病", "disease:高血压", "disease:糖尿病", "risk:吸烟"], "advice": "不吸烟。", "category": "健康生活方式", "page_num": 25}
+{"match_tokens": ["disease:慢阻肺", "disease:高血压", "disease:糖尿病", "risk:高盐饮食"], "advice": "控制盐的摄入。", "category": "健康生活方式", "page_num": 25}
+{"match_tokens": ["disease:脑血管病", "disease:高血压", "disease:糖尿病", "risk:饮酒"], "advice": "避免过量饮酒。", "category": "健康生活方式", "page_num": 25}
+{"match_tokens": ["disease:慢阻肺", "disease:高血压", "disease:糖尿病", "risk:饮酒"], "advice": "限制饮酒。", "category": "健康生活方式", "page_num": 25}
+{"match_tokens": ["disease:脑血管病", "disease:高血压", "disease:糖尿病", "disease:慢阻肺", "risk:吸烟"], "advice": "戒烟。", "category": "健康生活方式", "page_num": 25}
+{"match_tokens": ["disease:脑血管病", "disease:高血压", "disease:糖尿病", "disease:慢阻肺", "risk:缺乏运动"], "advice": "根据健康状况进行适当的体育活动。", "category": "健康生活方式", "page_num": 25}
+{"match_tokens": ["disease:脑血管病", "disease:高血压", "disease:糖尿病", "disease:慢阻肺", "risk:高盐饮食"], "advice": "减少食盐用量。", "category": "健康生活方式", "page_num": 25}
+{"match_tokens": ["disease:脑血管病", "disease:高血压", "disease:糖尿病", "disease:慢阻肺", "risk:饮酒"], "advice": "饮酒者应节制。", "category": "健康生活方式", "page_num": 25}
+{"match_tokens": ["disease:脑血管病"], "advice": "出现血流动力学不稳定的持续性室速或室颤时，首选电复律或电除颤。", "category": "急症处理", "page_num": 26}
+{"match_tokens": ["disease:脑血管病"], "advice": "发生尖端扭转型室速时，静脉应用硫酸镁是有效的终止方法。", "category": "急症处理", "page_num": 26}
+{"match_tokens": ["disease:脑血管病"], "advice": "发生尖端扭转型室速时，建议血钾水平维持在4.5~5.0 mmol/L，血镁水平补充至≥2.0 mmol/L。", "category": "治疗与康复", "page_num": 26}
+{"match_tokens": ["disease:脑血管病"], "advice": "发生尖端扭转型室速时，通过临时起搏或药物（静脉异丙肾上腺素）使心室率提高至≥70次/min。", "category": "急症处理", "page_num": 26}
+{"match_tokens": ["disease:脑血管病"], "advice": "室速变为室颤时应立即进行电复律，并停用可能导致QT间期延长的药物。", "category": "急症处理", "page_num": 26}
+{"match_tokens": ["disease:脑血管病"], "advice": "对于频发且主要为单形性PVC所致的患者，推荐导管消融。", "category": "治疗与康复", "page_num": 26}
+{"match_tokens": ["disease:脑血管病"], "advice": "怀疑心肌病由频发且主要为单形性PVC所致的患者，如患者不愿意接受导管消融，预估消融风险高或成功率低，应考虑抗心律失常药物治疗。", "category": "治疗与康复", "page_num": 26}
+{"match_tokens": ["disease:脑血管病"], "advice": "对频发且主要为单形性PVC的患者，在药物治疗下CRT无应答时，应考虑导管消融或抗心律失常药物。", "category": "治疗与康复", "page_num": 26}
+{"match_tokens": ["disease:脑血管病"], "advice": "合并冠心病的慢性心衰患者应进行冠心病二级预防，包括抗血小板药物和调脂药物。", "category": "治疗与康复", "page_num": 26}
+{"match_tokens": ["disease:脑血管病"], "advice": "HFrEF伴心绞痛的患者，首选β受体阻滞剂。", "category": "治疗与康复", "page_num": 26}
+{"match_tokens": ["disease:脑血管病"], "advice": "若β受体阻滞剂不耐受或已达到最大剂量，窦性心律且心率仍≥70次/min可加用伊伐布雷定。", "category": "治疗与康复", "page_num": 26}
+{"match_tokens": ["disease:脑血管病"], "advice": "有心绞痛症状可考虑加用长效硝酸酯类药物。", "category": "治疗与康复", "page_num": 26}
+{"match_tokens": ["disease:脑血管病"], "advice": "短效硝酸酯会引起低血压，心衰患者应谨慎使用。", "category": "治疗与康复", "page_num": 26}
+{"match_tokens": ["disease:脑血管病"], "advice": "冠心病合并心衰患者应用曲美他嗪有助于改善LVEF、NYHA心功能分级、运动耐量和生活质量，降低心血管再入院和远期死亡风险。", "category": "治疗与康复", "page_num": 26}
+{"match_tokens": ["disease:脑血管病"], "advice": "地尔硫䓬和维拉帕米会增加心衰加重和住院的风险，不推荐用于治疗HFrEF患者。", "category": "治疗与康复", "page_num": 26}
+{"match_tokens": ["disease:脑血管病"], "advice": "HFpEF患者可考虑使用β受体阻滞剂、长效硝酸酯、钙通道阻滞剂、伊伐布雷定、雷诺嗪、曲美他嗪、尼可地尔及其联合用药以缓解心绞痛。", "category": "治疗与康复", "page_num": 26}
+{"match_tokens": ["disease:高血压", "disease:脑血管病"], "advice": "遵循高血压指南，优化合并高血压的心衰患者的血压控制，建议将血压降到<130/80 mmHg。", "category": "治疗与康复", "page_num": 27}
+{"match_tokens": ["disease:高血压", "disease:脑血管病"], "advice": "降压药物优选ARNI/ACEI/ARB、β受体阻滞剂和MRA，这些药物需要滴定上调至靶剂量或者最大耐受剂量。", "category": "治疗与康复", "page_num": 27}
+{"match_tokens": ["disease:高血压", "disease:脑血管病"], "advice": "血压仍不达标可联合利尿剂和氨氯地平或非洛地平。", "category": "治疗与康复", "page_num": 27}
+{"match_tokens": ["disease:高血压", "disease:脑血管病"], "advice": "禁用α受体阻滞剂、莫索尼定、地尔硫䓬和维拉帕米。", "category": "治疗与康复", "page_num": 27}
+{"match_tokens": ["disease:糖尿病"], "advice": "建议二甲双胍作为糖尿病合并慢性心衰患者一线用药。", "category": "治疗与康复", "page_num": 27}
+{"match_tokens": ["disease:糖尿病"], "advice": "二甲双胍禁用于有严重肝肾功能损害或eGFR<30 ml·min-1·1.73 m-2的患者。", "category": "治疗与康复", "page_num": 27}
+{"match_tokens": ["disease:糖尿病"], "advice": "磺酰脲类药物不是心衰患者的首选治疗。", "category": "治疗与康复", "page_num": 27}
+{"match_tokens": ["disease:糖尿病"], "advice": "应避免将噻唑烷二酮类（罗格列酮和吡格列酮）用于慢性心衰患者。", "category": "治疗与康复", "page_num": 27}
+{"match_tokens": ["disease:其他病症"], "advice": "在整个心力衰竭的治疗过程中，应定期进行肾功能评估。", "category": "治疗与康复", "page_num": 28}
+{"match_tokens": ["disease:其他病症"], "advice": "当使用ACEI/ARB、ARNI或SGLT2i类药物时，若血清肌酐升高，需评估患者是否存在肾动脉狭窄、血容量过高或过低、或其他合并用药等因素。", "category": "治疗与康复", "page_num": 28}
+{"match_tokens": ["disease:其他病症"], "advice": "在肾功能恶化时，对经肾脏排泄的药物（如地高辛、胰岛素和低分子量肝素等）需要调整剂量。", "category": "治疗与康复", "page_num": 28}
+{"match_tokens": ["disease:糖尿病"], "advice": "对于2型糖尿病合并慢性肾脏病患者，推荐使用非奈利酮以降低心力衰竭住院风险。", "category": "治疗与康复", "page_num": 28}
+{"match_tokens": ["disease:其他病症"], "advice": "建议对所有心力衰竭患者定期检查全血细胞计数、血清铁蛋白浓度和转铁蛋白饱和度，以判断是否存在贫血或缺铁。", "category": "治疗与康复", "page_num": 28}
+{"match_tokens": ["disease:其他病症"], "advice": "对于LVEF<45%、铁缺乏且有症状的心力衰竭患者，建议静脉补充铁剂，以减轻心力衰竭症状和改善生活质量。", "category": "治疗与康复", "page_num": 28}
+{"match_tokens": ["disease:其他病症"], "advice": "对于近期因心力衰竭住院、LVEF<50%、铁缺乏且有症状的心力衰竭患者，应考虑静脉补充铁剂，以降低心力衰竭住院的风险。", "category": "治疗与康复", "page_num": 28}
+{"match_tokens": ["disease:其他病症"], "advice": "不推荐使用口服铁剂治疗心力衰竭患者的铁缺乏。", "category": "治疗与康复", "page_num": 28}
+{"match_tokens": ["disease:其他病症"], "advice": "在没有其他适应证的情况下，不推荐使用促红细胞生成素刺激剂治疗心力衰竭合并贫血。", "category": "治疗与康复", "page_num": 28}
+{"match_tokens": ["disease:其他病症"], "advice": "对于心脏毒性风险增加的癌症患者，应在实施抗癌治疗前由心脏肿瘤学经验丰富的心脏病专家进行充分的心血管评估。", "category": "治疗与康复", "page_num": 29}
+{"match_tokens": ["disease:其他病症"], "advice": "对于所有计划接受可能导致心衰的癌症治疗的患者，都应考虑进行心血管病基线风险评估。", "category": "治疗与康复", "page_num": 29}
+{"match_tokens": ["disease:其他病症"], "advice": "对于在蒽环类化疗期间发生左心室收缩功能障碍者，应考虑使用ACEI和β受体阻滞剂治疗。", "category": "治疗与康复", "page_num": 29}
+{"match_tokens": ["disease:慢阻肺", "disease:哮喘"], "advice": "心衰合并COPD或疑有气道高反应的患者，建议使用心脏选择性β1受体阻滞剂，如比索洛尔、美托洛尔。", "category": "治疗与康复", "page_num": 29}
+{"match_tokens": ["disease:哮喘"], "advice": "对合并HFrEF的哮喘稳定期患者，可考虑在专科医生的密切监护下，从小剂量开始应用β1受体阻滞剂，同时密切观察气道阻塞症状。", "category": "治疗与康复", "page_num": 29}
+{"match_tokens": ["symptom:失眠", "symptom:疲劳"], "advice": "心衰怀疑存在睡眠呼吸障碍或白天嗜睡的患者，可通过询问患者及同居家属病史、调查问卷等帮助识别有风险的患者。", "category": "治疗与康复", "page_num": 29}
+{"match_tokens": ["symptom:失眠", "symptom:疲劳"], "advice": "当睡眠呼吸障碍是由阻塞性呼吸睡眠暂停引起时，持续气道正压通气治疗有助于改善睡眠质量和白天嗜睡情况。", "category": "治疗与康复", "page_num": 29}
+{"match_tokens": ["disease:其他病症"], "advice": "NYHA心功能Ⅱ~Ⅳ级的HFrEF患者伴有中枢性睡眠呼吸暂停低通气综合征时，不推荐使用伺服通气。", "category": "治疗与康复", "page_num": 29}
+{"match_tokens": ["population:老年人"], "advice": "高原肺水肿常见诱因为上呼吸道感染、运动和寒冷天气，青年人的发病率高于老年人。", "category": "健康生活方式", "page_num": 29}
+{"match_tokens": ["sex:男"], "advice": "高原肺水肿常见诱因为上呼吸道感染、运动和寒冷天气，男性的发病率高于女性。", "category": "健康生活方式", "page_num": 29}
+{"match_tokens": ["disease:其他病症"], "advice": "高原肺水肿的治疗措施包括转运到低海拔地区、坐位、吸氧。", "category": "急症处理", "page_num": 29}
+{"match_tokens": ["disease:其他病症"], "advice": "如果无条件转运，可使用便携式高压氧舱。", "category": "急症处理", "page_num": 29}
+{"match_tokens": ["disease:其他病症"], "advice": "慢性高原心脏病确诊后应尽快将患者送至平原。", "category": "治疗与康复", "page_num": 29}
+{"match_tokens": ["disease:其他病症"], "advice": "当临床怀疑心脏淀粉样变，特别是影像学高度提示时，需要启动进一步检查，包括血清和尿液免疫固定电泳以及血清游离轻链检测。", "category": "治疗与康复", "page_num": 29}
+{"match_tokens": ["disease:其他病症"], "advice": "如果血液检查阴性，则考虑进行99Tcm磷酸盐衍生物骨显像。", "category": "治疗与康复", "page_num": 29}
+{"match_tokens": ["disease:其他病症"], "advice": "确诊ATTR-CA后需要进行基因检测明确是否存在转甲状腺素蛋白基因突变，以便进行家系筛查。", "category": "治疗与康复", "page_num": 29}
+{"match_tokens": ["disease:其他病症"], "advice": "心脏淀粉样变导致心衰时，可以使用利尿剂，如襻利尿剂联合MRA。", "category": "治疗与康复", "page_num": 29}
+{"match_tokens": ["disease:高血压", "disease:糖尿病", "disease:脑血管病", "disease:慢阻肺", "disease:哮喘", "disease:肥胖症"], "advice": "心衰患者的管理应遵循心衰指南及相关疾病指南，需要多学科合作，以患者为中心，涉及住院前、住院中、出院后的多个环节，包括急性期的救治、慢性心衰治疗的启动和优化、合并症的诊治。", "category": "治疗与康复", "page_num": 30}
+{"match_tokens": ["disease:高血压", "disease:糖尿病", "disease:脑血管病", "disease:慢阻肺", "disease:哮喘", "disease:肥胖症"], "advice": "建议将健康生活管理纳入心衰的预防措施中。", "category": "健康生活方式", "page_num": 30}
+{"match_tokens": ["disease:高血压", "disease:糖尿病", "disease:脑血管病", "disease:慢阻肺", "disease:哮喘", "disease:肥胖症"], "advice": "给予患者适合的诊治和长期管理需要多学科组成的心衰管理团队来完成。", "category": "治疗与康复", "page_num": 30}
+{"match_tokens": ["disease:高血压", "disease:糖尿病", "disease:脑血管病", "disease:慢阻肺", "disease:哮喘", "disease:肥胖症"], "advice": "再入院风险高的心衰患者推荐多学科参与的管理方案或项目。", "category": "治疗与康复", "page_num": 30}
+{"match_tokens": ["disease:高血压", "disease:糖尿病", "disease:脑血管病", "disease:慢阻肺", "disease:哮喘", "disease:肥胖症"], "advice": "管理团队需要长期稳定的配合和良好的沟通，应定期对成员进行培训，以确保管理方案持续改进和实施标准化。", "category": "治疗与康复", "page_num": 30}
+{"match_tokens": ["disease:高血压", "disease:糖尿病", "disease:脑血管病", "disease:慢阻肺", "disease:哮喘", "disease:肥胖症"], "advice": "当患者治疗遇到困难时，应及时反馈给团队以寻求帮助。", "category": "治疗与康复", "page_num": 30}
+{"match_tokens": ["disease:高血压", "disease:糖尿病", "disease:脑血管病", "disease:慢阻肺", "disease:哮喘", "disease:肥胖症"], "advice": "心衰治疗方案的拟定应与患者的目标和偏好相匹配，医生与患者共同决策有助于制定个体化的最佳治疗计划。", "category": "治疗与康复", "page_num": 30}
+{"match_tokens": ["disease:高血压", "disease:糖尿病", "disease:脑血管病", "disease:慢阻肺", "disease:哮喘", "disease:肥胖症"], "advice": "住院期间心衰管理团队即应与患者进行接触和宣教，鼓励患者和家属参与随访。", "category": "治疗与康复", "page_num": 30}
+{"match_tokens": ["disease:高血压", "disease:糖尿病", "disease:脑血管病", "disease:慢阻肺", "disease:哮喘", "disease:肥胖症"], "advice": "根据病情和危险分层制定出院计划和随访方案。", "category": "治疗与康复", "page_num": 30}
+{"match_tokens": ["disease:高血压", "disease:糖尿病", "disease:脑血管病", "disease:慢阻肺", "disease:哮喘", "disease:肥胖症"], "advice": "建议实施患者自我管理策略以降低心衰住院风险和死亡率。", "category": "治疗与康复", "page_num": 30}
+{"match_tokens": ["disease:高血压", "disease:糖尿病", "disease:脑血管病", "disease:慢阻肺", "disease:哮喘", "disease:肥胖症"], "advice": "出院后通过随访和患者教育，提高患者依从性和自我护理能力，进行药物调整、心理支持，如果心衰症状加重应及时处理。", "category": "治疗与康复", "page_num": 30}
+{"match_tokens": ["disease:高血压", "disease:糖尿病", "disease:脑血管病", "disease:慢阻肺", "disease:哮喘", "disease:肥胖症"], "advice": "建立心衰随访制度，为患者建立医疗健康档案。", "category": "治疗与康复", "page_num": 30}
+{"match_tokens": ["disease:高血压", "disease:糖尿病", "disease:脑血管病", "disease:慢阻肺", "disease:哮喘", "disease:肥胖症"], "advice": "随访方式包括门诊随访、社区访视、电话随访、家庭监测、植入式或可穿戴式设备远程监控等，根据具体的医疗条件和患者意愿及自我管理能力采取适合的随访方式。", "category": "治疗与康复", "page_num": 30}
+{"match_tokens": ["disease:高血压", "disease:糖尿病", "disease:脑血管病", "disease:慢阻肺", "disease:哮喘", "disease:肥胖症"], "advice": "对于有症状的心衰患者，有条件的情况下可以考虑使用无线血流动力学监测系统远程监测肺动脉压力，以改善临床结局。", "category": "治疗与康复", "page_num": 30}
+{"match_tokens": ["disease:高血压", "disease:糖尿病", "disease:脑血管病", "disease:慢阻肺", "disease:哮喘", "disease:肥胖症"], "advice": "采用新的信息技术能有效促进心衰多学科管理方案的构建和实施，也有助于患者的参与和自我管理。", "category": "治疗与康复", "page_num": 30}
+{"match_tokens": ["disease:高血压", "disease:糖尿病", "disease:脑血管病", "disease:慢阻肺", "disease:哮喘", "disease:肥胖症"], "advice": "根据患者情况制定随访频率和内容，心衰住院患者出院后2~3个月内（心衰的易损期）死亡率和再住院率高达15%和30%。优化治疗是降低易损期心血管事件发生率的关键，因患者病情不稳定，需进行药物调整和监测，应适当增加随访频率。", "category": "治疗与康复", "page_num": 30}
+{"match_tokens": ["disease:高血压", "disease:糖尿病", "disease:脑血管病", "disease:慢阻肺", "disease:哮喘", "disease:肥胖症"], "advice": "建议在出院后1~2周即开始进行早期随访，2周1次，病情稳定后对大多数患者，合理的间隔时间是每3~6个月评估1次，部分患者需要更频繁地监测和随访。", "category": "治疗与康复", "page_num": 30}
+{"match_tokens": ["disease:高血压", "disease:糖尿病", "disease:脑血管病", "disease:慢阻肺", "disease:哮喘", "disease:肥胖症"], "advice": "随访内容：（1）监测症状、体征、NYHA心功能分级、血压、心率、心律、体重、肾功能和电解质；（2）评估容量状态，调整利尿剂的种类和剂量；较低的利尿剂剂量有助于GDMT药物的滴定；（3）如果血容量稳定，调整神经内分泌拮抗剂以达到最大耐受或目标剂量；门诊患者应每2周考虑调整治疗方案，在初诊3~6个月内实现指南推荐的药物治疗目标，在临床稳定的患者中，更快速的滴定也是合理的；（4）经过3~6个月优化药物治疗后，评估是否有ICD和CRT指征；对于严重的症状性慢性二尖瓣反流患者，在考虑经导管修复之前，应先对GDMT进行优化；（5）针对病因的治疗；（6）合并症的治疗；（7）评估治疗依从性和不良反应；（8）推荐检测利钠肽来评估心衰患者的病情严重程度及预后恢复情况，必要时行胸部影像学、动态心电图等检查，通常在规范化治疗后3个月、临床状况发生变化以及每6个月1次的病情评估时进行；（9）关注患者活动能力。", "category": "治疗与康复", "page_num": 30}
+{"match_tokens": ["disease:其他病症"], "advice": "心脏专科医生应每年与患者进行1次病情讨论，审查当前的治疗方案，评估预后，制定后续治疗方案。", "category": "治疗与康复", "page_num": 31}
+{"match_tokens": ["disease:其他病症"], "advice": "对于LVEF恢复到40%以上的患者，在没有明确的、可逆的病因时，应坚持GDMT。", "category": "治疗与康复", "page_num": 31}
+{"match_tokens": ["disease:其他病症"], "advice": "鼓励患者进行心脏康复。", "category": "治疗与康复", "page_num": 31}
+{"match_tokens": ["disease:其他病症"], "advice": "尽可能简化用药方案，不处方无明确疗效的药物。", "category": "治疗与康复", "page_num": 31}
+{"match_tokens": ["disease:其他病症"], "advice": "与患者及家属讨论治疗目标和特定的措施。", "category": "治疗与康复", "page_num": 31}
+{"match_tokens": ["disease:其他病症"], "advice": "考虑治疗费用（如果疗效相近，处方低成本药物）。", "category": "治疗与康复", "page_num": 31}
+{"match_tokens": ["disease:其他病症"], "advice": "与其他参与治疗和护理的社区医生或家属进行交流。", "category": "治疗与康复", "page_num": 31}
+{"match_tokens": ["disease:其他病症"], "advice": "提供每种处方药用途的书面说明，沟通常见的药物副作用。", "category": "治疗与康复", "page_num": 31}
+{"match_tokens": ["disease:其他病症"], "advice": "使用增强依从性的工具。提供用于教育、提醒和依从性跟踪的交流平台（如微信、线上医院）或其他移动医疗应用程序。", "category": "治疗与康复", "page_num": 31}
+{"match_tokens": ["disease:其他病症"], "advice": "电话提醒随访，并在随访时进行药物核对，评估剩余药物剂量/数量，了解有无漏服、减量或擅自停药的情况。", "category": "治疗与康复", "page_num": 31}
+{"match_tokens": ["disease:其他病症"], "advice": "推荐所有心衰患者均应考虑进行有规律的有氧运动，以改善症状、提高活动耐量和生活质量、降低心衰住院风险。", "category": "健康生活方式", "page_num": 31}
+{"match_tokens": ["disease:其他病症"], "advice": "心衰急性发作伴容量负荷过重时，限制钠摄入（<2 g/d）。", "category": "健康生活方式", "page_num": 31}
+{"match_tokens": ["disease:其他病症"], "advice": "避免摄入大量液体，严重心衰患者1.5~2.0 L/d。", "category": "健康生活方式", "page_num": 31}
+{"match_tokens": ["disease:其他病症"], "advice": "每日同一时间、同一条件下测量并记录体重。", "category": "治疗与康复", "page_num": 31}
+{"match_tokens": ["disease:其他病症"], "advice": "介绍血压、心率的测量方法，将血压、心率控制在合适范围。", "category": "治疗与康复", "page_num": 31}
+{"match_tokens": ["disease:其他病症"], "advice": "低脂饮食，戒烟酒，肥胖者需减肥，营养不良者需给予营养支持。", "category": "健康生活方式", "page_num": 31}
+{"match_tokens": ["disease:其他病症"], "advice": "将血脂、血糖、肾功能、电解质控制在合适范围。", "category": "治疗与康复", "page_num": 31}
+{"match_tokens": ["disease:其他病症"], "advice": "详细讲解随访时间安排及目的，根据病情制定随访计划，并需根据随访结果及时给予相应的干预措施。", "category": "治疗与康复", "page_num": 31}
+{"match_tokens": ["disease:其他病症"], "advice": "进行心肺复苏训练。", "category": "急症处理", "page_num": 31}
+{"match_tokens": ["disease:其他病症"], "advice": "详细讲解药名、剂量、时间、频次、用药目的、不良反应和注意事项等，重点讲解GDMT的治疗作用及不良反应，利尿剂的使用及调整。", "category": "治疗与康复", "page_num": 31}
+{"match_tokens": ["disease:其他病症"], "advice": "指导患者尽早发现心衰恶化的症状及如何应对；出现心衰加重的症状和（或）体征，如疲乏加重、呼吸困难加重、活动耐量下降、静息心率增加≥15 次/min、出现水肿（尤其下肢）或加重、体重增加（3 d 内突然增加2 kg以上）时，应增加利尿剂剂量并及时就诊。", "category": "急症处理", "page_num": 31}
+{"match_tokens": ["disease:其他病症"], "advice": "根据心功能情况推荐不同强度的运动；减少久坐，运动过程注意循序渐进；提供运动处方或建议，包括运动强度、何时停止运动等。", "category": "健康生活方式", "page_num": 31}
+{"match_tokens": ["disease:其他病症"], "advice": "定期用量表筛查和评估焦虑、抑郁，建议患者保持积极乐观的心态，给予心理支持，必要时使用抗焦虑或抗抑郁药物。", "category": "治疗与康复", "page_num": 31}
+{"match_tokens": ["disease:其他病症"], "advice": "每年接种流感疫苗、定期接种肺炎疫苗。", "category": "健康生活方式", "page_num": 31}
+{"match_tokens": ["disease:其他病症"], "advice": "讲解植入装置的适应证、重要性、预期结果、常规检查、异常管理，如何识别常见并发症及其处理措施。", "category": "治疗与康复", "page_num": 31}
+{"match_tokens": ["disease:其他病症"], "advice": "戒酒或避免大量饮酒，尤其是酒精性心肌病患者。", "category": "健康生活方式", "page_num": 31}
+{"match_tokens": ["disease:其他病症"], "advice": "介绍吸烟对健康的影响，建议戒烟（包括电子烟）。", "category": "健康生活方式", "page_num": 31}
+{"match_tokens": ["disease:其他病症"], "advice": "根据体能状况参加旅行和休闲活动。", "category": "健康生活方式", "page_num": 31}
+{"match_tokens": ["disease:其他病症"], "advice": "提示睡眠和休息对心血管健康的重要性，使患者能够识别睡眠问题以及如何优化睡眠。", "category": "健康生活方式", "page_num": 31}
+{"match_tokens": ["disease:其他病症", "population:老年人"], "advice": "对老年患者进行综合评估和多学科管理，有助于识别不典型症状、合并症、衰弱、痴呆、抑郁等情况并尽可能避免其不利影响。", "category": "治疗与康复", "page_num": 32}
+{"match_tokens": ["disease:其他病症", "population:老年人"], "advice": "医生需结合老年患者的生活状态选择恰当的就医和随访方式，适当运用电话随访和远程监护，鼓励患者家庭监测和社区随访。", "category": "治疗与康复", "page_num": 32}
+{"match_tokens": ["disease:其他病症", "population:孕妇"], "advice": "心衰患者在怀孕前或初次怀孕时应进行临床评估，包括症状、血压、动脉血氧饱和度、心电图和静息超声心动图。", "category": "治疗与康复", "page_num": 32}
+{"match_tokens": ["disease:其他病症", "population:孕妇"], "advice": "妊娠期间的心衰治疗建议在多学科团队专科支持下进行。", "category": "治疗与康复", "page_num": 32}
+{"match_tokens": ["disease:其他病症", "population:孕妇"], "advice": "妊娠前已应用β受体阻滞剂的HFrEF患者推荐继续应用，妊娠期间出现用药适应证的HFrEF患者也推荐在密切监测下应用β受体阻滞剂，并逐渐增加至最大耐受剂量。", "category": "治疗与康复", "page_num": 32}
+{"match_tokens": ["disease:其他病症", "population:孕妇"], "advice": "围生期心肌病的患者可考虑溴隐亭治疗，以停止泌乳、促进左心室功能恢复，但溴隐亭应与预防性或治疗性抗凝药物联用使用。", "category": "治疗与康复", "page_num": 32}
+{"match_tokens": ["disease:其他病症", "population:孕妇"], "advice": "过快地减停心衰治疗会导致围生期心肌病复发，治疗需持续至左心室功能完全恢复后至少6个月并逐渐减停。", "category": "治疗与康复", "page_num": 32}
+{"match_tokens": ["disease:其他病症", "population:孕妇"], "advice": "有体循环栓塞或心腔内血栓的患者推荐抗凝治疗，LVEF<30%的围生期心肌病患者需考虑预防性抗凝治疗。", "category": "治疗与康复", "page_num": 32}
+{"match_tokens": ["disease:其他病症", "population:孕妇"], "advice": "合并房颤的患者亦推荐根据妊娠分期选择低分子肝素或华法林进行抗凝治疗。", "category": "治疗与康复", "page_num": 32}
+{"match_tokens": ["disease:其他病症", "population:孕妇"], "advice": "应预先建立处理流程和多学科团队，快速诊断和干预对急性心衰的妊娠女性非常重要。", "category": "治疗与康复", "page_num": 33}
+{"match_tokens": ["disease:其他病症", "population:孕妇"], "advice": "应尽早将心原性休克或依赖正性肌力药物的患者转运至能提供MCS的机构。", "category": "急症处理", "page_num": 33}
+{"match_tokens": ["disease:其他病症", "population:孕妇"], "advice": "围生期心肌病患者需尽量避免应用β受体激动剂，选择正性肌力药物时可考虑左西孟旦。", "category": "治疗与康复", "page_num": 33}
+{"match_tokens": ["disease:其他病症"], "advice": "应告知HFrEF患者生产和围生期存在心衰恶化风险。", "category": "治疗与康复", "page_num": 33}
+{"match_tokens": ["disease:其他病症", "population:孕妇"], "advice": "围生期心肌病和扩张型心肌病患者不推荐在LVEF恢复正常前妊娠。", "category": "治疗与康复", "page_num": 33}
+{"match_tokens": ["disease:其他病症", "population:孕妇"], "advice": "即使左心室功能已恢复，妊娠（或再次妊娠）前仍推荐行心衰复发风险评估。", "category": "治疗与康复", "page_num": 33}
+{"match_tokens": ["disease:其他病症", "population:孕妇"], "advice": "无论孕周，经积极治疗仍失代偿或血流动力学不稳定时应终止妊娠。", "category": "急症处理", "page_num": 33}
+{"match_tokens": ["disease:其他病症", "population:孕妇"], "advice": "稳定期心衰患者可尝试顺产。", "category": "治疗与康复", "page_num": 33}
+{"match_tokens": ["disease:其他病症", "population:产后"], "advice": "严重心衰患者可考虑停止母乳喂养，这也有利于尽早进行心衰规范化治疗。", "category": "治疗与康复", "page_num": 33}
+{"match_tokens": ["disease:其他病症", "population:产后"], "advice": "可考虑使用溴隐亭以停止泌乳。", "category": "治疗与康复", "page_num": 33}
+{"match_tokens": ["disease:其他病症"], "advice": "对于心力衰竭患者，应进行心肺运动试验以评估预后。", "category": "治疗与康复", "page_num": 34}
+{"match_tokens": ["disease:其他病症"], "advice": "对于心力衰竭患者，应进行遗传学检测以明确病因。", "category": "治疗与康复", "page_num": 34}
+{"match_tokens": ["disease:其他病症"], "advice": "对于心力衰竭患者，应使用健康相关生活质量量表评估生活质量。", "category": "治疗与康复", "page_num": 34}
+{"match_tokens": ["disease:高血压", "age:老年人"], "advice": "对于患有孤立性收缩期高血压的老年人，应使用降压药物治疗以预防心力衰竭。", "category": "治疗与康复", "page_num": 35}
+{"match_tokens": ["disease:高血压", "age:成人"], "advice": "遵循ACC/AHA等指南，对成人高血压进行预防、检测、评估和管理。", "category": "治疗与康复", "page_num": 35}
+{"match_tokens": ["disease:高血压"], "advice": "遵循《中国高血压健康管理规范(2019)》进行高血压健康管理。", "category": "治疗与康复", "page_num": 35}
+{"match_tokens": ["disease:糖尿病"], "advice": "遵循《中国2型糖尿病防治指南(2020年版)》进行2型糖尿病防治。", "category": "治疗与康复", "page_num": 35}
+{"match_tokens": ["disease:糖尿病", "disease:脑血管病"], "advice": "对于患有2型糖尿病和心力衰竭的患者，应遵循欧洲心脏病学会心力衰竭协会的立场声明进行管理。", "category": "治疗与康复", "page_num": 35}
+{"match_tokens": ["bmi:肥胖"], "advice": "肥胖会增加心力衰竭的风险。", "category": "健康生活方式", "page_num": 35}
+{"match_tokens": ["risk:饮酒"], "advice": "饮酒与心力衰竭风险存在剂量反应关系，应控制饮酒。", "category": "健康生活方式", "page_num": 35}
+{"match_tokens": ["disease:糖尿病", "risk:缺乏运动"], "advice": "对于无心脏病史的糖尿病患者，可考虑基于NT-proBNP进行筛查以预防心脏事件。", "category": "治疗与康复", "page_num": 35}
+{"match_tokens": ["disease:脑血管病"], "advice": "对于左心室收缩功能障碍的患者，使用依那普利可改善长期生存率和预期寿命。", "category": "治疗与康复", "page_num": 35}
+{"match_tokens": ["disease:脑血管病"], "advice": "对于心肌梗死后左心室功能障碍的患者，使用卡维地洛可改善预后。", "category": "治疗与康复", "page_num": 35}
+{"match_tokens": ["disease:脑血管病"], "advice": "对于出现ST段抬高型急性心肌梗死的患者，应遵循2017年ESC指南进行管理。", "category": "急症处理", "page_num": 35}
+{"match_tokens": ["disease:脑血管病"], "advice": "对于无心力衰竭的急性ST段抬高型心肌梗死患者，可考虑早期依普利酮治疗。", "category": "治疗与康复", "page_num": 35}
+{"match_tokens": ["disease:脑血管病"], "advice": "对于伴有充血的心力衰竭患者，应遵循欧洲心脏病学会心力衰竭协会的立场声明使用利尿剂。", "category": "治疗与康复", "page_num": 35}
+{"match_tokens": ["disease:高尿酸血症"], "advice": "遵循《中国高尿酸血症相关疾病诊疗多学科专家共识》进行高尿酸血症相关疾病的诊疗。", "category": "治疗与康复", "page_num": 35}
+{"match_tokens": ["disease:糖尿病", "disease:脑血管病"], "advice": "对于患有心力衰竭和糖尿病的患者，与依那普利相比，沙库巴曲/缬沙坦可能对血糖控制有影响。", "category": "治疗与康复", "page_num": 35}
+{"match_tokens": ["disease:脑血管病"], "advice": "在心力衰竭患者中，血管紧张素受体‑脑啡肽酶抑制剂的应用需遵循中国专家共识。", "category": "治疗与康复", "page_num": 36}
+{"match_tokens": ["disease:脑血管病"], "advice": "对于射血分数降低的心力衰竭或左心室功能障碍患者，可考虑使用血管紧张素转换酶抑制剂。", "category": "治疗与康复", "page_num": 36}
+{"match_tokens": ["disease:脑血管病"], "advice": "慢性心力衰竭患者可考虑使用血管紧张素受体阻滞剂缬沙坦。", "category": "治疗与康复", "page_num": 36}
+{"match_tokens": ["disease:脑血管病"], "advice": "心力衰竭患者可使用高剂量或低剂量氯沙坦，具体剂量需根据临床结果决定。", "category": "治疗与康复", "page_num": 36}
+{"match_tokens": ["disease:脑血管病"], "advice": "射血分数降低的心力衰竭患者可使用β受体阻滞剂。", "category": "治疗与康复", "page_num": 36}
+{"match_tokens": ["disease:脑血管病"], "advice": "射血分数降低的心力衰竭患者可使用醛固酮拮抗剂治疗，以降低死亡和再入院风险。", "category": "治疗与康复", "page_num": 36}
+{"match_tokens": ["disease:脑血管病"], "advice": "射血分数降低的心力衰竭患者可使用达格列净。", "category": "治疗与康复", "page_num": 36}
+{"match_tokens": ["disease:脑血管病"], "advice": "心力衰竭患者可使用恩格列净以改善心血管和肾脏结局。", "category": "治疗与康复", "page_num": 36}
+{"match_tokens": ["disease:脑血管病"], "advice": "射血分数降低的心力衰竭患者可使用达格列净以改善症状、功能和生活质量。", "category": "治疗与康复", "page_num": 36}
+{"match_tokens": ["disease:脑血管病"], "advice": "射血分数降低的心力衰竭患者可使用SGLT2抑制剂（如恩格列净和达格列净）。", "category": "治疗与康复", "page_num": 36}
+{"match_tokens": ["disease:脑血管病"], "advice": "射血分数降低的心力衰竭患者可使用维利西呱。", "category": "治疗与康复", "page_num": 36}
+{"match_tokens": ["disease:脑血管病"], "advice": "慢性心力衰竭患者可使用伊伐布雷定。", "category": "治疗与康复", "page_num": 36}
+{"match_tokens": ["disease:脑血管病"], "advice": "中国慢性心力衰竭患者可使用盐酸伊伐布雷定进行治疗。", "category": "治疗与康复", "page_num": 36}
+{"match_tokens": ["disease:脑血管病"], "advice": "窦性心律的心力衰竭患者可使用洋地黄进行治疗。", "category": "治疗与康复", "page_num": 36}
+{"match_tokens": ["disease:脑血管病"], "advice": "心房颤动患者使用地高辛时需注意其与死亡率的关系。", "category": "治疗与康复", "page_num": 36}
+{"match_tokens": ["disease:脑血管病"], "advice": "心力衰竭患者需监测血清地高辛浓度，因其与临床结局相关。", "category": "治疗与康复", "page_num": 36}
+{"match_tokens": ["disease:脑血管病"], "advice": "慢性心力衰竭患者可考虑使用芪苈强心胶囊。", "category": "治疗与康复", "page_num": 36}
+{"match_tokens": ["disease:脑血管病"], "advice": "慢性缺血性心力衰竭患者可考虑使用芪参益气滴丸。", "category": "治疗与康复", "page_num": 36}
+{"match_tokens": ["disease:脑血管病"], "advice": "慢性心力衰竭患者可额外使用曲美他嗪。", "category": "治疗与康复", "page_num": 36}
+{"match_tokens": ["disease:脑血管病"], "advice": "慢性心力衰竭患者可使用辅酶Q10，以降低发病率和死亡率。", "category": "治疗与康复", "page_num": 36}
+{"match_tokens": ["disease:脑血管病"], "advice": "慢性心力衰竭患者可使用n-3多不饱和脂肪酸。", "category": "治疗与康复", "page_num": 36}
+{"match_tokens": ["disease:脑血管病"], "advice": "心力衰竭患者可使用环硅酸锆钠维持血清钾水平。", "category": "治疗与康复", "page_num": 36}
+{"match_tokens": ["disease:其他病症"], "advice": "对于心力衰竭患者，出院时坚持口服药物治疗与更好的预后相关。", "category": "治疗与康复", "page_num": 37}
+{"match_tokens": ["disease:高血压", "disease:糖尿病", "disease:脑血管病"], "advice": "遵循指南指导的药物治疗方案，并逐步上调药物剂量。", "category": "治疗与康复", "page_num": 38}
+{"match_tokens": ["disease:高血压", "disease:糖尿病", "disease:脑血管病"], "advice": "对于伴有2型糖尿病的心血管风险患者，应遵循专家共识决策路径，考虑使用新型疗法以降低心血管风险。", "category": "治疗与康复", "page_num": 39}
+{"match_tokens": ["disease:慢阻肺"], "advice": "对于肺动脉高压患者，应遵循2022年ESC/ERS指南进行诊断和治疗。", "category": "治疗与康复", "page_num": 39}
+{"match_tokens": ["disease:脑血管病"], "advice": "对于急性缺血性脑卒中患者，应遵循2018年中国指南或2019年美国指南进行早期管理。", "category": "急症处理", "page_num": 39}
+{"match_tokens": ["disease:高血压"], "advice": "对于稳定性冠心病患者，应遵循2018年中国指南进行诊断与治疗。", "category": "治疗与康复", "page_num": 39}
+{"match_tokens": ["disease:高血压"], "advice": "对于心肌血运重建，应遵循2018年ESC/EACTS指南。", "category": "治疗与康复", "page_num": 39}
+{"match_tokens": ["disease:高血压"], "advice": "对于心房颤动患者，应遵循2020年ESC指南或2023年中国指南进行诊断和管理。", "category": "治疗与康复", "page_num": 39}
+{"match_tokens": ["disease:高血压"], "advice": "对于瓣膜性心脏病患者，应遵循2021年ESC/EACTS指南进行管理。", "category": "治疗与康复", "page_num": 39}
+{"match_tokens": ["disease:高血压"], "advice": "对于心室心律失常患者及预防心源性猝死，应遵循2022年ESC指南或2017年AHA/ACC/HRS指南进行管理。", "category": "治疗与康复", "page_num": 39}
+{"match_tokens": ["disease:高血压"], "advice": "对于右心衰竭患者，应遵循美国心脏协会的科学声明进行诊断和治疗。", "category": "治疗与康复", "page_num": 39}
+{"match_tokens": ["disease:高血压"], "advice": "对于伴有心房颤动和心力衰竭的患者，应考虑使用非维生素K拮抗剂口服抗凝药，并参考相关随机试验的系统评价和荟萃分析。", "category": "治疗与康复", "page_num": 39}
+{"match_tokens": ["disease:高血压"], "advice": "对于伴有心房颤动和心力衰竭的患者，应考虑进行导管消融治疗，并参考相关多中心随机试验结果。", "category": "治疗与康复", "page_num": 39}
+{"match_tokens": ["disease:高血压"], "advice": "对于伴有心房颤动和心力衰竭的患者，在当代导管消融时代，应考虑节律控制策略，并参考随机数据的分层汇总分析。", "category": "治疗与康复", "page_num": 39}
+{"match_tokens": ["disease:高血压"], "advice": "对于伴有心房颤动和心力衰竭的患者，应考虑节律控制与室率控制的治疗策略，并参考相关临床试验结果。", "category": "治疗与康复", "page_num": 39}
+{"match_tokens": ["disease:高血压"], "advice": "对于伴有心房颤动和心力衰竭并植入装置的患者，若为持续性心房颤动，应考虑消融与胺碘酮治疗的比较，并参考多中心随机试验结果。", "category": "治疗与康复", "page_num": 39}
+{"match_tokens": ["disease:高血压"], "advice": "对于伴有铁缺乏的收缩性心力衰竭患者，应考虑静脉铁剂治疗，并参考随机对照试验的荟萃分析结果。", "category": "治疗与康复", "page_num": 39}
+{"match_tokens": ["disease:高血压"], "advice": "对于急性心力衰竭出院时存在铁缺乏的患者，应考虑使用羧基麦芽糖铁进行治疗，并参考多中心、双盲、随机对照试验结果。", "category": "治疗与康复", "page_num": 39}
+{"match_tokens": ["disease:高血压"], "advice": "对于成年心力衰竭患者，应遵循营养与饮食学会基于证据的实践指南进行管理。", "category": "健康生活方式", "page_num": 39}
+{"match_tokens": ["disease:高血压"], "advice": "对于终末期心力衰竭患者，可考虑使用国产HeartCon第三代磁液悬浮左心室辅助装置进行治疗，并参考前瞻性多中心临床试验研究。", "category": "治疗与康复", "page_num": 39}
+{"match_tokens": ["disease:高血压"], "advice": "对于严重双心室衰竭患者，应考虑当代机械循环支持装置的配置，并参考相关临床结局研究。", "category": "治疗与康复", "page_num": 39}
+{"match_tokens": ["disease:高血压", "disease:糖尿病", "disease:脑血管病", "disease:慢阻肺", "disease:哮喘"], "advice": "对于合并高血压、糖尿病、脑血管病、慢阻肺或哮喘的心力衰竭患者，应进行准确的诊断和治疗。", "category": "治疗与康复", "page_num": 40}
+{"match_tokens": ["disease:无特定疾病", "risk:睡眠不足"], "advice": "对于心力衰竭患者，应关注睡眠呼吸障碍，并进行诊断和治疗。", "category": "治疗与康复", "page_num": 40}
+{"match_tokens": ["disease:无特定疾病", "risk:缺乏运动"], "advice": "对于心力衰竭患者，应避免高海拔环境，以预防高海拔疾病。", "category": "健康生活方式", "page_num": 40}
+{"match_tokens": ["disease:其他病症"], "advice": "对于转甲状腺素蛋白心脏淀粉样变患者，应遵循中国专家共识进行诊断和治疗。", "category": "治疗与康复", "page_num": 40}
+{"match_tokens": ["disease:高血压", "disease:糖尿病", "disease:脑血管病"], "advice": "定期监测血压、血糖，遵医嘱服药，控制病情发展。", "category": "治疗与康复", "page_num": 41}
+{"match_tokens": ["disease:慢阻肺", "disease:支气管炎", "disease:哮喘"], "advice": "避免接触烟雾、粉尘等刺激性气体，注意保暖，预防呼吸道感染。", "category": "治疗与康复", "page_num": 41}
+{"match_tokens": ["disease:肥胖症"], "advice": "控制饮食，增加体力活动，必要时寻求专业减重指导。", "category": "健康生活方式", "page_num": 41}
+{"match_tokens": ["disease:肺结核"], "advice": "坚持全程、规律服用抗结核药物，定期复查，注意隔离。", "category": "治疗与康复", "page_num": 41}
+{"match_tokens": ["disease:乙肝"], "advice": "定期复查肝功能与病毒载量，避免饮酒，注意休息。", "category": "治疗与康复", "page_num": 41}
+{"match_tokens": ["disease:感冒"], "advice": "注意休息，多饮水，保持室内空气流通。", "category": "急症处理", "page_num": 41}
+{"match_tokens": ["population:孕妇", "disease:高血压", "disease:糖尿病"], "advice": "妊娠期间加强血压、血糖监测，遵医嘱调整治疗方案。", "category": "治疗与康复", "page_num": 41}
+{"match_tokens": ["population:老年人", "disease:高血压", "disease:糖尿病", "disease:脑血管病"], "advice": "定期体检，监测血压、血糖、血脂，预防心脑血管事件。", "category": "治疗与康复", "page_num": 41}
+{"match_tokens": ["risk:吸烟", "disease:肺癌", "disease:慢阻肺"], "advice": "戒烟，避免吸入二手烟，降低呼吸系统疾病风险。", "category": "健康生活方式", "page_num": 41}
+{"match_tokens": ["risk:饮酒", "disease:高血压", "disease:脑血管病"], "advice": "限制饮酒或戒酒，以控制血压，预防脑卒中。", "category": "健康生活方式", "page_num": 41}
+{"match_tokens": ["risk:缺乏运动", "disease:肥胖症", "disease:糖尿病"], "advice": "每周进行至少150分钟中等强度有氧运动，如快走、慢跑。", "category": "健康生活方式", "page_num": 41}
+{"match_tokens": ["risk:高盐饮食", "disease:高血压"], "advice": "每日食盐摄入量控制在5克以下，减少酱油、咸菜等高盐食品。", "category": "健康生活方式", "page_num": 41}
+{"match_tokens": ["risk:睡眠不足"], "advice": "保证每晚7-8小时的充足睡眠，建立规律的作息时间。", "category": "健康生活方式", "page_num": 41}
+{"match_tokens": ["symptom:发热"], "advice": "体温超过38.5℃时，可遵医嘱使用退热药，并补充水分。", "category": "急症处理", "page_num": 41}
+{"match_tokens": ["symptom:咳嗽"], "advice": "咳嗽剧烈时避免用力过猛，可饮用温水或蜂蜜水缓解。", "category": "急症处理", "page_num": 41}
+{"match_tokens": ["symptom:疼痛"], "advice": "明确疼痛原因，遵医嘱使用止痛药物，避免自行滥用。", "category": "急症处理", "page_num": 41}
+{"match_tokens": ["symptom:失眠"], "advice": "睡前避免饮用咖啡、浓茶，营造安静、舒适的睡眠环境。", "category": "健康生活方式", "page_num": 41}
+{"match_tokens": ["symptom:疲劳"], "advice": "合理安排工作与休息，避免过度劳累，保证营养摄入。", "category": "健康生活方式", "page_num": 41}
+{"match_tokens": ["population:学生"], "advice": "保证每日户外活动时间，控制使用电子产品的时间，保护视力。", "category": "健康生活方式", "page_num": 41}
+{"match_tokens": ["population:工人"], "advice": "工作中注意劳逸结合，遵守安全操作规程，预防职业伤害。", "category": "健康生活方式", "page_num": 41}

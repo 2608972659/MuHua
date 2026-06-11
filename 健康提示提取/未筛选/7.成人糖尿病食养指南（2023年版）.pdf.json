@@ -1,0 +1,578 @@
+{
+  "source_file": "7.成人糖尿病食养指南（2023年版）.pdf",
+  "saved_at": "2026-04-20T17:49:54",
+  "total": 70,
+  "suggestions": [
+    {
+      "match_tokens": [
+        "disease:糖尿病"
+      ],
+      "advice": "餐餐都应有蔬菜，每天应达500g，其中深色蔬菜占一半以上。",
+      "category": "健康生活方式",
+      "page_num": 7
+    },
+    {
+      "match_tokens": [
+        "bmi:正常"
+      ],
+      "advice": "体质指数（BMI）应保持在18.5～23.9kg/m²之间。",
+      "category": "健康生活方式",
+      "page_num": 8
+    },
+    {
+      "match_tokens": [
+        "disease:糖尿病",
+        "bmi:超重",
+        "bmi:肥胖"
+      ],
+      "advice": "超重和肥胖的2型糖尿病患者减重3%～5%，即能产生有临床意义的健康获益。",
+      "category": "治疗与康复",
+      "page_num": 8
+    },
+    {
+      "match_tokens": [
+        "bmi:超重",
+        "bmi:肥胖"
+      ],
+      "advice": "建议超重肥胖患者按照每个月减少1～2kg的速度，3～6个月减少体重5%～10%。",
+      "category": "健康生活方式",
+      "page_num": 8
+    },
+    {
+      "match_tokens": [
+        "disease:糖尿病"
+      ],
+      "advice": "糖尿病患者碳水化合物提供的能量占总能量比例为45%～60%，以成年人（1800～2000kcal）为例，相当于一天碳水化合物的总量为200～300g。",
+      "category": "治疗与康复",
+      "page_num": 9
+    },
+    {
+      "match_tokens": [
+        "disease:糖尿病",
+        "risk:缺乏运动"
+      ],
+      "advice": "糖尿病患者可在餐后运动，每周至少5天，每次30～45分钟，中等强度运动要占50%以上，循序渐进，持之以恒。",
+      "category": "健康生活方式",
+      "page_num": 10
+    },
+    {
+      "match_tokens": [
+        "disease:糖尿病"
+      ],
+      "advice": "如无禁忌，最好一周2次抗阻运动，如哑铃、俯卧撑、器械类运动等，提高肌肉力量和耐力。",
+      "category": "健康生活方式",
+      "page_num": 10
+    },
+    {
+      "match_tokens": [
+        "disease:糖尿病"
+      ],
+      "advice": "糖尿病患者应该寻找和培养自己有兴趣的运动方式，将运动列入每天的时间安排，培养运动意识和习惯，有计划地循序渐进，逐渐增加和达到目标运动量。",
+      "category": "健康生活方式",
+      "page_num": 10
+    },
+    {
+      "match_tokens": [
+        "disease:糖尿病"
+      ],
+      "advice": "培养清淡口味，每日烹调油使用量宜控制在25g以内，少吃动物脂肪，适当控制富含胆固醇的食物。",
+      "category": "健康生活方式",
+      "page_num": 11
+    },
+    {
+      "match_tokens": [
+        "disease:糖尿病"
+      ],
+      "advice": "食盐用量每日不宜超过5g，注意限制酱油、鸡精、味精、咸菜、咸肉、酱菜等含盐量较高的调味品和食物的使用。",
+      "category": "健康生活方式",
+      "page_num": 11
+    },
+    {
+      "match_tokens": [
+        "disease:糖尿病"
+      ],
+      "advice": "摄入含等量碳水化合物的食物后，尤其是以谷、薯、杂豆为主要原料制成的食品，如果GI≤55，为低GI食物；55＜GI≤70，为中GI食物；GI＞70，为高GI食物。",
+      "category": "治疗与康复",
+      "page_num": 14
+    },
+    {
+      "match_tokens": [
+        "disease:无特定疾病"
+      ],
+      "advice": "使用谷、薯类食物等量交换表（90kcal），参考每份质量（g）和质量估算进行食物交换。",
+      "category": "健康生活方式",
+      "page_num": 17
+    },
+    {
+      "match_tokens": [
+        "disease:无特定疾病"
+      ],
+      "advice": "食用畜肉类（纯瘦，脂肪≤5%）如牛里脊、羊里脊时，每份摄入量为70-90克，约手掌大小。",
+      "category": "健康生活方式",
+      "page_num": 20
+    },
+    {
+      "match_tokens": [
+        "disease:无特定疾病"
+      ],
+      "advice": "食用畜肉类（瘦，脂肪6%-15%）如猪里脊、牛腱子、羊腿肉时，每份摄入量为50-70克，约牛腱子1块。",
+      "category": "健康生活方式",
+      "page_num": 20
+    },
+    {
+      "match_tokens": [
+        "disease:无特定疾病"
+      ],
+      "advice": "食用畜肉类（肥瘦，脂肪16%-35%）如前臀尖、猪大排时，每份摄入量为25-35克，约猪大排1块。",
+      "category": "健康生活方式",
+      "page_num": 20
+    },
+    {
+      "match_tokens": [
+        "disease:无特定疾病"
+      ],
+      "advice": "食用畜肉类（较肥，脂肪36%-50%）如五花肉、肋条肉时，每份摄入量为15-25克，约五花肉1块。",
+      "category": "健康生活方式",
+      "page_num": 20
+    },
+    {
+      "match_tokens": [
+        "disease:无特定疾病"
+      ],
+      "advice": "食用畜肉类（肥，脂肪≥85%）如肥肉、板油时，每份摄入量为10-13克，约肥肉1粒。",
+      "category": "健康生活方式",
+      "page_num": 20
+    },
+    {
+      "match_tokens": [
+        "disease:无特定疾病"
+      ],
+      "advice": "食用淀粉类坚果（碳水化合物≥40%）如板栗、白果、芡实、莲子时，每份摄入量为24-26克，约板栗4颗或莲子1把。",
+      "category": "健康生活方式",
+      "page_num": 20
+    },
+    {
+      "match_tokens": [
+        "disease:无特定疾病"
+      ],
+      "advice": "食用高脂类坚果（脂肪≥40%）如松子、核桃、葵花子、南瓜子、杏仁、榛子、开心果、芝麻时，每份摄入量为12-16克，约葵花子1把、杏仁1把或核桃2颗。",
+      "category": "健康生活方式",
+      "page_num": 20
+    },
+    {
+      "match_tokens": [
+        "disease:无特定疾病"
+      ],
+      "advice": "食用中脂类坚果（脂肪20%-40%）如腰果、胡麻子、核桃（鲜）、白芝麻时，每份摄入量为18-22克，约腰果1把或芝麻1把。",
+      "category": "健康生活方式",
+      "page_num": 20
+    },
+    {
+      "match_tokens": [
+        "disease:高血压",
+        "risk:高盐饮食"
+      ],
+      "advice": "参考调味料类的盐含量等量交换表，控制每日盐摄入量，例如5克盐、10克鸡精或32克酱油均含有约2000毫克钠。",
+      "category": "健康生活方式",
+      "page_num": 21
+    },
+    {
+      "match_tokens": [
+        "disease:糖尿病",
+        "disease:肥胖症"
+      ],
+      "advice": "参考大豆、乳及其制品等量交换表，将食物按每份90千卡进行等量交换，例如一份可为80-100克北豆腐或130-150克纯牛乳。",
+      "category": "健康生活方式",
+      "page_num": 21
+    },
+    {
+      "match_tokens": [
+        "disease:糖尿病",
+        "bmi:体重过低"
+      ],
+      "advice": "当体重过轻时，可以按照25～30kcal/（kg·d）适当增减食材用量调整。",
+      "category": "治疗与康复",
+      "page_num": 22
+    },
+    {
+      "match_tokens": [
+        "disease:糖尿病",
+        "bmi:超重",
+        "bmi:肥胖"
+      ],
+      "advice": "当体重过重时，可以按照25～30kcal/（kg·d）适当增减食材用量调整。",
+      "category": "治疗与康复",
+      "page_num": 22
+    },
+    {
+      "match_tokens": [
+        "population:老年人"
+      ],
+      "advice": "食谱可提供能量1600～2000kcal，蛋白质79～101g，碳水化合物206～260g及脂肪62～67g。",
+      "category": "健康生活方式",
+      "page_num": 25
+    },
+    {
+      "match_tokens": [
+        "population:老年人"
+      ],
+      "advice": "宏量营养素占总能量比为：蛋白质15%～20%，碳水化合物45%～60%，脂肪20%～35%。",
+      "category": "健康生活方式",
+      "page_num": 25
+    },
+    {
+      "match_tokens": [
+        "population:老年人"
+      ],
+      "advice": "本食谱可提供能量1600～2000kcal。蛋白质71～86g，碳水化合物200～284g及脂肪63～79g。",
+      "category": "健康生活方式",
+      "page_num": 26
+    },
+    {
+      "match_tokens": [
+        "age:任何",
+        "disease:无特定疾病"
+      ],
+      "advice": "食谱可提供能量1600～2000kcal，蛋白质69～89g，碳水化合物208～258g及脂肪64～79g。",
+      "category": "健康生活方式",
+      "page_num": 27
+    },
+    {
+      "match_tokens": [
+        "age:任何",
+        "disease:无特定疾病"
+      ],
+      "advice": "食谱中宏量营养素占总能量比为：蛋白质15%～20%，碳水化合物45%～60%，脂肪20%～35%。",
+      "category": "健康生活方式",
+      "page_num": 27
+    },
+    {
+      "match_tokens": [
+        "population:老年人"
+      ],
+      "advice": "每日食谱可提供能量1600～2000kcal，蛋白质79～104g，碳水化合物226～266g及脂肪51～64g。",
+      "category": "健康生活方式",
+      "page_num": 29
+    },
+    {
+      "match_tokens": [
+        "population:老年人"
+      ],
+      "advice": "每日食谱中宏量营养素占总能量比为：蛋白质15%～20%，碳水化合物45%～60%，脂肪20%～35%。",
+      "category": "健康生活方式",
+      "page_num": 29
+    },
+    {
+      "match_tokens": [
+        "population:老年人"
+      ],
+      "advice": "每日食谱中可使用山药、枸杞子、姜等食药物质。",
+      "category": "健康生活方式",
+      "page_num": 29
+    },
+    {
+      "match_tokens": [
+        "population:老年人"
+      ],
+      "advice": "每日食谱全天总用量为植物油25g，盐5g。",
+      "category": "健康生活方式",
+      "page_num": 29
+    },
+    {
+      "match_tokens": [
+        "population:老年人"
+      ],
+      "advice": "参考本季食谱，每日能量摄入控制在1600至2000千卡之间。",
+      "category": "健康生活方式",
+      "page_num": 33
+    },
+    {
+      "match_tokens": [
+        "population:老年人"
+      ],
+      "advice": "参考本季食谱，确保每日蛋白质摄入量在82至92克之间。",
+      "category": "健康生活方式",
+      "page_num": 33
+    },
+    {
+      "match_tokens": [
+        "population:老年人"
+      ],
+      "advice": "参考本季食谱，确保每日碳水化合物摄入量在232至261克之间。",
+      "category": "健康生活方式",
+      "page_num": 33
+    },
+    {
+      "match_tokens": [
+        "population:老年人"
+      ],
+      "advice": "参考本季食谱，确保每日脂肪摄入量在53至72克之间。",
+      "category": "健康生活方式",
+      "page_num": 33
+    },
+    {
+      "match_tokens": [
+        "population:老年人"
+      ],
+      "advice": "参考本季食谱，使每日蛋白质供能比控制在15%至20%之间。",
+      "category": "健康生活方式",
+      "page_num": 33
+    },
+    {
+      "match_tokens": [
+        "population:老年人"
+      ],
+      "advice": "参考本季食谱，使每日碳水化合物供能比控制在45%至60%之间。",
+      "category": "健康生活方式",
+      "page_num": 33
+    },
+    {
+      "match_tokens": [
+        "population:老年人"
+      ],
+      "advice": "参考本季食谱，使每日脂肪供能比控制在20%至35%之间。",
+      "category": "健康生活方式",
+      "page_num": 33
+    },
+    {
+      "match_tokens": [
+        "disease:糖尿病"
+      ],
+      "advice": "加餐可食用樱桃、橙子等水果，每次100g。",
+      "category": "治疗与康复",
+      "page_num": 40
+    },
+    {
+      "match_tokens": [
+        "population:老年人"
+      ],
+      "advice": "晚餐可食用杂粮饭（糙米25g，大米75g）、花雕鸡（鸡肉100g）、黑木耳炒苦瓜（木耳20g，平菇30g，苦瓜100g）、蚝油生菜（生菜150g）和紫菜虾皮汤（紫菜5g，虾皮5g），全天用油不超过20g，用盐不超过5g。",
+      "category": "健康生活方式",
+      "page_num": 41
+    },
+    {
+      "match_tokens": [
+        "population:老年人"
+      ],
+      "advice": "春季食谱晚餐可食用杂粮饭（黑米25g，大米65g）、盐水鸭（鸭肉50g）、西红柿炒瓠瓜（西红柿50g，瓠瓜100g）、清炒苋菜（苋菜150g）和冬瓜汤（冬瓜30g），全天用油不超过18g，用盐不超过4g。",
+      "category": "健康生活方式",
+      "page_num": 41
+    },
+    {
+      "match_tokens": [
+        "population:老年人"
+      ],
+      "advice": "夏季食谱晚餐可食用杂粮饭（黑米25g，大米50g）、五味鸡腿（鸡腿肉50g，生姜*3g）、清炒芦笋（芦笋100g）、芹菜香干（芹菜150g，香干50g）和菌菇汤（香菇20g，白玉菇20g），全天用油不超过20g，用盐不超过4g。",
+      "category": "健康生活方式",
+      "page_num": 41
+    },
+    {
+      "match_tokens": [
+        "age:成人"
+      ],
+      "advice": "每日摄入总能量为2000kcal，蛋白质65～76g，脂肪46～58g；宏量营养素占总能量比为：蛋白质15%～20%，碳水化合物45%～60%，脂肪20%～35%。",
+      "category": "健康生活方式",
+      "page_num": 44
+    },
+    {
+      "match_tokens": [
+        "population:老年人"
+      ],
+      "advice": "食谱可提供能量1600～2000kcal，蛋白质80～100g，碳水化合物210～265g及脂肪50～68g。",
+      "category": "健康生活方式",
+      "page_num": 45
+    },
+    {
+      "match_tokens": [
+        "disease:糖尿病"
+      ],
+      "advice": "每日食谱可提供能量1600～2000kcal，蛋白质83～98g，碳水化合物242～279g及脂肪46～60g。",
+      "category": "治疗与康复",
+      "page_num": 47
+    },
+    {
+      "match_tokens": [
+        "disease:糖尿病"
+      ],
+      "advice": "每日食谱中包含足量蔬菜，如油麦菜、茼蒿、空心菜、丝瓜等，每餐份量约150g。",
+      "category": "治疗与康复",
+      "page_num": 47
+    },
+    {
+      "match_tokens": [
+        "disease:糖尿病"
+      ],
+      "advice": "每日食谱中包含适量蛋白质，如牛肉、鱼肉、猪瘦肉、猪肝、豆腐等。",
+      "category": "治疗与康复",
+      "page_num": 47
+    },
+    {
+      "match_tokens": [
+        "disease:无特定疾病"
+      ],
+      "advice": "全天总能量摄入控制在1600～2000kcal。",
+      "category": "健康生活方式",
+      "page_num": 50
+    },
+    {
+      "match_tokens": [
+        "disease:无特定疾病"
+      ],
+      "advice": "全天蛋白质摄入控制在76～101g，占总能量15%～20%。",
+      "category": "健康生活方式",
+      "page_num": 50
+    },
+    {
+      "match_tokens": [
+        "disease:无特定疾病"
+      ],
+      "advice": "全天碳水化合物摄入控制在229～290g，占总能量45%～60%。",
+      "category": "健康生活方式",
+      "page_num": 50
+    },
+    {
+      "match_tokens": [
+        "disease:无特定疾病"
+      ],
+      "advice": "全天脂肪摄入控制在50～55g，占总能量20%～35%。",
+      "category": "健康生活方式",
+      "page_num": 50
+    },
+    {
+      "match_tokens": [
+        "population:任何"
+      ],
+      "advice": "每日三餐可参考食谱，早餐可食用煮玉米、低脂牛奶、煮鸡蛋和凉拌蔬菜。",
+      "category": "健康生活方式",
+      "page_num": 52
+    },
+    {
+      "match_tokens": [
+        "population:任何"
+      ],
+      "advice": "每日三餐可参考食谱，中餐可食用杂粮饭、肉类菜肴和蔬菜。",
+      "category": "健康生活方式",
+      "page_num": 52
+    },
+    {
+      "match_tokens": [
+        "population:任何"
+      ],
+      "advice": "每日三餐可参考食谱，晚餐可食用杂粮饭、鱼类菜肴和蔬菜。",
+      "category": "健康生活方式",
+      "page_num": 52
+    },
+    {
+      "match_tokens": [
+        "population:任何"
+      ],
+      "advice": "每日可安排加餐，食用水果如苹果、草莓或黄桃。",
+      "category": "健康生活方式",
+      "page_num": 52
+    },
+    {
+      "match_tokens": [
+        "population:老年人"
+      ],
+      "advice": "每日食谱可提供能量1600～2000kcal。",
+      "category": "健康生活方式",
+      "page_num": 53
+    },
+    {
+      "match_tokens": [
+        "population:老年人"
+      ],
+      "advice": "每日食谱中蛋白质占总能量比为15%～20%。",
+      "category": "健康生活方式",
+      "page_num": 53
+    },
+    {
+      "match_tokens": [
+        "population:老年人"
+      ],
+      "advice": "每日食谱中碳水化合物占总能量比为45%～60%。",
+      "category": "健康生活方式",
+      "page_num": 53
+    },
+    {
+      "match_tokens": [
+        "population:老年人"
+      ],
+      "advice": "每日食谱中脂肪占总能量比为20%～35%。",
+      "category": "健康生活方式",
+      "page_num": 53
+    },
+    {
+      "match_tokens": [
+        "disease:糖尿病"
+      ],
+      "advice": "每日食谱可提供能量1600～2000kcal，蛋白质70～102g，碳水化合物213～240g及脂肪55～72g，可用于日常饮食规划。",
+      "category": "健康生活方式",
+      "page_num": 57
+    },
+    {
+      "match_tokens": [
+        "population:任何"
+      ],
+      "advice": "每日烹饪用油总量控制在25克以内。",
+      "category": "健康生活方式",
+      "page_num": 58
+    },
+    {
+      "match_tokens": [
+        "population:任何"
+      ],
+      "advice": "每日食盐摄入总量控制在5克以内。",
+      "category": "健康生活方式",
+      "page_num": 58
+    },
+    {
+      "match_tokens": [
+        "population:任何"
+      ],
+      "advice": "每日食谱可提供能量1600～2000千卡，蛋白质71～102克，碳水化合物215～240克，脂肪62～72克。",
+      "category": "健康生活方式",
+      "page_num": 58
+    },
+    {
+      "match_tokens": [
+        "disease:无特定疾病"
+      ],
+      "advice": "将猪瘦肉、铁皮石斛、西洋参、大枣放入锅内，加清水，大火煮沸后小火煮1～2小时，佐餐食用。",
+      "category": "健康生活方式",
+      "page_num": 62
+    },
+    {
+      "match_tokens": [
+        "disease:无特定疾病"
+      ],
+      "advice": "将灵芝和去皮的山药切小块，猪骨洗净焯水后，所有材料一起放入锅中，加入清水，大火烧开后转小火1小时，佐餐食用。",
+      "category": "健康生活方式",
+      "page_num": 62
+    },
+    {
+      "match_tokens": [
+        "disease:无特定疾病"
+      ],
+      "advice": "将芡实、赤小豆清水浸泡半小时，猪胰清理筋膜和肥油后清洗切段，加生姜冷水下锅焯水捞出冲洗，将所有食材加入清水中，大火烧开后转小火煲1～2小时，佐餐食用。",
+      "category": "健康生活方式",
+      "page_num": 62
+    },
+    {
+      "match_tokens": [
+        "disease:糖尿病"
+      ],
+      "advice": "了解糖尿病诊断标准：空腹血糖≥7.0mmol/L，或OGTT 2h血糖≥11.1mmol/L，或随机血糖≥11.1mmol/L，或HbA1c≥6.5%。",
+      "category": "治疗与康复",
+      "page_num": 64
+    },
+    {
+      "match_tokens": [
+        "disease:糖尿病"
+      ],
+      "advice": "了解糖代谢状态分类：空腹血糖≥6.1且＜7.0mmol/L为空腹血糖受损，OGTT 2h血糖≥7.8且＜11.1mmol/L为糖耐量减低，二者统称糖尿病前期。",
+      "category": "治疗与康复",
+      "page_num": 64
+    }
+  ]
+}

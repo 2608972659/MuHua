@@ -1,0 +1,237 @@
+{"match_tokens": ["disease:乙肝"], "advice": "定期进行慢性乙型肝炎的筛查，提高诊断率。", "category": "健康生活方式", "page_num": 1}
+{"match_tokens": ["disease:乙肝"], "advice": "积极接受慢性乙型肝炎的抗病毒治疗，提高治疗率。", "category": "治疗与康复", "page_num": 1}
+{"match_tokens": ["disease:乙肝", "population:新生儿"], "advice": "新生儿应在出生后12小时内尽早注射乙型肝炎免疫球蛋白，并在不同部位接种乙型肝炎疫苗。", "category": "治疗与康复", "page_num": 2}
+{"match_tokens": ["disease:乙肝", "population:新生儿"], "advice": "新生儿乙型肝炎疫苗全程需接种3剂，按照0、1、6个月的程序进行接种。", "category": "治疗与康复", "page_num": 2}
+{"match_tokens": ["disease:乙肝", "population:新生儿"], "advice": "新生儿接种乙型肝炎疫苗，重组酵母乙型肝炎疫苗每剂次10μg，不论母亲HBsAg阳性与否。", "category": "治疗与康复", "page_num": 2}
+{"match_tokens": ["disease:乙肝", "population:儿童"], "advice": "HBeAg阳性母亲或7月龄时低抗-HBs水平的儿童，应在2岁前及时加强免疫注射。", "category": "治疗与康复", "page_num": 2}
+{"match_tokens": ["disease:乙肝", "age:成人"], "advice": "成人乙型肝炎疫苗接种建议接种3剂20μg重组酵母乙型肝炎疫苗或20μg重组中国仓鼠卵巢细胞乙型肝炎疫苗。", "category": "治疗与康复", "page_num": 2}
+{"match_tokens": ["disease:乙肝", "population:孕妇"], "advice": "未感染过HBV的妇女在妊娠期间接种乙型肝炎疫苗是安全的。", "category": "治疗与康复", "page_num": 2}
+{"match_tokens": ["disease:乙肝", "age:成人"], "advice": "对免疫功能低下或无应答者，应增加疫苗的接种剂量（如60μg）或剂次。", "category": "治疗与康复", "page_num": 2}
+{"match_tokens": ["disease:乙肝", "age:成人"], "advice": "对0、1、6个月程序无应答者可再接种1剂60μg或3剂20μg乙型肝炎疫苗，并于完成第2次接种程序后1～2个月时检测血清抗-HBs。", "category": "治疗与康复", "page_num": 2}
+{"match_tokens": ["disease:乙肝", "age:成人"], "advice": "如仍无应答，可再接种1剂60μg重组酵母乙型肝炎疫苗。", "category": "治疗与康复", "page_num": 2}
+{"match_tokens": ["disease:乙肝", "age:成人"], "advice": "除按常规程序接种外，加速疫苗接种程序（0、1、2个月程序）已被证明是可行和有效的。", "category": "治疗与康复", "page_num": 2}
+{"match_tokens": ["disease:乙肝"], "advice": "对首次确定的HBsAg阳性者，应按规定向当地CDC报告，并建议对其家庭成员进行血清HBsAg、抗-HBs和抗-HBc检测，对易感者接种乙型肝炎疫苗。", "category": "治疗与康复", "page_num": 2}
+{"match_tokens": ["disease:乙肝"], "advice": "慢性HBV感染者应避免与他人共用牙具、剃须刀、注射器及取血针等。", "category": "健康生活方式", "page_num": 2}
+{"match_tokens": ["disease:乙肝"], "advice": "慢性HBV感染者禁止献血、捐献器官和捐献精子等，并定期接受医学随访。", "category": "治疗与康复", "page_num": 2}
+{"match_tokens": ["disease:乙肝"], "advice": "慢性HBV感染者的家庭成员或性伴侣应尽早接种乙型肝炎疫苗。", "category": "治疗与康复", "page_num": 2}
+{"match_tokens": ["disease:乙肝"], "advice": "大力推广安全注射（包括取血针和针灸针等针具），并严格遵循医院感染管理中的标准预防原则。", "category": "健康生活方式", "page_num": 2}
+{"match_tokens": ["disease:乙肝"], "advice": "服务行业所用的理发、刮脸、修脚、穿刺和文身等器具应严格消毒。", "category": "健康生活方式", "page_num": 2}
+{"match_tokens": ["disease:乙肝"], "advice": "若性伴侣为HBsAg阳性者，应接种乙型肝炎疫苗或采用安全套。", "category": "健康生活方式", "page_num": 2}
+{"match_tokens": ["disease:乙肝"], "advice": "在性伴侣的健康状况不明时，应使用安全套。", "category": "健康生活方式", "page_num": 2}
+{"match_tokens": ["disease:乙肝", "population:孕妇"], "advice": "对于HBsAg阳性的孕妇，应尽量避免羊膜腔穿刺，以保证胎盘的完整性，减少新生儿暴露于母血的机会。", "category": "治疗与康复", "page_num": 3}
+{"match_tokens": ["disease:乙肝", "population:孕妇"], "advice": "新生儿在出生12小时内接种了HBIG和乙型肝炎疫苗后，可接受HBsAg阳性母亲的哺乳。", "category": "治疗与康复", "page_num": 3}
+{"match_tokens": ["disease:乙肝", "population:孕妇"], "advice": "在不涉及入托、入学和入职的健康体格检查或就医时，应进行HBsAg筛查，特别是孕妇和育龄期、备孕期女性。", "category": "治疗与康复", "page_num": 3}
+{"match_tokens": ["disease:乙肝", "population:新生儿"], "advice": "对于HBsAg阴性母亲的新生儿，应在出生后12小时内尽早接种10μg重组酵母乙型肝炎疫苗，在1、6个月时分别接种第2剂和第3剂乙型肝炎疫苗。", "category": "治疗与康复", "page_num": 3}
+{"match_tokens": ["disease:乙肝", "population:新生儿"], "advice": "危重症新生儿，如超低体质量儿（<1000g）、严重出生缺陷、重度窒息、呼吸窘迫综合征等，应在生命体征平稳后，尽早接种第1剂乙型肝炎疫苗。", "category": "治疗与康复", "page_num": 3}
+{"match_tokens": ["disease:乙肝", "population:新生儿"], "advice": "对于HBsAg阳性或不详母亲的新生儿，应在出生后12小时内尽早注射1剂次100IU HBIG，同时在不同部位接种10μg重组酵母乙型肝炎疫苗。在1、6个月时分别接种第2剂和第3剂乙型肝炎疫苗。", "category": "治疗与康复", "page_num": 3}
+{"match_tokens": ["disease:乙肝", "population:新生儿"], "advice": "建议对HBsAg阳性或不详母亲所生儿童，于接种第3剂乙型肝炎疫苗后1～2个月时进行HBsAg和抗-HBs检测。若HBsAg阴性、抗-HBs<10mIU/mL，可按0、1、6个月免疫程序再接种3剂乙型肝炎疫苗；若HBsAg阳性，为免疫失败，应定期监测。", "category": "治疗与康复", "page_num": 3}
+{"match_tokens": ["disease:乙肝", "population:新生儿"], "advice": "HBsAg阳性或不详母亲的早产儿、低体质量儿（<2500g）也应在出生后12小时内尽早接种HBIG和第1剂乙型肝炎疫苗。早产儿或低体质量儿满1月龄后，再按0、1、6个月程序完成3剂次乙型肝炎疫苗免疫。", "category": "治疗与康复", "page_num": 3}
+{"match_tokens": ["disease:乙肝", "age:小孩"], "advice": "对于未接种或未完成全程乙型肝炎疫苗的儿童，应及时进行补种。第1剂与第2剂间隔时间应≥28天，第2剂与第3剂间隔应≥60天。", "category": "治疗与康复", "page_num": 3}
+{"match_tokens": ["disease:乙肝", "age:小孩"], "advice": "对3剂免疫程序无应答者，可再接种1剂60μg或3剂20μg乙型肝炎疫苗，并于完成第2次接种程序后1～2个月时检测血清抗-HBs，如仍无应答，可再接种1剂60μg重组酵母乙型肝炎疫苗。", "category": "治疗与康复", "page_num": 3}
+{"match_tokens": ["disease:乙肝", "risk:意外暴露"], "advice": "意外暴露于HBV者，在伤口周围轻轻挤压，排出伤口中的血液，再对伤口用等渗盐水冲洗，然后用消毒液处理。", "category": "急症处理", "page_num": 3}
+{"match_tokens": ["disease:乙肝", "risk:意外暴露"], "advice": "意外暴露于HBV者，应立即检测HBsAg、HBV DNA，3～6个月后复查。", "category": "急症处理", "page_num": 3}
+{"match_tokens": ["disease:乙肝", "risk:意外暴露"], "advice": "意外暴露于HBV者，如接种过乙型肝炎疫苗并有应答者，且已知抗-HBs阳性（抗-HBs≥10mIU/mL）者，可不再注射HBIG或乙型肝炎疫苗。如未接种过乙型肝炎疫苗，或虽接种过乙型肝炎疫苗，但抗-HBs<10mIU/mL或抗-HBs水平不详者，应立即注射HBIG 200～400 IU，同时在不同部位接种1剂乙型肝炎疫苗（20μg），于1个月和6个月后分别接种第2剂和第3剂乙型肝炎疫苗（20μg）。", "category": "急症处理", "page_num": 3}
+{"match_tokens": ["disease:乙肝", "population:一般人群"], "advice": "在不涉及入托、入学和入职的健康体格检查或就医时，应进行HBsAg筛查。对一般人群均应进行HBsAg筛查，特别是HIV感染者、MSM、静脉药瘾者、HBV感染者的性伴侣和家庭接触者、接受免疫抑制剂或抗肿瘤药物、抗HCV药物治疗者等。", "category": "健康生活方式", "page_num": 3}
+{"match_tokens": ["disease:乙肝", "risk:饮酒"], "advice": "避免饮酒，以降低肝硬化风险。", "category": "健康生活方式", "page_num": 4}
+{"match_tokens": ["disease:乙肝", "risk:吸烟"], "advice": "避免吸烟，以降低肝癌风险。", "category": "健康生活方式", "page_num": 4}
+{"match_tokens": ["disease:乙肝", "bmi:肥胖"], "advice": "控制体重，避免肥胖，以降低肝癌风险。", "category": "健康生活方式", "page_num": 4}
+{"match_tokens": ["disease:乙肝", "disease:糖尿病"], "advice": "控制血糖，管理糖尿病，以降低肝癌风险。", "category": "治疗与康复", "page_num": 4}
+{"match_tokens": ["disease:乙肝", "age:老年人"], "advice": "年龄大于40岁的患者需定期监测，以评估肝癌风险。", "category": "治疗与康复", "page_num": 4}
+{"match_tokens": ["disease:乙肝", "sex:男"], "advice": "男性患者需定期监测，以评估肝癌风险。", "category": "治疗与康复", "page_num": 4}
+{"match_tokens": ["disease:乙肝"], "advice": "对HBsAg阳性者，包括正在接受抗病毒治疗的慢性乙型肝炎患者，应尽可能采用高灵敏且检测线性范围大的HBV DNA检测方法（定量下限为10~20 IU/mL）。", "category": "治疗与康复", "page_num": 5}
+{"match_tokens": ["disease:乙肝"], "advice": "定期进行腹部超声检查，观察肝脏和脾脏的大小、外形、实质回声，监测有无肝硬化及门静脉高压。", "category": "治疗与康复", "page_num": 6}
+{"match_tokens": ["disease:乙肝"], "advice": "定期进行影像学检查，监测慢性HBV感染的临床疾病进展，包括了解有无肝硬化及门静脉高压征象。", "category": "治疗与康复", "page_num": 6}
+{"match_tokens": ["disease:乙肝"], "advice": "定期进行腹部超声检查，监测和发现早期肝细胞癌（HCC）。", "category": "治疗与康复", "page_num": 6}
+{"match_tokens": ["disease:乙肝"], "advice": "对于慢性HBV感染者，应定期进行肝组织检查，以评价肝脏炎症坏死及纤维化程度，明确有无肝硬化并排除其他肝脏疾病。", "category": "治疗与康复", "page_num": 7}
+{"match_tokens": ["disease:乙肝"], "advice": "慢性HBV感染者应根据医生建议，采用基于Knodell、Scheuer评分系统细化的Metavir或Ishak评分系统对肝组织炎症坏死分级和纤维化分期进行评估。", "category": "治疗与康复", "page_num": 7}
+{"match_tokens": ["disease:乙肝"], "advice": "对于慢性HBV感染者，若肝组织学/无创指标提示有明显纤维化（≥F2），应考虑启动治疗。", "category": "治疗与康复", "page_num": 7}
+{"match_tokens": ["disease:乙肝"], "advice": "慢性HBV携带状态患者应定期随访，1年内连续随访3次，每次至少间隔3个月，监测血清ALT和AST水平。", "category": "治疗与康复", "page_num": 7}
+{"match_tokens": ["disease:乙肝"], "advice": "非活动性HBsAg携带状态患者应定期随访，1年内连续随访3次以上，每次至少间隔3个月，监测血清ALT和AST水平。", "category": "治疗与康复", "page_num": 7}
+{"match_tokens": ["disease:乙肝"], "advice": "对于慢性HBV感染，应依据血清HBV DNA、ALT水平和肝脏疾病严重程度，结合年龄、家族史和伴随疾病等因素，综合评估疾病进展风险，以决定是否需启动抗病毒治疗。", "category": "治疗与康复", "page_num": 8}
+{"match_tokens": ["disease:乙肝"], "advice": "治疗目标是最大限度地长期抑制HBV复制，减轻肝细胞炎症坏死及肝脏纤维组织增生，延缓和减少肝功能衰竭、肝硬化失代偿、HCC和其他并发症的发生。", "category": "治疗与康复", "page_num": 8}
+{"match_tokens": ["disease:乙肝"], "advice": "部分失代偿期乙型肝炎肝硬化患者经过抗病毒治疗可以逆转为代偿期肝硬化，即实现再代偿。", "category": "治疗与康复", "page_num": 8}
+{"match_tokens": ["disease:乙肝", "risk:饮酒"], "advice": "控制饮酒，避免影响ALT水平。", "category": "健康生活方式", "page_num": 9}
+{"match_tokens": ["disease:乙肝", "bmi:肥胖"], "advice": "控制体质量，避免影响ALT水平。", "category": "健康生活方式", "page_num": 9}
+{"match_tokens": ["disease:乙肝", "disease:糖尿病"], "advice": "控制糖尿病，避免影响ALT水平。", "category": "健康生活方式", "page_num": 9}
+{"match_tokens": ["disease:乙肝", "age:成人"], "advice": "对于血清HBV DNA阳性，ALT持续异常（>ULN），且排除其他原因所致者，建议抗病毒治疗。", "category": "治疗与康复", "page_num": 9}
+{"match_tokens": ["disease:乙肝", "age:成人"], "advice": "对于血清HBV DNA阳性者，无论ALT水平高低，有乙型肝炎肝硬化或HCC家族史，建议抗病毒治疗。", "category": "治疗与康复", "page_num": 9}
+{"match_tokens": ["disease:乙肝", "age:成人"], "advice": "对于血清HBV DNA阳性者，无论ALT水平高低，年龄>30岁，建议抗病毒治疗。", "category": "治疗与康复", "page_num": 9}
+{"match_tokens": ["disease:乙肝", "age:成人"], "advice": "对于血清HBV DNA阳性者，无论ALT水平高低，无创指标或肝组织学检查提示肝脏存在明显炎症（G≥2）或纤维化（F≥2），建议抗病毒治疗。", "category": "治疗与康复", "page_num": 9}
+{"match_tokens": ["disease:乙肝", "age:成人"], "advice": "对于血清HBV DNA阳性者，无论ALT水平高低，有HBV相关肝外表现（如HBV相关性肾小球肾炎等），建议抗病毒治疗。", "category": "治疗与康复", "page_num": 9}
+{"match_tokens": ["disease:乙肝"], "advice": "临床确诊为代偿期和失代偿期乙型肝炎肝硬化患者，无论其ALT和HBV DNA水平及HBeAg阳性与否，均建议抗病毒治疗。", "category": "治疗与康复", "page_num": 9}
+{"match_tokens": ["disease:乙肝", "risk:饮酒"], "advice": "对于肝硬化患者，应注意寻找并治疗肝硬化的其他病因，如酒精。", "category": "治疗与康复", "page_num": 9}
+{"match_tokens": ["disease:乙肝", "bmi:肥胖"], "advice": "对于肝硬化患者，应注意寻找并治疗肝硬化的其他病因，如肥胖。", "category": "治疗与康复", "page_num": 9}
+{"match_tokens": ["disease:乙肝", "disease:糖尿病"], "advice": "对于肝硬化患者，应注意寻找并治疗肝硬化的其他病因，如糖尿病。", "category": "治疗与康复", "page_num": 9}
+{"match_tokens": ["disease:乙肝", "age:老年人"], "advice": "使用富马酸替诺福韦酯（TDF）的患者，尤其对高龄或绝经期患者，需注意新发或加重肾功能损伤及骨质疏松的风险。", "category": "治疗与康复", "page_num": 9}
+{"match_tokens": ["disease:乙肝", "sex:女", "age:老年人"], "advice": "使用富马酸替诺福韦酯（TDF）的患者，尤其对绝经期患者，需注意新发或加重肾功能损伤及骨质疏松的风险。", "category": "治疗与康复", "page_num": 9}
+{"match_tokens": ["disease:乙肝"], "advice": "使用富马酸丙酚替诺福韦（TAF）时，需注意可能有影响脂质代谢的风险。", "category": "治疗与康复", "page_num": 9}
+{"match_tokens": ["disease:乙肝"], "advice": "初始治疗首选强效、低耐药的核苷（酸）类似物。", "category": "治疗与康复", "page_num": 10}
+{"match_tokens": ["disease:乙肝"], "advice": "治疗中定期检测HBV DNA定量，以便及时发现病毒学突破、低病毒血症及应答不佳者，并尽早给予挽救治疗。", "category": "治疗与康复", "page_num": 10}
+{"match_tokens": ["disease:乙肝"], "advice": "大部分患者需要长期核苷（酸）类似物治疗，停药后病毒学复发率高。", "category": "治疗与康复", "page_num": 10}
+{"match_tokens": ["disease:乙肝"], "advice": "HBeAg阳性慢性乙型肝炎患者，HBV DNA检测不到、HBeAg血清学转换后，HBsAg<100 IU/mL可以降低停药后复发风险。", "category": "治疗与康复", "page_num": 10}
+{"match_tokens": ["disease:乙肝"], "advice": "HBeAg阴性慢性乙型肝炎患者，一般需要更长期治疗，HBV DNA检测不到，HBsAg消失和（或）出现抗-HBs，并且经过巩固治疗至少6个月后才可考虑停药。", "category": "治疗与康复", "page_num": 10}
+{"match_tokens": ["disease:乙肝"], "advice": "HBeAg阳性慢性乙型肝炎患者首选核苷（酸）类似物（恩替卡韦、TDF、TAF或TMF）治疗。", "category": "治疗与康复", "page_num": 10}
+{"match_tokens": ["disease:乙肝"], "advice": "HBeAg阳性慢性乙型肝炎患者大多数需要长期用药，最好至HBsAg消失再停药。", "category": "治疗与康复", "page_num": 10}
+{"match_tokens": ["disease:乙肝"], "advice": "HBeAg阳性慢性乙型肝炎患者如因各种原因希望停药，治疗1年HBV DNA低于检测下限、ALT复常和HBeAg血清学转换，再巩固治疗至少3年（每隔6个月复查1次）仍保持不变，且HBsAg<100 IU/mL，可尝试停药，但应严密监测。", "category": "治疗与康复", "page_num": 10}
+{"match_tokens": ["disease:乙肝"], "advice": "HBeAg阳性慢性乙型肝炎患者也可采用聚乙二醇干扰素α治疗。", "category": "治疗与康复", "page_num": 10}
+{"match_tokens": ["disease:乙肝"], "advice": "聚乙二醇干扰素α治疗24周时，若HBV DNA下降<2 lg IU/mL且HBsAg定量>2×10^4 IU/mL，建议停用聚乙二醇干扰素α治疗，改为核苷（酸）类似物治疗。", "category": "治疗与康复", "page_num": 10}
+{"match_tokens": ["disease:乙肝"], "advice": "聚乙二醇干扰素α有效患者疗程为48周，可以根据病情需要延长疗程，但不宜超过96周。", "category": "治疗与康复", "page_num": 10}
+{"match_tokens": ["disease:乙肝", "symptom:发热", "symptom:头痛", "symptom:疼痛", "symptom:疲劳"], "advice": "注射α干扰素前或用药时如出现流感样综合征（发热、头痛、肌痛和乏力等），可服用非甾体抗炎药。", "category": "治疗与康复", "page_num": 10}
+{"match_tokens": ["disease:乙肝"], "advice": "使用干扰素期间，如出现中性粒细胞计数≤0.75×10^9/L和（或）血小板计数<50×10^9/L，应降低干扰素剂量；1～2周后复查，如恢复则增加至原量。", "category": "治疗与康复", "page_num": 10}
+{"match_tokens": ["disease:乙肝"], "advice": "使用干扰素期间，如出现中性粒细胞计数≤0.5×10^9/L和（或）血小板计数<25×10^9/L，则应暂停使用干扰素。", "category": "治疗与康复", "page_num": 10}
+{"match_tokens": ["disease:乙肝"], "advice": "使用干扰素期间，如出现自身免疫病、精神异常（抑郁、妄想、重度焦虑等），以及其他少见不良反应（视网膜病变、间质性肺炎、听力下降、肾脏损伤、心血管并发症等），应立刻停止干扰素治疗，必要时至专科进一步诊治。", "category": "急症处理", "page_num": 10}
+{"match_tokens": ["disease:乙肝"], "advice": "慢性乙型肝炎患者首选恩替卡韦、TDF、TAF或TMF进行抗病毒治疗。", "category": "治疗与康复", "page_num": 11}
+{"match_tokens": ["disease:乙肝"], "advice": "若HBsAg消失和（或）出现抗-HBs，且HBV DNA检测不到，巩固治疗6个月仍检测不到者，可停药随访。", "category": "治疗与康复", "page_num": 11}
+{"match_tokens": ["disease:乙肝"], "advice": "HBeAg阴性慢性乙型肝炎患者也可采用Peg-IFN-α治疗。治疗12周时，若HBV DNA下降＜2 lg IU/mL，或HBsAg定量下降＜1 lg IU/mL，建议停用Peg-IFN-α治疗，改为NAs治疗。", "category": "治疗与康复", "page_num": 11}
+{"match_tokens": ["disease:乙肝"], "advice": "有效患者疗程为48周，可以根据病情需要延长疗程，但不宜超过96周。", "category": "治疗与康复", "page_num": 11}
+{"match_tokens": ["disease:乙肝"], "advice": "代偿期乙型肝炎肝硬化患者，推荐采用恩替卡韦、TDF、TAF进行长期抗病毒治疗；如果采用Peg-IFN-α治疗，需密切监测相关不良反应。", "category": "治疗与康复", "page_num": 11}
+{"match_tokens": ["disease:乙肝"], "advice": "失代偿期乙型肝炎肝硬化患者，推荐采用恩替卡韦或TDF长期治疗，禁用Peg-IFN-α治疗，若必要可以应用TAF治疗。", "category": "治疗与康复", "page_num": 11}
+{"match_tokens": ["disease:乙肝"], "advice": "对肝组织炎症明显或ALT水平明显升高的患者，可以酌情使用甘草酸制剂、水飞蓟素制剂、多不饱和卵磷脂制剂和双环醇等抗炎、抗氧化、保肝药物，但不宜多种联合。", "category": "治疗与康复", "page_num": 11}
+{"match_tokens": ["disease:乙肝"], "advice": "对明显纤维化或肝硬化患者可以酌情选用安络化纤丸、复方鳖甲软肝片、扶正化瘀片等抗纤维化中药方剂。", "category": "治疗与康复", "page_num": 11}
+{"match_tokens": ["disease:乙肝"], "advice": "慢性HBV携带状态和非活动性HBsAg携带状态患者，建议每6～12个月进行血常规、生物化学、病毒学和LSM等检查，必要时进行肝活组织检查。", "category": "治疗与康复", "page_num": 11}
+{"match_tokens": ["disease:乙肝"], "advice": "慢性HBV携带状态和非活动性HBsAg携带状态患者，每6个月检测AFP及腹部超声筛查HCC。若符合抗病毒治疗指征，及时启动治疗。", "category": "治疗与康复", "page_num": 11}
+{"match_tokens": ["disease:乙肝"], "advice": "抗病毒治疗过程中，密切关注患者治疗依从性问题，包括用药剂量、使用方法、是否有漏用药物或自行停药等情况。", "category": "治疗与康复", "page_num": 11}
+{"match_tokens": ["disease:乙肝"], "advice": "服用NAs类药物的患者，应每3～6个月检测1次血常规、肝脏生物化学指标、HBV DNA定量和乙型肝炎血清病毒学标志物、LSM等。", "category": "治疗与康复", "page_num": 11}
+{"match_tokens": ["disease:乙肝"], "advice": "服用NAs类药物的患者，无肝硬化者每6个月进行1次腹部超声检查和AFP检测，肝硬化者每3个月1次，必要时做增强CT或增强MRI以早期发现HCC。", "category": "治疗与康复", "page_num": 11}
+{"match_tokens": ["disease:乙肝"], "advice": "应用可能影响肾功能或骨代谢的药物者，每6～12个月检测1次血磷水平、肾功能指标，有条件者可监测肾小管早期损伤指标。", "category": "治疗与康复", "page_num": 11}
+{"match_tokens": ["disease:乙肝"], "advice": "应用Peg-IFN-α的患者，治疗第1个月血常规检查每1～2周1次，稳定后血常规、肝脏生物化学指标检查每个月1次。", "category": "治疗与康复", "page_num": 11}
+{"match_tokens": ["disease:乙肝"], "advice": "应用Peg-IFN-α的患者，甲状腺功能指标和血糖、HBV DNA、HBsAg、HBeAg和抗-HBe定量检测每3个月1次；LSM每6个月1次。", "category": "治疗与康复", "page_num": 11}
+{"match_tokens": ["disease:乙肝"], "advice": "应用Peg-IFN-α的患者，无肝硬化者每6个月进行1次腹部超声检查和甲胎蛋白检测，肝硬化者每3个月1次，必要时做增强CT或增强MRI以早期发现HCC。", "category": "治疗与康复", "page_num": 11}
+{"match_tokens": ["disease:乙肝"], "advice": "用药前应仔细询问相关病史，以降低NAs类药物罕见不良反应（如肾功能不全、低磷性骨病、肌炎/横纹肌溶解、乳酸酸中毒等）的风险。", "category": "治疗与康复", "page_num": 11}
+{"match_tokens": ["disease:乙肝"], "advice": "一旦确诊为上述不良反应者，及时停药并换用其他药物，同时积极给予相应治疗。", "category": "治疗与康复", "page_num": 12}
+{"match_tokens": ["disease:乙肝"], "advice": "如果在治疗过程中出现ＨＢＶＤＮＡ定量较治疗中最低值升高＞１ｌｇＩＵ／ｍＬ，复查确认并排除依从性问题后，需及时给予挽救治疗，并进行耐药检测。", "category": "治疗与康复", "page_num": 12}
+{"match_tokens": ["disease:乙肝"], "advice": "在停药后前３个月内应每月检测１次肝脏生物化学指标、乙型肝炎血清病毒学标志物和ＨＢＶＤＮＡ定量；之后每３个月检测１次，１年后每６个月检测１次。", "category": "治疗与康复", "page_num": 12}
+{"match_tokens": ["disease:乙肝"], "advice": "无肝硬化的患者需每６个月行１次腹部超声检查和ＡＦＰ检测等；肝硬化患者需每３个月检测１次，必要时做增强ＣＴ或增强ＭＲＩ以早期发现ＨＣＣ。", "category": "治疗与康复", "page_num": 12}
+{"match_tokens": ["disease:乙肝"], "advice": "所有慢性ＨＢＶ感染者（不论是否正在接受治疗）均应每６个月通过ＡＦＰ和腹部超声检查以进行ＨＣＣ筛查；对于高风险人群，建议应至少每３～６个月筛查１次，必要时行增强ＣＴ或增强ＭＲＩ。", "category": "治疗与康复", "page_num": 12}
+{"match_tokens": ["disease:乙肝"], "advice": "ＣＨＢ患者应用恩替卡韦、ＴＤＦ、ＴＡＦ或ＴＭＦ治疗４８周，ＨＢＶＤＮＡ可检出者（ＨＢＶＤＮＡ＞２０ＩＵ／ｍＬ），排除依从性和检测误差后，可调整ＮＡｓ治疗（应用恩替卡韦者换用ＴＤＦ或ＴＡＦ，应用ＴＤＦ或ＴＡＦ者换用恩替卡韦，或两种药物联合使用）。", "category": "治疗与康复", "page_num": 12}
+{"match_tokens": ["disease:乙肝"], "advice": "乙型肝炎肝硬化患者应用恩替卡韦、ＴＤＦ或ＴＡＦ治疗２４周，若ＨＢＶＤＮＡ仍可检出（ＨＢＶＤＮＡ＞２０ＩＵ／ｍＬ），排除依从性和检测误差后，建议调整ＮＡｓ治疗（应用恩替卡韦者换用ＴＤＦ或ＴＡＦ，应用ＴＤＦ或ＴＡＦ者换用恩替卡韦，或两种药物联合使用）。", "category": "治疗与康复", "page_num": 12}
+{"match_tokens": ["disease:乙肝"], "advice": "所有接受化学治疗、靶向药物及免疫抑制剂治疗的患者，起始治疗前应常规筛查ＨＢｓＡｇ、抗ＨＢｓ及抗ＨＢｃ，ＨＢｓＡｇ阳性和（或）抗ＨＢｃ阳性患者，应进一步检测ＨＢＶＤＮＡ。", "category": "治疗与康复", "page_num": 12}
+{"match_tokens": ["disease:乙肝"], "advice": "ＨＢｓＡｇ和（或）ＨＢＶＤＮＡ阳性者应在开始接受化学治疗、靶向药物及免疫抑制剂前应用ＮＡｓ抗病毒治疗至少１周以上，急需治疗者可同时应用ＮＡｓ抗病毒治疗。", "category": "治疗与康复", "page_num": 12}
+{"match_tokens": ["disease:乙肝"], "advice": "如果ＨＢＶＤＮＡ阴性，可每１～３个月监测ＨＢＶＤＮＡ、ＨＢｓＡｇ和ＡＬＴ水平，一旦ＨＢＶＤＮＡ或ＨＢｓＡｇ转为阳性，应立即启动抗病毒治疗。", "category": "治疗与康复", "page_num": 12}
+{"match_tokens": ["disease:乙肝", "population:孕妇"], "advice": "育龄期及备孕期女性均应筛查HBsAg，对于HBsAg阳性者需要检测HBV DNA。", "category": "治疗与康复", "page_num": 13}
+{"match_tokens": ["disease:乙肝", "population:孕妇"], "advice": "妊娠期间首次诊断CHB的患者，其治疗适应证同普通CHB患者，可使用TDF抗病毒治疗。", "category": "治疗与康复", "page_num": 13}
+{"match_tokens": ["disease:乙肝", "population:孕妇"], "advice": "妊娠前或妊娠期间开始服用抗病毒药物的CHB孕产妇，产后应继续抗病毒治疗。", "category": "治疗与康复", "page_num": 13}
+{"match_tokens": ["disease:乙肝", "population:孕妇"], "advice": "妊娠中晚期如果HBV DNA定量>2×10^5 IU/mL，建议在与患者充分沟通，在其知情同意的基础上，于妊娠第24~28周开始抗病毒干预，应用TDF。", "category": "治疗与康复", "page_num": 13}
+{"match_tokens": ["disease:乙肝", "population:孕妇"], "advice": "应用TDF时，母乳喂养不是禁忌证。", "category": "治疗与康复", "page_num": 13}
+{"match_tokens": ["disease:乙肝", "population:孕妇"], "advice": "免疫耐受期口服NAs的孕妇，可于产后即刻或服用1~3个月后停药。", "category": "治疗与康复", "page_num": 13}
+{"match_tokens": ["disease:乙肝", "population:孕妇"], "advice": "应加强产后监测。可于产后4~6周时复查肝脏生物化学指标及HBV DNA，如肝脏生物化学指标正常，则每3个月复查1次，直至产后6个月；如果乙型肝炎活动，建议抗病毒治疗。", "category": "治疗与康复", "page_num": 13}
+{"match_tokens": ["disease:乙肝", "sex:男"], "advice": "应用α干扰素治疗的男性患者，应在停药后6个月方可考虑生育。", "category": "治疗与康复", "page_num": 13}
+{"match_tokens": ["disease:乙肝", "sex:男"], "advice": "应用NAs抗病毒治疗的男性患者，目前尚无证据表明NAs治疗对精子的不良影响，可在与患者充分沟通的前提下考虑生育。", "category": "治疗与康复", "page_num": 13}
+{"match_tokens": ["disease:乙肝", "age:小孩"], "advice": "对于活动性CHB或肝硬化患儿，应及时抗病毒治疗。", "category": "治疗与康复", "page_num": 13}
+{"match_tokens": ["disease:乙肝", "population:小孩"], "advice": "对于进展期肝病或肝硬化患儿，无论年龄大小，均应及时进行抗病毒治疗，但需考虑长期治疗的安全性及耐药问题。", "category": "治疗与康复", "page_num": 14}
+{"match_tokens": ["disease:乙肝", "population:小孩"], "advice": "对于HBV DNA阳性，ALT＜ULN的患儿需进行肝组织学评估，如肝脏组织学分级G≥1，应该抗病毒治疗。", "category": "治疗与康复", "page_num": 14}
+{"match_tokens": ["disease:乙肝", "population:小孩"], "advice": "对于年龄1～7岁的患儿，即使缺少肝脏病理学检查结果，在充分沟通及知情同意的前提下，也可考虑抗病毒治疗。", "category": "治疗与康复", "page_num": 14}
+{"match_tokens": ["disease:乙肝", "disease:高血压", "disease:糖尿病", "risk:缺乏运动"], "advice": "当存在肾损伤高危风险时，应用任何NAs抗病毒过程中均需监测肾功能变化。", "category": "治疗与康复", "page_num": 14}
+{"match_tokens": ["disease:乙肝", "disease:高血压", "disease:糖尿病", "risk:缺乏运动"], "advice": "若应用ADV或TDF治疗，均需定期监测血肌酐、血磷水平。", "category": "治疗与康复", "page_num": 14}
+{"match_tokens": ["disease:乙肝", "disease:高血压", "disease:糖尿病", "risk:缺乏运动"], "advice": "慢性肾脏病患者、肾功能不全或接受肾脏替代治疗的患者，推荐恩替卡韦或TAF作为一线抗HBV治疗药物，不建议应用ADV或TDF。", "category": "治疗与康复", "page_num": 14}
+{"match_tokens": ["disease:乙肝", "disease:高血压", "disease:糖尿病", "risk:缺乏运动"], "advice": "已应用ADV或TDF抗病毒治疗的患者，当发生肾脏或骨骼疾病或存在其他高危风险时，建议改用恩替卡韦或TAF。", "category": "治疗与康复", "page_num": 14}
+{"match_tokens": ["disease:乙肝", "disease:高血压", "disease:糖尿病", "risk:缺乏运动"], "advice": "对于存在肾脏损伤高危风险的CHB患者，应用任何NAs抗病毒过程中均需监测肾功能变化。", "category": "治疗与康复", "page_num": 14}
+{"match_tokens": ["disease:乙肝"], "advice": "所有HBsAg阳性者都应筛查抗-HCV，如为阳性，则需进一步检测HCV RNA定量。", "category": "治疗与康复", "page_num": 14}
+{"match_tokens": ["disease:乙肝"], "advice": "HCV RNA定量阳性者均需应用直接抗病毒药物治疗。", "category": "治疗与康复", "page_num": 14}
+{"match_tokens": ["disease:乙肝"], "advice": "在进行抗HCV治疗期间和停药后3个月内，建议联合恩替卡韦、TDF或TAF抗病毒治疗并密切监测。", "category": "治疗与康复", "page_num": 14}
+{"match_tokens": ["disease:乙肝"], "advice": "HBsAg阴性、抗-HBc阳性者应用DAA治疗丙型肝炎过程中也有HBV再激活的风险，建议每月监测血清HBV DNA定量和HBsAg。", "category": "治疗与康复", "page_num": 14}
+{"match_tokens": ["disease:乙肝"], "advice": "若HBsAg出现阳转，建议应用NAs抗病毒治疗。", "category": "治疗与康复", "page_num": 14}
+{"match_tokens": ["disease:乙肝"], "advice": "HCV和HBV合并感染者应用DAA治疗HCV时，若HBsAg阳性，需给予NAs治疗以预防HBV再激活。", "category": "治疗与康复", "page_num": 14}
+{"match_tokens": ["disease:乙肝"], "advice": "HBsAg阴性、抗-HBc阳性者应用DAA期间，需密切监测HBV DNA和HBsAg定量，如HBsAg阳转，建议应用NAs治疗。", "category": "治疗与康复", "page_num": 14}
+{"match_tokens": ["disease:乙肝", "disease:其他病症"], "advice": "HIV和HBV合并感染者应同时治疗两种病毒，包括两种抗HBV活性的药物，HAART方案NAs选择推荐TDF或TAF+拉米夫定或依曲西他滨。", "category": "治疗与康复", "page_num": 15}
+{"match_tokens": ["disease:乙肝", "disease:其他病症"], "advice": "治疗过程中需对HBV相关指标，如HBV DNA、肝脏生物化学指标、肝脏影像学指标等进行监测。", "category": "治疗与康复", "page_num": 15}
+{"match_tokens": ["disease:乙肝", "disease:其他病症"], "advice": "对于HIV和HBV合并感染者，不建议选择仅含有1种对HBV有活性的NAs方案治疗乙型肝炎，以避免诱导HBV对NAs耐药性的产生。", "category": "治疗与康复", "page_num": 15}
+{"match_tokens": ["disease:乙肝", "symptom:其他"], "advice": "肾功能不全患者如肌酐清除率<60 mL/min，不能选择TDF或调整TDF剂量。", "category": "治疗与康复", "page_num": 15}
+{"match_tokens": ["disease:乙肝", "symptom:其他"], "advice": "30 mL/min<肌酐清除率<50 mL/min，可考虑选择包含TAF+（FTC或拉米夫定）的方案。", "category": "治疗与康复", "page_num": 15}
+{"match_tokens": ["disease:乙肝", "symptom:其他"], "advice": "TAF尚未被批准应用于肌酐清除率<30 mL/min患者。", "category": "治疗与康复", "page_num": 15}
+{"match_tokens": ["disease:乙肝", "symptom:其他"], "advice": "不能使用TDF/TAF时，在HAART方案的基础上应加用恩替卡韦。", "category": "治疗与康复", "page_num": 15}
+{"match_tokens": ["disease:乙肝", "population:孕妇"], "advice": "如HIV和HBV合并感染者为妊娠期妇女，建议使用包含拉米夫定（或FTC）+TDF在内的用药方案。", "category": "治疗与康复", "page_num": 15}
+{"match_tokens": ["disease:乙肝"], "advice": "HBV相关急性、亚急性、慢加急性和慢性肝衰竭患者，若HBsAg阳性建议应用抗病毒治疗。", "category": "治疗与康复", "page_num": 15}
+{"match_tokens": ["disease:乙肝"], "advice": "抗病毒药物应选择快速、强效、低耐药的NAs（恩替卡韦、TDF或TAF）。", "category": "治疗与康复", "page_num": 15}
+{"match_tokens": ["disease:乙肝"], "advice": "肝衰竭患者恢复后，抗病毒治疗应长期坚持。", "category": "治疗与康复", "page_num": 15}
+{"match_tokens": ["disease:乙肝"], "advice": "HBV DNA阳性的HCC患者接受抗HBV治疗可减少HCC术后的复发，提高总体生存率。", "category": "治疗与康复", "page_num": 15}
+{"match_tokens": ["disease:乙肝"], "advice": "HBsAg阳性而HBV DNA阴性的HCC患者接受肝脏切除、肝动脉化学治疗栓塞术、放射治疗或全身化学治疗时，建议使用恩替卡韦、TDF或TAF进行抗病毒治疗。", "category": "治疗与康复", "page_num": 15}
+{"match_tokens": ["disease:乙肝"], "advice": "患者因HBV相关疾病进行肝移植时，应合理选用抗HBV方案，减少移植肝再感染HBV的风险。", "category": "治疗与康复", "page_num": 15}
+{"match_tokens": ["disease:乙肝"], "advice": "如移植前HBV DNA定量阴性，可在术前尽早使用强效低耐药的NAs，即恩替卡韦、TDF或TAF，预防HBV再激活，术后无需加用HBIG。", "category": "治疗与康复", "page_num": 15}
+{"match_tokens": ["disease:乙肝"], "advice": "如移植前HBV DNA阳性，术前尽早使用强效低耐药的NAs以降低HBV DNA水平；术中无肝期应静脉注射HBIG；术后除了长期应用NAs，还应联合应用低剂量HBIG持续0.5～1.0年，此后再继续单用NAs。", "category": "治疗与康复", "page_num": 15}
+{"match_tokens": ["disease:乙肝"], "advice": "如果患者已经应用了其他NAs药物，需密切监测HBV DNA，警惕耐药，及时调整方案。", "category": "治疗与康复", "page_num": 15}
+{"match_tokens": ["disease:乙肝"], "advice": "在各级医疗体系中利用现代技术进行疾病全程管理，以提高治疗规范性和依从性，并密切监测疾病进展。", "category": "治疗与康复", "page_num": 16}
+{"match_tokens": ["disease:乙肝"], "advice": "若出现拉米夫定或替比夫定耐药，应换用富马酸替诺福韦酯或富马酸丙酚替诺福韦。", "category": "治疗与康复", "page_num": 17}
+{"match_tokens": ["disease:乙肝"], "advice": "若出现阿德福韦酯耐药且之前未使用拉米夫定或替比夫定，应换用恩替卡韦、富马酸替诺福韦酯或富马酸丙酚替诺福韦。", "category": "治疗与康复", "page_num": 17}
+{"match_tokens": ["disease:乙肝"], "advice": "若出现阿德福韦酯耐药且对拉米夫定或替比夫定耐药，应换用富马酸替诺福韦酯或富马酸丙酚替诺福韦。", "category": "治疗与康复", "page_num": 17}
+{"match_tokens": ["disease:乙肝"], "advice": "若出现恩替卡韦耐药，应换用富马酸替诺福韦酯或富马酸丙酚替诺福韦。", "category": "治疗与康复", "page_num": 17}
+{"match_tokens": ["disease:乙肝"], "advice": "若出现恩替卡韦和阿德福韦酯耐药，应使用恩替卡韦联合富马酸替诺福韦酯，或恩替卡韦联合富马酸丙酚替诺福韦，或换用富马酸替诺福韦酯或富马酸丙酚替诺福韦。", "category": "治疗与康复", "page_num": 17}
+{"match_tokens": ["age:小孩", "disease:乙肝"], "advice": "儿童使用恩替卡韦时，根据体重确定剂量：体重10-11kg剂量为0.15mg/d，体重11-14kg剂量为0.20mg/d，体重14-17kg剂量为0.25mg/d，体重17-20kg剂量为0.30mg/d，体重20-23kg剂量为0.35mg/d，体重23-26kg剂量为0.40mg/d，体重26-30kg剂量为0.45mg/d，体重>30kg剂量为0.50mg/d。", "category": "治疗与康复", "page_num": 18}
+{"match_tokens": ["age:小孩", "disease:乙肝"], "advice": "儿童使用富马酸替诺福韦酯片剂时，根据体重确定剂量：体重17-<22kg剂量为150mg/d，体重22-<28kg剂量为200mg/d，体重28-<35kg剂量为250mg/d，体重≥35kg剂量为300mg/d。", "category": "治疗与康复", "page_num": 18}
+{"match_tokens": ["age:小孩", "disease:乙肝"], "advice": "儿童使用富马酸替诺福韦酯粉剂时，根据体重确定剂量：体重10-<12kg剂量为80mg（2.0勺），体重12-<14kg剂量为100mg（2.5勺），体重14-<17kg剂量为120mg（3.0勺），体重17-<19kg剂量为140mg（3.5勺），体重19-<22kg剂量为160mg（4.0勺），体重22-<24kg剂量为180mg（4.5勺），体重24-<27kg剂量为200mg（5.0勺），体重27-<29kg剂量为220mg（5.5勺），体重29-<32kg剂量为240mg（6.0勺），体重32-<34kg剂量为260mg（6.5勺），体重34-<35kg剂量为280mg（7.0勺），体重≥35kg剂量为300mg（7.5勺）。", "category": "治疗与康复", "page_num": 18}
+{"match_tokens": ["age:小孩", "disease:乙肝"], "advice": "儿童使用富马酸丙酚替诺福韦时，年龄需≥12岁且体重≥35kg，剂量为25mg/d。", "category": "治疗与康复", "page_num": 18}
+{"match_tokens": ["disease:乙肝", "population:孕妇"], "advice": "在孕期接种乙肝疫苗以预防母婴传播。", "category": "治疗与康复", "page_num": 19}
+{"match_tokens": ["disease:乙肝", "population:小孩"], "advice": "增加乙肝疫苗的接种剂量以降低婴儿隐匿性HBV感染的发生。", "category": "治疗与康复", "page_num": 19}
+{"match_tokens": ["disease:乙肝", "age:小孩", "age:老年人"], "advice": "儿童和青少年慢性乙型肝炎病毒感染应接受治疗。", "category": "治疗与康复", "page_num": 19}
+{"match_tokens": ["disease:乙肝"], "advice": "对于不确定期慢性乙型肝炎患者，应考虑进行治疗。", "category": "治疗与康复", "page_num": 19}
+{"match_tokens": ["disease:乙肝"], "advice": "慢性乙型肝炎患者应定期检测血清HBV RNA和乙型肝炎表面抗原水平，以评估病情和治疗效果。", "category": "治疗与康复", "page_num": 20}
+{"match_tokens": ["disease:乙肝"], "advice": "慢性乙型肝炎患者在核苷（酸）类似物治疗期间，应监测血清乙型肝炎核心相关抗原水平，以评估肝内病毒复制情况。", "category": "治疗与康复", "page_num": 20}
+{"match_tokens": ["disease:乙肝"], "advice": "慢性乙型肝炎患者，特别是丙氨酸氨基转移酶正常者，应通过血清乙型肝炎核心抗体水平评估肝脏炎症程度。", "category": "治疗与康复", "page_num": 20}
+{"match_tokens": ["disease:乙肝"], "advice": "慢性乙型肝炎患者应定期检测血清乙型肝炎核心抗体水平，以评估病情和预测治疗反应。", "category": "治疗与康复", "page_num": 21}
+{"match_tokens": ["disease:乙肝"], "advice": "慢性乙型肝炎患者可结合定量乙型肝炎核心抗体和天冬氨酸氨基转移酶检测，以辅助诊断免疫耐受状态。", "category": "治疗与康复", "page_num": 21}
+{"match_tokens": ["disease:乙肝"], "advice": "慢性乙型肝炎患者在接受聚乙二醇干扰素或核苷（酸）类似物治疗时，应监测基线定量乙型肝炎核心抗体滴度，以预测HBeAg血清学转换。", "category": "治疗与康复", "page_num": 21}
+{"match_tokens": ["disease:乙肝"], "advice": "高病毒载量的慢性乙型肝炎患者在接受核苷（酸）类似物治疗时，应监测血清乙型肝炎核心抗体水平，以预测HBeAg血清学转换。", "category": "治疗与康复", "page_num": 21}
+{"match_tokens": ["disease:乙肝"], "advice": "慢性乙型肝炎患者在停用核苷（酸）类似物治疗后，应监测血清乙型肝炎核心蛋白抗体水平，以评估临床复发风险。", "category": "治疗与康复", "page_num": 21}
+{"match_tokens": ["disease:乙肝"], "advice": "慢性乙型肝炎患者停用恩替卡韦后，应通过量化血清乙型肝炎核心抗体来预测复发风险。", "category": "治疗与康复", "page_num": 21}
+{"match_tokens": ["disease:乙肝"], "advice": "乙型肝炎病毒相关慢加急性肝衰竭患者应评估抗-HBc定量水平，以判断预后。", "category": "治疗与康复", "page_num": 21}
+{"match_tokens": ["disease:乙肝"], "advice": "慢性乙型肝炎患者应定期检测甲胎蛋白，以监测肝细胞癌风险。", "category": "治疗与康复", "page_num": 21}
+{"match_tokens": ["disease:乙肝"], "advice": "慢性乙型肝炎患者可使用GALAD或GAAP等非侵入性模型辅助诊断肝细胞癌。", "category": "治疗与康复", "page_num": 21}
+{"match_tokens": ["disease:乙肝"], "advice": "慢性乙型肝炎患者可使用非侵入性模型评估肝脏纤维化程度。", "category": "治疗与康复", "page_num": 21}
+{"match_tokens": ["disease:乙肝"], "advice": "慢性乙型肝炎患者可使用γ-谷氨酰转肽酶与血小板比值等非侵入性指标预测显著肝纤维化和肝硬化。", "category": "治疗与康复", "page_num": 21}
+{"match_tokens": ["disease:乙肝"], "advice": "慢性乙型肝炎患者可联合检测血清GP73、AST和GGT，以反映中重度肝脏炎症。", "category": "治疗与康复", "page_num": 21}
+{"match_tokens": ["disease:乙肝"], "advice": "慢性乙型肝炎患者抗病毒治疗后，应监测血清几丁质酶3样1水平的变化，以评估肝纤维化变化。", "category": "治疗与康复", "page_num": 21}
+{"match_tokens": ["disease:乙肝"], "advice": "丙氨酸氨基转移酶正常或轻度升高的慢性乙型肝炎患者，可将血清YKL-40作为肝纤维化的生物标志物进行监测。", "category": "治疗与康复", "page_num": 21}
+{"match_tokens": ["disease:乙肝"], "advice": "接受干扰素α附加治疗的慢性乙型肝炎患者，应监测血清Wisteria floribunda凝集素阳性Mac-2结合蛋白的变化，以评估肝纤维化是否逆转。", "category": "治疗与康复", "page_num": 21}
+{"match_tokens": ["disease:乙肝"], "advice": "慢性乙型肝炎患者应使用瞬时弹性成像技术诊断肝纤维化。", "category": "治疗与康复", "page_num": 21}
+{"match_tokens": ["disease:乙肝"], "advice": "慢性乙型肝炎患者应使用振动控制瞬时弹性成像技术评估肝脏状况。", "category": "治疗与康复", "page_num": 21}
+{"match_tokens": ["disease:乙肝"], "advice": "接受恩替卡韦治疗的慢性乙型肝炎患者，应早期监测肝脏硬度值的快速下降，以预测肝纤维化的组织学逆转。", "category": "治疗与康复", "page_num": 21}
+{"match_tokens": ["disease:乙肝"], "advice": "乙型肝炎相关代偿期肝硬化患者，应在治疗第26周监测肝脏硬度的变化，以预测2年临床结局。", "category": "治疗与康复", "page_num": 21}
+{"match_tokens": ["disease:乙肝"], "advice": "对于慢性乙型肝炎患者，应定期进行超声检查以评估肝癌风险。", "category": "治疗与康复", "page_num": 22}
+{"match_tokens": ["disease:乙肝"], "advice": "慢性乙型肝炎患者应根据指南启动抗病毒治疗。", "category": "治疗与康复", "page_num": 22}
+{"match_tokens": ["disease:乙肝"], "advice": "慢性乙型肝炎患者应通过肝活检评估纤维化程度。", "category": "治疗与康复", "page_num": 22}
+{"match_tokens": ["disease:乙肝"], "advice": "慢性乙型肝炎患者应定期监测肝功能指标，如丙氨酸氨基转移酶。", "category": "治疗与康复", "page_num": 22}
+{"match_tokens": ["disease:乙肝"], "advice": "对于慢性乙型肝炎患者，应考虑早期治疗。", "category": "治疗与康复", "page_num": 23}
+{"match_tokens": ["disease:乙肝"], "advice": "对于未接受治疗且具有高病毒载量的HBeAg阴性慢性乙型肝炎患者，应进行长期监测。", "category": "治疗与康复", "page_num": 23}
+{"match_tokens": ["disease:乙肝"], "advice": "慢性乙型肝炎病毒感染患者应接受长期抗病毒治疗，以降低肝细胞癌风险。", "category": "治疗与康复", "page_num": 23}
+{"match_tokens": ["disease:乙肝"], "advice": "慢性乙型肝炎患者应使用恩替卡韦或替诺福韦等药物进行长期治疗。", "category": "治疗与康复", "page_num": 23}
+{"match_tokens": ["disease:乙肝"], "advice": "对于核苷（酸）类药物初治患者，应使用恩替卡韦进行长期治疗。", "category": "治疗与康复", "page_num": 23}
+{"match_tokens": ["disease:乙肝"], "advice": "对于阿德福韦耐药或恩替卡韦耐药的慢性乙型肝炎患者，应使用替诺福韦酯进行单药治疗。", "category": "治疗与康复", "page_num": 23}
+{"match_tokens": ["disease:乙肝"], "advice": "对于多重耐药的慢性HBV感染患者，应使用替诺福韦酯进行长期单药治疗。", "category": "治疗与康复", "page_num": 23}
+{"match_tokens": ["disease:乙肝"], "advice": "对于具有高肝细胞癌风险评分的HBV相关代偿期肝硬化患者，应优先考虑使用替诺福韦进行治疗。", "category": "治疗与康复", "page_num": 23}
+{"match_tokens": ["disease:乙肝"], "advice": "对于初治的乙型肝炎患者，应使用恩替卡韦、替诺福韦酯或替诺福韦艾拉酚胺进行治疗。", "category": "治疗与康复", "page_num": 23}
+{"match_tokens": ["disease:乙肝"], "advice": "对于核苷（酸）类似物经治的慢性乙型肝炎患者，可考虑换用替诺福韦艾拉酚胺。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:乙肝"], "advice": "对于低病毒血症的慢性乙型肝炎患者，可考虑从恩替卡韦换用替诺福韦艾拉酚胺。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:乙肝"], "advice": "对于长期恩替卡韦治疗后的患者，可考虑序贯使用替诺福韦艾拉酚胺。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:乙肝"], "advice": "对于HBeAg阴性的慢性乙型肝炎患者，可考虑停用核苷（酸）类似物治疗。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:乙肝"], "advice": "对于恩替卡韦抑制的慢性乙型肝炎患者，可考虑序贯联合干扰素、白细胞介素-2和治疗性疫苗治疗。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:乙肝"], "advice": "对于HBeAg阳性的慢性乙型肝炎患者，可考虑从恩替卡韦换用聚乙二醇干扰素α-2a。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:乙肝"], "advice": "对于核苷（酸）类似物部分应答的乙型肝炎患者，可考虑换用聚乙二醇干扰素α-2a以促进HBsAg清除。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:乙肝"], "advice": "对于恩替卡韦治疗后发生HBeAg血清学转换的慢性乙型肝炎患者，可考虑换用聚乙二醇干扰素。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:乙肝"], "advice": "对于HBeAg阴性的慢性乙型肝炎患者，可考虑采用联合疗法以促进HBsAg清除。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:乙肝"], "advice": "对于HBeAg阳性的慢性乙型肝炎患者，聚乙二醇干扰素在预防不良事件方面优于恩替卡韦。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:乙肝"], "advice": "安络化纤丸联合恩替卡韦治疗可显著提高慢性乙型肝炎病毒感染者肝纤维化的改善率。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:乙肝"], "advice": "扶正化瘀胶囊可用于治疗慢性乙型肝炎肝纤维化。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:乙肝"], "advice": "恩替卡韦联合鳖甲软肝片可降低中国慢性乙型肝炎患者发生肝细胞癌的风险。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:乙肝"], "advice": "筛查与慢性乙型肝炎患者肝细胞癌相关死亡率降低相关。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:乙肝"], "advice": "aMAP风险评分可用于预测慢性肝炎患者发生肝细胞癌的风险。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:乙肝", "population:孕妇"], "advice": "对于高病毒载量的乙肝孕妇，使用替诺福韦等抗病毒药物以预防母婴传播。", "category": "治疗与康复", "page_num": 25}
+{"match_tokens": ["disease:乙肝", "population:孕妇"], "advice": "乙肝孕妇在妊娠期间可全程使用替比夫定进行抗病毒治疗。", "category": "治疗与康复", "page_num": 25}
+{"match_tokens": ["disease:乙肝", "population:孕妇"], "advice": "乙肝孕妇可考虑使用替诺福韦艾拉酚胺进行抗病毒治疗。", "category": "治疗与康复", "page_num": 25}
+{"match_tokens": ["disease:乙肝", "population:孕妇"], "advice": "乙肝孕妇在产后应监测肝功能，警惕产后肝炎发作。", "category": "治疗与康复", "page_num": 25}
+{"match_tokens": ["disease:乙肝", "population:孕妇"], "advice": "乙肝孕妇产后延长抗病毒治疗并不能预防产后肝炎发作。", "category": "治疗与康复", "page_num": 25}
+{"match_tokens": ["disease:乙肝", "population:小孩"], "advice": "儿童慢性乙肝患者可使用聚乙二醇干扰素α-2a进行治疗。", "category": "治疗与康复", "page_num": 25}
+{"match_tokens": ["disease:乙肝", "age:小孩"], "advice": "对于1~7岁慢性乙型肝炎HBeAg阳性儿童，应进行抗病毒治疗以提高HBsAg清除率。", "category": "治疗与康复", "page_num": 26}
+{"match_tokens": ["disease:乙肝", "age:小孩"], "advice": "慢性乙型肝炎儿童在免疫耐受期可考虑采用干扰素序贯联合拉米夫定进行抗病毒治疗。", "category": "治疗与康复", "page_num": 26}
+{"match_tokens": ["disease:乙肝", "age:小孩"], "advice": "儿童慢性乙型肝炎患者应接受抗病毒治疗，具体方案需遵医嘱。", "category": "治疗与康复", "page_num": 26}
+{"match_tokens": ["disease:乙肝", "age:小孩"], "advice": "儿童慢性乙型肝炎的管理应遵循临床实践指南，进行规范治疗。", "category": "治疗与康复", "page_num": 26}
+{"match_tokens": ["disease:乙肝"], "advice": "长期口服抗病毒药物治疗慢性乙型肝炎是安全的，应遵医嘱坚持用药。", "category": "治疗与康复", "page_num": 26}
+{"match_tokens": ["disease:乙肝"], "advice": "对于HBV单感染患者，长期使用核苷和核苷酸类似物是安全的，应遵医嘱用药。", "category": "治疗与康复", "page_num": 26}
+{"match_tokens": ["disease:乙肝"], "advice": "对于有范可尼综合征史和多药耐药史的HBV肝硬化患者，可考虑使用替诺福韦艾拉酚胺作为挽救疗法。", "category": "治疗与康复", "page_num": 26}
+{"match_tokens": ["disease:乙肝", "disease:艾滋病"], "advice": "对于HIV/HBV合并感染且基线HBV DNA < 20,000 IU/mL的患者，可采用基于拉米夫定单药治疗的联合抗逆转录病毒疗法。", "category": "治疗与康复", "page_num": 26}
+{"match_tokens": ["disease:乙肝"], "advice": "对于乙型肝炎病毒再激活导致的慢加急性肝衰竭，应进行抗病毒治疗。", "category": "治疗与康复", "page_num": 26}
+{"match_tokens": ["disease:乙肝"], "advice": "抗病毒治疗对乙型肝炎相关慢加急性肝衰竭的近期及远期疗效有积极影响，应遵医嘱进行。", "category": "治疗与康复", "page_num": 26}
+{"match_tokens": ["disease:乙肝"], "advice": "对于慢性乙型肝炎病毒相关的急性加重和慢加急性肝衰竭，可考虑使用拉米夫定或恩替卡韦进行治疗。", "category": "治疗与康复", "page_num": 26}
+{"match_tokens": ["disease:乙肝"], "advice": "对于表现为慢加急性肝衰竭的自发性乙型肝炎再激活患者，使用替诺福韦可改善预后。", "category": "治疗与康复", "page_num": 26}
+{"match_tokens": ["disease:乙肝"], "advice": "对于乙型肝炎相关的慢加急性肝衰竭，可考虑使用替诺福韦艾拉酚胺、富马酸替诺福韦二吡呋酯或恩替卡韦进行治疗。", "category": "治疗与康复", "page_num": 26}
+{"match_tokens": ["disease:乙肝"], "advice": "肝移植后，应采用免疫球蛋白和核苷（酸）类似物联合方案来预防乙型肝炎病毒复发。", "category": "治疗与康复", "page_num": 26}
+{"match_tokens": ["disease:乙肝"], "advice": "肝移植受者可考虑采用输注乙型肝炎免疫球蛋白联合恩替卡韦的新方案来预防乙型肝炎病毒复发。", "category": "治疗与康复", "page_num": 26}

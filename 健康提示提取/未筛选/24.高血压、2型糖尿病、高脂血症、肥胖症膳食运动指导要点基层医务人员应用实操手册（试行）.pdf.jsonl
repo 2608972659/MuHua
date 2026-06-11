@@ -1,0 +1,530 @@
+{"match_tokens": ["disease:高血压", "disease:糖尿病", "disease:肥胖症", "risk:缺乏运动"], "advice": "进行膳食运动指导。", "category": "健康生活方式", "page_num": 1}
+{"match_tokens": ["disease:高血压", "disease:糖尿病", "disease:肥胖症"], "advice": "基层医务人员应用实操手册进行指导。", "category": "治疗与康复", "page_num": 1}
+{"match_tokens": ["age:成人", "risk:吸烟"], "advice": "尽量避免吸烟，不在室内吸烟，必要时前往戒烟门诊寻求帮助。", "category": "健康生活方式", "page_num": 2}
+{"match_tokens": ["disease:高血压"], "advice": "遵循高血压患者膳食运动基层指导要点。", "category": "治疗与康复", "page_num": 3}
+{"match_tokens": ["disease:糖尿病"], "advice": "遵循2型糖尿病患者膳食运动基层指导要点。", "category": "治疗与康复", "page_num": 3}
+{"match_tokens": ["disease:其他病症"], "advice": "遵循高脂血症患者膳食运动基层指导要点。", "category": "治疗与康复", "page_num": 3}
+{"match_tokens": ["disease:肥胖症"], "advice": "遵循肥胖症患者膳食运动基层指导要点。", "category": "治疗与康复", "page_num": 3}
+{"match_tokens": ["disease:高血压", "disease:糖尿病", "disease:高脂血症"], "advice": "为首次诊断为或处于2型糖尿病、高脂血症、高血压初期的慢性病患者提供运动健身、饮食营养等非药物处方。", "category": "治疗与康复", "page_num": 4}
+{"match_tokens": ["disease:高血压", "disease:糖尿病", "disease:肥胖症"], "advice": "参考针对高血压、2型糖尿病、高脂血症、肥胖症等重点疾病制定的膳食运动基层指导要点和配套实操手册进行自我健康管理。", "category": "治疗与康复", "page_num": 5}
+{"match_tokens": ["disease:高血压", "disease:糖尿病", "disease:肥胖症"], "advice": "基层医务人员应用膳食运动指导要点为慢性病患者提供健康服务。", "category": "治疗与康复", "page_num": 5}
+{"match_tokens": ["age:老年人", "disease:高血压", "disease:糖尿病", "disease:脑血管病", "disease:慢阻肺"], "advice": "定期监测血压、血糖、血脂，并遵医嘱规范治疗。", "category": "治疗与康复", "page_num": 6}
+{"match_tokens": ["disease:高血压", "bmi:超重", "bmi:肥胖"], "advice": "控制每日摄入总能量，可根据减重目标，在现有能量摄入基础上，每日减少500千卡左右的能量摄入。", "category": "健康生活方式", "page_num": 7}
+{"match_tokens": ["disease:高血压"], "advice": "食物多样，合理搭配。每日的食物包括谷薯类、新鲜蔬菜水果类、畜禽鱼蛋奶类、大豆坚果类。每日摄入12种以上食物，每周25种以上。", "category": "健康生活方式", "page_num": 7}
+{"match_tokens": ["disease:高血压"], "advice": "合理安排一日三餐，定时定量，不暴饮暴食，不漏餐。", "category": "健康生活方式", "page_num": 7}
+{"match_tokens": ["disease:高血压"], "advice": "减少食盐摄入。每日食盐摄入总量不超过5克，避免食用咸菜、腌制食品、腐乳等高盐食品，少吃方便面、冰淇淋、薯条、饼干、蛋糕、挂面、火腿肠等含隐性盐较多的食品。", "category": "健康生活方式", "page_num": 7}
+{"match_tokens": ["disease:高血压"], "advice": "增加富含钾的食物（蔬菜、水果、杂豆类、菌菇类等）摄入，可以选择低钠盐（高钾血症者除外）。", "category": "健康生活方式", "page_num": 7}
+{"match_tokens": ["disease:高血压"], "advice": "限制油脂摄入总量，炒菜应少放油，每日烹调用油的总量不超过25克。", "category": "健康生活方式", "page_num": 7}
+{"match_tokens": ["disease:高血压"], "advice": "少用饱和脂肪酸含量较高的动物性油脂（肥肉、荤油等），用富含不饱和脂肪酸的油脂（花生油、菜籽油、橄榄油、茶籽油等植物油）替代饱和脂肪酸含量高的动物油、棕榈油等。", "category": "健康生活方式", "page_num": 8}
+{"match_tokens": ["disease:高血压"], "advice": "限制反式脂肪酸摄入，少吃含有氢化植物油、起酥油、奶精、植脂末、人造奶油等反式脂肪酸食品，少吃油炸食品，少用煎、炸等烹饪方法。", "category": "健康生活方式", "page_num": 8}
+{"match_tokens": ["disease:高血压"], "advice": "减少膳食胆固醇摄入，不吃或少吃动物内脏、动物外皮等胆固醇含量高的食物。", "category": "健康生活方式", "page_num": 8}
+{"match_tokens": ["disease:高血压"], "advice": "谷类为主，粗细搭配，每日摄入50～150克全谷物（糙米、燕麦、小米、荞麦、玉米等）和杂豆类（红小豆、绿豆、芸豆、花豆等）食物。", "category": "健康生活方式", "page_num": 8}
+{"match_tokens": ["disease:高血压"], "advice": "多吃新鲜蔬菜，每日摄入新鲜蔬菜不少于500克，深色蔬菜（油菜、油麦菜、菠菜、芥菜等）占一半。", "category": "健康生活方式", "page_num": 8}
+{"match_tokens": ["disease:高血压"], "advice": "增加膳食纤维摄入，适量多吃膳食纤维丰富的食物（全谷物、蔬菜、水果、豆类等）。", "category": "健康生活方式", "page_num": 8}
+{"match_tokens": ["disease:高血压"], "advice": "每日吃新鲜水果200～300克，不用果汁代替新鲜水果。", "category": "健康生活方式", "page_num": 8}
+{"match_tokens": ["disease:高血压"], "advice": "蛋白质摄入充足，每日吃120～200克鱼、禽、蛋、瘦肉，摄入各类奶制品（相当于每天300毫升以上液态奶）。适量增加鱼类和豆制品（豆腐、豆浆等）的摄入。", "category": "健康生活方式", "page_num": 8}
+{"match_tokens": ["disease:高血压"], "advice": "少量多次、足量饮水，每日1500～2000毫升。", "category": "健康生活方式", "page_num": 8}
+{"match_tokens": ["disease:高血压"], "advice": "不喝或少喝含糖饮料，不用饮料代替白水。", "category": "健康生活方式", "page_num": 8}
+{"match_tokens": ["disease:高血压"], "advice": "少吃或不吃特别辛辣和刺激性食物，尽量不饮浓茶和浓咖啡。", "category": "健康生活方式", "page_num": 8}
+{"match_tokens": ["disease:高血压", "risk:吸烟"], "advice": "不吸烟。", "category": "健康生活方式", "page_num": 8}
+{"match_tokens": ["disease:高血压", "risk:饮酒"], "advice": "限制饮酒或不饮酒。", "category": "健康生活方式", "page_num": 8}
+{"match_tokens": ["disease:高血压", "disease:心力衰竭"], "advice": "高血压合并心力衰竭患者，应在专业人员指导下调整膳食。", "category": "治疗与康复", "page_num": 8}
+{"match_tokens": ["disease:高血压", "disease:其他病症"], "advice": "高血压合并肾功能不全患者，应在专业人员指导下调整膳食。", "category": "治疗与康复", "page_num": 8}
+{"match_tokens": ["disease:高血压", "disease:其他病症"], "advice": "高血压急症患者，应在专业人员指导下调整膳食。", "category": "治疗与康复", "page_num": 8}
+{"match_tokens": ["disease:高血压", "disease:其他病症"], "advice": "高血压合并高尿酸血症或痛风患者，应在专业人员指导下调整膳食。", "category": "治疗与康复", "page_num": 8}
+{"match_tokens": ["disease:高血压", "disease:糖尿病"], "advice": "高血压合并糖尿病患者，应在专业人员指导下调整膳食。", "category": "治疗与康复", "page_num": 8}
+{"match_tokens": ["disease:高血压", "disease:其他病症"], "advice": "高血压合并慢性肾病患者，应在专业人员指导下调整膳食。", "category": "治疗与康复", "page_num": 8}
+{"match_tokens": ["disease:高血压", "population:孕妇"], "advice": "妊娠高血压患者，应在专业人员指导下调整膳食。", "category": "治疗与康复", "page_num": 8}
+{"match_tokens": ["disease:高血压", "age:小孩"], "advice": "儿童高血压患者，应在专业人员指导下调整膳食。", "category": "治疗与康复", "page_num": 8}
+{"match_tokens": ["disease:高血压", "symptom:急性心肌梗死", "symptom:脑卒中急性期", "symptom:不稳定型心绞痛", "symptom:严重心律失常", "symptom:急性心力衰竭"], "advice": "高血压合并主动脉夹层、急性心肌梗死、脑卒中急性期、不稳定型心绞痛、严重心律失常、急性心力衰竭等疾病的患者禁忌运动，待病情控制稳定后，经医生评估允许后可逐步恢复运动。", "category": "治疗与康复", "page_num": 9}
+{"match_tokens": ["disease:高血压"], "advice": "血压未控制到160/100mmHg以下或血压波动大的患者，暂时不要进行中等及以上强度的运动，待病情控制稳定后，经医生评估允许后可逐步恢复运动。", "category": "治疗与康复", "page_num": 9}
+{"match_tokens": ["disease:高血压"], "advice": "动则有益，避免久坐，日常生活中保持充足身体活动，如步行、骑车、做家务等。", "category": "健康生活方式", "page_num": 9}
+{"match_tokens": ["disease:高血压"], "advice": "无规律运动习惯的患者，从低强度、短时间、小运动量开始，量力而行，循序渐进，保证运动安全。在可以耐受时，可在运动指导专业人员的指导下，逐渐进阶到中等强度运动。", "category": "治疗与康复", "page_num": 9}
+{"match_tokens": ["disease:高血压"], "advice": "有规律运动习惯，无心血管疾病、代谢性疾病或肾病及相关症状或体征的患者，继续中等或较大强度运动，可在运动指导专业人员的指导下，逐渐进阶运动强度。", "category": "治疗与康复", "page_num": 9}
+{"match_tokens": ["disease:高血压"], "advice": "有规律运动习惯，确诊过心血管疾病、代谢性疾病或肾病，但无相关症状或体征的患者，可继续中等强度运动，在进行较大强度运动前推荐进行医学筛查。", "category": "治疗与康复", "page_num": 9}
+{"match_tokens": ["disease:高血压"], "advice": "有规律运动习惯，有任何心血管疾病、代谢性疾病或肾病相关症状或体征的患者，暂停运动，先进行医学筛查，经医生评估允许后可逐步恢复运动。", "category": "治疗与康复", "page_num": 9}
+{"match_tokens": ["disease:高血压"], "advice": "以有氧运动为主。选择快走、慢跑、骑车、跳舞、太极拳、八段锦等中等强度运动，每周5～7天，每天连续或累计运动30～60分钟，有氧运动间隔不宜超过2天，每周累计150～300分钟。", "category": "健康生活方式", "page_num": 9}
+{"match_tokens": ["age:老年人", "risk:缺乏运动"], "advice": "老年患者可以从低强度抗阻运动开始。", "category": "健康生活方式", "page_num": 10}
+{"match_tokens": ["age:成人", "risk:缺乏运动"], "advice": "结合抗阻运动，可以采用健身器械、哑铃、杠铃、弹力带或身体自重训练等方式，从中等强度开始，每周2～3次，每次2～4组，每组重复8～12次，要训练到全身主要大肌群。同一肌肉部位训练，至少间隔1天。", "category": "健康生活方式", "page_num": 10}
+{"match_tokens": ["age:成人", "risk:缺乏运动"], "advice": "抗阻运动时应避免屏息。", "category": "健康生活方式", "page_num": 10}
+{"match_tokens": ["age:成人", "risk:缺乏运动"], "advice": "进行柔韧性运动，如静态拉伸，每个动作拉伸10～30秒，重复2～4次，拉伸至感觉紧张或轻度不适，每个动作的总拉伸时间至少60秒；多个部位的柔韧性练习应在10分钟内完成，每周2～3次。", "category": "健康生活方式", "page_num": 10}
+{"match_tokens": ["age:成人", "risk:缺乏运动"], "advice": "进行平衡训练，由易到难，可以做单脚站立、身体摆动“不倒翁”练习、足跟对足尖“一字走”、侧向行走、跨步练习、平衡锻炼操等。", "category": "健康生活方式", "page_num": 10}
+{"match_tokens": ["age:任何", "risk:缺乏运动"], "advice": "在高温、寒冷或极端天气时，避免户外运动。", "category": "健康生活方式", "page_num": 10}
+{"match_tokens": ["age:任何", "risk:缺乏运动"], "advice": "穿适宜运动、透气吸汗的衣服，穿合脚、适宜运动的鞋子。", "category": "健康生活方式", "page_num": 10}
+{"match_tokens": ["age:任何", "risk:缺乏运动"], "advice": "运动前应进行准备活动，可进行5～10分钟低强度有氧运动，如步行或原地踏步、拉伸练习等，防止运动损伤。", "category": "健康生活方式", "page_num": 10}
+{"match_tokens": ["age:任何", "risk:缺乏运动"], "advice": "注意监测运动前、中、后的心率，以及运动前后血压。", "category": "健康生活方式", "page_num": 10}
+{"match_tokens": ["age:任何", "risk:缺乏运动"], "advice": "运动中出现任何不适，如心慌、胸痛、气短及其他不适，应立即停止运动。需要时及时就医。", "category": "急症处理", "page_num": 10}
+{"match_tokens": ["age:任何", "risk:缺乏运动"], "advice": "运动后整理活动必不可少，进行至少10分钟的低强度有氧运动、拉伸等活动。", "category": "健康生活方式", "page_num": 10}
+{"match_tokens": ["age:任何", "risk:缺乏运动"], "advice": "运动中、运动后适量补水。", "category": "健康生活方式", "page_num": 10}
+{"match_tokens": ["disease:高血压", "risk:缺乏运动"], "advice": "服用β受体阻滞剂的患者更适合用主观用力感觉或讲话测试来衡量运动强度。", "category": "治疗与康复", "page_num": 10}
+{"match_tokens": ["disease:高血压", "risk:缺乏运动"], "advice": "服用利尿剂治疗的患者应注意观察是否出现低钾血症和其他电解质紊乱。", "category": "治疗与康复", "page_num": 10}
+{"match_tokens": ["disease:高血压", "risk:缺乏运动"], "advice": "服用α受体阻断剂、钙通道阻滞剂及血管扩张剂会引起运动后的血压突然降低，应逐渐停止运动并延长整理活动时间，密切监测血压和心率，直至恢复到接近安静状态。", "category": "治疗与康复", "page_num": 10}
+{"match_tokens": [], "advice": "其他指导建议", "category": "健康生活方式", "page_num": 11}
+{"match_tokens": ["age:老年人"], "advice": "定期监测血压，将血压控制在140/90mmHg以下。", "category": "治疗与康复", "page_num": 12}
+{"match_tokens": ["age:老年人", "disease:高血压"], "advice": "定期监测血压，将血压控制在140/90mmHg以下。", "category": "治疗与康复", "page_num": 12}
+{"match_tokens": ["age:老年人", "disease:高血压"], "advice": "坚持遵医嘱服药，不随意停药或更改剂量。", "category": "治疗与康复", "page_num": 12}
+{"match_tokens": ["age:老年人", "disease:高血压"], "advice": "保持低盐饮食，每日食盐摄入量不超过5克。", "category": "健康生活方式", "page_num": 12}
+{"match_tokens": ["age:老年人", "disease:高血压"], "advice": "保持规律运动，如散步、打太极拳等，每周至少5次，每次30分钟。", "category": "健康生活方式", "page_num": 12}
+{"match_tokens": ["age:老年人", "disease:高血压"], "advice": "保持情绪稳定，避免情绪激动。", "category": "健康生活方式", "page_num": 12}
+{"match_tokens": ["age:老年人", "disease:高血压"], "advice": "戒烟限酒。", "category": "健康生活方式", "page_num": 12}
+{"match_tokens": ["age:老年人", "disease:高血压"], "advice": "保持健康体重，避免肥胖。", "category": "健康生活方式", "page_num": 12}
+{"match_tokens": ["age:老年人", "disease:高血压"], "advice": "定期进行健康体检，监测血压、血糖、血脂等指标。", "category": "治疗与康复", "page_num": 12}
+{"match_tokens": ["age:老年人", "disease:高血压"], "advice": "出现头晕、头痛、胸闷等症状时及时就医。", "category": "急症处理", "page_num": 12}
+{"match_tokens": ["disease:糖尿病"], "advice": "遵医嘱用药，进行膳食和运动的生活方式干预。", "category": "治疗与康复", "page_num": 13}
+{"match_tokens": ["disease:糖尿病", "bmi:超重", "bmi:肥胖"], "advice": "超重或肥胖患者控制总能量摄入，可根据减重目标，在现有摄入能量的基础上，每日减少500千卡的热量。", "category": "健康生活方式", "page_num": 13}
+{"match_tokens": ["disease:糖尿病", "bmi:体重过低"], "advice": "消瘦患者增重至健康体重水平。", "category": "健康生活方式", "page_num": 13}
+{"match_tokens": ["disease:糖尿病"], "advice": "每日膳食总能量适宜，保持健康体重。控制超重和肥胖，预防消瘦。", "category": "健康生活方式", "page_num": 13}
+{"match_tokens": ["disease:糖尿病"], "advice": "食物多样，合理搭配。每日的食物包括谷薯类、新鲜蔬菜水果类、畜禽鱼蛋奶类、大豆坚果类。每日摄入12种以上食物，每周25种以上。", "category": "健康生活方式", "page_num": 13}
+{"match_tokens": ["disease:糖尿病"], "advice": "主食定量，粗细搭配，控制碳水化合物的量。适量增加全谷物（糙米、燕麦、小米、荞麦、玉米等）和杂豆类（红小豆、绿豆、芸豆、花豆等）食物的摄入量。限制精细加工的精米精面类食物。", "category": "健康生活方式", "page_num": 13}
+{"match_tokens": ["disease:糖尿病"], "advice": "定时定量，规律进餐，合理分配一日三餐，不暴饮暴食，不漏餐。", "category": "健康生活方式", "page_num": 13}
+{"match_tokens": ["disease:糖尿病"], "advice": "用餐时细嚼慢咽，可先吃蔬菜，再吃肉蛋，最后吃主食。", "category": "健康生活方式", "page_num": 14}
+{"match_tokens": ["disease:糖尿病"], "advice": "增加膳食纤维摄入，适量多吃膳食纤维丰富的食物（全谷物、蔬菜、水果、豆类等）。", "category": "健康生活方式", "page_num": 14}
+{"match_tokens": ["disease:糖尿病"], "advice": "多吃新鲜蔬菜，每日摄入蔬菜不少于500克，深色蔬菜（油菜、油麦菜、菠菜、芥菜等）占一半。", "category": "健康生活方式", "page_num": 14}
+{"match_tokens": ["disease:糖尿病"], "advice": "吃新鲜、低血糖生成指数的水果，控制水果的摄入量，在血糖控制稳定情况下，每日150克左右，不用果汁代替新鲜水果。", "category": "健康生活方式", "page_num": 14}
+{"match_tokens": ["disease:糖尿病"], "advice": "限制添加糖及高糖加工食品的摄入。不喝含糖饮料，尽量选择白水和淡茶等饮品。", "category": "健康生活方式", "page_num": 14}
+{"match_tokens": ["disease:糖尿病"], "advice": "限制油脂摄入总量，炒菜少放油，每日烹调用油的总量不超过25克。", "category": "健康生活方式", "page_num": 14}
+{"match_tokens": ["disease:糖尿病"], "advice": "少用饱和脂肪酸含量较高的动物性油脂（肥肉、荤油等），用富含不饱和脂肪酸的油脂（花生油、菜籽油、橄榄油、茶籽油等植物油）替代饱和脂肪酸含量高的动物油、棕榈油等。", "category": "健康生活方式", "page_num": 14}
+{"match_tokens": ["disease:糖尿病"], "advice": "限制反式脂肪酸摄入，少吃含有氢化植物油、起酥油、奶精、植脂末、人造奶油等反式脂肪酸食品，少吃油炸食品，少用煎、炸等烹饪方法。", "category": "健康生活方式", "page_num": 14}
+{"match_tokens": ["disease:糖尿病"], "advice": "减少食盐的摄入。每日食盐摄入总量不超过5克，避免咸菜、腌制食品、腐乳等高盐食品，少吃方便面、冰淇淋、薯条、饼干、蛋糕、挂面、火腿肠等含隐性盐较多的食品。", "category": "健康生活方式", "page_num": 14}
+{"match_tokens": ["disease:糖尿病"], "advice": "蛋白质摄入充足，每天吃150～250克鱼、禽、蛋、瘦肉，摄入奶及奶制品（相当于每天300毫升以上液态奶）。适量增加鱼类和豆制品（豆腐、豆浆等）的摄入。", "category": "健康生活方式", "page_num": 14}
+{"match_tokens": ["disease:糖尿病"], "advice": "少量多次、足量饮水，每天1500～2000毫升。", "category": "健康生活方式", "page_num": 14}
+{"match_tokens": ["disease:糖尿病"], "advice": "不吸烟。", "category": "健康生活方式", "page_num": 14}
+{"match_tokens": ["disease:糖尿病"], "advice": "限制饮酒或不饮酒。", "category": "健康生活方式", "page_num": 14}
+{"match_tokens": ["disease:糖尿病"], "advice": "注意监测餐后血糖，自我观察膳食对血糖的影响，及时调整膳食。", "category": "治疗与康复", "page_num": 14}
+{"match_tokens": ["disease:糖尿病", "population:孕妇"], "advice": "妊娠期女性糖尿病患者，应在营养专业人员指导下调整膳食。", "category": "治疗与康复", "page_num": 14}
+{"match_tokens": ["disease:糖尿病", "age:小孩"], "advice": "儿童糖尿病患者，应在营养专业人员指导下调整膳食。", "category": "治疗与康复", "page_num": 14}
+{"match_tokens": ["disease:糖尿病", "disease:脂肪肝", "disease:糖尿病神经病变", "disease:糖尿病肾病"], "advice": "合并其他疾病（如脂肪肝、糖尿病神经病变、糖尿病肾病等）的2型糖尿病患者，应在营养专业人员指导下调整膳食。", "category": "治疗与康复", "page_num": 14}
+{"match_tokens": ["disease:糖尿病"], "advice": "血糖≥16.7mmol/L、血糖＜3.9mmol/L、血糖波动较大、有糖尿病酮症酸中毒等急性并发症或合并急性感染等严重情况时，暂时不要进行中等及以上强度运动，待病情控制稳定并经医生评估允许后再逐步恢复。", "category": "治疗与康复", "page_num": 15}
+{"match_tokens": ["disease:无特定疾病"], "advice": "动则有益，避免久坐，日常生活中保持充足身体活动，如步行、骑车、做家务等。", "category": "健康生活方式", "page_num": 15}
+{"match_tokens": ["disease:无特定疾病"], "advice": "无规律运动习惯的患者，从低强度、短时间、小运动量开始，量力而行，循序渐进，保证运动安全。在可以耐受时，可在运动指导专业人员的指导下，逐渐进阶到中等强度运动。", "category": "健康生活方式", "page_num": 15}
+{"match_tokens": ["disease:无特定疾病"], "advice": "有规律运动习惯，无心血管疾病、代谢性疾病或肾病及相关症状或体征的患者，继续中等或较大强度运动，可在运动指导专业人员的指导下，逐渐进阶运动强度。", "category": "健康生活方式", "page_num": 15}
+{"match_tokens": ["disease:心血管病", "disease:糖尿病", "disease:其他病症"], "advice": "有规律运动习惯，确诊过心血管疾病、代谢性疾病或肾病，但无相关症状或体征的患者，可继续中等强度运动，在进行较大强度运动前推荐进行医学筛查。", "category": "治疗与康复", "page_num": 15}
+{"match_tokens": ["disease:心血管病", "disease:糖尿病", "disease:其他病症"], "advice": "有规律运动习惯，有任何心血管疾病、代谢性疾病或肾病相关症状或体征的患者，暂停运动，先进行医学筛查，经医生评估允许后可逐步恢复运动。", "category": "治疗与康复", "page_num": 15}
+{"match_tokens": ["disease:无特定疾病"], "advice": "以有氧运动为主。选择快走、慢跑、骑车、跳舞、太极拳、八段锦等中等强度运动，每周3～7天，每天持续或累计运动时间30～60分钟，有氧运动间隔不宜超过2天，每周累计150～300分钟。", "category": "健康生活方式", "page_num": 15}
+{"match_tokens": ["disease:无特定疾病"], "advice": "有运动基础（如能以9.7公里/小时速度奔跑者）的患者，可以采用高强度间歇训练，包含变速跑、高强度有氧操、冲刺训练等。", "category": "健康生活方式", "page_num": 15}
+{"match_tokens": ["disease:糖尿病", "age:老年人"], "advice": "老年患者可以从低强度抗阻运动开始。", "category": "治疗与康复", "page_num": 16}
+{"match_tokens": ["disease:糖尿病"], "advice": "结合抗阻运动，可以采用健身器械、哑铃、杠铃、弹力带，或身体自重训练等方式，从中等强度开始，每周2～3次，每次2～4组，每组10～15次，要训练到全身主要大肌群。同一肌肉部位训练，至少间隔1天。", "category": "治疗与康复", "page_num": 16}
+{"match_tokens": ["disease:糖尿病"], "advice": "进行柔韧性运动，静态拉伸，每个动作拉伸10～30秒，重复2～4次，拉伸至感觉紧张或轻度不适，每个动作的总拉伸时间至少60秒；多个部位的柔韧性练习应在10分钟内完成，每周2～3次。", "category": "治疗与康复", "page_num": 16}
+{"match_tokens": ["disease:糖尿病"], "advice": "进行平衡训练，由易到难，可以做单脚站立、身体摆动“不倒翁”练习、足跟对足尖“一字走”、侧向行走、跨步练习、平衡锻炼操等。", "category": "治疗与康复", "page_num": 16}
+{"match_tokens": ["disease:糖尿病", "bmi:超重", "bmi:肥胖"], "advice": "超重肥胖患者，制定运动方案时应结合减重方案。", "category": "治疗与康复", "page_num": 16}
+{"match_tokens": ["disease:糖尿病", "symptom:视网膜病变"], "advice": "视网膜病变患者应避免中等及以上强度运动、会明显升高血压的运动（如拳击、高海拔的登山、潜水等特殊运动）、高冲击性运动（蛙跳、跳绳等）、较长时间低头弯腰或引起头部不适的活动、屏息用力等动作，冲撞性运动（如篮球、足球、橄榄球等）。", "category": "治疗与康复", "page_num": 16}
+{"match_tokens": ["disease:糖尿病", "symptom:溃疡"], "advice": "糖尿病性溃疡未愈合的患者，应避免水中运动。", "category": "治疗与康复", "page_num": 16}
+{"match_tokens": ["disease:糖尿病"], "advice": "在高温、寒冷或极端天气时，避免户外运动。", "category": "治疗与康复", "page_num": 16}
+{"match_tokens": ["disease:糖尿病"], "advice": "穿适宜运动、透气吸汗的衣服，穿合脚、适宜运动的鞋子。", "category": "治疗与康复", "page_num": 16}
+{"match_tokens": ["disease:糖尿病"], "advice": "2型糖尿病患者运动前的血糖浓度应在5.0～13.9mmol/L之间。", "category": "治疗与康复", "page_num": 16}
+{"match_tokens": ["disease:糖尿病"], "advice": "建议用餐1小时后运动，餐前运动时应先摄入10～30克碳水化合物，避免发生低血糖。", "category": "治疗与康复", "page_num": 16}
+{"match_tokens": ["disease:糖尿病"], "advice": "随身携带葡萄糖片、糖果、饼干等预防低血糖的食物和急救卡。", "category": "治疗与康复", "page_num": 16}
+{"match_tokens": ["disease:糖尿病", "symptom:低血糖"], "advice": "出现过运动相关低血糖的糖尿病患者，应结伴运动或在医务监督下进行运动，可减少低血糖相关事件的发生危险。", "category": "治疗与康复", "page_num": 16}
+{"match_tokens": ["disease:糖尿病"], "advice": "运动前应进行准备活动，可进行5～10分钟低强度有氧运动，如步行或原地踏步、拉伸练习等，防止运动损伤。", "category": "治疗与康复", "page_num": 16}
+{"match_tokens": ["disease:糖尿病"], "advice": "运动前后要加强血糖监测，避免低血糖。", "category": "治疗与康复", "page_num": 17}
+{"match_tokens": ["disease:糖尿病"], "advice": "如运动对控制血糖有效，应在医生指导下酌情调整临床用药。", "category": "治疗与康复", "page_num": 17}
+{"match_tokens": ["disease:糖尿病"], "advice": "运动中出现任何不适，如心慌、胸痛、气短及其他不适，应立即停止运动。需要时及时就医。", "category": "急症处理", "page_num": 17}
+{"match_tokens": ["disease:糖尿病"], "advice": "运动后整理活动必不可少，进行至少10分钟的低强度有氧运动、拉伸等活动。", "category": "治疗与康复", "page_num": 17}
+{"match_tokens": ["disease:糖尿病"], "advice": "运动中、运动后适量补水。", "category": "健康生活方式", "page_num": 17}
+{"match_tokens": ["disease:糖尿病"], "advice": "运动后仔细检查皮肤和双脚，发现红肿、青紫、水泡、血疱、感染等，应及时请专业医护人员处理。", "category": "治疗与康复", "page_num": 17}
+{"match_tokens": ["age:老年人", "disease:慢阻肺", "risk:吸烟"], "advice": "戒烟是预防慢阻肺最有效的方法。", "category": "健康生活方式", "page_num": 18}
+{"match_tokens": ["age:成人", "disease:慢阻肺", "risk:吸烟"], "advice": "戒烟是预防慢阻肺最有效的方法。", "category": "健康生活方式", "page_num": 18}
+{"match_tokens": ["age:成人", "disease:慢阻肺"], "advice": "避免接触职业性粉尘和化学物质，减少室内外空气污染暴露。", "category": "健康生活方式", "page_num": 18}
+{"match_tokens": ["age:成人", "disease:慢阻肺"], "advice": "接种流感疫苗和肺炎球菌疫苗，预防呼吸道感染。", "category": "治疗与康复", "page_num": 18}
+{"match_tokens": ["age:成人", "disease:慢阻肺", "symptom:咳嗽"], "advice": "坚持长期规律用药，不可自行停药或更改剂量。", "category": "治疗与康复", "page_num": 18}
+{"match_tokens": ["age:成人", "disease:慢阻肺", "symptom:疲劳"], "advice": "进行适度的康复锻炼，如散步、呼吸操等，以改善活动耐力。", "category": "治疗与康复", "page_num": 18}
+{"match_tokens": ["age:成人", "disease:慢阻肺"], "advice": "定期复查肺功能，监测病情变化。", "category": "治疗与康复", "page_num": 18}
+{"match_tokens": ["age:成人", "disease:慢阻肺", "symptom:咳嗽"], "advice": "学习正确的咳嗽和排痰方法。", "category": "治疗与康复", "page_num": 18}
+{"match_tokens": ["age:成人", "disease:慢阻肺"], "advice": "保持均衡营养，摄入足够蛋白质和维生素。", "category": "治疗与康复", "page_num": 18}
+{"match_tokens": ["age:成人", "disease:慢阻肺"], "advice": "保持积极心态，必要时寻求心理支持。", "category": "治疗与康复", "page_num": 18}
+{"match_tokens": ["disease:高血压", "disease:糖尿病", "disease:脑血管病"], "advice": "保持适宜体重，体质指数（BMI）达到18.5kg/m2且低于24kg/m2（65岁以上老年人可适当增加）；男性腰围＜85cm，女性腰围＜80cm。", "category": "健康生活方式", "page_num": 19}
+{"match_tokens": ["bmi:超重", "bmi:肥胖"], "advice": "超重或肥胖者控制每日摄入总能量，可根据减重目标，在现有能量摄入基础上，每日减少500千卡左右的能量摄入。", "category": "健康生活方式", "page_num": 19}
+{"match_tokens": ["disease:高血压", "disease:糖尿病", "disease:脑血管病"], "advice": "食物多样，合理搭配。每日的食物包括谷薯类、新鲜蔬菜水果类、畜禽鱼蛋奶类、大豆坚果类。每日摄入12种以上食物，每周25种以上。", "category": "健康生活方式", "page_num": 19}
+{"match_tokens": ["disease:高血压", "disease:糖尿病", "disease:脑血管病"], "advice": "合理安排一日三餐，定时定量，不暴饮暴食，不漏餐。", "category": "健康生活方式", "page_num": 19}
+{"match_tokens": ["disease:高血压", "disease:糖尿病", "disease:脑血管病"], "advice": "限制油脂摄入总量，炒菜、拌菜少放油，每日烹调用油的总量不超过25克。", "category": "健康生活方式", "page_num": 19}
+{"match_tokens": ["disease:高血压", "disease:糖尿病", "disease:脑血管病"], "advice": "减少饱和脂肪酸摄入，避免食用饱和脂肪酸含量较高的动物性油脂（肥肉、荤油等），用富含不饱和脂肪酸的油脂（花生油、菜籽油、橄榄油、茶籽油等植物油）替代饱和脂肪酸含量高的动物油、棕榈油等。", "category": "健康生活方式", "page_num": 19}
+{"match_tokens": ["disease:高血压", "disease:糖尿病", "disease:脑血管病"], "advice": "限制反式脂肪酸摄入，少吃含有氢化植物油、起酥油、奶精、植脂末、人造奶油等反式脂肪酸食品，少吃油炸食品、糕点，少用煎、炸等烹饪方法。", "category": "健康生活方式", "page_num": 19}
+{"match_tokens": ["disease:高血压", "disease:糖尿病", "disease:脑血管病"], "advice": "增加膳食纤维摄入，每日摄入量不少于25克，适量多吃膳食纤维丰富的食物（全谷物、蔬菜、水果、豆类等）。", "category": "健康生活方式", "page_num": 19}
+{"match_tokens": ["disease:无特定疾病"], "advice": "主食以谷类为主，粗细搭配，每天食用50～150克全谷物（糙米、燕麦、小米、荞麦、玉米等）和杂豆类（红小豆、绿豆、芸豆、花豆等）。", "category": "健康生活方式", "page_num": 20}
+{"match_tokens": ["disease:无特定疾病"], "advice": "增加新鲜蔬菜摄入，每天摄入量不少于500克，深色蔬菜（油菜、油麦菜、菠菜、芥菜等）占一半。", "category": "健康生活方式", "page_num": 20}
+{"match_tokens": ["disease:无特定疾病"], "advice": "每日吃新鲜水果200～300克，不用果汁代替新鲜水果。", "category": "健康生活方式", "page_num": 20}
+{"match_tokens": ["disease:无特定疾病"], "advice": "蛋白质摄入充足，建议每天吃120～200克鱼、禽、蛋、瘦肉，摄入奶及奶制品（相当于每天300毫升以上液态奶），奶类可选择脱脂或低脂牛奶等。适量增加鱼类和豆制品（豆腐、豆浆等）的摄入。", "category": "健康生活方式", "page_num": 20}
+{"match_tokens": ["disease:无特定疾病"], "advice": "减少食盐的摄入。每日食盐摄入总量不超过5克，少吃咸菜、腌制食品、腐乳等高盐食品，少吃方便面、冰淇淋、薯条、饼干、蛋糕、挂面、火腿肠等含隐性盐较多的食品。", "category": "健康生活方式", "page_num": 20}
+{"match_tokens": ["disease:无特定疾病"], "advice": "少量多次、足量饮水，每天1500～2000毫升。", "category": "健康生活方式", "page_num": 20}
+{"match_tokens": ["disease:无特定疾病"], "advice": "不喝或少喝含糖饮料，不用饮料代替白水。", "category": "健康生活方式", "page_num": 20}
+{"match_tokens": ["disease:无特定疾病", "risk:吸烟"], "advice": "不吸烟。", "category": "健康生活方式", "page_num": 20}
+{"match_tokens": ["disease:无特定疾病", "risk:饮酒"], "advice": "限制饮酒或不饮酒。", "category": "健康生活方式", "page_num": 20}
+{"match_tokens": ["disease:其他病症"], "advice": "高胆固醇血症患者还应减少膳食胆固醇（动物内脏、动物外皮等）摄入，适量增加富含植物甾醇的食物，如洋葱、大豆制品、燕麦、紫米等。", "category": "治疗与康复", "page_num": 20}
+{"match_tokens": ["disease:其他病症"], "advice": "高甘油三酯血症患者在限制高脂肪食物摄入的同时，适当减少碳水化合物的摄入量，特别是精细加工的精米精面类食物。", "category": "治疗与康复", "page_num": 20}
+{"match_tokens": ["disease:肥胖症", "disease:高血压", "disease:糖尿病", "disease:脑血管病", "population:孕妇", "population:小孩"], "advice": "以下高脂血症患者，在营养专业人员指导下调整膳食：合并其他疾病，如肥胖、高血压、糖尿病、脑血管病、冠心病、肾病等；妊娠期女性；儿童。", "category": "治疗与康复", "page_num": 20}
+{"match_tokens": ["disease:无特定疾病"], "advice": "动则有益，避免久坐，日常生活中保持充足身体活动，如步行、骑车、做家务等。", "category": "健康生活方式", "page_num": 21}
+{"match_tokens": ["disease:无特定疾病"], "advice": "无规律运动习惯的患者，从低强度、短时间、小运动量开始，量力而行，循序渐进，保证运动安全。", "category": "健康生活方式", "page_num": 21}
+{"match_tokens": ["disease:无特定疾病"], "advice": "无规律运动习惯的患者，在可以耐受时，可在运动指导专业人员的指导下，逐渐进阶到中等强度运动。", "category": "健康生活方式", "page_num": 21}
+{"match_tokens": ["disease:无特定疾病"], "advice": "有规律运动习惯，无心血管疾病、代谢性疾病或肾病及相关症状或体征的患者，继续中等或较大强度运动，可在运动指导专业人员的指导下，逐渐进阶运动强度。", "category": "健康生活方式", "page_num": 21}
+{"match_tokens": ["disease:心血管病", "disease:代谢性疾病", "disease:肾病"], "advice": "有规律运动习惯，确诊过心血管疾病、代谢性疾病或肾病，但无相关症状或体征的患者，可继续中等强度运动，在进行较大强度运动前推荐进行医学筛查。", "category": "治疗与康复", "page_num": 21}
+{"match_tokens": ["disease:心血管病", "disease:代谢性疾病", "disease:肾病"], "advice": "有规律运动习惯，有任何心血管疾病、代谢性疾病或肾病相关症状或体征的患者，暂停运动，先进行医学筛查，经医生评估允许后可逐步恢复运动。", "category": "治疗与康复", "page_num": 21}
+{"match_tokens": ["disease:肥胖症", "disease:高血压", "disease:糖尿病", "disease:脑血管病", "disease:冠心病", "disease:肾病"], "advice": "高脂血症合并其他疾病（如肥胖、高血压、糖尿病、脑血管病、冠心病、肾病等）患者，按照相应疾病的运动指导原则实施。", "category": "治疗与康复", "page_num": 21}
+{"match_tokens": ["disease:无特定疾病"], "advice": "以有氧运动为主。选择快走、慢跑、骑车、跳舞、太极拳、八段锦等中等至较大强度运动，每周5～7天，每天连续或累计运动30～60分钟，有氧运动间隔不宜超过2天，每周累计250～300分钟。", "category": "健康生活方式", "page_num": 21}
+{"match_tokens": ["disease:无特定疾病"], "advice": "结合抗阻运动。可以采用健身器械、哑铃、杠铃、弹力带，或身体自重训练等方式，从中等强度开始，每周2～3次，每次2～4组，每组重复8～12次，要训练到全身主要大肌群。同一肌肉部位训练，至少间隔1天。", "category": "健康生活方式", "page_num": 21}
+{"match_tokens": ["age:老年人", "disease:无特定疾病"], "advice": "老年患者或无规律运动习惯的患者可以从低强度抗阻运动开始。", "category": "健康生活方式", "page_num": 21}
+{"match_tokens": ["disease:无特定疾病"], "advice": "进行柔韧性运动。静态拉伸，每个动作拉伸10～30秒，重复2～4次，拉伸至感觉紧张或轻度不适，每个动作的总拉伸时间至少60秒；多个部位的柔韧性练习应在10分钟内完成，每周2～3次。", "category": "健康生活方式", "page_num": 21}
+{"match_tokens": ["disease:无特定疾病"], "advice": "进行平衡训练。由易到难，可以做单脚站立、身体摆动“不倒翁”练习、足跟对足尖“一字走”、侧向行走、跨步练习、平衡锻炼操等。", "category": "健康生活方式", "page_num": 21}
+{"match_tokens": ["disease:无特定疾病"], "advice": "在高温、寒冷或极端天气时，避免户外运动。", "category": "健康生活方式", "page_num": 21}
+{"match_tokens": ["age:任何"], "advice": "穿适宜运动、透气吸汗的衣服，穿合脚、适宜运动的鞋子。", "category": "健康生活方式", "page_num": 22}
+{"match_tokens": ["age:任何"], "advice": "运动前应进行准备活动，可进行5～10分钟低强度有氧运动，如步行或原地踏步、拉伸练习等。", "category": "健康生活方式", "page_num": 22}
+{"match_tokens": ["age:任何"], "advice": "注意监测运动前、中、后的心率，以及运动前后血压。", "category": "健康生活方式", "page_num": 22}
+{"match_tokens": ["age:任何"], "advice": "运动中出现任何不适，如心慌、胸痛、气短及其他不适，应立即停止运动，需要时及时就医。", "category": "急症处理", "page_num": 22}
+{"match_tokens": ["age:任何"], "advice": "运动后整理活动必不可少，进行至少10分钟的低强度有氧运动、拉伸等活动。", "category": "健康生活方式", "page_num": 22}
+{"match_tokens": ["age:任何"], "advice": "运动中、运动后适量补水。", "category": "健康生活方式", "page_num": 22}
+{"match_tokens": ["age:任何"], "advice": "运动可能导致肌肉酸痛和肌酶升高，注意与他汀类药物的副作用鉴别。", "category": "治疗与康复", "page_num": 22}
+{"match_tokens": ["disease:肥胖症"], "advice": "控制每天摄入总能量，可根据减重目标，在现有能量摄入基础上，每天减少500千卡的能量摄入。", "category": "健康生活方式", "page_num": 23}
+{"match_tokens": ["disease:肥胖症"], "advice": "将体重维持在健康范围内：体质指数（BMI）达到18.5kg/m2且低于24kg/m2（65岁以上老年人可适当增加）；男性腰围＜85cm，女性腰围＜80cm。", "category": "健康生活方式", "page_num": 23}
+{"match_tokens": ["disease:肥胖症"], "advice": "食物多样，合理搭配。每日的食物包括谷薯类、新鲜蔬菜水果类、畜禽鱼蛋奶类、大豆坚果类。每日摄入12种以上食物，每周25种以上。", "category": "健康生活方式", "page_num": 23}
+{"match_tokens": ["disease:肥胖症"], "advice": "合理安排一日三餐，定时定量，不暴饮暴食，不漏餐。", "category": "健康生活方式", "page_num": 23}
+{"match_tokens": ["disease:肥胖症"], "advice": "限制油脂摄入总量，炒菜、拌菜少放油，每日烹调用油总量不超过25克。", "category": "健康生活方式", "page_num": 23}
+{"match_tokens": ["disease:肥胖症"], "advice": "少用饱和脂肪酸含量较高的动物性油脂（肥肉、荤油等），用富含不饱和脂肪酸的油脂（花生油、菜籽油、橄榄油、茶籽油等植物油）替代饱和脂肪酸含量高的动物油、棕榈油等。", "category": "健康生活方式", "page_num": 23}
+{"match_tokens": ["disease:肥胖症"], "advice": "限制反式脂肪酸摄入，少吃含有氢化植物油、起酥油、奶精、植脂末、人造奶油等反式脂肪酸食品，少吃油炸食品、糕点，少用煎、炸等烹饪方法。", "category": "健康生活方式", "page_num": 23}
+{"match_tokens": ["disease:肥胖症", "bmi:肥胖"], "advice": "每日摄入适量的谷类食物，粗细搭配，适当增加全谷物和杂豆类的比例。", "category": "健康生活方式", "page_num": 24}
+{"match_tokens": ["disease:肥胖症", "bmi:肥胖"], "advice": "多吃新鲜蔬菜，每日摄入新鲜蔬菜不少于500克，深色蔬菜占一半。减少高淀粉含量蔬菜的摄入。", "category": "健康生活方式", "page_num": 24}
+{"match_tokens": ["disease:肥胖症", "bmi:肥胖"], "advice": "每日吃新鲜水果200～300克，不用果汁代替新鲜水果。", "category": "健康生活方式", "page_num": 24}
+{"match_tokens": ["disease:肥胖症", "bmi:肥胖"], "advice": "增加膳食纤维摄入，适量多吃膳食纤维丰富的食物。", "category": "健康生活方式", "page_num": 24}
+{"match_tokens": ["disease:肥胖症", "bmi:肥胖"], "advice": "蛋白质摄入充足，建议占每日总能量的15～25%，每日摄入150～250克鱼、禽、蛋、瘦肉。摄入奶及奶制品，奶类可选择脱脂或低脂牛奶等。适量增加鱼类摄入量和豆制品的摄入。", "category": "健康生活方式", "page_num": 24}
+{"match_tokens": ["disease:肥胖症", "bmi:肥胖"], "advice": "限制添加糖以及高糖加工食品。不喝含糖饮料，尽量选择白水和淡茶等饮品。", "category": "健康生活方式", "page_num": 24}
+{"match_tokens": ["disease:肥胖症", "bmi:肥胖"], "advice": "减少食盐的摄入。每日食盐摄入量不超过5克，少吃咸菜、腌制食品、腐乳等高盐食品，少吃方便面、冰淇淋、薯条、饼干、蛋糕、挂面、火腿肠等含隐性盐较多的食品。", "category": "健康生活方式", "page_num": 24}
+{"match_tokens": ["disease:肥胖症", "bmi:肥胖"], "advice": "少量多次、足量饮水。", "category": "健康生活方式", "page_num": 24}
+{"match_tokens": ["disease:肥胖症", "bmi:肥胖"], "advice": "不吸烟。", "category": "健康生活方式", "page_num": 24}
+{"match_tokens": ["disease:肥胖症", "bmi:肥胖"], "advice": "限制饮酒或不饮酒。", "category": "健康生活方式", "page_num": 24}
+{"match_tokens": ["disease:肥胖症", "bmi:肥胖", "disease:高血压", "disease:糖尿病"], "advice": "合并其他疾病，如高血压、糖尿病、高脂血症、高尿酸血症等的肥胖症患者，在营养专业人员指导下调整膳食。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:肥胖症", "bmi:肥胖", "population:孕妇"], "advice": "妊娠期女性肥胖症患者，在营养专业人员指导下调整膳食。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:肥胖症", "bmi:肥胖", "age:小孩"], "advice": "儿童肥胖症患者，在营养专业人员指导下调整膳食。", "category": "治疗与康复", "page_num": 24}
+{"match_tokens": ["disease:肥胖症", "bmi:肥胖"], "advice": "动则有益，避免久坐，日常生活中保持充足身体活动，如步行、骑车、做家务等。", "category": "健康生活方式", "page_num": 24}
+{"match_tokens": ["disease:肥胖症", "risk:缺乏运动"], "advice": "无规律运动习惯的患者，从低强度、短时间、小运动量开始，量力而行，循序渐进，保证运动安全。", "category": "健康生活方式", "page_num": 25}
+{"match_tokens": ["disease:肥胖症", "risk:缺乏运动"], "advice": "在可以耐受时，可在运动指导专业人员的指导下，逐渐进阶到中等强度运动。", "category": "健康生活方式", "page_num": 25}
+{"match_tokens": ["disease:肥胖症"], "advice": "有规律运动习惯，无心血管疾病、代谢性疾病或肾病及相关症状或体征的患者，继续中等或较大强度运动，可在运动指导专业人员的指导下，逐渐进阶运动强度。", "category": "健康生活方式", "page_num": 25}
+{"match_tokens": ["disease:肥胖症", "disease:高血压", "disease:糖尿病", "disease:脑血管病"], "advice": "有规律运动习惯，确诊过心血管疾病、代谢性疾病或肾病，但无相关症状或体征的患者，可继续中等强度运动，在进行较大强度运动前推荐进行医学筛查。", "category": "治疗与康复", "page_num": 25}
+{"match_tokens": ["disease:肥胖症", "disease:高血压", "disease:糖尿病", "disease:脑血管病"], "advice": "有规律运动习惯，有任何心血管疾病、代谢性疾病或肾病相关症状或体征的患者，暂停运动，先进行医学筛查，经医生评估允许后可逐步恢复运动。", "category": "治疗与康复", "page_num": 25}
+{"match_tokens": ["disease:肥胖症", "disease:高血压", "disease:糖尿病"], "advice": "伴有慢性疾病和健康问题（如高血压、糖尿病、代谢综合征、冠心病等）的肥胖患者，按照相应疾病的运动指导原则实施。", "category": "治疗与康复", "page_num": 25}
+{"match_tokens": ["disease:肥胖症"], "advice": "肥胖患者若存在肌肉骨骼损伤或者使用矫形器具的情况，则应在运动指导专业人员的指导下调整运动方案。", "category": "治疗与康复", "page_num": 25}
+{"match_tokens": ["disease:肥胖症"], "advice": "应避免或减少在坚硬地面上的高冲击性运动（如蛙跳、跳绳等）。", "category": "健康生活方式", "page_num": 25}
+{"match_tokens": ["disease:肥胖症"], "advice": "以有氧运动为主。选择低负重的运动，如快走、慢跑、水中运动、划船、骑车、跳舞、太极拳、八段锦等中等强度运动，每周5～7天，每天连续或累计运动30分钟，逐渐增加至每天60分钟，有氧运动间隔不宜超过2天，每周累计运动时间不少于250～300分钟。", "category": "健康生活方式", "page_num": 25}
+{"match_tokens": ["disease:肥胖症", "age:小孩"], "advice": "肥胖儿童和青少年，每天至少进行60分钟中等至较大强度有氧运动，其中每周至少有3天较大强度有氧运动，每周2～3次抗阻运动和骨骼负重运动。", "category": "健康生活方式", "page_num": 25}
+{"match_tokens": ["disease:肥胖症", "population:孕妇", "population:产后"], "advice": "肥胖孕产妇每天进行中低强度有氧运动15～30分钟，每周运动3～5天，以步行、游泳、水中运动为主。", "category": "健康生活方式", "page_num": 25}
+{"match_tokens": ["disease:肥胖症"], "advice": "结合抗阻运动。可以采用健身器械、哑铃、杠铃、弹力带，或身体自重训练等方式，从中等强度开始，每周2～3次，每次2～4组，每组重复8～12次，要训练到全身主要大肌群。同一肌肉部位训练，至少间隔1天。", "category": "健康生活方式", "page_num": 25}
+{"match_tokens": ["disease:肥胖症", "age:老年人", "risk:缺乏运动"], "advice": "老年患者或无规律运动习惯的患者可以从低强度抗阻运动开始。", "category": "健康生活方式", "page_num": 25}
+{"match_tokens": ["population:老年人"], "advice": "进行柔韧性运动，如静态拉伸，每个动作拉伸10～30秒，重复2～4次，拉伸至感觉紧张或轻度不适，每个动作的总拉伸时间至少60秒，多个部位的柔韧性练习应在10分钟内完成，每周2～3次。", "category": "健康生活方式", "page_num": 26}
+{"match_tokens": ["population:老年人"], "advice": "进行平衡训练，由易到难，可以做单脚站立、身体摆动“不倒翁”练习、足跟对足尖“一字走”、侧向行走、跨步练习、平衡锻炼操等。", "category": "健康生活方式", "page_num": 26}
+{"match_tokens": ["age:任何"], "advice": "在高温、寒冷或极端天气时，避免户外运动。", "category": "健康生活方式", "page_num": 26}
+{"match_tokens": ["age:任何"], "advice": "穿适宜运动、透气吸汗的衣服，穿合脚、适宜运动的鞋子。", "category": "健康生活方式", "page_num": 26}
+{"match_tokens": ["age:任何"], "advice": "运动前应进行准备活动，可进行5～10分钟低强度有氧运动，如步行或原地踏步、拉伸练习等，防止运动损伤。", "category": "健康生活方式", "page_num": 26}
+{"match_tokens": ["age:任何"], "advice": "运动中出现任何不适，如心慌、胸痛、气短及其他不适，应立即停止运动。需要时及时就医。", "category": "急症处理", "page_num": 26}
+{"match_tokens": ["age:任何"], "advice": "运动后整理活动必不可少，至少进行10分钟的低强度有氧运动、拉伸等活动。", "category": "健康生活方式", "page_num": 26}
+{"match_tokens": ["age:任何"], "advice": "运动中、运动后适量补水。", "category": "健康生活方式", "page_num": 26}
+{"match_tokens": ["bmi:超重", "bmi:肥胖"], "advice": "避免减重速度过快，3～6个月减少初始体重的5%～7%为宜。", "category": "健康生活方式", "page_num": 26}
+{"match_tokens": ["bmi:肥胖"], "advice": "对任何程度生活方式干预均无效的患者可选择医学治疗，如药物或手术治疗。", "category": "治疗与康复", "page_num": 26}
+{"match_tokens": [], "advice": "请咨询医生或指导人员，并记录其签名。", "category": "治疗与康复", "page_num": 27}
+{"match_tokens": [], "advice": "请记录咨询电话以备后续联系。", "category": "治疗与康复", "page_num": 27}
+{"match_tokens": [], "advice": "请填写完整的咨询日期，包括年、月、日。", "category": "治疗与康复", "page_num": 27}
+{"match_tokens": ["disease:高血压", "disease:糖尿病", "disease:肥胖症"], "advice": "根据患者的特点和需求，应用高血压、2型糖尿病、高脂血症、肥胖症的基层膳食运动指导要点，提供针对性的、个体化的膳食、运动干预指导建议。", "category": "治疗与康复", "page_num": 28}
+{"match_tokens": ["disease:高血压", "disease:糖尿病", "disease:肥胖症"], "advice": "科学、规范、有效地指导患者做好体重管理和健康管理，更好地控制疾病，改善生活质量。", "category": "治疗与康复", "page_num": 28}
+{"match_tokens": ["disease:高血压", "disease:糖尿病", "disease:肥胖症"], "advice": "基层医务人员或家庭医生签约服务团队在门诊就诊或随访时，需对高血压、2型糖尿病、高脂血症、肥胖症患者进行综合评估，全面了解患者的基本健康信息、疾病控制情况、疾病分级分类、膳食情况、运动情况、运动风险、运动能力等。", "category": "治疗与康复", "page_num": 29}
+{"match_tokens": ["disease:高血压", "disease:糖尿病", "disease:肥胖症"], "advice": "查阅患者最近的居民健康档案、健康体检表、高血压患者随访服务记录表、2型糖尿病患者随访服务记录表、年度评估表等资料，以评估疾病控制情况。", "category": "治疗与康复", "page_num": 29}
+{"match_tokens": ["disease:高血压"], "advice": "根据血压测量值进行高血压分级：收缩压140～159mmHg和/或舒张压90～99mmHg为1级高血压；收缩压160～179mmHg和/或舒张压100～109mmHg为2级高血压；收缩压≥180mmHg和/或舒张压≥110mmHg为3级高血压。", "category": "治疗与康复", "page_num": 30}
+{"match_tokens": ["disease:糖尿病"], "advice": "评估是否存在糖尿病相关并发症，如心血管疾病、糖尿病视网膜病变、糖尿病肾病、糖尿病周围神经病变、糖尿病自主神经病变等。", "category": "治疗与康复", "page_num": 31}
+{"match_tokens": ["disease:糖尿病"], "advice": "评估是否存在糖尿病相关合并症，如肥胖症、代谢相关脂肪性肝病、肌少症、高血压、冠心病等。", "category": "治疗与康复", "page_num": 31}
+{"match_tokens": ["disease:高血压", "disease:冠心病"], "advice": "评估是否存在糖尿病相关合并症，如肥胖症、代谢相关脂肪性肝病、肌少症、高血压、冠心病等。", "category": "治疗与康复", "page_num": 31}
+{"match_tokens": ["disease:肥胖症"], "advice": "评估是否存在糖尿病相关合并症，如肥胖症、代谢相关脂肪性肝病、肌少症、高血压、冠心病等。", "category": "治疗与康复", "page_num": 31}
+{"match_tokens": ["age:成人", "bmi:正常"], "advice": "根据中国成人体重判定标准，正常体重为18.5kg/m²≤BMI＜24.0kg/m²。", "category": "健康生活方式", "page_num": 31}
+{"match_tokens": ["age:成人", "bmi:超重"], "advice": "根据中国成人体重判定标准，超重为24.0kg/m²≤BMI＜28.0kg/m²。", "category": "健康生活方式", "page_num": 31}
+{"match_tokens": ["disease:高血压", "disease:糖尿病", "disease:肥胖症"], "advice": "进行膳食调查与评估，了解膳食习惯、营养摄入情况和主要饮食问题。", "category": "治疗与康复", "page_num": 32}
+{"match_tokens": ["disease:高血压", "disease:糖尿病", "disease:肥胖症"], "advice": "使用膳食基本情况、24小时膳食调查或三日膳食摄入情况等方法进行膳食评估。", "category": "治疗与康复", "page_num": 32}
+{"match_tokens": ["disease:高血压", "disease:糖尿病", "disease:肥胖症"], "advice": "有意识地设计膳食。", "category": "健康生活方式", "page_num": 32}
+{"match_tokens": ["disease:无特定疾病"], "advice": "记录每日三餐和加餐的食物名称、原料及重量，并注明非家庭进餐地点。", "category": "健康生活方式", "page_num": 33}
+{"match_tokens": ["population:老年人", "disease:无特定疾病"], "advice": "进行膳食调查前需要经过培训，估计食物量可利用辅助工具或当地量具。", "category": "健康生活方式", "page_num": 34}
+{"match_tokens": ["disease:无特定疾病"], "advice": "避免膳食结构不合理，食物品种单一。", "category": "健康生活方式", "page_num": 35}
+{"match_tokens": ["disease:无特定疾病"], "advice": "避免饮食不规律。", "category": "健康生活方式", "page_num": 35}
+{"match_tokens": ["disease:无特定疾病"], "advice": "避免摄入总量多。", "category": "健康生活方式", "page_num": 35}
+{"match_tokens": ["disease:无特定疾病"], "advice": "增加全谷物、杂豆等粗粮的摄入。", "category": "健康生活方式", "page_num": 35}
+{"match_tokens": ["disease:无特定疾病"], "advice": "增加蛋白质摄入。", "category": "健康生活方式", "page_num": 35}
+{"match_tokens": ["disease:无特定疾病"], "advice": "增加蔬菜摄入。", "category": "健康生活方式", "page_num": 35}
+{"match_tokens": ["disease:无特定疾病"], "advice": "增加水果摄入。", "category": "健康生活方式", "page_num": 35}
+{"match_tokens": ["disease:无特定疾病"], "advice": "减少盐摄入。", "category": "健康生活方式", "page_num": 35}
+{"match_tokens": ["disease:无特定疾病"], "advice": "减少高脂食品摄入。", "category": "健康生活方式", "page_num": 35}
+{"match_tokens": ["disease:无特定疾病"], "advice": "减少油炸食品摄入。", "category": "健康生活方式", "page_num": 35}
+{"match_tokens": ["disease:无特定疾病"], "advice": "增加膳食纤维摄入。", "category": "健康生活方式", "page_num": 35}
+{"match_tokens": ["disease:无特定疾病"], "advice": "增加饮水量。", "category": "健康生活方式", "page_num": 35}
+{"match_tokens": ["disease:无特定疾病"], "advice": "减少饮酒量。", "category": "健康生活方式", "page_num": 35}
+{"match_tokens": ["disease:无特定疾病"], "advice": "减少含糖饮料和甜食摄入。", "category": "健康生活方式", "page_num": 35}
+{"match_tokens": ["disease:高血压", "disease:糖尿病", "disease:肥胖症", "risk:缺乏运动"], "advice": "在制定运动指导建议前，应对患者进行运动前健康筛查、运动风险筛查和运动能力测试，了解其运动习惯、身体活动水平、运动能力和注意事项。", "category": "治疗与康复", "page_num": 36}
+{"match_tokens": ["disease:高血压", "disease:糖尿病", "disease:肥胖症"], "advice": "病情稳定的慢性病患者从事低、中强度的运动是安全的。", "category": "治疗与康复", "page_num": 36}
+{"match_tokens": ["disease:高血压", "disease:糖尿病", "disease:肥胖症", "symptom:疲劳"], "advice": "有症状者、没有规律运动习惯的慢性病患者进行中等强度运动前，应进行进一步医学筛查。", "category": "治疗与康复", "page_num": 36}
+{"match_tokens": ["disease:高血压", "disease:糖尿病", "disease:肥胖症", "risk:缺乏运动"], "advice": "有规律运动习惯的慢性病患者进行较大强度运动前应进行进一步医学筛查。", "category": "治疗与康复", "page_num": 36}
+{"match_tokens": ["disease:高血压", "disease:糖尿病", "disease:肥胖症"], "advice": "进行运动前健康筛查的目的是找出可能存在运动心血管事件风险的患者。", "category": "治疗与康复", "page_num": 36}
+{"match_tokens": ["disease:高血压", "disease:糖尿病", "disease:肥胖症", "risk:缺乏运动"], "advice": "明确患者是否有规律运动习惯，规律运动指每周至少3天、每日至少30分钟、中等强度的有氧运动，持续至少3个月。", "category": "治疗与康复", "page_num": 36}
+{"match_tokens": ["disease:高血压", "disease:糖尿病", "disease:肥胖症", "risk:缺乏运动"], "advice": "对于还没有适应规律运动的患者，运动可能会对其心血管系统产生过度的负荷并增加运动中心血管事件的风险。", "category": "治疗与康复", "page_num": 36}
+{"match_tokens": ["disease:脑血管病", "disease:高血压", "disease:糖尿病", "disease:肥胖症", "disease:高脂血症", "disease:肾病"], "advice": "明确是否患有心脑血管疾病、代谢性疾病或肾病，如脑血管病、冠心病、高血压、肥胖症、糖尿病、高脂血症、肾病。", "category": "治疗与康复", "page_num": 37}
+{"match_tokens": ["disease:脑血管病", "disease:高血压", "disease:糖尿病", "disease:肥胖症", "disease:高脂血症", "disease:肾病"], "advice": "明确是否有心脑血管疾病、代谢性疾病和肾病的主要症状或体征。", "category": "治疗与康复", "page_num": 37}
+{"match_tokens": ["risk:缺乏运动"], "advice": "评估近3个月每周的运动情况，包括有氧运动和抗阻运动的天数与每日时长。", "category": "健康生活方式", "page_num": 37}
+{"match_tokens": ["risk:缺乏运动"], "advice": "确定近3个月内每周平均中等强度的运动时间。", "category": "健康生活方式", "page_num": 37}
+{"match_tokens": ["risk:缺乏运动"], "advice": "确定是否有规律运动习惯。", "category": "健康生活方式", "page_num": 37}
+{"match_tokens": ["population:老年人", "risk:缺乏运动"], "advice": "当原本静坐少动的患者开始运动时，强烈推荐从低强度开始，如果没有症状和体征，可随着时间的推移逐渐增加运动强度。", "category": "健康生活方式", "page_num": 38}
+{"match_tokens": ["symptom:发热", "disease:感冒"], "advice": "急性疾病期间，如严重感冒或发热，请在病情缓解后再开始运动。", "category": "治疗与康复", "page_num": 39}
+{"match_tokens": ["population:孕妇"], "advice": "妊娠期，请在开始进一步的运动前咨询医生、有资质的运动指导专业人员。", "category": "治疗与康复", "page_num": 39}
+{"match_tokens": ["disease:无特定疾病"], "advice": "如果患者的健康状况发生改变，请在开始任何一种身体活动前咨询医生或有资质的运动指导专业人员。", "category": "治疗与康复", "page_num": 39}
+{"match_tokens": ["disease:慢阻肺", "disease:脑血管病", "disease:高血压", "disease:糖尿病", "population:老年人"], "advice": "进行6分钟步行测试以评估心肺耐力和运动能力。", "category": "治疗与康复", "page_num": 40}
+{"match_tokens": ["disease:慢阻肺", "disease:脑血管病", "disease:高血压", "disease:糖尿病", "population:老年人"], "advice": "对于存在严重心血管或运动系统疾病、认知功能障碍的人群，应谨慎使用6分钟步行测试。", "category": "治疗与康复", "page_num": 40}
+{"match_tokens": ["age:老年人"], "advice": "选择一条平坦、直线、硬质地面的走道，长度至少30米，并在起点和终点做好标记。", "category": "治疗与康复", "page_num": 41}
+{"match_tokens": ["age:老年人"], "advice": "测试前穿舒适的衣服和鞋子，至少休息10分钟。", "category": "治疗与康复", "page_num": 41}
+{"match_tokens": ["age:老年人"], "advice": "测试前记录血压、心率、血氧饱和度等生命体征。", "category": "治疗与康复", "page_num": 41}
+{"match_tokens": ["age:老年人"], "advice": "以自己舒适的速度沿走道往返行走，6分钟内尽可能走更远的距离。", "category": "治疗与康复", "page_num": 41}
+{"match_tokens": ["age:老年人"], "advice": "测试过程中，每隔1分钟被告知剩余时间，并获得标准化的口头鼓励。", "category": "治疗与康复", "page_num": 41}
+{"match_tokens": ["age:成人", "population:老年人"], "advice": "进行握力测试以评估上肢肌肉力量和耐力，并参考公式计算6分钟步行距离来评估心肺耐力。", "category": "健康生活方式", "page_num": 42}
+{"match_tokens": ["age:成人", "sex:男"], "advice": "使用公式（7.57 × 身高cm） - （5.02 × 年龄） - （1.76 × 体重kg） - 309m 来计算6分钟步行距离的正常值。", "category": "健康生活方式", "page_num": 42}
+{"match_tokens": ["age:成人", "sex:女"], "advice": "使用公式（2.11 × 身高cm） - （2.29 × 体重kg） - （5.78 × 年龄） + 667m 来计算6分钟步行距离的正常值。", "category": "健康生活方式", "page_num": 42}
+{"match_tokens": ["age:成人"], "advice": "健康成年人应努力在6分钟内行走450米到600米，这是比较理想的心肺耐力和运动能力结果。", "category": "健康生活方式", "page_num": 42}
+{"match_tokens": ["age:老年人"], "advice": "年龄在60岁以上的健康老年人，通常应使6分钟步行距离保持在300米到500米之间的正常范围。", "category": "健康生活方式", "page_num": 42}
+{"match_tokens": ["disease:心血管疾病", "disease:慢阻肺"], "advice": "对于心血管疾病、慢性呼吸系统疾病等患者，若6分钟步行距离在300米以下，需要关注并评估身体状况。", "category": "治疗与康复", "page_num": 42}
+{"match_tokens": ["age:成人", "symptom:疲劳"], "advice": "握力水平低的个体要及时加强抗阻练习。", "category": "健康生活方式", "page_num": 43}
+{"match_tokens": ["age:成人"], "advice": "测试时受试者不得摇摆手臂、下蹲或将握柄接触身体。", "category": "健康生活方式", "page_num": 43}
+{"match_tokens": ["age:成人"], "advice": "如果受试者不能确定有力的手，左右手可以各测试两次，记录最大数值。", "category": "健康生活方式", "page_num": 43}
+{"match_tokens": ["age:成人"], "advice": "测试前，受试者用有力手握住上下握柄，另一只手转动握距调整轮，调到适宜的用力握距。", "category": "健康生活方式", "page_num": 43}
+{"match_tokens": ["age:成人"], "advice": "测试时，受试者身体直立，两脚自然分开，与肩同宽，两臂斜下垂，掌心向内，用最大力紧握上下握柄。", "category": "健康生活方式", "page_num": 43}
+{"match_tokens": ["age:成人"], "advice": "连续测试两次，记录最好成绩，握力测试值以千克为单位，精确到小数点后1位。", "category": "健康生活方式", "page_num": 43}
+{"match_tokens": ["sex:男", "age:成人"], "advice": "定期测量握力，参考男性成年人握力评分表评估自身肌肉力量水平。", "category": "健康生活方式", "page_num": 44}
+{"match_tokens": ["sex:女", "age:成人"], "advice": "定期测量握力，参考女性成年人握力评分表评估自身肌肉力量水平。", "category": "健康生活方式", "page_num": 44}
+{"match_tokens": ["age:老年人", "sex:男"], "advice": "根据握力评分表评估自身握力水平，若低于年龄对应低百分位数值（如60-64岁<22.8千克），应加强上肢力量训练。", "category": "健康生活方式", "page_num": 45}
+{"match_tokens": ["age:老年人", "sex:女"], "advice": "根据握力评分表评估自身握力水平，若低于年龄对应低百分位数值（如60-64岁<14.5千克），应加强上肢力量训练。", "category": "健康生活方式", "page_num": 45}
+{"match_tokens": ["population:老年人"], "advice": "使用30秒坐站试验评估下肢力量和功能，但存在严重平衡障碍、下肢关节疼痛或其他安全隐患的人群应谨慎使用。", "category": "治疗与康复", "page_num": 46}
+{"match_tokens": ["age:老年人"], "advice": "进行30秒坐站试验时，准备一把高度约为43～45厘米的靠背椅，坐在椅子上，双脚平放地面，双手交叉放在胸前。在开始测试前，先练习1～2次确保动作正确，然后在30秒内尽可能多地完成坐站动作，每次都要站直和完全坐下。", "category": "治疗与康复", "page_num": 47}
+{"match_tokens": ["age:老年人"], "advice": "若30秒坐站试验结果较差，应及时查找原因并进行下肢的抗阻练习。", "category": "治疗与康复", "page_num": 47}
+{"match_tokens": ["age:老年人", "population:老年人"], "advice": "进行30秒坐站试验，根据年龄和性别对照评分表评估下肢肌肉力量和耐力。", "category": "健康生活方式", "page_num": 48}
+{"match_tokens": ["age:老年人", "sex:男", "population:老年人"], "advice": "男性老年人进行30秒坐站试验，根据年龄对照评分表评估下肢肌肉力量和耐力。", "category": "健康生活方式", "page_num": 48}
+{"match_tokens": ["age:老年人", "sex:女", "population:老年人"], "advice": "女性老年人进行30秒坐站试验，根据年龄对照评分表评估下肢肌肉力量和耐力。", "category": "健康生活方式", "page_num": 48}
+{"match_tokens": ["population:老年人"], "advice": "进行闭眼单脚站立测试以评估平衡能力和跌倒风险。", "category": "治疗与康复", "page_num": 49}
+{"match_tokens": ["population:老年人"], "advice": "若闭眼单脚站立测试结果较差，应及时查找原因并进行平衡能力练习。", "category": "治疗与康复", "page_num": 49}
+{"match_tokens": ["population:任何"], "advice": "进行闭眼单脚站立测试时，应选择一个安全、平坦、防滑的地面。", "category": "治疗与康复", "page_num": 49}
+{"match_tokens": ["population:任何"], "advice": "进行闭眼单脚站立测试时，应准备一个秒表计时。", "category": "治疗与康复", "page_num": 49}
+{"match_tokens": ["population:任何"], "advice": "进行闭眼单脚站立测试时，应确保测试环境安静，避免干扰。", "category": "治疗与康复", "page_num": 49}
+{"match_tokens": ["population:任何"], "advice": "进行闭眼单脚站立测试时，受试者应脱鞋，双脚并拢站立，双手放于身体两侧。", "category": "治疗与康复", "page_num": 49}
+{"match_tokens": ["population:任何"], "advice": "进行闭眼单脚站立测试时，受试者应闭上眼睛，将非优势腿抬起，膝盖弯曲约90度，大腿与地面保持平行。", "category": "治疗与康复", "page_num": 49}
+{"match_tokens": ["population:任何"], "advice": "进行闭眼单脚站立测试时，开始计时，记录受试者能够保持单脚站立的时间，直到抬起的脚触碰到地面或双手离开身体两侧。", "category": "治疗与康复", "page_num": 49}
+{"match_tokens": ["age:成人", "risk:缺乏运动"], "advice": "进行闭眼单脚站立测试时，应确保安全，防止跌倒。", "category": "健康生活方式", "page_num": 50}
+{"match_tokens": ["age:成人", "risk:缺乏运动"], "advice": "进行闭眼单脚站立测试时，如果感到不适或失去平衡，应立即停止测试。", "category": "健康生活方式", "page_num": 50}
+{"match_tokens": ["age:成人", "risk:缺乏运动"], "advice": "进行闭眼单脚站立测试时，需结合个体的年龄、性别、身体状况等因素分析结果。", "category": "健康生活方式", "page_num": 50}
+{"match_tokens": ["age:成人", "sex:女"], "advice": "进行闭眼单脚站立测试，根据年龄对照评分表评估平衡能力。", "category": "健康生活方式", "page_num": 51}
+{"match_tokens": ["age:老年人", "sex:男"], "advice": "闭眼单脚站立时间达到或超过30秒（60-64岁）、26秒（65-69岁）、23秒（70-74岁）、20秒（75-79岁）为优秀水平。", "category": "健康生活方式", "page_num": 52}
+{"match_tokens": ["age:老年人", "sex:女"], "advice": "闭眼单脚站立时间达到或超过30秒（60-64岁）、26秒（65-69岁）、23秒（70-74岁）、20秒（75-79岁）为优秀水平。", "category": "健康生活方式", "page_num": 52}
+{"match_tokens": ["population:老年人"], "advice": "根据个人的健康状况、体能水平和训练目标，选择合适的运动强度。", "category": "健康生活方式", "page_num": 53}
+{"match_tokens": ["population:老年人"], "advice": "一般来说，中等强度的有氧运动对于改善心肺功能、控制体重和促进健康最为有益。", "category": "健康生活方式", "page_num": 53}
+{"match_tokens": ["population:老年人"], "advice": "使用主观用力感觉评价、调整或细化个体的运动强度。", "category": "健康生活方式", "page_num": 53}
+{"match_tokens": ["age:成人"], "advice": "使用谈话试验作为制定和监测运动强度的一种主要方法。", "category": "健康生活方式", "page_num": 54}
+{"match_tokens": ["population:老年人", "risk:缺乏运动"], "advice": "进行中速步行（4.8km/h）、健身操、中速广场舞等中等强度有氧运动。", "category": "健康生活方式", "page_num": 55}
+{"match_tokens": ["population:老年人", "risk:缺乏运动"], "advice": "进行走跑结合、跑步、游泳、篮球、网球（双打）等较大强度有氧运动。", "category": "健康生活方式", "page_num": 55}
+{"match_tokens": ["age:成人", "risk:缺乏运动"], "advice": "进行中速步行（4.8km/h）、功率车（25～50瓦）、健身操、中速广场舞等中等强度有氧运动。", "category": "健康生活方式", "page_num": 55}
+{"match_tokens": ["age:成人", "risk:缺乏运动"], "advice": "进行走跑结合、跑步、竞走、骑车（≥15km）、游泳、铲雪、篮球、网球（双打）等较大强度有氧运动。", "category": "健康生活方式", "page_num": 55}
+{"match_tokens": ["age:成人", "risk:缺乏运动"], "advice": "进行缓慢步行、步行购物等很小强度有氧运动。", "category": "健康生活方式", "page_num": 55}
+{"match_tokens": ["age:成人", "risk:缺乏运动"], "advice": "进行瑜伽、气功、慢步、慢速水中行走、保龄球等小强度有氧运动。", "category": "健康生活方式", "page_num": 55}
+{"match_tokens": ["age:成人", "risk:缺乏运动"], "advice": "根据个人的健康状况、体能水平和训练目标，选择合适的抗阻运动强度。", "category": "健康生活方式", "page_num": 56}
+{"match_tokens": ["disease:无特定疾病"], "advice": "对于病情比较复杂的患者，不具备评估条件与能力时，建议及时转诊或咨询上级医疗机构的专业医生。", "category": "治疗与康复", "page_num": 57}
+{"match_tokens": ["disease:高血压", "disease:糖尿病", "disease:肥胖症", "disease:慢阻肺", "disease:哮喘"], "advice": "记录确诊的疾病，如脑血管病、冠心病、高血压、糖尿病、肥胖症、高脂血症、肾病、骨关节病变、认知障碍、哮喘、慢阻肺或肺纤维化。", "category": "治疗与康复", "page_num": 58}
+{"match_tokens": ["symptom:疼痛", "symptom:呼吸困难", "symptom:头晕眼花", "symptom:心悸"], "advice": "记录出现的症状与体征，如疼痛、休息或轻度活动时呼吸困难、头晕眼花或晕厥、端坐呼吸或夜间阵发性呼吸困难、心悸或心动过速、明确的心脏杂音。", "category": "治疗与康复", "page_num": 58}
+{"match_tokens": ["risk:高盐饮食"], "advice": "减少盐的摄入量。", "category": "健康生活方式", "page_num": 59}
+{"match_tokens": ["risk:高脂食品摄入过多"], "advice": "减少高脂食品的摄入。", "category": "健康生活方式", "page_num": 59}
+{"match_tokens": ["risk:油炸食品摄入过多"], "advice": "减少油炸食品的摄入。", "category": "健康生活方式", "page_num": 59}
+{"match_tokens": ["risk:饮酒过量"], "advice": "减少饮酒量。", "category": "健康生活方式", "page_num": 59}
+{"match_tokens": ["risk:含糖饮料和甜食摄入过多"], "advice": "减少含糖饮料和甜食的摄入。", "category": "健康生活方式", "page_num": 59}
+{"match_tokens": ["risk:饮食不规律"], "advice": "建立规律的饮食习惯。", "category": "健康生活方式", "page_num": 59}
+{"match_tokens": ["risk:缺乏运动"], "advice": "建立规律的运动习惯，进行至少3天/周、30分钟/天、中等强度的有计划、系统性的身体活动，并持续至少3个月。", "category": "健康生活方式", "page_num": 59}
+{"match_tokens": ["disease:高血压", "disease:糖尿病", "disease:肥胖症"], "advice": "利用嵌入诊疗和随访系统的膳食运动指导要点模板，针对患者的健康状况、膳食情况、运动情况、运动能力和运动风险，制定个体化运动膳食指导建议。", "category": "治疗与康复", "page_num": 60}
+{"match_tokens": ["disease:高血压", "disease:糖尿病", "disease:肥胖症", "population:老年人"], "advice": "持续跟踪指导高血压、2型糖尿病、高脂血症、肥胖症患者执行运动干预、膳食干预，逐渐养成健康生活方式，做好健康管理，有效控制疾病。", "category": "治疗与康复", "page_num": 61}
+{"match_tokens": ["disease:无特定疾病"], "advice": "食物多样，合理搭配。", "category": "健康生活方式", "page_num": 61}
+{"match_tokens": ["disease:无特定疾病"], "advice": "吃动平衡，健康体重。", "category": "健康生活方式", "page_num": 61}
+{"match_tokens": ["disease:无特定疾病"], "advice": "多吃蔬果、奶类、全谷、大豆。", "category": "健康生活方式", "page_num": 61}
+{"match_tokens": ["disease:无特定疾病"], "advice": "适量吃鱼、禽、蛋、瘦肉。", "category": "健康生活方式", "page_num": 61}
+{"match_tokens": ["disease:无特定疾病"], "advice": "少盐少油，控糖限酒。", "category": "健康生活方式", "page_num": 61}
+{"match_tokens": ["disease:无特定疾病"], "advice": "规律进餐，足量饮水。", "category": "健康生活方式", "page_num": 61}
+{"match_tokens": ["disease:无特定疾病"], "advice": "会烹会选，会看标签。", "category": "健康生活方式", "page_num": 61}
+{"match_tokens": ["disease:无特定疾病"], "advice": "公筷分餐，杜绝浪费。", "category": "健康生活方式", "page_num": 61}
+{"match_tokens": ["disease:无特定疾病"], "advice": "每周进行运动，确定安全、有效的强度范围。", "category": "健康生活方式", "page_num": 61}
+{"match_tokens": ["disease:无特定疾病"], "advice": "运动方式应包括有氧运动、抗阻运动、柔韧性运动和平衡训练，所有的运动方式应科学规范。", "category": "健康生活方式", "page_num": 61}
+{"match_tokens": ["disease:无特定疾病"], "advice": "每天的运动时间可以连续或分段完成。", "category": "健康生活方式", "page_num": 62}
+{"match_tokens": ["disease:无特定疾病"], "advice": "每周的运动量应达到最低有效推荐量：每周至少150分钟中等强度或75分钟较大强度的有氧运动，每周至少2次抗阻运动。", "category": "健康生活方式", "page_num": 62}
+{"match_tokens": ["disease:无特定疾病"], "advice": "根据个人情况分阶段推进运动计划，包括适应期、提高期和稳定期。", "category": "健康生活方式", "page_num": 62}
+{"match_tokens": ["disease:无特定疾病"], "advice": "制定运动计划需保证在安全的前提和范围内进行。", "category": "健康生活方式", "page_num": 62}
+{"match_tokens": ["disease:无特定疾病"], "advice": "制定运动计划应能够对机体产生适宜的生理刺激，以获得良好的运动效果。", "category": "健康生活方式", "page_num": 62}
+{"match_tokens": ["disease:无特定疾病"], "advice": "制定运动计划需因人而异。", "category": "健康生活方式", "page_num": 62}
+{"match_tokens": ["disease:无特定疾病"], "advice": "运动方式应尽可能选择全身性运动，以实现全身性有效刺激。", "category": "健康生活方式", "page_num": 62}
+{"match_tokens": ["disease:无特定疾病"], "advice": "制定运动计划应具有可操作性、可持续性及可评价性。", "category": "健康生活方式", "page_num": 62}
+{"match_tokens": ["disease:无特定疾病"], "advice": "运动方式的难度、运动强度和运动量应符合由易到难、由小到大的变化趋势。", "category": "健康生活方式", "page_num": 62}
+{"match_tokens": ["disease:无特定疾病"], "advice": "明确运动实施效果的评价周期，通常是4～6周进行一次评价。", "category": "健康生活方式", "page_num": 62}
+{"match_tokens": ["disease:无特定疾病"], "advice": "避免食用炒饭、炒面、炸糖糕、油饼、油条等高脂高能量食物。", "category": "健康生活方式", "page_num": 63}
+{"match_tokens": ["disease:无特定疾病"], "advice": "避免食用蛋糕、饼干、布丁、甜甜圈、冰淇淋、奶昔、碳酸饮料、橙汁、苹果汁、柠檬水果汁、硬软糖、巧克力棒、口香糖、香蕉、荔枝、菠萝蜜、榴莲、甘蔗、龙眼、石榴、大枣、芒果等高糖食物。", "category": "健康生活方式", "page_num": 63}
+{"match_tokens": ["disease:无特定疾病"], "advice": "避免食用猪脑、牛脑、羊脑、蛋黄、猪蹄、鲍鱼、蚬子、鱿鱼、虾、动物内脏等高胆固醇食物。", "category": "健康生活方式", "page_num": 63}
+{"match_tokens": ["disease:无特定疾病"], "advice": "避免食用肝、肾、海苔、紫菜（干）、贻贝、生蚝、海兔、鱿鱼等高嘌呤食物。", "category": "健康生活方式", "page_num": 63}
+{"match_tokens": ["disease:无特定疾病"], "advice": "避免食用五花肉、排骨、猪肋条、牛腩、动物油、黄油、棕榈油、椰子油等高饱和脂肪酸食物。", "category": "健康生活方式", "page_num": 63}
+{"match_tokens": ["disease:无特定疾病"], "advice": "避免食用烘焙和油炸食物、起酥油、氢化植物油、反复使用的油、人造奶油、甜品等可能含有反式脂肪酸的食物。", "category": "健康生活方式", "page_num": 63}
+{"match_tokens": ["disease:无特定疾病"], "advice": "选择食用鱼、坚果、植物油（棕榈油、椰子油除外）、豆制品等富含不饱和脂肪酸的食物。", "category": "健康生活方式", "page_num": 63}
+{"match_tokens": ["disease:无特定疾病"], "advice": "摄入富含膳食纤维的食物，如全谷物、蔬菜、水果、豆类、魔芋等。", "category": "健康生活方式", "page_num": 64}
+{"match_tokens": ["disease:无特定疾病"], "advice": "摄入富含植物甾醇的食物，如青稞、燕麦、糙米、荞麦米、紫米、坚果、豆腐丝等。", "category": "健康生活方式", "page_num": 64}
+{"match_tokens": ["disease:无特定疾病"], "advice": "使用食物交换份方法进行配餐，根据能量需求确定食物种类及所需质量，做好合理膳食搭配。", "category": "健康生活方式", "page_num": 64}
+{"match_tokens": ["disease:糖尿病", "population:老年人"], "advice": "主食制品如馒头、花卷、米饭、面包、面条等，每份提供能量34-38千卡，可进行交换。", "category": "治疗与康复", "page_num": 65}
+{"match_tokens": ["disease:糖尿病", "population:老年人"], "advice": "杂豆类如绿豆、赤小豆、芸豆等，每份提供能量23-27千卡，可进行交换。", "category": "治疗与康复", "page_num": 65}
+{"match_tokens": ["disease:糖尿病", "population:老年人"], "advice": "粉条（丝）及淀粉如粉条、粉丝、团粉等，每份提供能量23-27千卡，可进行交换。", "category": "治疗与康复", "page_num": 65}
+{"match_tokens": ["disease:糖尿病", "population:老年人"], "advice": "糕点和油炸食品如蛋糕、江米条、油条、油饼等，每份提供能量20-23千卡，可进行交换。", "category": "治疗与康复", "page_num": 65}
+{"match_tokens": ["disease:糖尿病", "population:老年人"], "advice": "薯类如马铃薯、甘薯、木薯、山药、芋头等，每份提供能量90-110千卡，可进行交换。", "category": "治疗与康复", "page_num": 65}
+{"match_tokens": ["disease:糖尿病", "population:老年人"], "advice": "新鲜蔬菜（综合）如常见蔬菜，每份重量240-260克，提供90千卡能量，可进行交换。", "category": "治疗与康复", "page_num": 65}
+{"match_tokens": ["disease:糖尿病", "population:老年人"], "advice": "茄果类蔬菜如茄子、西红柿、柿子椒、黄瓜等，每份重量360-400克，提供90千卡能量，可进行交换。", "category": "治疗与康复", "page_num": 65}
+{"match_tokens": ["disease:糖尿病", "population:老年人"], "advice": "白色叶花茎类菜如白菜、圆白菜、菜花、白笋等，每份重量300-350克，提供90千卡能量，可进行交换。", "category": "治疗与康复", "page_num": 65}
+{"match_tokens": ["disease:糖尿病", "population:老年人"], "advice": "深色叶花茎类菜如油菜、菠菜、油麦菜、香菜等，每份重量270-300克，提供90千卡能量，可进行交换。", "category": "治疗与康复", "page_num": 65}
+{"match_tokens": ["disease:糖尿病", "population:老年人"], "advice": "根茎类蔬菜如白萝卜、胡萝卜、水萝卜、山药等，每份重量280-320克，提供90千卡能量，可进行交换。", "category": "治疗与康复", "page_num": 65}
+{"match_tokens": ["population:老年人"], "advice": "选择新鲜蔬菜时，如混食多种蔬菜，按新鲜蔬菜（综合）的重量计算；如果单选某类蔬菜，按类确定重量。", "category": "健康生活方式", "page_num": 66}
+{"match_tokens": ["population:老年人"], "advice": "选择水果时，应选择常见新鲜水果（不包括糖渍、罐头、干制水果等制品）。", "category": "健康生活方式", "page_num": 66}
+{"match_tokens": ["population:老年人"], "advice": "如混食多种水果时，选择新鲜水果（综合）的重量；如果单选某类水果，按类确定重量。", "category": "健康生活方式", "page_num": 67}
+{"match_tokens": ["disease:无特定疾病"], "advice": "如混食多种水果时，选择新鲜水果（综合）的重量；如果单选某类水果，按类确定重量。", "category": "健康生活方式", "page_num": 67}
+{"match_tokens": ["population:老年人"], "advice": "选择畜肉类（肥瘦，脂肪16%～35%）如猪大排时，建议摄入量为25～35克。", "category": "健康生活方式", "page_num": 68}
+{"match_tokens": ["population:老年人"], "advice": "选择畜肉类（较肥，脂肪36%～50%）如五花肉时，建议摄入量为15～25克。", "category": "健康生活方式", "page_num": 68}
+{"match_tokens": ["population:老年人"], "advice": "选择畜肉类（肥，脂肪>85%）如肥肉时，建议摄入量为10～13克。", "category": "健康生活方式", "page_num": 68}
+{"match_tokens": ["population:老年人"], "advice": "选择禽肉类如鸡、鸭时，建议摄入量为40～60克。", "category": "健康生活方式", "page_num": 68}
+{"match_tokens": ["population:老年人"], "advice": "选择畜禽内脏类如猪肝、鸡肝时，建议摄入量为60～80克。", "category": "健康生活方式", "page_num": 68}
+{"match_tokens": ["population:老年人"], "advice": "选择蛋类如鸡蛋、鸭蛋时，建议摄入量为50～70克。", "category": "健康生活方式", "page_num": 68}
+{"match_tokens": ["population:老年人"], "advice": "选择鱼类如鲤鱼、带鱼时，建议摄入量为60～90克。", "category": "健康生活方式", "page_num": 68}
+{"match_tokens": ["population:老年人"], "advice": "选择虾蟹贝类如河虾、海蟹时，建议摄入量为100～130克。", "category": "健康生活方式", "page_num": 68}
+{"match_tokens": ["population:老年人"], "advice": "混食多种畜禽肉类时，选择畜禽肉类（综合）的重量；如果单选某类畜禽肉，按类确定重量。", "category": "健康生活方式", "page_num": 68}
+{"match_tokens": ["population:老年人"], "advice": "选择淀粉类坚果如板栗、白果、芡实、莲子时，每份重量控制在24-26克。", "category": "健康生活方式", "page_num": 69}
+{"match_tokens": ["population:老年人"], "advice": "选择高脂类坚果如松子、核桃、葵花籽、南瓜子、杏仁、榛子、开心果、芝麻时，每份重量控制在12-16克。", "category": "健康生活方式", "page_num": 69}
+{"match_tokens": ["population:老年人"], "advice": "选择中脂类坚果如腰果、胡麻子、鲜核桃、白芝麻时，每份重量控制在18-22克。", "category": "健康生活方式", "page_num": 69}
+{"match_tokens": ["population:老年人"], "advice": "选择大豆类如黄豆、黑豆、青豆时，每份重量控制在24-26克。", "category": "健康生活方式", "page_num": 69}
+{"match_tokens": ["population:老年人"], "advice": "选择豆粉如黄豆粉时，每份重量控制在12-16克。", "category": "健康生活方式", "page_num": 69}
+{"match_tokens": ["population:老年人"], "advice": "选择北豆腐时，每份重量控制在80-100克。", "category": "健康生活方式", "page_num": 69}
+{"match_tokens": ["population:老年人"], "advice": "选择南豆腐时，每份重量控制在140-160克。", "category": "健康生活方式", "page_num": 69}
+{"match_tokens": ["population:老年人"], "advice": "选择豆腐干、豆腐丝、素鸡、素什锦等豆皮（干）时，每份重量控制在40-60克。", "category": "健康生活方式", "page_num": 69}
+{"match_tokens": ["population:老年人"], "advice": "选择豆浆时，每份重量控制在320-350克。", "category": "健康生活方式", "page_num": 69}
+{"match_tokens": ["population:老年人"], "advice": "选择纯牛奶（全脂）或鲜牛乳等液态乳时，每份重量控制在130-150克。", "category": "健康生活方式", "page_num": 69}
+{"match_tokens": ["risk:高盐饮食"], "advice": "使用调味料时，请注意换算盐含量，例如5克盐约等于1啤酒瓶盖精盐、10克鸡精、14克酱油或63克咸菜。", "category": "健康生活方式", "page_num": 70}
+{"match_tokens": ["risk:饮酒"], "advice": "了解酒精等量交换，例如含15克酒精的量分别为：啤酒（4%）450毫升、葡萄酒/黄酒/米酒（12%）150毫升、白酒（38%）50毫升、高度白酒（52%）30毫升。", "category": "健康生活方式", "page_num": 70}
+{"match_tokens": ["disease:糖尿病"], "advice": "糖尿病患者应避免选用GI值大于70的高GI食物。", "category": "健康生活方式", "page_num": 71}
+{"match_tokens": ["disease:糖尿病"], "advice": "糖尿病患者适宜选用GI值小于55的低GI食物。", "category": "健康生活方式", "page_num": 71}
+{"match_tokens": ["disease:糖尿病"], "advice": "糖尿病患者可选用GI值在55至70之间的中GI食物。", "category": "健康生活方式", "page_num": 71}
+{"match_tokens": ["disease:糖尿病"], "advice": "糖尿病患者可选用小麦、大麦、黑麦、荞麦、黑米、莜麦、燕麦、青稞、玉米等整谷粒食物。", "category": "健康生活方式", "page_num": 71}
+{"match_tokens": ["disease:糖尿病"], "advice": "糖尿病患者可选用稻麸、燕麦麸、青稞麸等谷麸食物。", "category": "健康生活方式", "page_num": 71}
+{"match_tokens": ["disease:糖尿病"], "advice": "糖尿病患者可选用玉米粒粥、燕麦片粥。", "category": "健康生活方式", "page_num": 71}
+{"match_tokens": ["disease:糖尿病"], "advice": "糖尿病患者可选用强化蛋白面条、加鸡蛋面条、硬质小麦面条、通心面、意大利面、乌冬面。", "category": "健康生活方式", "page_num": 71}
+{"match_tokens": ["disease:糖尿病"], "advice": "糖尿病患者可选用玉米饼、薄煎饼。", "category": "健康生活方式", "page_num": 71}
+{"match_tokens": ["disease:糖尿病"], "advice": "糖尿病患者可选用糙米饭。", "category": "健康生活方式", "page_num": 71}
+{"match_tokens": ["disease:糖尿病"], "advice": "糖尿病患者可选用小米粥。", "category": "健康生活方式", "page_num": 71}
+{"match_tokens": ["disease:糖尿病"], "advice": "糖尿病患者可选用全麦面、黄豆挂面、荞麦面条、玉米面粗粉。", "category": "健康生活方式", "page_num": 71}
+{"match_tokens": ["disease:糖尿病"], "advice": "糖尿病患者应避免选用大米饭、糯米饭、速食米饭。", "category": "健康生活方式", "page_num": 71}
+{"match_tokens": ["disease:糖尿病"], "advice": "糖尿病患者应避免选用即食大米粥。", "category": "健康生活方式", "page_num": 71}
+{"match_tokens": ["disease:糖尿病"], "advice": "糖尿病患者应避免选用白面馒头。", "category": "健康生活方式", "page_num": 71}
+{"match_tokens": ["disease:糖尿病"], "advice": "选择低血糖生成指数的食物，如印度卷饼、比萨饼（含乳酪）、烙饼、米饼、山药、雪魔芋、芋头（蒸）、山芋、土豆粉条、藕粉、苕粉、豌豆粉丝、黄豆、黑豆、青豆、绿豆、蚕豆、鹰嘴豆、芸豆、豆腐、豆腐干、芦笋、菜花、西兰花、芹菜、黄瓜、茄子、莴笋、生菜、青椒、西红柿、菠菜、苹果、梨、桃、李子、樱桃、葡萄、猕猴桃、柑橘、芒果、芭蕉、香蕉、草莓、牛奶、奶粉、酸奶、酸乳酪、花生、腰果、巧克力、乳糖。", "category": "健康生活方式", "page_num": 72}
+{"match_tokens": ["disease:糖尿病"], "advice": "避免或减少摄入高血糖生成指数的食物，如方便食品、白面包、苏打饼干、华夫饼干、膨化薄脆饼干、土豆泥、红薯（煮）、南瓜、西瓜、葡萄糖、麦芽糖、白糖、蜂蜜、胶质软糖。", "category": "健康生活方式", "page_num": 72}
+{"match_tokens": ["disease:糖尿病"], "advice": "适量选择中血糖生成指数的食物，如全麦面包、大麦面包、燕麦面包、高纤面包、小麦饼干、油酥脆饼干、土豆（煮、蒸、烤）、土豆片（油炸）、甜菜、菠萝、哈密瓜、水果罐头（如桃、杏）、葡萄干。", "category": "健康生活方式", "page_num": 72}
+{"match_tokens": ["disease:高血压"], "advice": "一日食谱可参考：早餐食用香菇鸡肉青菜粥、煮玉米、煮鸡蛋、木耳拌西芹和香蕉，饮用槐米茶；中餐食用杂粮米饭、清蒸鲈鱼、素炒西葫芦和紫菜蛋花汤；晚餐食用紫米馒头、蒜蓉丝瓜、肉末茄子和小米粥。", "category": "健康生活方式", "page_num": 73}
+{"match_tokens": ["disease:高血压"], "advice": "全天烹饪用油总量控制在25克植物油，用盐总量控制在3克。", "category": "健康生活方式", "page_num": 73}
+{"match_tokens": ["disease:糖尿病"], "advice": "早餐可食用无糖全麦面包40克、无糖全脂牛奶250ml、煮鸡蛋1只和小番茄75克。", "category": "健康生活方式", "page_num": 74}
+{"match_tokens": ["disease:糖尿病"], "advice": "中餐可食用杂粮饭80克、清蒸鲈鱼120克、炝芹菜黑木耳（芹菜100克、水发黑木耳50克）、清炒豌豆苗150克和虾皮紫菜蛋汤。", "category": "健康生活方式", "page_num": 74}
+{"match_tokens": ["disease:糖尿病"], "advice": "加餐可食用一个约150克的苹果。", "category": "健康生活方式", "page_num": 74}
+{"match_tokens": ["disease:糖尿病"], "advice": "晚餐可食用杂粮馒头（玉米面40克、小麦粉40克）、青椒炒肉丝（青椒50克、肉丝50克）、蒜蓉木耳菜150克和丝瓜菌菇豆腐汤（丝瓜50克、南豆腐75克、鲜香菇15克、金针菇15克、口蘑20克）。", "category": "健康生活方式", "page_num": 74}
+{"match_tokens": ["disease:糖尿病"], "advice": "全天烹饪用油总量控制在30克植物油，用盐总量控制在5克。", "category": "健康生活方式", "page_num": 74}
+{"match_tokens": ["disease:高血压"], "advice": "全天总用量：植物油25g，盐4g。", "category": "健康生活方式", "page_num": 75}
+{"match_tokens": ["disease:高脂血症"], "advice": "早餐食用全麦面包、煮鸡蛋和燕麦酸奶。", "category": "健康生活方式", "page_num": 75}
+{"match_tokens": ["disease:高血压", "risk:高盐饮食"], "advice": "全天总用量：油25g（可选用大豆油、花生油、葵花籽油、橄榄油、亚麻籽油等）。", "category": "健康生活方式", "page_num": 76}
+{"match_tokens": ["disease:高血压", "risk:高盐饮食"], "advice": "凉拌海带丝（海带丝1 小盘约50g，大蒜1~2 瓣约3g）。", "category": "健康生活方式", "page_num": 76}
+{"match_tokens": ["disease:高血压", "risk:高盐饮食"], "advice": "红豆米饭（红豆1 小勺约10g，小米1 小勺约10g，大米7 小勺约70g）。", "category": "健康生活方式", "page_num": 76}
+{"match_tokens": ["disease:高血压", "risk:高盐饮食"], "advice": "香菇炒芹菜（芹菜1 根约200g，鲜香菇1~2 朵约20g，豌豆淀粉小半勺约5g）。", "category": "健康生活方式", "page_num": 76}
+{"match_tokens": ["disease:高血压", "risk:高盐饮食"], "advice": "洋葱西红柿烩牛肉（洋葱一块约20g，牛肉75g，土豆半个约50g，西红柿半个约100g）。", "category": "健康生活方式", "page_num": 76}
+{"match_tokens": ["disease:高血压", "risk:高盐饮食"], "advice": "海带木耳汤（海带半小盘约30g，干木耳3~5 朵约10g）。", "category": "健康生活方式", "page_num": 76}
+{"match_tokens": ["disease:高血压", "risk:高盐饮食"], "advice": "加餐橙子1 个（200g）。", "category": "健康生活方式", "page_num": 76}
+{"match_tokens": ["disease:高血压", "risk:高盐饮食"], "advice": "晚餐蒸红薯（小红薯一个，约75g）。", "category": "健康生活方式", "page_num": 76}
+{"match_tokens": ["disease:高血压", "risk:高盐饮食"], "advice": "芦笋豆腐干（芦笋2~3 根约100g，豆腐干1~2 片约30g，干口蘑2~3朵约10g）。", "category": "健康生活方式", "page_num": 76}
+{"match_tokens": ["disease:高血压", "risk:高盐饮食"], "advice": "洋葱炒木耳（小洋葱1 个约30g，干木耳3~5 朵约10g，芹菜半根约100g）。", "category": "健康生活方式", "page_num": 76}
+{"match_tokens": ["disease:高血压", "risk:高盐饮食"], "advice": "橘红蜇皮鸭肉汤（橘红1 钱，干大枣1 个约3g，鸭肉50g，海蜇皮2 钱，冬瓜1 片约100g，香菜1 根约3g）。", "category": "健康生活方式", "page_num": 76}
+{"match_tokens": ["disease:高血压", "risk:高盐饮食"], "advice": "甜杏仁5~10 颗，约10g。", "category": "健康生活方式", "page_num": 76}
+{"match_tokens": ["disease:高甘油三酯血症"], "advice": "早餐可食用玉米面馒头、煮鸡蛋、脱脂牛奶和香干拌笋丝。", "category": "健康生活方式", "page_num": 77}
+{"match_tokens": ["disease:高甘油三酯血症"], "advice": "中餐可食用荞麦面条、扁豆大枣蒸鲈鱼、蒜蓉油麦菜和开洋冬瓜汤。", "category": "健康生活方式", "page_num": 77}
+{"match_tokens": ["disease:高甘油三酯血症"], "advice": "加餐可食用一个苹果。", "category": "健康生活方式", "page_num": 77}
+{"match_tokens": ["disease:其他病症"], "advice": "晚餐可食用蒸芋头（芋头1小块约75g）、山楂肉片（猪瘦肉50g，西兰花半个约100g，山楂1个约3g，鸡蛋清半个约10g）、洋葱炒木耳（小洋葱1个约30g，干木耳3~5朵约10g，芹菜1根约200g）、山药薏苡仁粥（薏苡仁4钱，干山药1钱，芡实1钱）、核桃仁1个约10g。", "category": "健康生活方式", "page_num": 78}
+{"match_tokens": ["disease:其他病症"], "advice": "全天总用油量为20g，可选用大豆油、花生油、葵花籽油、橄榄油、亚麻籽油。", "category": "健康生活方式", "page_num": 78}
+{"match_tokens": ["disease:其他病症"], "advice": "全天总用盐量为3g。", "category": "健康生活方式", "page_num": 78}
+{"match_tokens": ["population:老年人"], "advice": "早餐可食用玉米面馒头、陈皮佛手山楂粥、煮鸡蛋、小葱拌豆腐和燕麦酸奶。", "category": "健康生活方式", "page_num": 79}
+{"match_tokens": ["population:老年人"], "advice": "中餐可食用红豆米饭、扁豆大枣蒸鲈鱼、山楂西兰花炒肉片和冬瓜萝卜汤。", "category": "健康生活方式", "page_num": 79}
+{"match_tokens": ["population:老年人"], "advice": "加餐可食用一个苹果。", "category": "健康生活方式", "page_num": 79}
+{"match_tokens": ["population:老年人"], "advice": "晚餐可食用蒸红薯、素烩三菇和洋葱炒木耳。", "category": "健康生活方式", "page_num": 79}
+{"match_tokens": ["population:老年人"], "advice": "全天烹饪用油总用量为25g，可选用大豆油、花生油、葵花籽油、橄榄油、亚麻籽油。", "category": "健康生活方式", "page_num": 80}
+{"match_tokens": ["population:老年人"], "advice": "全天食盐总用量为3~5g。", "category": "健康生活方式", "page_num": 80}
+{"match_tokens": ["population:任何"], "advice": "选择全谷物食品时，应确保其全谷物原料质量占成品质量的比例不少于51%（以干基计）。", "category": "健康生活方式", "page_num": 81}
+{"match_tokens": ["population:任何"], "advice": "了解并关注食品的营养素密度，即每1000kcal能量中所含营养素的量，以评估食品的营养价值。", "category": "健康生活方式", "page_num": 81}
+{"match_tokens": ["population:任何"], "advice": "了解并关注食品的能量密度，即每100克食物所含的能量值（kJ/100g或kcal/100g），注意其与食物水分和脂肪含量的关系。", "category": "健康生活方式", "page_num": 81}
+{"match_tokens": ["population:任何"], "advice": "识别高能量食物，通常指提供400kcal/100g以上能量的食物。", "category": "健康生活方式", "page_num": 81}
+{"match_tokens": ["population:任何"], "advice": "识别高盐食品，通常指钠含量≥800mg/100g的食品，特别是零食和膨化食品。", "category": "健康生活方式", "page_num": 81}
+{"match_tokens": ["population:任何"], "advice": "识别高糖饮料，指糖含量≥11.5g/100ml的饮料，固体饮料按冲调后液体中糖含量计算。", "category": "健康生活方式", "page_num": 81}
+{"match_tokens": ["population:任何"], "advice": "识别高油/高脂食品，通常指脂肪含量≥20g/100g的食品，特别是零食和膨化食品。", "category": "健康生活方式", "page_num": 81}
+{"match_tokens": ["population:任何"], "advice": "选择低盐食品，即钠含量≤120mg/100g（固体）或100ml（液体）的食品。", "category": "健康生活方式", "page_num": 81}
+{"match_tokens": ["population:任何"], "advice": "选择低糖食品，即碳水化合物（糖）≤5g/100g（固体）或100ml（液体）的食品。", "category": "健康生活方式", "page_num": 81}
+{"match_tokens": ["disease:无特定疾病"], "advice": "了解并识别食物中的添加糖，包括蔗糖、葡萄糖、果糖和各种糖浆。", "category": "健康生活方式", "page_num": 82}
+{"match_tokens": ["disease:无特定疾病"], "advice": "了解纯能量食物的定义，如精制糖、淀粉、动植物油脂、酒或含有酒精及添加糖的饮料。", "category": "健康生活方式", "page_num": 82}
+{"match_tokens": ["disease:无特定疾病"], "advice": "采用限能量平衡膳食模式，在满足维生素、矿物质、膳食纤维、水的基础上，限制能量摄入，且日总能量不低于4200kJ（1000kcal）。", "category": "健康生活方式", "page_num": 82}
+{"match_tokens": ["disease:无特定疾病"], "advice": "采用限能量高蛋白膳食模式，在满足维生素、矿物质、膳食纤维、水的基础上，限制能量摄入，日总能量不低于4200kJ（1000kcal），并适当提高蛋白质摄入量至占总能量的20%～30%。", "category": "健康生活方式", "page_num": 82}
+{"match_tokens": ["disease:无特定疾病"], "advice": "在专业营养师或医师指导下，采用低能量膳食模式，在满足蛋白质、必需脂肪酸、维生素、矿物质、膳食纤维和水的基础上，将全天总能量控制在3360kJ～4200kJ（800kcal～1000kcal），并适量减少脂肪和碳水化合物摄取。", "category": "治疗与康复", "page_num": 82}
+{"match_tokens": ["disease:无特定疾病"], "advice": "在专业医疗机构的专业营养师或医师指导下，采用极低能量膳食模式，全天总能量低于3360kJ（800kcal）。", "category": "治疗与康复", "page_num": 82}
+{"match_tokens": ["population:任何"], "advice": "每坐一小时起身活动1～5分钟。", "category": "健康生活方式", "page_num": 83}
+{"match_tokens": ["population:任何"], "advice": "完成世界卫生组织推荐的身体活动量。", "category": "健康生活方式", "page_num": 83}
+{"match_tokens": ["population:任何"], "advice": "进行至少连续3个月，每周3次，每次30分钟以上中等强度的有氧运动。", "category": "健康生活方式", "page_num": 83}
+{"match_tokens": ["age:成人", "risk:缺乏运动"], "advice": "进行有氧运动，如快走、跑步、广场舞、太极拳、骑自行车和游泳，以改善心肺耐力，优化人体代谢功能。", "category": "健康生活方式", "page_num": 84}
+{"match_tokens": ["age:成人", "risk:缺乏运动"], "advice": "尝试间歇性运动，即短时间较大强度运动与等量或更长时间的低到中等强度运动交替进行。", "category": "健康生活方式", "page_num": 84}
+{"match_tokens": ["population:患有慢性疾病个体"], "advice": "应慎重采用高强度间歇性运动，可以简单地将步行纳入间歇方式，即快走和慢走交替进行。", "category": "健康生活方式", "page_num": 85}
+{"match_tokens": ["population:身体活动水平较低个体"], "advice": "应慎重采用高强度间歇性运动，可以简单地将步行纳入间歇方式，即快走和慢走交替进行。", "category": "健康生活方式", "page_num": 85}
+{"match_tokens": ["risk:缺乏运动"], "advice": "可以通过抗阻运动（力量训练或阻力训练）来增强肌肉力量和肌肉耐力，可以利用自身重量或者特定的训练器械实施，如弹力带、杠铃、哑铃或固定器械。", "category": "健康生活方式", "page_num": 85}
+{"match_tokens": ["disease:无特定疾病"], "advice": "进行柔韧性运动以提高人体关节在其整个运动范围内移动的能力与幅度。", "category": "健康生活方式", "page_num": 85}
+{"match_tokens": ["disease:无特定疾病"], "advice": "在运动强度设定中，常使用最大心率这个指标，有条件时可以通过运动负荷试验直接测得最大心率。", "category": "健康生活方式", "page_num": 85}
+{"match_tokens": ["age:成人", "sex:任何"], "advice": "使用公式HRmax=207－0.7×年龄推测最大心率，适用于所有年龄段和体适能水平的成年男女。", "category": "健康生活方式", "page_num": 86}
+{"match_tokens": ["age:成人", "sex:任何"], "advice": "使用储备心率法建立目标心率，计算公式为目标心率=（储备心率×目标强度%）+安静心率，其中储备心率=最大心率-安静心率。", "category": "健康生活方式", "page_num": 86}
+{"match_tokens": ["age:成人", "sex:任何"], "advice": "使用代谢当量（MET）评价绝对运动强度，成年人低强度身体活动为1.6～2.9 MET，中等强度为3.0～5.9 MET，较大强度为6 MET及以上。", "category": "健康生活方式", "page_num": 86}
+{"match_tokens": ["age:成人", "sex:任何"], "advice": "采用梅脱-小时/周（MET-h/wk）或梅脱-分钟/周（MET-min/wk）作为标准单位，将代谢当量与运动时间相结合来估算运动量。", "category": "健康生活方式", "page_num": 86}
+{"match_tokens": ["age:成人", "sex:任何"], "advice": "根据个人健康状况、体能水平、运动目的及时间安排，制定有计划、有组织和针对性的结构化运动计划。", "category": "健康生活方式", "page_num": 86}
+{"match_tokens": ["age:成人"], "advice": "进行运动前，应进行15分钟以内的准备活动，包括针对运动训练阶段动员肌群的低到中等强度的活动。", "category": "健康生活方式", "page_num": 87}
+{"match_tokens": ["age:成人"], "advice": "运动后应进行整理活动，通过低至中等强度的活动或静力性拉伸，逐渐降低运动强度和心率。", "category": "健康生活方式", "page_num": 87}
+{"match_tokens": ["age:成人"], "advice": "在高温高湿环境中运动时，需警惕运动性热病，这是一种紧急医疗状况。", "category": "急症处理", "page_num": 87}
+{"match_tokens": ["age:成人"], "advice": "每周执行运动计划的天数（运动频率）应不少于3天。", "category": "健康生活方式", "page_num": 87}
+{"match_tokens": ["age:成人"], "advice": "将体力活动时间分散在3到5天内完成，以达到推荐活动量。", "category": "健康生活方式", "page_num": 88}
+{"match_tokens": ["age:成人"], "advice": "进行同一肌肉群的力量和耐力运动时，频率应为隔天一次，每周2到3次。", "category": "健康生活方式", "page_num": 88}
+{"match_tokens": ["age:成人"], "advice": "每日都进行柔韧性运动。", "category": "健康生活方式", "page_num": 88}
+{"match_tokens": ["age:成人"], "advice": "每周运动1到2次仍可获得健康益处，但应避免仅通过1到2次运动就达到推荐活动量，以降低运动损伤和心血管事件风险。", "category": "健康生活方式", "page_num": 88}
+{"match_tokens": ["age:成人"], "advice": "应根据个人的年龄、日常体力活动水平、体适能水平以及健康状况来确定运动强度。", "category": "健康生活方式", "page_num": 88}
+{"match_tokens": ["age:成人"], "advice": "通常推荐成年人采用中等强度的有氧运动，如40%到59%储备心率。", "category": "健康生活方式", "page_num": 88}
+{"match_tokens": ["age:成人", "risk:缺乏运动"], "advice": "对于有规律运动习惯、体适能状态较好者，可选用较大强度的有氧运动，如60%到89%储备心率。", "category": "健康生活方式", "page_num": 88}
+{"match_tokens": ["age:成人", "risk:缺乏运动"], "advice": "对于无规律运动习惯的初始运动者，可选用较低的运动强度，如30%到39%储备心率，30%储备心率可以作为有效起始强度。", "category": "健康生活方式", "page_num": 88}
+{"match_tokens": ["age:成人", "population:老年人"], "advice": "每日用于提高心肺耐力的有氧运动时间应在30分钟以上，可以连续完成，也可以分数次累计完成。", "category": "健康生活方式", "page_num": 89}
+{"match_tokens": ["age:成人", "population:老年人"], "advice": "进行有氧运动，可选择步行、水中运动、跑步、骑自行车、上下台阶、登山、游泳、滑雪、滑冰、球类运动，以及太极拳、五禽戏、八段锦、扭秧歌等。", "category": "健康生活方式", "page_num": 89}
+{"match_tokens": ["age:成人", "population:老年人"], "advice": "进行抗阻运动，可选择徒手练习、器械练习、弹力带练习等方式。", "category": "健康生活方式", "page_num": 89}
+{"match_tokens": ["age:成人", "population:老年人"], "advice": "制定运动方案时应遵循运动训练的特异性原则，对运动技能的要求从简单到复杂，对体适能水平的要求从低到高。", "category": "健康生活方式", "page_num": 89}
+{"match_tokens": ["age:成人", "population:老年人"], "advice": "为了获得益处，每周至少累计进行150～300分钟中等强度的有氧运动，或75～150分钟较大强度的有氧运动。", "category": "健康生活方式", "page_num": 89}
+{"match_tokens": ["age:成人", "risk:缺乏运动"], "advice": "每周进行超过300分钟中等强度有氧运动，或150分钟较大强度有氧运动，或将两者结合，以获得更多健康益处。", "category": "健康生活方式", "page_num": 90}
+{"match_tokens": ["age:成人"], "advice": "运动进阶应包含适应阶段、提高阶段和维持阶段，根据个人健康状况、体适能、运动反应和目标调整进阶速度。", "category": "健康生活方式", "page_num": 90}
+{"match_tokens": ["age:成人"], "advice": "运动进阶时，通常先增加运动的频率和每日运动的时间，最后提高运动强度。", "category": "健康生活方式", "page_num": 90}
+{"match_tokens": ["age:成人"], "advice": "对于无规律运动习惯者，在运动计划开始阶段应采取“低起点，缓慢加”的策略，以降低心血管事件和损伤风险，并增加适应性和依从性。", "category": "健康生活方式", "page_num": 90}
+{"match_tokens": ["disease:高血压"], "advice": "遵循高血压等慢性病营养和运动指导原则。", "category": "治疗与康复", "page_num": 91}
+{"match_tokens": ["population:任何"], "advice": "学习并掌握《中国公民健康素养——基本知识与技能释义（2024年版）》中的内容。", "category": "健康生活方式", "page_num": 91}
+{"match_tokens": ["disease:慢性肾脏病"], "advice": "按照县域慢性肾脏病等慢性疾病分级诊疗技术方案进行诊疗。", "category": "治疗与康复", "page_num": 91}
+{"match_tokens": ["population:任何"], "advice": "了解并接受国家基本公共卫生服务规范中规定的服务。", "category": "健康生活方式", "page_num": 91}
+{"match_tokens": ["bmi:超重", "bmi:肥胖"], "advice": "学习并应用居民体重管理核心知识（2024年版）。", "category": "健康生活方式", "page_num": 91}
+{"match_tokens": ["bmi:超重", "bmi:肥胖"], "advice": "参与“体重管理年”活动。", "category": "健康生活方式", "page_num": 91}
+{"match_tokens": ["disease:肥胖症"], "advice": "参考肥胖症诊疗指南（2024年版）进行诊疗。", "category": "治疗与康复", "page_num": 91}
+{"match_tokens": ["disease:高血压", "disease:糖尿病"], "advice": "遵循高血压、糖尿病患者饮食与运动干预技术指引。", "category": "治疗与康复", "page_num": 92}
+{"match_tokens": ["disease:高血压"], "advice": "遵循国家基层高血压防治管理指南进行管理。", "category": "治疗与康复", "page_num": 92}
+{"match_tokens": ["disease:糖尿病"], "advice": "遵循中国2型糖尿病运动治疗指南进行运动治疗。", "category": "治疗与康复", "page_num": 92}
+{"match_tokens": ["age:老年人", "disease:糖尿病"], "advice": "遵循中国老年糖尿病诊疗指南进行诊疗。", "category": "治疗与康复", "page_num": 92}
+{"match_tokens": ["disease:其他病症"], "advice": "遵循中国血脂管理指南进行血脂管理。", "category": "治疗与康复", "page_num": 92}
+{"match_tokens": ["age:成人", "disease:高血压", "disease:糖尿病", "disease:脑血管病"], "advice": "遵循社区成人血脂管理专家共识进行血脂管理。", "category": "治疗与康复", "page_num": 93}
+{"match_tokens": ["age:成人", "disease:高血压", "disease:糖尿病", "disease:脑血管病"], "advice": "遵循中国心血管病一级预防指南基层版进行心血管病一级预防。", "category": "治疗与康复", "page_num": 93}
+{"match_tokens": ["disease:糖尿病"], "advice": "遵循国家基层糖尿病防治管理指南进行糖尿病防治管理。", "category": "治疗与康复", "page_num": 93}
+{"match_tokens": ["disease:糖尿病"], "advice": "遵循国家基层糖尿病防治管理手册进行糖尿病防治管理。", "category": "治疗与康复", "page_num": 93}
+{"match_tokens": ["disease:糖尿病"], "advice": "遵循中国2型糖尿病防治指南进行糖尿病防治。", "category": "治疗与康复", "page_num": 93}
+{"match_tokens": ["disease:糖尿病"], "advice": "遵循糖尿病分型诊断中国专家共识进行糖尿病分型诊断。", "category": "治疗与康复", "page_num": 93}
+{"match_tokens": ["disease:肥胖症"], "advice": "遵循中国居民肥胖防治专家共识进行肥胖防治。", "category": "治疗与康复", "page_num": 93}
+{"match_tokens": ["disease:肥胖症"], "advice": "遵循限能量膳食营养干预规范进行膳食干预。", "category": "健康生活方式", "page_num": 93}
+{"match_tokens": ["disease:肥胖症", "disease:糖尿病"], "advice": "遵循食物交换份规范进行膳食管理。", "category": "健康生活方式", "page_num": 93}
+{"match_tokens": ["population:任何"], "advice": "参考《中国居民膳食指南（2022）》指导日常饮食。", "category": "健康生活方式", "page_num": 94}
+{"match_tokens": ["population:任何"], "advice": "参考《中国居民膳食营养素参考摄入量2023版》了解营养需求。", "category": "健康生活方式", "page_num": 94}
+{"match_tokens": ["population:任何"], "advice": "使用《中国食物成分表标准版》查询食物营养成分。", "category": "健康生活方式", "page_num": 94}
+{"match_tokens": ["population:任何"], "advice": "参考《运动处方》或《ACSM运动测试与运动处方指南》制定个人运动计划。", "category": "健康生活方式", "page_num": 94}
+{"match_tokens": ["population:任何"], "advice": "遵循《中国人群身体活动指南（2021）》进行身体活动。", "category": "健康生活方式", "page_num": 94}
+{"match_tokens": ["population:任何"], "advice": "参考《运动处方中国专家共识（2023）》获取运动指导。", "category": "健康生活方式", "page_num": 94}
+{"match_tokens": ["disease:糖尿病"], "advice": "基层医生可参考《中国慢性疾病防治基层医生诊疗手册（糖尿病分册）》进行诊疗。", "category": "治疗与康复", "page_num": 94}
+{"match_tokens": ["disease:糖尿病"], "advice": "2型糖尿病患者可参考《中国2型糖尿病膳食指南》指导饮食。", "category": "治疗与康复", "page_num": 94}
+{"match_tokens": ["age:成人", "bmi:超重", "bmi:肥胖", "disease:肥胖症"], "advice": "遵循中国居民运动减重专家共识进行运动减重。", "category": "健康生活方式", "page_num": 95}
+{"match_tokens": ["age:任何"], "advice": "遵循2020年世界卫生组织关于身体活动和久坐行为的指南。", "category": "健康生活方式", "page_num": 95}

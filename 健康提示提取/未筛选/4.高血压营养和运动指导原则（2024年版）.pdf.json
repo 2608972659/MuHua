@@ -1,0 +1,148 @@
+{
+  "source_file": "4.高血压营养和运动指导原则（2024年版）.pdf",
+  "saved_at": "2026-04-20T16:19:28",
+  "total": 18,
+  "suggestions": [
+    {
+      "match_tokens": [
+        "bmi:超重",
+        "bmi:肥胖"
+      ],
+      "advice": "控制能量摄入，在现有能量摄入基础上每天减少500kcal左右的能量摄入。",
+      "category": "健康生活方式",
+      "page_num": 2
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "每人每日食盐摄入量逐步降至5g以下，控制高钠食物摄入，增加富含钾的食物摄入，可以选择低钠盐。",
+      "category": "健康生活方式",
+      "page_num": 2
+    },
+    {
+      "match_tokens": [],
+      "advice": "每日蔬菜摄入不少于500g，水果摄入200g~350g。",
+      "category": "健康生活方式",
+      "page_num": 2
+    },
+    {
+      "match_tokens": [
+        "sex:男"
+      ],
+      "advice": "男性酒精摄入量每日不超过25g，每周不超过140g。",
+      "category": "健康生活方式",
+      "page_num": 2
+    },
+    {
+      "match_tokens": [
+        "sex:女"
+      ],
+      "advice": "女性酒精摄入量每日不超过15g，每周不超过80g。",
+      "category": "健康生活方式",
+      "page_num": 2
+    },
+    {
+      "match_tokens": [],
+      "advice": "以有氧运动为主，每周至少进行150分钟中等强度有氧运动。",
+      "category": "健康生活方式",
+      "page_num": 3
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "通过心率、主观用力感觉或讲话测试来确定中等强度运动，如心率达到40% ~ 59%的储备心率，主观感觉有点吃力，或可以正常说话但不能唱歌。",
+      "category": "健康生活方式",
+      "page_num": 4
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "每周进行5 ~ 7次中等强度运动，累计150 ~ 300分钟。",
+      "category": "健康生活方式",
+      "page_num": 4
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "每周进行2~3次抗阻训练，训练到全身主要大肌群，每组动作重复8~12次后感觉吃力。",
+      "category": "健康生活方式",
+      "page_num": 4
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "每周进行2~3次柔韧性训练，每个拉伸动作保持10~30秒，重复2~4次，每个动作的总拉伸时间至少60秒，拉伸至感觉紧张或轻度不适。",
+      "category": "健康生活方式",
+      "page_num": 4
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "若运动前收缩压和/或舒张压超过180mmHg和/或110mmHg，应控制血压后再进行运动。",
+      "category": "治疗与康复",
+      "page_num": 5
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "出现高血压临床合并症的患者，在开始运动前应该进行运动测试（如6分钟步行试验、心肺运动测试等），并根据测试结果进行相应的运动训练。",
+      "category": "治疗与康复",
+      "page_num": 5
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "不要从高强度运动中快速停止，应逐渐降低运动强度，保持放松时间5分钟以上；要防范运动后低血压风险。",
+      "category": "健康生活方式",
+      "page_num": 5
+    },
+    {
+      "match_tokens": [
+        "disease:糖尿病"
+      ],
+      "advice": "使用常见食物交换表，根据每份提供90kcal能量的标准，对谷薯类食物进行等量交换。",
+      "category": "治疗与康复",
+      "page_num": 6
+    },
+    {
+      "match_tokens": [
+        "disease:无特定疾病"
+      ],
+      "advice": "坚果类食物可按能量等量交换，每份提供90kcal能量。",
+      "category": "健康生活方式",
+      "page_num": 10
+    },
+    {
+      "match_tokens": [
+        "population:任何"
+      ],
+      "advice": "了解大豆、乳及其制品的等量交换表，每份提供约90千卡能量。",
+      "category": "健康生活方式",
+      "page_num": 11
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "若静息心电图有明显缺血表现、2周内有心肌梗死或其他急性心血管事件，应遵从医生建议选择适当运动类型及强度。",
+      "category": "治疗与康复",
+      "page_num": 14
+    },
+    {
+      "match_tokens": [
+        "disease:高血压"
+      ],
+      "advice": "若患有梗阻性肥厚型心脏病且静息最大左心室流出道压差>25mmHg，应遵从医生建议选择适当运动类型及强度。",
+      "category": "治疗与康复",
+      "page_num": 14
+    }
+  ]
+}

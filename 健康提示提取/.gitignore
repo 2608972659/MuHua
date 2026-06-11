@@ -1,0 +1,15 @@
+# 敏感配置 — 包含真实 API Key，禁止提交
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+
+
+# 日志
+*.log
+
+# 临时文件
+*.tmp

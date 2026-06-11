@@ -1,0 +1,51 @@
+{"match_tokens": ["age:成人", "disease:其他病症"], "advice": "坚持以植物性食物为主、适量的腾食模式，做到食物多样、三大营养素供能比例适当。", "category": "健康生活方式", "page_num": 1}
+{"match_tokens": ["age:成人", "disease:其他病症"], "advice": "参照“中国居民平衡膳食餐盘”帮助搭配不同种类食物。", "category": "健康生活方式", "page_num": 1}
+{"match_tokens": ["bmi:超重", "bmi:肥胖"], "advice": "控制能量摄入，可根据减重目标，在现有能量摄入基础上每天减少500kcal左右的能量摄入。", "category": "健康生活方式", "page_num": 2}
+{"match_tokens": ["disease:无特定疾病"], "advice": "限制猪脑、带鱼、动物内脏等高嘌呤食物摄入；高嘌呤植物性食物煮后弃汤可减少嘌呤量。", "category": "健康生活方式", "page_num": 2}
+{"match_tokens": ["disease:无特定疾病"], "advice": "每日全谷物食物占主食量的1/3 ~ 1/2，膳食纤维摄入量达到25g ~ 30g。", "category": "健康生活方式", "page_num": 2}
+{"match_tokens": ["disease:无特定疾病"], "advice": "鼓励每日摄入300mL奶或相当量的乳制品，并限制果糖的摄入，如含糖饮料、鲜榨果汁等。", "category": "健康生活方式", "page_num": 2}
+{"match_tokens": ["disease:无特定疾病"], "advice": "每日蔬菜摄入不少于500g，水果200g ~ 350g。", "category": "健康生活方式", "page_num": 2}
+{"match_tokens": ["disease:无特定疾病"], "advice": "每日饮水建议2000mL ~ 3000mL，或根据自身情况适量调整。优先选用白开水，也可饮用柠檬水。", "category": "健康生活方式", "page_num": 2}
+{"match_tokens": ["risk:饮酒"], "advice": "不建议饮酒或含酒精成分的饮料。", "category": "健康生活方式", "page_num": 2}
+{"match_tokens": ["disease:高血压", "disease:糖尿病", "disease:慢阻肺", "disease:肥胖症", "disease:其他病症"], "advice": "高尿酸血症合并多种疾病患者，可采纳相对应疾病饮食指导原则。", "category": "治疗与康复", "page_num": 3}
+{"match_tokens": ["disease:高血压", "disease:糖尿病", "disease:慢阻肺", "disease:肥胖症", "disease:其他病症"], "advice": "如出现不一致，可根据不同疾病的严重程度进行合理筛选。", "category": "治疗与康复", "page_num": 3}
+{"match_tokens": ["disease:高血压", "disease:糖尿病", "disease:慢阻肺", "disease:肥胖症", "disease:其他病症"], "advice": "坚持有规律的运动，保持充足身体活动，减少久坐时间。", "category": "健康生活方式", "page_num": 3}
+{"match_tokens": ["disease:高血压", "disease:糖尿病", "disease:慢阻肺", "disease:肥胖症", "disease:其他病症"], "advice": "以有氧运动为主，中等强度有氧运动每周至少150分钟。", "category": "健康生活方式", "page_num": 3}
+{"match_tokens": ["disease:高血压", "disease:糖尿病", "disease:慢阻肺", "disease:肥胖症", "disease:其他病症"], "advice": "提倡结合多种形式的抗阻训练并辅以柔韧性训练。", "category": "健康生活方式", "page_num": 3}
+{"match_tokens": ["disease:高血压", "disease:糖尿病", "disease:慢阻肺", "disease:肥胖症", "disease:其他病症"], "advice": "避免剧烈运动。", "category": "治疗与康复", "page_num": 3}
+{"match_tokens": ["disease:高尿酸血症"], "advice": "急性痛风发作后，应循序渐进地恢复正常活动，可采用游泳、瑜伽等运动形式。", "category": "治疗与康复", "page_num": 4}
+{"match_tokens": ["disease:高尿酸血症", "disease:其他病症"], "advice": "对于高尿酸血症合并多种疾病的患者，应在所有病情都稳定的前提下，根据病情选择最低强度的运动方案。", "category": "治疗与康复", "page_num": 4}
+{"match_tokens": ["disease:高尿酸血症"], "advice": "每周进行5~7次中等强度运动，累计150~300分钟，运动形式包括快走、慢跑、骑车、游泳、八段锦、太极拳、球类活动等。", "category": "健康生活方式", "page_num": 4}
+{"match_tokens": ["disease:高尿酸血症"], "advice": "无运动习惯的人群，应逐渐增加运动时间。", "category": "健康生活方式", "page_num": 4}
+{"match_tokens": ["disease:高尿酸血症"], "advice": "进行中等强度运动时，心率应达到40%~59%的储备心率，主观感受为有点吃力，可以进行讲话测试。", "category": "健康生活方式", "page_num": 4}
+{"match_tokens": ["disease:高尿酸血症"], "advice": "每周进行2~3次抗阻训练，每次2~4组，每组8~12次，训练全身主要大肌群，从中等强度开始。", "category": "健康生活方式", "page_num": 4}
+{"match_tokens": ["disease:高尿酸血症", "age:老年人"], "advice": "建议老年人进行抗阻训练时，从小力量、多次重复的运动开始。", "category": "健康生活方式", "page_num": 4}
+{"match_tokens": ["disease:高尿酸血症"], "advice": "同一部位肌肉进行抗阻训练后，至少间隔1天。", "category": "健康生活方式", "page_num": 4}
+{"match_tokens": ["disease:高尿酸血症"], "advice": "进行抗阻运动时，应避免或慎重选择高强度运动。", "category": "健康生活方式", "page_num": 4}
+{"match_tokens": ["disease:高尿酸血症", "disease:其他病症"], "advice": "高尿酸血症合并肾病患者应进行低中强度运动（30% ~ 59%的储备心率）。", "category": "治疗与康复", "page_num": 5}
+{"match_tokens": ["disease:高尿酸血症"], "advice": "高尿酸血症患者应维持每日尿量在2000mL以上，运动后及时补充水分。", "category": "治疗与康复", "page_num": 5}
+{"match_tokens": ["disease:糖尿病"], "advice": "使用食物交换表，将大米、面粉、玉米面、杂粮等谷薯类食物按每份提供90kcal能量进行等量交换。", "category": "治疗与康复", "page_num": 6}
+{"match_tokens": ["population:任何"], "advice": "如混食多种蔬菜时，选择新鲜蔬菜（综合）的重量为240~260克。", "category": "健康生活方式", "page_num": 7}
+{"match_tokens": ["population:任何"], "advice": "如单选某类蔬菜，按类确定重量：西戎芒、黄瓜、丝瓜、冬瓜、奶白菜、圆白菜、娃娃菜等为300~350克。", "category": "健康生活方式", "page_num": 7}
+{"match_tokens": ["population:任何"], "advice": "如单选某类蔬菜，按类确定重量：匣子、西红柿、柿子椒、关椒、菠菜、油麦菜、鸡毛菜等为270~300克。", "category": "健康生活方式", "page_num": 7}
+{"match_tokens": ["disease:糖尿病"], "advice": "如混食多种水果时，选择新鲜水果（综合）的重量；如果单选某类水果，按类确定重量。", "category": "治疗与康复", "page_num": 8}
+{"match_tokens": ["population:任何"], "advice": "如混食多种畜禽肉类时，选择畜禽肉类（综合）的重量；如果单选某类畜禽肉，按类确定重量。", "category": "健康生活方式", "page_num": 9}
+{"match_tokens": ["disease:糖尿病"], "advice": "坚果类等量交换表每份提供90kcal能量，可根据碳水化合物和脂肪含量选择不同类别坚果。", "category": "治疗与康复", "page_num": 10}
+{"match_tokens": ["age:任何", "sex:任何", "disease:无特定疾病"], "advice": "豆腐每份重量为130-150克。", "category": "健康生活方式", "page_num": 11}
+{"match_tokens": ["age:任何", "sex:任何", "disease:无特定疾病"], "advice": "纯牛奶（全脂）、鲜牛乳每份重量为130-150克。", "category": "健康生活方式", "page_num": 11}
+{"match_tokens": ["age:任何", "sex:任何", "disease:无特定疾病"], "advice": "发酵乳每份重量为130-150克。", "category": "健康生活方式", "page_num": 11}
+{"match_tokens": ["risk:高盐饮食"], "advice": "控制每日盐摄入量不超过5克或钠摄入量不超过2000毫克。", "category": "健康生活方式", "page_num": 12}
+{"match_tokens": ["risk:饮酒"], "advice": "饮酒时，可参考酒精等量交换表进行等量交换。", "category": "健康生活方式", "page_num": 13}
+{"match_tokens": ["disease:其他病症"], "advice": "高尿酸血症患者伴有静息心电图有明显缺血表现、2周内有心肌梗死或其他急性心血管事件时，应遵从医生建议选择适当运动类型及强度。", "category": "治疗与康复", "page_num": 14}
+{"match_tokens": ["disease:其他病症"], "advice": "高尿酸血症患者伴有不稳定型心绞痛时，应遵从医生建议选择适当运动类型及强度。", "category": "治疗与康复", "page_num": 14}
+{"match_tokens": ["disease:其他病症"], "advice": "高尿酸血症患者伴有未控制的心律失常时，应遵从医生建议选择适当运动类型及强度。", "category": "治疗与康复", "page_num": 14}
+{"match_tokens": ["disease:其他病症"], "advice": "高尿酸血症患者伴有重度主动脉瓣狭窄或其他瓣膜疾病时，应遵从医生建议选择适当运动类型及强度。", "category": "治疗与康复", "page_num": 14}
+{"match_tokens": ["disease:其他病症"], "advice": "高尿酸血症患者伴有心力衰竭失代偿时，应遵从医生建议选择适当运动类型及强度。", "category": "治疗与康复", "page_num": 14}
+{"match_tokens": ["disease:其他病症"], "advice": "高尿酸血症患者伴有急性肺栓塞或肺梗死时，应遵从医生建议选择适当运动类型及强度。", "category": "治疗与康复", "page_num": 14}
+{"match_tokens": ["disease:其他病症"], "advice": "高尿酸血症患者伴有急性甲状腺功能亢进时，应遵从医生建议选择适当运动类型及强度。", "category": "治疗与康复", "page_num": 14}
+{"match_tokens": ["disease:其他病症"], "advice": "高尿酸血症患者伴有急性心肌炎或心包炎时，应遵从医生建议选择适当运动类型及强度。", "category": "治疗与康复", "page_num": 14}
+{"match_tokens": ["disease:其他病症"], "advice": "高尿酸血症患者伴有急性血栓性静脉炎时，应遵从医生建议选择适当运动类型及强度。", "category": "治疗与康复", "page_num": 14}
+{"match_tokens": ["disease:其他病症"], "advice": "高尿酸血症患者伴有其他妨碍安全和运动锻炼的残疾时，应遵从医生建议选择适当运动类型及强度。", "category": "治疗与康复", "page_num": 14}
+{"match_tokens": ["disease:其他病症"], "advice": "高尿酸血症患者伴有电解质异常时，应遵从医生建议选择适当运动类型及强度。", "category": "治疗与康复", "page_num": 14}
+{"match_tokens": ["disease:其他病症"], "advice": "高尿酸血症患者伴有梗阻性肥厚型心脏病且静息最大左心室流出道压差>25mmHg时，应遵从医生建议选择适当运动类型及强度。", "category": "治疗与康复", "page_num": 14}
+{"match_tokens": ["disease:其他病症"], "advice": "高尿酸血症患者伴有主动脉夹层时，应遵从医生建议选择适当运动类型及强度。", "category": "治疗与康复", "page_num": 14}

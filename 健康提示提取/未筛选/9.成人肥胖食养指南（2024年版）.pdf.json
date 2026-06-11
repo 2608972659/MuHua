@@ -1,0 +1,931 @@
+{
+  "source_file": "9.成人肥胖食养指南（2024年版）.pdf",
+  "saved_at": "2026-04-20T18:14:03",
+  "total": 103,
+  "suggestions": [
+    {
+      "match_tokens": [
+        "bmi:体重过低"
+      ],
+      "advice": "若您的BMI低于18.5kg/m²，属于体重过低，请关注并咨询医生。",
+      "category": "健康生活方式",
+      "page_num": 5
+    },
+    {
+      "match_tokens": [
+        "bmi:正常"
+      ],
+      "advice": "若您的BMI在18.5kg/m²至24.0kg/m²之间，属于正常范围，请继续保持。",
+      "category": "健康生活方式",
+      "page_num": 5
+    },
+    {
+      "match_tokens": [
+        "bmi:超重"
+      ],
+      "advice": "若您的BMI在24.0kg/m²至28.0kg/m²之间，属于超重，请注意控制体重。",
+      "category": "健康生活方式",
+      "page_num": 5
+    },
+    {
+      "match_tokens": [
+        "bmi:肥胖"
+      ],
+      "advice": "若您的BMI大于等于28.0kg/m²，属于肥胖，请采取措施控制体重。",
+      "category": "健康生活方式",
+      "page_num": 5
+    },
+    {
+      "match_tokens": [
+        "sex:男",
+        "symptom:肥胖"
+      ],
+      "advice": "成年男性腰围（WC）在85cm至90cm之间，属于中心型肥胖前期，请注意控制腰围。",
+      "category": "健康生活方式",
+      "page_num": 5
+    },
+    {
+      "match_tokens": [
+        "sex:女",
+        "symptom:肥胖"
+      ],
+      "advice": "成年女性腰围（WC）在80cm至85cm之间，属于中心型肥胖前期，请注意控制腰围。",
+      "category": "健康生活方式",
+      "page_num": 5
+    },
+    {
+      "match_tokens": [
+        "sex:男",
+        "symptom:肥胖"
+      ],
+      "advice": "成年男性腰围（WC）大于等于90cm，属于中心型肥胖，请采取措施控制腰围。",
+      "category": "健康生活方式",
+      "page_num": 5
+    },
+    {
+      "match_tokens": [
+        "sex:女",
+        "symptom:肥胖"
+      ],
+      "advice": "成年女性腰围（WC）大于等于85cm，属于中心型肥胖，请采取措施控制腰围。",
+      "category": "健康生活方式",
+      "page_num": 5
+    },
+    {
+      "match_tokens": [
+        "bmi:超重",
+        "bmi:肥胖"
+      ],
+      "advice": "控制总能量摄入，推荐每日能量摄入平均降低30%～50%或降低500～1000kcal，或推荐每日能量摄入男性1200～1500kcal、女性1000～1200kcal的限能量平衡膳食。",
+      "category": "健康生活方式",
+      "page_num": 7
+    },
+    {
+      "match_tokens": [
+        "bmi:超重",
+        "bmi:肥胖"
+      ],
+      "advice": "根据不同个体基础代谢率和身体活动相应的实际能量需要量，分别给予超重和肥胖个体85%和80%的摄入标准，以达到能量负平衡。",
+      "category": "健康生活方式",
+      "page_num": 7
+    },
+    {
+      "match_tokens": [
+        "age:成人",
+        "bmi:超重",
+        "bmi:肥胖"
+      ],
+      "advice": "根据身高（cm）-105计算出理想体重（kg），再乘以能量系数15～35kcal/kg（一般卧床者15kcal/kg、轻身体活动者20～25kcal/kg、中身体活动者30kcal/kg、重身体活动者35kcal/kg），计算成人个体化的能量摄入。",
+      "category": "健康生活方式",
+      "page_num": 7
+    },
+    {
+      "match_tokens": [
+        "bmi:超重",
+        "bmi:肥胖"
+      ],
+      "advice": "鼓励主食以全谷物为主，至少占谷物的一半，适当增加粗粮并减少精白米面摄入。",
+      "category": "健康生活方式",
+      "page_num": 8
+    },
+    {
+      "match_tokens": [
+        "bmi:超重",
+        "bmi:肥胖"
+      ],
+      "advice": "减重期间饮食要清淡，严格控制脂肪/油、盐、添加糖的摄入量，每天食盐摄入量不超过5g，烹调油不超过20～25g，添加糖的摄入量最好控制25g以下。",
+      "category": "健康生活方式",
+      "page_num": 9
+    },
+    {
+      "match_tokens": [
+        "bmi:超重",
+        "bmi:肥胖"
+      ],
+      "advice": "重视早餐，不漏餐，晚餐勿过晚进食，建议在17:00～19:00进食晚餐，晚餐后不宜再进食任何食物，但可以饮水。",
+      "category": "健康生活方式",
+      "page_num": 9
+    },
+    {
+      "match_tokens": [
+        "disease:肥胖症"
+      ],
+      "advice": "根据个人的生理条件和身体活动量，力求做到饮食有节制、科学搭配，进行标准化、定量的营养配餐，合理计划每日餐次和能量分配来安排全天膳食。",
+      "category": "健康生活方式",
+      "page_num": 10
+    },
+    {
+      "match_tokens": [
+        "disease:肥胖症"
+      ],
+      "advice": "肥胖患者减重的运动原则是中低强度有氧运动为主，抗阻运动为辅。每周进行150～300分钟中等强度的有氧运动，每周5～7天，至少隔天运动1次。",
+      "category": "健康生活方式",
+      "page_num": 10
+    },
+    {
+      "match_tokens": [
+        "disease:肥胖症"
+      ],
+      "advice": "抗阻运动每周2～3天，隔天1次，每次10～20分钟。",
+      "category": "健康生活方式",
+      "page_num": 10
+    },
+    {
+      "match_tokens": [
+        "disease:肥胖症"
+      ],
+      "advice": "每周通过运动消耗能量2000kcal或以上。",
+      "category": "健康生活方式",
+      "page_num": 10
+    },
+    {
+      "match_tokens": [
+        "risk:缺乏运动"
+      ],
+      "advice": "少静坐和被动视屏时间，每天静坐和被动视屏时间要控制在2～4小时以内。对于长期静坐或伏案工作者，每小时要起来活动3～5分钟。",
+      "category": "健康生活方式",
+      "page_num": 11
+    },
+    {
+      "match_tokens": [
+        "disease:肥胖症",
+        "risk:睡眠不足"
+      ],
+      "advice": "肥胖患者应按昼夜生物节律，保证每日7小时左右的睡眠时间，建议在夜里11点之前上床睡觉。",
+      "category": "健康生活方式",
+      "page_num": 11
+    },
+    {
+      "match_tokens": [
+        "bmi:超重",
+        "bmi:肥胖"
+      ],
+      "advice": "设立较为理想的减重目标，6个月内减少当前体重的5%～10%，合理的减重速度为每月减2～4kg。",
+      "category": "健康生活方式",
+      "page_num": 12
+    },
+    {
+      "match_tokens": [
+        "bmi:超重",
+        "bmi:肥胖"
+      ],
+      "advice": "在减重初始时设立体重减轻约每周0.5kg的目标。",
+      "category": "健康生活方式",
+      "page_num": 12
+    },
+    {
+      "match_tokens": [
+        "disease:肥胖症"
+      ],
+      "advice": "每日摄入全谷物和杂豆50～150g，如黑米、玉米等，主食要粗细搭配。",
+      "category": "健康生活方式",
+      "page_num": 13
+    },
+    {
+      "match_tokens": [
+        "disease:肥胖症"
+      ],
+      "advice": "每日摄入薯类50～100g。",
+      "category": "健康生活方式",
+      "page_num": 13
+    },
+    {
+      "match_tokens": [
+        "disease:肥胖症"
+      ],
+      "advice": "每日新鲜蔬菜摄入量保证300～500g（生重）甚至更多，其中深色蔬菜的摄入量应占1/2以上。",
+      "category": "健康生活方式",
+      "page_num": 13
+    },
+    {
+      "match_tokens": [
+        "disease:肥胖症"
+      ],
+      "advice": "挑选和购买蔬菜时要多变换，每天至少达到3～5种。",
+      "category": "健康生活方式",
+      "page_num": 14
+    },
+    {
+      "match_tokens": [
+        "disease:肥胖症"
+      ],
+      "advice": "建议每天食用水果宜在200g左右，同时减少高糖分水果的食用，如榴莲、香蕉、荔枝、鲜枣等，且不宜饮用果汁。",
+      "category": "健康生活方式",
+      "page_num": 14
+    },
+    {
+      "match_tokens": [
+        "disease:肥胖症"
+      ],
+      "advice": "减重期间适宜选择高蛋白、低脂肪的肉类和水产品。建议每周至少食用2次或者一周总量吃够280～525g鱼虾蟹贝等水产品。",
+      "category": "健康生活方式",
+      "page_num": 14
+    },
+    {
+      "match_tokens": [
+        "disease:肥胖症"
+      ],
+      "advice": "以猪牛羊鸡为代表的畜禽肉，建议每周不要超过500g，大概每天不超过70g。猪、牛、羊肉要选择纯瘦肉。建议不要完全不吃红肉，避免发生贫血。",
+      "category": "健康生活方式",
+      "page_num": 14
+    },
+    {
+      "match_tokens": [
+        "disease:肥胖症"
+      ],
+      "advice": "蛋类摄入量要保证每周280～350g（≤7个鸡蛋）。",
+      "category": "健康生活方式",
+      "page_num": 14
+    },
+    {
+      "match_tokens": [
+        "disease:肥胖症"
+      ],
+      "advice": "推荐减重期间每天喝低脂或脱脂牛奶300～500mL。有乳糖不耐受的减重者可以选择无添加糖的低脂酸奶或无乳糖产品。如饮奶不足，注意增加优质蛋白质和钙的摄入。",
+      "category": "健康生活方式",
+      "page_num": 14
+    },
+    {
+      "match_tokens": [
+        "disease:肥胖症"
+      ],
+      "advice": "减重期间适宜选择豆腐、不加糖的豆浆和豆腐脑等豆制品，每天摄入大豆15～25g，避免选择油炸类以及含盐较高的豆制品。",
+      "category": "健康生活方式",
+      "page_num": 14
+    },
+    {
+      "match_tokens": [
+        "bmi:超重",
+        "bmi:肥胖"
+      ],
+      "advice": "摄入坚果时，推荐每周平均50～70g（平均每天10g左右），首选原味坚果。如果摄入过多，应减少一日三餐中其他食物摄入量。",
+      "category": "健康生活方式",
+      "page_num": 15
+    },
+    {
+      "match_tokens": [
+        "population:任何"
+      ],
+      "advice": "选择畜肉类时，优先选择脂肪含量≤5%的纯瘦肉、牛里脊、羊里脊等，每份食用80克。",
+      "category": "健康生活方式",
+      "page_num": 20
+    },
+    {
+      "match_tokens": [
+        "population:任何"
+      ],
+      "advice": "选择畜肉类时，对于脂肪含量6%~15%的猪里脊、羊肉（胸脯肉）等，每份食用60克。",
+      "category": "健康生活方式",
+      "page_num": 20
+    },
+    {
+      "match_tokens": [
+        "population:任何"
+      ],
+      "advice": "选择畜肉类时，对于脂肪含量16%~35%的前臀尖、猪大排、猪肉（硬五花）等，每份食用30克。",
+      "category": "健康生活方式",
+      "page_num": 20
+    },
+    {
+      "match_tokens": [
+        "population:任何"
+      ],
+      "advice": "选择畜肉类时，对于脂肪含量≥85%的肥肉、板油等，每份食用10克。",
+      "category": "健康生活方式",
+      "page_num": 20
+    },
+    {
+      "match_tokens": [
+        "age:成人",
+        "disease:无特定疾病"
+      ],
+      "advice": "全天烹饪用植物油不超过15克，食盐少于5克。",
+      "category": "健康生活方式",
+      "page_num": 26
+    },
+    {
+      "match_tokens": [
+        "age:成人",
+        "disease:无特定疾病"
+      ],
+      "advice": "全天烹饪用植物油不超过20克，食盐少于5克。",
+      "category": "健康生活方式",
+      "page_num": 26
+    },
+    {
+      "match_tokens": [
+        "disease:肥胖症"
+      ],
+      "advice": "春季食谱1（总能量约1200kcal）：早餐食用煮玉米、杂粮粥、煮鸡蛋和凉拌木耳胡萝卜丝；加餐饮用低脂羊奶；中餐食用杂粮饭、猪肉白菜豆腐炖粉条和香菇炒青菜；加餐食用橘子和腰果仁；晚餐食用清炒芹菜和羊肉汤；全天植物油用量12g，盐用量小于5g。",
+      "category": "健康生活方式",
+      "page_num": 28
+    },
+    {
+      "match_tokens": [
+        "disease:肥胖症"
+      ],
+      "advice": "春季食谱2（总能量约1400kcal）：早餐食用杂粮花卷、鸡蛋羹和小葱拌豆腐；加餐饮用低脂酸奶；中餐食用糙米饭、红烧牛肉和芹菜腐竹炒肉；加餐食用苹果；晚餐食用莜麦汤面。",
+      "category": "健康生活方式",
+      "page_num": 28
+    },
+    {
+      "match_tokens": [
+        "population:老年人"
+      ],
+      "advice": "晚餐可食用面片汤、豆腐皮炒茼蒿和西兰花炒肉，全天用油不超过12克，用盐少于5克。",
+      "category": "健康生活方式",
+      "page_num": 31
+    },
+    {
+      "match_tokens": [
+        "population:老年人"
+      ],
+      "advice": "早餐可食用肉夹馍、山药粥和凉拌黄瓜，加餐可食用榛子仁，全天用油不超过10克，用盐少于5克。",
+      "category": "健康生活方式",
+      "page_num": 31
+    },
+    {
+      "match_tokens": [
+        "population:老年人"
+      ],
+      "advice": "晚餐可食用臊子面、豆干炒西兰花和蒸南瓜，全天用油不超过12克，用盐少于5克。",
+      "category": "健康生活方式",
+      "page_num": 31
+    },
+    {
+      "match_tokens": [
+        "disease:糖尿病",
+        "disease:肥胖症"
+      ],
+      "advice": "秋季食谱1提供能量约1200kcal，全天总用量：植物油15g，盐＜5g。",
+      "category": "健康生活方式",
+      "page_num": 43
+    },
+    {
+      "match_tokens": [
+        "disease:糖尿病",
+        "disease:肥胖症"
+      ],
+      "advice": "秋季食谱2提供能量约1400kcal，全天总用量：植物油10g，盐＜5g。",
+      "category": "健康生活方式",
+      "page_num": 43
+    },
+    {
+      "match_tokens": [
+        "disease:无特定疾病",
+        "population:老年人"
+      ],
+      "advice": "冬季可参考总能量约1200kcal的食谱，早餐食用冬菜虾仁小馄饨和无糖酸奶，加餐食用金红桃，午餐食用二米饭、清炒娃娃菜、彩椒牛里脊、紫苏蒸香螺和赤子千金汤，加餐食用橘子，晚餐食用青稞饭、香菇青菜、蒜苗炒冬笋、盐水虾和鲫鱼豆腐汤，全天使用植物油20g，盐＜5g。",
+      "category": "健康生活方式",
+      "page_num": 45
+    },
+    {
+      "match_tokens": [
+        "disease:无特定疾病",
+        "population:老年人"
+      ],
+      "advice": "冬季可参考总能量约1400kcal的食谱，早餐食用蒸老南瓜、煮鸡蛋和燕麦牛奶，加餐食用柚子，午餐食用糙米土豆饭、蒜泥茼蒿、杏鲍菇牛柳、拌三丝和黄精虫草花炖鸡，加餐食用苹果，晚餐食用赤小豆玉米饭、清炒杭白菜、滑口千张、清蒸大闸蟹和补气猪心汤，全天使用植物油20g，盐＜5g。",
+      "category": "健康生活方式",
+      "page_num": 45
+    },
+    {
+      "match_tokens": [
+        "disease:肥胖症",
+        "age:成人"
+      ],
+      "advice": "参考华中地区春季食谱1（总能量约1200kcal），控制全天总油用量为15g，盐用量小于5g。",
+      "category": "健康生活方式",
+      "page_num": 46
+    },
+    {
+      "match_tokens": [
+        "disease:肥胖症",
+        "age:成人"
+      ],
+      "advice": "参考华中地区春季食谱2（总能量约1400kcal），控制全天总油用量为20g，盐用量小于5g。",
+      "category": "健康生活方式",
+      "page_num": 46
+    },
+    {
+      "match_tokens": [
+        "disease:糖尿病",
+        "disease:肥胖症"
+      ],
+      "advice": "春季食谱3提供能量约1600kcal，蛋白质79g，碳水化合物216g，脂肪49g，宏量营养素占总能量比约为：蛋白质19%，碳水化合物54%，脂肪27%。",
+      "category": "治疗与康复",
+      "page_num": 47
+    },
+    {
+      "match_tokens": [
+        "disease:糖尿病",
+        "disease:肥胖症"
+      ],
+      "advice": "夏季食谱1提供能量约1200kcal，蛋白质65g，碳水化合物184g，脂肪33g，宏量营养素占总能量比约为：蛋白质20%，碳水化合物57%，脂肪23%。",
+      "category": "治疗与康复",
+      "page_num": 47
+    },
+    {
+      "match_tokens": [
+        "disease:糖尿病",
+        "disease:肥胖症"
+      ],
+      "advice": "夏季食谱2提供能量约1400kcal。",
+      "category": "治疗与康复",
+      "page_num": 47
+    },
+    {
+      "match_tokens": [
+        "disease:糖尿病",
+        "disease:肥胖症"
+      ],
+      "advice": "参考秋季食谱1，全天总能量约1200kcal，蛋白质60g，碳水化合物144g，脂肪40g，宏量营养素占总能量比约为：蛋白质20%，碳水化合物50%，脂肪30%。",
+      "category": "健康生活方式",
+      "page_num": 49
+    },
+    {
+      "match_tokens": [
+        "disease:糖尿病",
+        "disease:肥胖症"
+      ],
+      "advice": "参考秋季食谱2，全天总能量约1400kcal，蛋白质72g，碳水化合物209g，脂肪37g，宏量营养素占总能量比约为：蛋白质20%，碳水化合物57%，脂肪23%。",
+      "category": "健康生活方式",
+      "page_num": 49
+    },
+    {
+      "match_tokens": [
+        "disease:糖尿病",
+        "disease:肥胖症"
+      ],
+      "advice": "参考秋季食谱3，全天总能量约1600kcal，蛋白质80g，碳水化合物216g，脂肪50g，宏量营养素占总能量比约为：蛋白质19%，碳水化合物53%，脂肪28%。",
+      "category": "健康生活方式",
+      "page_num": 49
+    },
+    {
+      "match_tokens": [
+        "disease:糖尿病",
+        "disease:肥胖症"
+      ],
+      "advice": "参考冬季食谱1，全天总能量约1200kcal。",
+      "category": "健康生活方式",
+      "page_num": 49
+    },
+    {
+      "match_tokens": [
+        "population:任何"
+      ],
+      "advice": "宏量营养素占总能量比约为：蛋白质20%，碳水化合物56%，脂肪24%。",
+      "category": "健康生活方式",
+      "page_num": 51
+    },
+    {
+      "match_tokens": [
+        "population:老年人",
+        "disease:高血压",
+        "disease:糖尿病"
+      ],
+      "advice": "每日食盐摄入量应少于5克。",
+      "category": "健康生活方式",
+      "page_num": 53
+    },
+    {
+      "match_tokens": [
+        "population:老年人",
+        "disease:高血压",
+        "disease:糖尿病"
+      ],
+      "advice": "每日烹饪用植物油控制在25克。",
+      "category": "健康生活方式",
+      "page_num": 53
+    },
+    {
+      "match_tokens": [
+        "disease:糖尿病",
+        "disease:肥胖症",
+        "bmi:超重",
+        "bmi:肥胖"
+      ],
+      "advice": "每日食谱可包含杂粮米饭，如黑米、玉米糁等。",
+      "category": "健康生活方式",
+      "page_num": 54
+    },
+    {
+      "match_tokens": [
+        "disease:糖尿病",
+        "disease:肥胖症",
+        "bmi:超重",
+        "bmi:肥胖"
+      ],
+      "advice": "每日食谱可包含燕麦粥作为早餐。",
+      "category": "健康生活方式",
+      "page_num": 54
+    },
+    {
+      "match_tokens": [
+        "disease:糖尿病",
+        "disease:肥胖症",
+        "bmi:超重",
+        "bmi:肥胖"
+      ],
+      "advice": "每日食谱可包含杂粮饭，如薏苡仁、高粱米等。",
+      "category": "健康生活方式",
+      "page_num": 54
+    },
+    {
+      "match_tokens": [
+        "disease:糖尿病",
+        "disease:肥胖症",
+        "bmi:超重",
+        "bmi:肥胖"
+      ],
+      "advice": "每日食谱可包含拌芹菜、拌三丝、手撕圆白菜等凉拌或清炒蔬菜。",
+      "category": "健康生活方式",
+      "page_num": 54
+    },
+    {
+      "match_tokens": [
+        "disease:糖尿病",
+        "disease:肥胖症",
+        "bmi:超重",
+        "bmi:肥胖"
+      ],
+      "advice": "每日食谱可包含去皮鸡胸肉、牛瘦肉、猪瘦肉、鱼等低脂肉类。",
+      "category": "健康生活方式",
+      "page_num": 54
+    },
+    {
+      "match_tokens": [
+        "disease:糖尿病",
+        "disease:肥胖症",
+        "bmi:超重",
+        "bmi:肥胖"
+      ],
+      "advice": "每日食谱可包含豆腐、豆腐干等豆制品。",
+      "category": "健康生活方式",
+      "page_num": 54
+    },
+    {
+      "match_tokens": [
+        "disease:糖尿病",
+        "disease:肥胖症",
+        "bmi:超重",
+        "bmi:肥胖"
+      ],
+      "advice": "每日食谱可包含无糖酸奶、脱脂牛奶作为加餐或早餐。",
+      "category": "健康生活方式",
+      "page_num": 54
+    },
+    {
+      "match_tokens": [
+        "disease:糖尿病",
+        "disease:肥胖症",
+        "bmi:超重",
+        "bmi:肥胖"
+      ],
+      "advice": "每日食谱可包含李子、橙子、苹果等水果作为加餐。",
+      "category": "健康生活方式",
+      "page_num": 54
+    },
+    {
+      "match_tokens": [
+        "disease:糖尿病",
+        "disease:肥胖症",
+        "bmi:超重",
+        "bmi:肥胖"
+      ],
+      "advice": "每日食谱可包含煮鸡蛋作为早餐。",
+      "category": "健康生活方式",
+      "page_num": 54
+    },
+    {
+      "match_tokens": [
+        "disease:糖尿病",
+        "disease:肥胖症",
+        "bmi:超重",
+        "bmi:肥胖"
+      ],
+      "advice": "每日食谱可包含食药物质，如山药、花椒、茯苓、薏苡仁、枸杞子、鱼腥草等。",
+      "category": "健康生活方式",
+      "page_num": 54
+    },
+    {
+      "match_tokens": [
+        "disease:糖尿病",
+        "disease:肥胖症",
+        "bmi:超重",
+        "bmi:肥胖"
+      ],
+      "advice": "每日食谱可包含木耳、海带等菌藻类食物。",
+      "category": "健康生活方式",
+      "page_num": 54
+    },
+    {
+      "match_tokens": [
+        "disease:糖尿病",
+        "disease:肥胖症",
+        "bmi:超重",
+        "bmi:肥胖"
+      ],
+      "advice": "每日食谱可包含韭菜、芹菜、四季豆、茄子、圆白菜、胡萝卜、冬笋、儿菜、莴笋叶等多种蔬菜。",
+      "category": "健康生活方式",
+      "page_num": 54
+    },
+    {
+      "match_tokens": [
+        "disease:糖尿病",
+        "disease:高血压",
+        "disease:肥胖症"
+      ],
+      "advice": "冬季可选择总能量约1200kcal的食谱，早餐食用荞麦面（荞麦面粉50g，圆白菜150g）、煮鸡蛋（鸡蛋50g）和无糖豆浆（黄豆【干】20g）。",
+      "category": "健康生活方式",
+      "page_num": 55
+    },
+    {
+      "match_tokens": [
+        "disease:糖尿病",
+        "disease:高血压",
+        "disease:肥胖症"
+      ],
+      "advice": "冬季可选择总能量约1200kcal的食谱，中餐食用杂粮饭（大米50g，玉米糁15g）、蒜蓉金针菇（金针菇100g）和泡椒兔（兔肉50g，泡椒10g，黄瓜100g，花椒*5g）。",
+      "category": "健康生活方式",
+      "page_num": 55
+    },
+    {
+      "match_tokens": [
+        "disease:糖尿病",
+        "disease:高血压",
+        "disease:肥胖症"
+      ],
+      "advice": "冬季可选择总能量约1200kcal的食谱，晚餐食用杂粮饭（大米50g，玉米糁15g）、上汤娃娃菜（娃娃菜200g，枸杞子【鲜】*5g）和莴笋鸡丁（鸡胸肉【去皮】50g，莴笋100g）。",
+      "category": "健康生活方式",
+      "page_num": 55
+    },
+    {
+      "match_tokens": [
+        "disease:糖尿病",
+        "disease:高血压",
+        "disease:肥胖症"
+      ],
+      "advice": "冬季可选择总能量约1400kcal的食谱，早餐食用杂粮馒头（青稞炒面10g，面粉50g）、早餐拌菜（菠菜200g，香菇【鲜】50g）、蒸蛋羹（鸡蛋50g）和脱脂牛奶（250mL）。",
+      "category": "健康生活方式",
+      "page_num": 55
+    },
+    {
+      "match_tokens": [
+        "disease:糖尿病",
+        "disease:高血压",
+        "disease:肥胖症"
+      ],
+      "advice": "冬季可选择总能量约1400kcal的食谱，中餐食用杂粮饭（大米50g，玉米糁25g）、炒西葫芦（西葫芦200g）和萝卜羊肉汤（白萝卜200g，羊前腿肉【带骨】50g，香菜10g，小葱10g，黑胡椒*2g）。",
+      "category": "健康生活方式",
+      "page_num": 55
+    },
+    {
+      "match_tokens": [
+        "disease:糖尿病",
+        "disease:高血压",
+        "disease:肥胖症"
+      ],
+      "advice": "冬季可选择总能量约1400kcal的食谱，晚餐食用杂粮饭（大米50g，玉米糁15g）、蔬菜汤（豌豆苗150g）、青花椒蒸鱼（鲈鱼50g，花椒【青，湿重】*5g）和蒸茄子（茄子200g）。",
+      "category": "健康生活方式",
+      "page_num": 55
+    },
+    {
+      "match_tokens": [
+        "population:老年人",
+        "disease:无特定疾病"
+      ],
+      "advice": "冬季食谱总能量约1600kcal，早餐食用燕麦粥、拌芹菜和煮鸡蛋，中餐食用杂粮饭、水炝炒寒菜和萝卜半汤鱼，晚餐食用杂粮饭、烩儿菜和肉末豆腐。",
+      "category": "健康生活方式",
+      "page_num": 56
+    },
+    {
+      "match_tokens": [
+        "disease:肥胖症",
+        "age:成人"
+      ],
+      "advice": "春季食谱1（总能量约1200kcal）早餐：菠菜鸡蛋汤面（菠菜50g，鸡蛋25g，面条40g），低脂牛奶（250mL）。中餐：红薯饭（大米40g，红薯100g），胡萝卜炒肉（柿子椒30g，胡萝卜50g，猪瘦肉40g），炒芥兰（芥兰100g），西红柿豆腐汤（西红柿50g，豆腐30g）。加餐：橙子（200g）。晚餐：红白饭（大米20g，红米20g），莴苣炒鸡（鸡肉40g，莴苣50g），水煮白菜（白菜100g），枳椇子萝卜鲫鱼汤（枳椇子【干】*20g，白萝卜80g，鲫鱼30g）。油、盐全天总用量：植物油20g，盐＜5g。",
+      "category": "健康生活方式",
+      "page_num": 57
+    },
+    {
+      "match_tokens": [
+        "disease:肥胖症",
+        "age:成人"
+      ],
+      "advice": "春季食谱2（总能量约1400kcal）早餐：鸡蛋肠粉（菠菜50g，鸡蛋50g，肠粉【湿】150g），低脂牛奶（250mL）。中餐：米饭（大米60g），清蒸鲩鱼（鲩鱼30g），盐水菜心（菜心100g），冬瓜豆腐肉丝汤（冬瓜150g，豆腐50g，猪瘦肉20g）。加餐：苹果（200g）。晚餐：黄白饭（大米25g，玉米碴【干】20g），水煮油菜（油菜150g），黑木耳蒸鸡（木耳【干】10g，鸡肉35g），青椒炒牛肉（柿子椒100g，牛肉25g），白扁豆莲子百合汤（莲子【干】*5g，百合【鲜】*15g，白扁豆【干】*8g，山药【干】*5g）。",
+      "category": "健康生活方式",
+      "page_num": 57
+    },
+    {
+      "match_tokens": [
+        "population:老年人"
+      ],
+      "advice": "全天烹饪使用植物油不超过21g，食盐少于5g。",
+      "category": "健康生活方式",
+      "page_num": 60
+    },
+    {
+      "match_tokens": [
+        "population:老年人"
+      ],
+      "advice": "全天烹饪使用植物油不超过24g，食盐少于5g。",
+      "category": "健康生活方式",
+      "page_num": 60
+    },
+    {
+      "match_tokens": [
+        "disease:肥胖症",
+        "age:成人"
+      ],
+      "advice": "可食用铁皮石斛玉竹煲瘦肉，佐餐温服，酌情每日或隔日食用1次。",
+      "category": "治疗与康复",
+      "page_num": 63
+    },
+    {
+      "match_tokens": [
+        "disease:肥胖症",
+        "age:成人"
+      ],
+      "advice": "可食用三豆饮代替部分主食，温服，吃豆喝汤，每日2次，连续食用5～7天。",
+      "category": "治疗与康复",
+      "page_num": 63
+    },
+    {
+      "match_tokens": [
+        "disease:肥胖症",
+        "age:成人"
+      ],
+      "advice": "可用芦根汤代茶饮，频服，每日2次，连续饮用5～7天。",
+      "category": "治疗与康复",
+      "page_num": 63
+    },
+    {
+      "match_tokens": [
+        "disease:肥胖症",
+        "bmi:肥胖"
+      ],
+      "advice": "将山楂6g、薏苡仁6g、橘皮3g、荷叶9g放入纱布包或药袋内，扎紧，沸水冲泡10分钟或煮开，代茶饮，温热频服。",
+      "category": "健康生活方式",
+      "page_num": 66
+    },
+    {
+      "match_tokens": [
+        "disease:肥胖症",
+        "bmi:肥胖"
+      ],
+      "advice": "将鲜山药100g、黄芪10g、生姜3～4片、鸭肉300g、板栗100g一同放入瓦煲内，加入清水，大火烧沸后小火煲1小时，加少许精盐调味，佐餐温服，每周食用3～5次。",
+      "category": "健康生活方式",
+      "page_num": 66
+    },
+    {
+      "match_tokens": [
+        "disease:肥胖症",
+        "bmi:肥胖"
+      ],
+      "advice": "将核桃仁3个捣碎，人参3g放入砂锅中加水煮20分钟，加入核桃仁、生姜5片继续煮20分钟，喝汤吃核桃仁，每日1次，连续食用7～10天。",
+      "category": "健康生活方式",
+      "page_num": 66
+    },
+    {
+      "match_tokens": [],
+      "advice": "将干姜、肉桂沸水冲泡10分钟，代茶饮，温热频服。",
+      "category": "治疗与康复",
+      "page_num": 67
+    },
+    {
+      "match_tokens": [
+        "age:成人",
+        "bmi:肥胖"
+      ],
+      "advice": "根据BMI值判定，若BMI≥28.0，则属于肥胖。",
+      "category": "健康生活方式",
+      "page_num": 68
+    },
+    {
+      "match_tokens": [
+        "age:成人",
+        "bmi:超重"
+      ],
+      "advice": "根据BMI值判定，若24.0≤BMI＜28.0，则属于超重。",
+      "category": "健康生活方式",
+      "page_num": 68
+    },
+    {
+      "match_tokens": [
+        "age:成人",
+        "bmi:体重正常"
+      ],
+      "advice": "根据BMI值判定，若18.5≤BMI＜24.0，则属于体重正常。",
+      "category": "健康生活方式",
+      "page_num": 68
+    },
+    {
+      "match_tokens": [
+        "age:成人",
+        "sex:男",
+        "bmi:肥胖"
+      ],
+      "advice": "根据腰围值判定，若男性腰围≥90cm，则属于中心型肥胖。",
+      "category": "健康生活方式",
+      "page_num": 68
+    },
+    {
+      "match_tokens": [
+        "age:成人",
+        "sex:女",
+        "bmi:肥胖"
+      ],
+      "advice": "根据腰围值判定，若女性腰围≥85cm，则属于中心型肥胖。",
+      "category": "健康生活方式",
+      "page_num": 68
+    },
+    {
+      "match_tokens": [
+        "age:成人",
+        "sex:男",
+        "bmi:超重"
+      ],
+      "advice": "根据腰围值判定，若85≤男性腰围＜90cm，则属于中心型肥胖前期。",
+      "category": "健康生活方式",
+      "page_num": 68
+    },
+    {
+      "match_tokens": [
+        "age:成人",
+        "sex:女",
+        "bmi:超重"
+      ],
+      "advice": "根据腰围值判定，若80≤女性腰围＜85cm，则属于中心型肥胖前期。",
+      "category": "健康生活方式",
+      "page_num": 68
+    },
+    {
+      "match_tokens": [
+        "age:成人"
+      ],
+      "advice": "进行低强度活动，如安静地坐着（1.3 MET）、安静地站着（1.6 MET）、坐姿读书（1.4 MET）、坐姿打字（1.7 MET）、洗涤衣物（2.2 MET）、拖地（2.6 MET）、铺床（2.7 MET）、整理房间（2.7 MET）、清洁（2.8 MET）、以3km/h速度步行（2.9 MET）。",
+      "category": "健康生活方式",
+      "page_num": 69
+    },
+    {
+      "match_tokens": [
+        "age:成人"
+      ],
+      "advice": "进行中等强度活动，如以4km/h速度步行（3.3 MET）、以5km/h速度步行（3.8 MET）、以6km/h速度步行（5.2 MET）、负重走（4.5 MET）、以10km/h速度户外骑行（3.6 MET）、以12km/h速度户外骑行（3.9 MET）、以13km/h速度户外骑行（4.4 MET）、以15km/h速度户外骑行（5.5 MET）、以5km/h速度跑步（4.8 MET）。",
+      "category": "健康生活方式",
+      "page_num": 69
+    },
+    {
+      "match_tokens": [
+        "age:成人"
+      ],
+      "advice": "进行高强度活动，如以6km/h速度跑步（6.5 MET）、以7km/h速度跑步（7.8 MET）、以8km/h速度跑步（8.2 MET）、以9km/h速度跑步（9.1 MET）、慢速登山（6.1 MET）、中速登山（8.7 MET）、快速登山（17.2 MET）。",
+      "category": "健康生活方式",
+      "page_num": 69
+    },
+    {
+      "match_tokens": [
+        "population:任何"
+      ],
+      "advice": "进行跳绳运动，如单摇并步，频率为100次/min-130次/min。",
+      "category": "健康生活方式",
+      "page_num": 70
+    },
+    {
+      "match_tokens": [
+        "population:任何"
+      ],
+      "advice": "使用公式“MET 值(kcal/(kg·h))×体重(kg)×活动时长(h)”计算身体活动能量消耗（包含基础代谢）。",
+      "category": "健康生活方式",
+      "page_num": 70
+    },
+    {
+      "match_tokens": [
+        "population:任何"
+      ],
+      "advice": "使用公式“基础代谢率×全天中非身体活动时间占比+身体活动能量消耗+食物热效应”计算总能量消耗，其中食物热效应约占每日总能量消耗的10%。",
+      "category": "健康生活方式",
+      "page_num": 70
+    }
+  ]
+}
