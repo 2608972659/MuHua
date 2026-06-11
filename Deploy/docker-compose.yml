@@ -1,0 +1,53 @@
+services:
+  generation-api:
+    build: 
+      context: .
+      dockerfile: Dockerfile
+    container_name: generation-api
+    ports:
+      - "8001:8001"
+    environment:
+      # ========== Elasticsearch ?????? ==========
+      - ES_URL=http://elasticsearch:9200
+      - ES_USERNAME=elastic
+      - ES_PASSWORD=${ES_PASSWORD}
+      - ES_VERIFY_CERTS=false
+      # ========== DeepSeek API ??? ==========
+      - DEEPSEEK_API_URL=${DEEPSEEK_API_URL:-https://api.deepseek.com/v1}
+      - DEEPSEEK_API_KEY=${DEEPSEEK_API_KEY}
+      - DEEPSEEK_MODEL=${DEEPSEEK_MODEL:-deepseek-chat}
+      # ========== ??? Embedding ?????? ==========
+      - EMB_MODEL=${EMB_MODEL:-BAAI/bge-base-zh-v1.5}
+      - EMB_DEVICE=${EMB_DEVICE:-cpu}
+    depends_on:
+      - elasticsearch
+    networks:
+      - net
+
+  elasticsearch:
+    image: docker.elastic.co/elasticsearch/elasticsearch:8.10.0
+    container_name: elasticsearch
+    environment:
+      - node.name=elasticsearch
+      - cluster.name=es-docker-cluster
+      - discovery.type=single-node
+      - ELASTIC_PASSWORD=${ES_PASSWORD}
+      - bootstrap.memory_lock=true
+      - "ES_JAVA_OPTS=-Xms1g -Xmx1g"
+      # ???????????????????????????????????????????xpack_security ??????
+      - xpack.security.enabled=true
+    volumes:
+      # ==============================================================
+      # ??????????????????????????????????????
+      # ??????????????????????????????????????? ES data ????????
+      # ?????E:\elasticsearch-8.10.0\data
+      # ==============================================================
+      - ./es_existing_data:/usr/share/elasticsearch/data
+    ports:
+      - "9200:9200"
+    networks:
+      - net
+
+networks:
+  net:
+    driver: bridge
