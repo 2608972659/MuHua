@@ -1,0 +1,17 @@
+# OpenAI API 客户端 (兼容所有 OpenAI 接口厂商)
+openai>=1.0.0
+
+# HTTP 请求库
+requests>=2.31.0
+
+# API 服务
+flask>=3.0.0
+gunicorn>=22.0.0
+
+# 本地 Embedding 模型
+sentence-transformers>=2.2.0
+torch>=2.0.0
+
+# 其他常用依赖
+pathlib>=1.0.1
+

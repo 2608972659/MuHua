@@ -1,0 +1,37 @@
+{"match_tokens": ["disease:高血压", "age:老年人"], "advice": "80岁及以上老年高血压患者血压可控制在140/90mmHg以下。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病"], "advice": "糖尿病患者推荐血糖控制目标：HbA1c<7%，空腹血糖4.4~7.0 mmol/L，非空腹血糖<10.0mmol/L，避免发生低血糖和高血糖急症。", "category": "治疗与康复"}
+{"match_tokens": ["bmi:超重"], "advice": "制定合理减重目标，每周体重减少不超过0.5kg，6个月内减少体重的5%~10%。", "category": "健康生活方式"}
+{"match_tokens": ["bmi:肥胖"], "advice": "制定合理减重目标，每周体重减少不超过0.5kg，6个月内减少体重的5%~10%。", "category": "健康生活方式"}
+{"match_tokens": ["bmi:超重"], "advice": "通过平衡膳食、总量控制、科学运动和良好睡眠，防止超重和肥胖的发生，保持体质指数（BMI）在18.5~23.9 kg/m²。", "category": "健康生活方式"}
+{"match_tokens": ["bmi:肥胖"], "advice": "通过平衡膳食、总量控制、科学运动和良好睡眠，防止超重和肥胖的发生，保持体质指数（BMI）在18.5~23.9 kg/m²。", "category": "健康生活方式"}
+{"match_tokens": ["age:老年人", "disease:脑血管病"], "advice": "限制钠盐摄入，每人每日食盐摄入量≤5g，增加富含钾的食物摄入，减少糖的摄入量，不喝或少喝含糖饮料。", "category": "健康生活方式"}
+{"match_tokens": ["disease:脑血管病", "risk:高血压"], "advice": "脑出血患者应密切监测血压，严格控制血压波动，长期血压控制目标为<130/80 mmHg。", "category": "治疗与康复"}
+{"match_tokens": ["disease:非心源性缺血性卒中"], "advice": "发病30天内症状性重度颅内动脉狭窄患者，应予阿司匹林联合氯吡格雷抗血小板治疗，持续90天。", "category": "治疗与康复"}
+{"match_tokens": ["disease:心源性缺血性卒中", "risk:出血风险"], "advice": "伴有心房颤动的患者应接受抗凝治疗，选择传统的华法林或新型口服抗凝药，治疗期间定期监测国际标准化比值（INR），目标2.0~3.0。", "category": "治疗与康复"}
+{"match_tokens": ["age:成人", "disease:脑血管病"], "advice": "近期发生TIA或6个月内发生缺血性卒中，合并同侧颈动脉颅外段中重度狭窄（≥50%），可依据个体化情况选择颈动脉内膜剥脱术或颈动脉支架置入术治疗。", "category": "治疗与康复"}
+{"match_tokens": ["age:成人", "disease:脑血管病"], "advice": "颈动脉狭窄率<50%者，不推荐颈动脉内膜剥脱术或颈动脉支架置入术治疗。", "category": "治疗与康复"}
+{"match_tokens": ["disease:脑血管病"], "advice": "发病4.5小时内的疑似缺血性卒中患者应尽快完善头颅CT/MRI检查明确诊断。", "category": "急症处理"}
+{"match_tokens": ["disease:脑血管病"], "advice": "发病时间24小时内且NIHSS评分≥6分的患者可行头颅CT血管成像（CTA）检查明确是否存在颅内外大血管闭塞。", "category": "急症处理"}
+{"match_tokens": ["disease:脑血管病"], "advice": "发病4.5~24小时且NIHSS评分≥4分的患者可完善多模式影像学检查（如CT+CTA+CT灌注成像/MR灌注加权成像）评估静脉溶栓治疗指征。", "category": "急症处理"}
+{"match_tokens": ["disease:脑血管病"], "advice": "发病 4.5 小时内无溶栓禁忌证的缺血性卒中患者，必须尽快行静脉溶栓治疗。", "category": "治疗与康复"}
+{"match_tokens": ["disease:脑血管病"], "advice": "发病时间未明或 4.5~24 小时，可结合医院条件和多模影像学检查评估是否可给予静脉溶栓治疗。", "category": "治疗与康复"}
+{"match_tokens": ["disease:脑血管病", "age:成人"], "advice": "发病时间在 6 小时内，符合条件（年龄≥18岁、NIHSS评分≥6分、ASPECTS≥6分）的缺血性卒中患者，应行血管内机械取栓治疗。", "category": "治疗与康复"}
+{"match_tokens": ["disease:脑血管病", "age:成人"], "advice": "发病时间处于6~24 小时的前循环梗死患者，需根据缺血半暗带情况，谨慎评估后选择血管内机械取栓治疗。", "category": "治疗与康复"}
+{"match_tokens": ["disease:脑血管病", "age:成人"], "advice": "发病24小时内，ASPECTS 3~5分或梗死核心50~100ml的患者也可以接受血管内机械取栓治疗。", "category": "治疗与康复"}
+{"match_tokens": ["disease:脑血管病", "age:成人"], "advice": "对于24小时内的后循环梗死患者，应进行充分获益风险评估后，再考虑血管内机械取栓治疗。", "category": "治疗与康复"}
+{"match_tokens": ["disease:脑血管病"], "advice": "非心源性卒中患者发病后24~48小时内启动抗血小板治疗。", "category": "治疗与康复"}
+{"match_tokens": ["disease:脑血管病"], "advice": "接受静脉溶栓治疗的患者，通常应在溶栓24小时后启动抗血小板治疗，以降低出血风险。", "category": "治疗与康复"}
+{"match_tokens": ["disease:脑血管病"], "advice": "NIHSS≤3分的非心源性轻型缺血性卒中和高危TIA（ABCD2评分≥4分）患者，应在发病24小时内启动阿司匹林治疗。", "category": "治疗与康复"}
+{"match_tokens": ["disease:脑血管病"], "advice": "氯吡格雷双联抗血小板治疗 21 天，然后转为单药治疗。", "category": "治疗与康复"}
+{"match_tokens": ["disease:脑血管病"], "advice": "发病 24 小时内血压升高的患者优先处理紧张、焦虑、疼痛、恶心、呕吐及颅内压增高等情况。", "category": "治疗与康复"}
+{"match_tokens": ["disease:脑血管病"], "advice": "血压持续升高至收缩压≥200mmHg，或舒张压≥110mmHg，或伴严重心功能不全、主动脉夹层、高血压脑病，应降压治疗，但应避免使用导致血压急剧下降的药物。", "category": "治疗与康复"}
+{"match_tokens": ["disease:脑血管病"], "advice": "准备接受再灌注治疗者，血压应<180/100mmHg。", "category": "治疗与康复"}
+{"match_tokens": ["disease:脑血管病"], "advice": "如果血管完全再通，建议术后收缩压尽量避免低于 120mmHg。", "category": "治疗与康复"}
+{"match_tokens": ["disease:脑血管病"], "advice": "发病后迅速启动降压治疗并依病情调整至140~180 mmHg，病情稳定后根据患者合并症和脑灌注状态调整血压控制范围。", "category": "治疗与康复"}
+{"match_tokens": ["disease:脑血管病"], "advice": "对于小脑出血患者，当神经功能恶化，有脑干压迫和/或脑室梗阻引起脑积水，或小脑出血体积≥15毫升，建议手术清除血肿。", "category": "治疗与康复"}
+{"match_tokens": ["disease:蛛网膜下腔出血"], "advice": "疑诊动脉瘤性蛛网膜下腔出血患者，如造影阴性，应在2~3周后重复血管CTA/DSA检查。", "category": "急症处理"}
+{"match_tokens": ["disease:蛛网膜下腔出血"], "advice": "在未处理动脉瘤前，采取绝对卧床休息，避免血压波动，收缩压控制在160mmHg以内，避免便秘和情绪激动，以防再出血。", "category": "急症处理"}
+{"match_tokens": ["disease:脑血管病"], "advice": "尽早评估吞咽功能和营养不良风险，防止误吸，吞咽困难者应早期提供营养与支持治疗，一般应在卒中后3天内通过鼻胃管提供营养，需要长期管饲的，必要时可行经皮胃造瘘术。", "category": "治疗与康复"}
+{"match_tokens": ["disease:脑血管病"], "advice": "应遵循患者到院到给药时间不超过60分钟的原则，快速完成用药前的所有准备工作。", "category": "治疗与康复"}
+{"match_tokens": ["disease:脑血管病"], "advice": "溶栓前至溶栓结束后的24小时内，应严密监测血压、意识、肌力及言语等的变化。", "category": "治疗与康复"}
+{"match_tokens": ["disease:脑血管病"], "advice": "溶栓过程中及溶栓治疗后24小时严密监测血压，动态评估神经功能等病情变化，做好抢救准备。", "category": "治疗与康复"}

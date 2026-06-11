@@ -1,0 +1,32 @@
+{"match_tokens": ["disease:感冒"], "advice": "流感病毒对紫外线和热敏感，56℃条件下30分钟可灭活，建议在环境消毒时注意温度和光照条件。", "category": "健康生活方式"}
+{"match_tokens": ["age:小孩", "disease:感冒"], "advice": "儿童排毒时间可超过1周，需延长隔离和观察时间。", "category": "治疗与康复"}
+{"match_tokens": ["disease:无特定疾病", "symptom:发热"], "advice": "流感患者应注意充分休息，观察发热情况，保持体温在合理范围内，发热3～5天后体温逐渐下降时继续休息，促进体力恢复。", "category": "健康生活方式"}
+{"match_tokens": ["disease:感冒"], "advice": "发病前7天内与疑似或确诊流感患者密切接触者，应在无有效个人防护的情况下注意监测流感症状，避免与他人密切接触以防传播。", "category": "健康生活方式"}
+{"match_tokens": ["age:小孩", "symptom:发热"], "advice": "儿童出现超高热或持续高热超过3天时，应及时就医。", "category": "急症处理"}
+{"match_tokens": ["age:小孩", "symptom:缺氧"], "advice": "儿童静息状态下吸空气时指氧饱和度≤93%，应尽快进行医疗干预。", "category": "急症处理"}
+{"match_tokens": ["age:任何", "symptom:缺氧"], "advice": "成年人静息状态下吸空气时指氧饱和度≤93%，应立即采取有效的医疗措施。", "category": "急症处理"}
+{"match_tokens": ["age:任何", "symptom:病灶进展"], "advice": "肺部影像学显示24～48小时内病灶明显进展＞50%，需加强治疗和监护。", "category": "急症处理"}
+{"match_tokens": ["disease:无特定疾病", "risk:其他病症"], "advice": "流感流行季，有流感重型/危重型高危因素的流感样病例，应尽早进行抗病毒治疗，发病48小时内治疗效果最佳。", "category": "治疗与康复"}
+{"match_tokens": ["disease:其他病症", "age:小孩"], "advice": "2周龄以上儿童及成人可使用奥司他韦干混悬剂治疗流感。", "category": "治疗与康复"}
+{"match_tokens": ["disease:其他病症", "age:小孩"], "advice": "1岁以下儿童推荐奥司他韦剂量：2周～8月龄每次3.0mg/kg；9～11月龄每次3.5mg/kg，每日2次，疗程5天。", "category": "治疗与康复"}
+{"match_tokens": ["disease:其他病症", "age:小孩"], "advice": "1岁及以上儿童用奥司他韦的剂量根据体重分为：体重≤15kg 每次30mg，15kg＜体重≤23kg 每次45mg，23kg＜体重≤40kg 每次60mg，＞40kg 每次75mg，每日2次，疗程5天。", "category": "治疗与康复"}
+{"match_tokens": ["disease:其他病症", "age:成人"], "advice": "成人使用奥司他韦胶囊/颗粒剂，每次75mg，每日2次，疗程5天。", "category": "治疗与康复"}
+{"match_tokens": ["disease:其他病症", "age:成人"], "advice": "成人使用帕拉米韦的常规剂量为300mg，单次静脉滴注，滴注时间不少于30分钟。", "category": "治疗与康复"}
+{"match_tokens": ["disease:其他病症", "age:成人"], "advice": "症状严重且有严重并发症的成人可使用帕拉米韦600mg，单次静脉滴注，滴注时间不少于40分钟。", "category": "治疗与康复"}
+{"match_tokens": ["disease:其他病症", "age:小孩"], "advice": "儿童使用帕拉米韦每次10mg/kg体重，静脉滴注，滴注时间不少于30分钟，每日1次，根据病情可连续用药1至5天。", "category": "治疗与康复"}
+{"match_tokens": ["age:成人"], "advice": "复给药，不超过 5 天，单次给药量的上限为 600mg。要根据体温等临床症状判断是否需要持续给药。", "category": "治疗与康复"}
+{"match_tokens": ["age:成人", "age:小孩"], "advice": "扎那米韦吸入喷雾剂适用于成人及7岁以上儿童，用法为每次10mg，12小时1次，疗程5天。", "category": "治疗与康复"}
+{"match_tokens": ["age:成人"], "advice": "法维拉韦口服用法：第1天每次1600mg，每日2次，第2至第5天每次600mg，每日2次。", "category": "治疗与康复"}
+{"match_tokens": ["age:成人"], "advice": "阿比多尔用量为每次200mg，每日3次，疗程5天。", "category": "治疗与康复"}
+{"match_tokens": ["disease:其他病症"], "advice": "PaO2/FiO2≤300 的重型患者应立即给予鼻导管或面罩吸氧。", "category": "治疗与康复"}
+{"match_tokens": ["disease:其他病症"], "advice": "PaO2/FiO2≤200 应给予经鼻高流量氧疗（HFNC）或无创通气（NIV），无禁忌证的情况下，建议同时实施清醒俯卧位通气，俯卧位治疗时间每天应大于 12 小时。", "category": "治疗与康复"}
+{"match_tokens": ["disease:其他病症", "age:小孩"], "advice": "PaO2/FiO2≤150，或吸气努力明显增强的患者应及时气管插管，给予有创机械通气，实施肺保护性机械通气策略。", "category": "治疗与康复"}
+{"match_tokens": ["disease:感冒"], "advice": "风热犯卫者，采用银翘散加减方，服用方法为水煎服，每日两次。", "category": "治疗与康复"}
+{"match_tokens": ["disease:感冒"], "advice": "风寒束表者，采用麻黄汤加味方，服用方法为水煎服，每日两次。", "category": "治疗与康复"}
+{"match_tokens": ["disease:无特定疾病"], "advice": "水煎服大青龙汤加减，每日2次。炙麻黄6g、桂枝10g、羌活10g、生石膏（先煎）30g、黄芩15g、知母10g、金银花15g、炙甘草6g，出现舌苔腻者加藿香10g、苍术10g；咽喉红肿者加连翘15g、牛蒡子10g。", "category": "治疗与康复"}
+{"match_tokens": ["disease:无特定疾病"], "advice": "水煎服麻杏石甘汤加减，每日2次。炙麻黄9g、杏仁10g、生石膏（先煎）45g、知母10g、浙贝母10g、桔梗10g、黄芩15g、瓜蒌30g、生甘草10g。便秘者加生大黄（后下）6g、厚朴6g。", "category": "治疗与康复"}
+{"match_tokens": ["disease:无特定疾病"], "advice": "水煎服宣白承气汤加减，每日2次。炙麻黄9g、生石膏（先煎）45g、杏仁10g、瓜蒌30g、知母15g、鱼腥草30g、葶苈子15g。", "category": "治疗与康复"}
+{"match_tokens": ["disease:其他病症"], "advice": "水煎服汤药，每日2次，必要时每6小时服用1次，也可采用鼻饲或结肠给药方式。", "category": "治疗与康复"}
+{"match_tokens": ["age:任何", "disease:感冒"], "advice": "建议所有≥6月龄且无接种禁忌的人都应接种流感疫苗。", "category": "健康生活方式"}
+{"match_tokens": ["age:小孩"], "advice": "6～59 月龄儿童应接种流感疫苗。", "category": "健康生活方式"}
+{"match_tokens": ["risk:接触流感患者"], "advice": "对有重型/危重型流感高危因素的密切接触者，且未接种疫苗或疫苗后尚未获得免疫力者，应在暴露后48小时内进行药物预防。", "category": "治疗与康复"}

@@ -1,0 +1,88 @@
+{"match_tokens": ["age:成人", "disease:心衰"], "advice": "所有心衰和怀疑心衰患者均应行心电图检查，明确心律、心率、QRS形态和宽度及是否存在频发房性或室性早搏、心房颤动（房颤）或左心室肥厚等。怀疑存在心律失常或无症状性心肌缺血时应行24小时动态心电图检查。", "category": "治疗与康复"}
+{"match_tokens": ["age:成人", "disease:心衰"], "advice": "根据年龄和肾功能分层，50岁以下的患者NT-proBNP水平超过450 ng/L，50至75岁超过900 ng/L，75岁以上超过1800 ng/L，肾功能不全时（eGFR<60 ml·min-1·1.73 m-2）NT-proBNP水平超过1200 ng/L时可诊断急性心衰。", "category": "治疗与康复"}
+{"match_tokens": ["disease:高血压"], "advice": "进行24小时动态血压监测，检测血尿儿茶酚胺、肾素和醛固酮水平，完善肾动脉成像检查。", "category": "治疗与康复"}
+{"match_tokens": ["disease:心血管病"], "advice": "稳定超过2周的慢性心衰患者，应接受心肺运动试验以量化运动能力并指导运动处方优化。", "category": "治疗与康复"}
+{"match_tokens": ["disease:心血管病"], "advice": "采用6分钟步行试验评估患者运动耐量，6分钟步行距离小于150米提示重度心衰，150-450米为中度，超过450米为轻度。", "category": "治疗与康复"}
+{"match_tokens": ["disease:高血压"], "advice": "根据高血压指南控制高血压以预防或延缓心衰发生。对存在多种心血管疾病危险因素、靶器官损伤或心血管疾病的高血压患者，血压应控制在130/80 mmHg以下。", "category": "健康生活方式"}
+{"match_tokens": ["disease:无特定疾病"], "advice": "慢性心衰急性发作伴有容量负荷过重且无低钠血症的患者，应限制钠摄入<2 g/d。", "category": "健康生活方式"}
+{"match_tokens": ["disease:无特定疾病"], "advice": "限钠(<3 g/d)有助于减轻和控制NYHA心功能Ⅲ/Ⅳ级心衰患者的淤血症状和体征。", "category": "健康生活方式"}
+{"match_tokens": ["disease:无特定疾病"], "advice": "对严重低钠血症患者水摄入量应<2 L/d。", "category": "健康生活方式"}
+{"match_tokens": ["disease:心衰"], "advice": "体重每日减轻0.5~1.0 kg为宜，一旦症状缓解，病情控制，即以最小有效剂量长期维持，防止淤血症状复发，并根据液体潴留情况随时调整剂量。", "category": "治疗与康复"}
+{"match_tokens": ["disease:心衰"], "advice": "每日体重变化是常用的监测指标，可指导患者根据症状、水肿、体重变化调整利尿剂剂量。", "category": "治疗与康复"}
+{"match_tokens": ["disease:心衰"], "advice": "开始应用利尿剂或增加剂量1~2周后，应复查血钾和肾功能。", "category": "治疗与康复"}
+{"match_tokens": ["disease:心衰"], "advice": "沙库巴曲缬沙坦起始剂量个体化，推荐起始剂量为50 mg，2次/天，具体剂量根据患者情况进行调整。", "category": "治疗与康复"}
+{"match_tokens": ["age:老年人", "disease:心衰"], "advice": "年龄≥75岁的老年人使用沙库巴曲缬沙坦起始剂量需降至25 mg，2次/天。", "category": "治疗与康复"}
+{"match_tokens": ["disease:心衰"], "advice": "在应用ARNI治疗过程中，每2~4周剂量加倍，逐渐滴定至目标剂量，同时监测血压、肾功能和血钾。", "category": "治疗与康复"}
+{"match_tokens": ["disease:心衰"], "advice": "在从ACEI/ARB转换为ARNI治疗前，患者血压需稳定，eGFR≥30 ml·min-1·1.73 m-2，并停用ACEI 36小时。", "category": "治疗与康复"}
+{"match_tokens": ["disease:高血压"], "advice": "对于症状性低血压，可先调整或停用其他有降压作用的药物；若无液体潴留，利尿剂可减量；若血钠<130 mmol/L，可增加食盐摄入；必要时暂时减少 ARNI 剂量。", "category": "治疗与康复"}
+{"match_tokens": ["disease:高血压"], "advice": "血钾 >5.5 mmol/L，应停用 ARNI；血钾 >6.0 mmol/L 时，还应采取降低血钾的措施，如口服钾结合剂。", "category": "治疗与康复"}
+{"match_tokens": ["disease:高血压"], "advice": "ACEI 应尽早使用，从小剂量开始，逐渐递增，每隔2 周剂量倍增 1 次，直至达到最大耐受剂量或目标剂量。开始服药和调整剂量后应监测血压、血钾及肾功能。", "category": "治疗与康复"}
+{"match_tokens": ["disease:高血压"], "advice": "ARB 从小剂量开始，逐渐增至推荐的目标剂量或可耐受的最大剂量。开始应用及调整剂量后1~2周内，应监测血压、肾功能和血钾。", "category": "治疗与康复"}
+{"match_tokens": ["disease:高血压"], "advice": "β受体阻滞剂应尽早应用，起始剂量小，每隔2~4周可剂量加倍，逐渐达到指南推荐的目标剂量或最大可耐受剂量，并长期使用。", "category": "治疗与康复"}
+{"match_tokens": ["disease:心衰", "symptom:心动过缓"], "advice": "心率<50次/min，或出现二度及以上房室传导阻滞时，应减量或停药。", "category": "治疗与康复"}
+{"match_tokens": ["disease:心衰"], "advice": "使用MRA治疗后3天和1周应监测血钾和肾功能，前三个月每月监测1次，之后每3个月监测1次。", "category": "治疗与康复"}
+{"match_tokens": ["disease:心衰"], "advice": "血钾>5.5 mmol/L或eGFR<30 ml·min-1·1.73 m-2时应减量并密切观察，血钾>6.0 mmol/L或eGFR<20 ml·min-1·1.73 m-2时应停用MRA。", "category": "治疗与康复"}
+{"match_tokens": ["disease:心衰"], "advice": "临床试验中达格列净和恩格列净的起始剂量和目标剂量均为10 mg，1次/日。收缩压<100 mmHg的患者起始剂量可为2.5~5 mg。", "category": "治疗与康复"}
+{"match_tokens": ["disease:心衰"], "advice": "近期发生过心衰加重事件、NYHA心功能Ⅱ~Ⅳ级、LVEF<45%的心衰患者，在标准治疗基础上服用维立西呱可显著降低患者的心血管死亡或心衰住院风险。", "category": "治疗与康复"}
+{"match_tokens": ["disease:心衰"], "advice": "推荐起始维立西呱剂量为2.5~5 mg，1次/d，根据患者耐受情况约每2周剂量加倍，达到10 mg，1次/d。", "category": "治疗与康复"}
+{"match_tokens": ["disease:心衰"], "advice": "有症状的窦性心律HFrEF患者，合并以下情况之一可加用伊伐布雷定：（1）β受体阻滞剂已达到目标剂量或最大耐受剂量，心率仍≥70次/min；（2）心率≥70次/min，对β受体阻滞剂禁忌或不能耐受者。", "category": "治疗与康复"}
+{"match_tokens": ["disease:心衰"], "advice": "伊伐布雷定起始剂量2.5~5 mg，2次/d，治疗2周后根据静息心率调整剂量，每次增加2.5 mg，控制静息心率约为60次/min，最大剂量7.5 mg，2次/d。", "category": "治疗与康复"}
+{"match_tokens": ["disease:心衰"], "advice": "伊伐布雷定常见不良反应为光幻症和心动过缓，出现视觉功能恶化应考虑停药，心率<50次/min或出现相关症状时应减量或停用，如出现持续房颤应停药。", "category": "治疗与康复"}
+{"match_tokens": ["disease:心衰"], "advice": "地高辛使用剂量0.125~0.25 mg/d，老年、肾功能受损和低体重患者可0.125 mg，1次/d或隔天1次，应监测地高辛血药浓度，建议维持在0.5~0.9 μg/L，不应高于1.2 μg/L。", "category": "治疗与康复"}
+{"match_tokens": ["disease:心衰"], "advice": "地高辛不良反应包括心律失常（室性早搏、快速性房性心律失常伴传导阻滞）、胃肠道症状及神经精神症状（视觉异常、定向力障碍），多见于血药浓度>2.0 μg/L或合并低钾血症、低镁血症、心肌缺血患者。", "category": "治疗与康复"}
+{"match_tokens": ["disease:高血压"], "advice": "联合应用芪苈强心胶囊12周可显著降低NT-proBNP水平，改善NYHA心功能分级、心血管复合终点事件、6分钟步行距离及生活质量。", "category": "治疗与康复"}
+{"match_tokens": ["disease:高血压"], "advice": "接受标准抗心衰治疗基础上，可考虑芪参益气滴丸治疗6个月以提高6分钟步行距离和生活质量。", "category": "治疗与康复"}
+{"match_tokens": ["disease:高血压"], "advice": "对于NYHA心功能Ⅱ~Ⅳ级的心衰患者，补充ω-3多不饱和脂肪酸作为辅助治疗或许可减少死亡率和心血管住院率。", "category": "治疗与康复"}
+{"match_tokens": ["disease:高血压"], "advice": "慢性HFrEF患者药物优化治疗至少3个月后，若存在窦性心律、QRS时限≥150ms、LBBB且LVEF≤35%的症状性心衰患者，应考虑心脏再同步化治疗(CRT)改善症状及降低病死率。", "category": "治疗与康复"}
+{"match_tokens": ["disease:高血压"], "advice": "当慢性HFrEF患者存在QRS时限120~149ms且具有特定传导阻滞类型时，可考虑心脏再同步化治疗以改善心衰。", "category": "治疗与康复"}
+{"match_tokens": ["disease:其他病症"], "advice": "当首选CRT方法失败或纠正心脏不同步效果不佳（QRS时限≥130 ms）时，应尝试其他方法以提高CRT效果，包括尝试CSP或双间隔起搏联合冠状静脉起搏。", "category": "治疗与康复"}
+{"match_tokens": ["disease:其他病症"], "advice": "对于血流动力学不稳定的室性心律失常已恢复，预期生存期>1年且功能状态良好的患者，应植入ICD进行二级预防。", "category": "治疗与康复"}
+{"match_tokens": ["disease:其他病症"], "advice": "对于缺血性心脏病患者，心肌梗死后至少40天及血运重建后至少90天，优化药物治疗至少3个月后仍为LVEF≤35%，NYHA心功能Ⅱ或Ⅲ级且预期生存期>1年，推荐植入ICD。", "category": "治疗与康复"}
+{"match_tokens": ["disease:其他病症"], "advice": "对于LVEF≤30%同时NYHA心功能Ⅰ级的缺血性心脏病患者，也推荐植入ICD以减少心脏性猝死和总死亡率。", "category": "治疗与康复"}
+{"match_tokens": ["disease:其他病症"], "advice": "非缺血性心衰患者，优化药物治疗至少3个月，预期生存期>1年，LVEF≤35%，NYHA心功能Ⅱ或Ⅲ级，可考虑植入ICD。", "category": "治疗与康复"}
+{"match_tokens": ["disease:其他病症"], "advice": "LVEF在25%~45%之间、NYHA心功能Ⅲ级且QRS<130ms（无CRT适应证）、药物治疗无效的慢性心衰患者，可考虑应用CCM治疗以改善运动耐量和生活质量。", "category": "治疗与康复"}
+{"match_tokens": ["disease:其他病症"], "advice": "NYHA心功能Ⅱ~Ⅳ级HFrEF患者均应使用ACEI，除非有禁忌证或不能耐受。", "category": "治疗与康复"}
+{"match_tokens": ["disease:其他病症"], "advice": "近期发生过心衰加重事件、NYHA心功能Ⅱ~Ⅳ级、LVEF<45%的心衰患者，推荐在标准治疗基础上尽早加用维立西呱。", "category": "治疗与康复"}
+{"match_tokens": ["disease:其他病症"], "advice": "NYHA心功能Ⅱ~Ⅳ级、LVEF<45%的心衰患者，可考虑在标准治疗基础上加用伊伐布雷定，以降低心血管死亡和心衰住院风险。", "category": "治疗与康复"}
+{"match_tokens": ["disease:其他病症"], "advice": "β受体阻滞剂已达到目标剂量或最大耐受剂量的有症状的窦性心律HFrEF患者，心率仍≥70次/min时应使用伊伐布雷定。", "category": "治疗与康复"}
+{"match_tokens": ["disease:其他病症"], "advice": "窦性心率≥70次/min，对β受体阻滞剂禁忌或不能耐受者应使用地高辛。", "category": "治疗与康复"}
+{"match_tokens": ["disease:心衰", "bmi:任何", "age:任何", "sex:任何"], "advice": "可以在部分LVEF介于45%~57%的HFpEF患者中使用ARB和ARNI，降低心衰住院风险。", "category": "治疗与康复"}
+{"match_tokens": ["disease:心衰", "bmi:任何", "age:任何", "sex:任何"], "advice": "可考虑在一些特定 HFpEF 患者中（LVEF<55%~60%，BNP升高或1年内因心衰住院）使用 MRA 以降低住院风险。", "category": "治疗与康复"}
+{"match_tokens": ["disease:慢阻肺", "symptom:呼吸困难"], "advice": "呼吸窘迫者（呼吸频率>25 次/min）可给予无创通气。", "category": "治疗与康复"}
+{"match_tokens": ["disease:急性心衰"], "advice": "尽早进行无创监测，包括经皮血氧饱和度（SpO2）、血压、心率、呼吸及连续心电监测。若SpO2<90%，给予常规氧疗。", "category": "急症处理"}
+{"match_tokens": ["disease:急性心衰"], "advice": "呼吸频率>25 次/min时，及时给予无创通气并进行氧疗。", "category": "急症处理"}
+{"match_tokens": ["disease:高血压", "disease:脑血管病", "disease:其他病症"], "advice": "急性心衰患者需严密监测血压、心率、心律、呼吸频率、SpO2，每日监测出入量及体重，每日评估心衰症状和体征变化。根据病情严重程度及用药情况决定肝肾功能和电解质检测频率。病情稳定后，若临床状态无明显改变，则不再需要超声心动图监测。出院前可检测利钠肽水平以评估预后。", "category": "治疗与康复"}
+{"match_tokens": ["disease:高血压"], "advice": "低氧血症患者应给予氧疗，当SpO2<90%或动脉血氧分压<60 mmHg时，给予氧疗使患者SpO2≥95%，伴COPD者SpO2>90%。", "category": "治疗与康复"}
+{"match_tokens": ["disease:其他病症"], "advice": "伴呼吸性碱中毒的患者适用面罩吸氧，高流量给氧6~8L/min。", "category": "急症处理"}
+{"match_tokens": ["disease:其他病症"], "advice": "急性心衰患者根据临床分型选择治疗方案：干暖状态调整口服药物；干冷状态可适当扩容，必要时给予正性肌力药物；湿暖状态首选利尿剂或血管扩张药；湿冷状态收缩压≥90 mmHg时使用血管扩张药和利尿剂，<90 mmHg时首选正性肌力药物，若无效可考虑血管收缩药。", "category": "治疗与康复"}
+{"match_tokens": ["disease:其他病症"], "advice": "肺淤血、体循环淤血及水肿明显者应严格限制饮水量和静脉输液速度，每日摄入液体一般不超过2000 ml，严重水肿者可采取更严格的水负平衡措施。", "category": "治疗与康复"}
+{"match_tokens": ["disease:其他病症"], "advice": "急性心衰患者收缩压>90 mmHg时可考虑使用血管扩张药，血压<90 mmHg或症状性低血压时禁用，使用过程中需密切监测血压并调整剂量。", "category": "治疗与康复"}
+{"match_tokens": ["disease:其他病症"], "advice": "硝普钠适用于严重心衰且前后负荷增加伴肺淤血或肺水肿患者，使用不应超过72小时，停药时逐渐减量，并加用口服血管扩张药以避免反跳。", "category": "治疗与康复"}
+{"match_tokens": ["disease:其他病症", "symptom:房颤"], "advice": "房颤伴快速心室率（>110 次/min）的急性心衰患者可使用洋地黄类药物，地高辛剂量为0.25~0.5 mg或西地兰0.2~0.4 mg缓慢静脉注射，2~4小时后可再用地高辛0.25 mg或西地兰0.2 mg，AMI后24小时内应避免使用。", "category": "治疗与康复"}
+{"match_tokens": ["disease:其他病症", "symptom:呼吸窘迫"], "advice": "呼吸频率>25次/min且SpO2<90%的患者应尽快给予无创呼吸机辅助通气，采用持续气道正压通气和压力支持通气两种模式，无创通气时需监测血压，低血压患者应谨慎使用。", "category": "治疗与康复"}
+{"match_tokens": ["disease:其他病症", "symptom:呼吸衰竭"], "advice": "呼吸衰竭伴低氧血症（PaO2<60 mmHg）、PaCO2>50 mmHg及酸中毒（pH<7.35）且经无创通气无效者，需行气道插管和人工机械通气。", "category": "治疗与康复"}
+{"match_tokens": ["disease:其他病症"], "advice": "急性心衰稳定后应每日评估相关症状、容量负荷和治疗不良反应，调整治疗方案，避免诱发因素，加强基础心脏病的预防治疗和康复，恢复或启动慢性心衰治疗方案并制定随访计划。", "category": "治疗与康复"}
+{"match_tokens": ["disease:心衰"], "advice": "合理控制24小时液体出入量，保持出量多于入量500~1500ml。", "category": "治疗与康复"}
+{"match_tokens": ["disease:心衰"], "advice": "优化内科治疗后仍有严重症状>2个月且满足LVAD适应证者，应考虑植入LVAD。", "category": "治疗与康复"}
+{"match_tokens": ["disease:心衰", "symptom:快速心室率"], "advice": "房颤伴LVEF≤50%的患者，节律控制失败，药物治疗下仍有快速心室率，可以考虑进行房室结消融并植入CRT。", "category": "治疗与康复"}
+{"match_tokens": ["disease:心衰"], "advice": "LVEF≤40%的心衰患者应避免使用决奈达隆及长期口服Ⅰ类抗心律失常药物。", "category": "治疗与康复"}
+{"match_tokens": ["disease:心衰"], "advice": "房颤首次发作、持续时间<48小时或经食管超声心动图未见心房血栓证据者，应择期进行电复律或药物复律。", "category": "治疗与康复"}
+{"match_tokens": ["disease:急性心衰", "symptom:尖端扭转型室速"], "advice": "静脉应用硫酸镁及维持血钾水平在4.5~5.0 mmol/L，血镁≥2.0 mmol/L，通过临时起搏或药物使心室率提高至≥70次/min。", "category": "急症处理"}
+{"match_tokens": ["disease:心衰", "symptom:频发室性早搏"], "advice": "频发PVC负荷≥10%时考虑PVC诱导心肌病，建议导管消融治疗。", "category": "治疗与康复"}
+{"match_tokens": ["disease:冠心病", "disease:心衰", "symptom:心绞痛"], "advice": "HFrEF伴心绞痛患者首选β受体阻滞剂，β受体阻滞剂不耐受且心率≥70次/min时可加用伊伐布雷定。", "category": "治疗与康复"}
+{"match_tokens": ["disease:高血压", "disease:脑血管病"], "advice": "高血压患者应优化血压控制，特别是心衰患者，遵循高血压指南将血压控制目标降至<130/80 mmHg。", "category": "健康生活方式"}
+{"match_tokens": ["disease:糖尿病", "disease:心衰"], "advice": "建议二甲双胍作为糖尿病合并慢性心衰患者一线用药，禁用于严重肝肾功能损害或eGFR<30 ml·min-1·1.73 m-2患者。", "category": "治疗与康复"}
+{"match_tokens": ["disease:心衰"], "advice": "对于LVEF<45%、铁缺乏且有症状的心衰患者，建议静脉补充铁剂，以减轻心衰症状和改善生活质量。", "category": "治疗与康复"}
+{"match_tokens": ["disease:心衰"], "advice": "对于近期因心衰住院、LVEF<50%、铁缺乏且有症状的心衰患者，应考虑静脉补充铁剂，以降低心衰住院的风险。", "category": "治疗与康复"}
+{"match_tokens": ["disease:心衰"], "advice": "NYHA心功能Ⅱ~Ⅳ级的HFrEF患者伴有中枢性睡眠呼吸暂停低通气综合征时，不推荐给予伺服通气，因会增加患者死亡率。", "category": "治疗与康复"}
+{"match_tokens": ["disease:高原心脏病"], "advice": "高原肺水肿患者应及时转运到低海拔地区，保持坐位，吸氧使SpO2>90%。无条件转运时可使用便携式高压氧舱。药物治疗包括解痉平喘、糖皮质激素、利尿剂、硝苯地平控释片、β2受体激动剂，必要时可进行气管插管和呼吸机辅助呼吸、血液超滤等。", "category": "治疗与康复"}
+{"match_tokens": ["disease:脑血管病"], "advice": "对于有症状的、NYHA 心功能Ⅰ~Ⅲ级的 ATTR⁃CA 患者，推荐使用氯苯唑酸降低心血管住院率和死亡率。", "category": "治疗与康复"}
+{"match_tokens": ["disease:脑血管病"], "advice": "心衰住院患者出院后2~3个月内应加强随访，建议在出院后1~2周即开始进行早期随访，2周1次，病情稳定后大多数患者每3~6个月评估1次，部分患者需要更频繁地监测和随访。", "category": "治疗与康复"}
+{"match_tokens": ["disease:脑血管病"], "advice": "血容量稳定时，调整神经内分泌拮抗剂以达到最大耐受或目标剂量，门诊患者应每2周考虑调整治疗方案。", "category": "治疗与康复"}
+{"match_tokens": ["disease:脑血管病"], "advice": "经过3~6个月优化药物治疗后，评估是否有ICD和CRT指征。", "category": "治疗与康复"}
+{"match_tokens": ["disease:脑血管病"], "advice": "必要时行胸部影像学、动态心电图等检查，通常在规范化治疗后3个月、临床状况发生变化以及每6个月1次的病情评估时进行。", "category": "治疗与康复"}
+{"match_tokens": ["disease:心衰"], "advice": "患者应限制钠摄入，心衰急性发作伴容量负荷过重时限制钠摄入（<2 g/d），轻度或稳定期时不主张严格限钠。", "category": "健康生活方式"}
+{"match_tokens": ["disease:心衰"], "advice": "避免大量液体摄入，严重心衰患者限制液体摄入1.5~2.0 L/d，轻中度心衰患者常规限制液体并无获益，在高温、高湿或恶心呕吐期间应适当增加液体摄入以避免脱水。", "category": "健康生活方式"}
+{"match_tokens": ["disease:心衰"], "advice": "每日同一时间、同一条件下测量并记录体重。", "category": "健康生活方式"}
+{"match_tokens": ["disease:心衰"], "advice": "指导患者尽早发现心衰恶化的症状及如何应对，出现心衰加重的症状和（或）体征，如疲乏加重、呼吸困难加重、活动耐量下降、静息心率增加≥15次/min、出现水肿（尤其下肢）或加重、体重3日内突然增加2kg以上时，应增加利尿剂剂量并及时就诊。", "category": "急症处理"}
+{"match_tokens": ["population:孕妇", "disease:心衰"], "advice": "有体循环栓塞或心腔内血栓的孕期患者应接受抗凝治疗，LVEF<30%的围生期心肌病患者需考虑预防性抗凝治疗，合并房颤者根据妊娠分期选择抗凝药物。", "category": "治疗与康复"}

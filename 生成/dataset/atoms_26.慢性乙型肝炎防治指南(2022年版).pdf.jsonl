@@ -1,0 +1,53 @@
+{"match_tokens": ["age:小孩", "population:孕妇"], "advice": "新生儿乙型肝炎疫苗的接种部位为上臂外侧三角肌或大腿前外侧中部肌内注射，且新生儿应在出生后12小时内尽早注射乙型肝炎免疫球蛋白并在不同部位接种乙型肝炎疫苗。", "category": "健康生活方式"}
+{"match_tokens": ["population:新生儿", "disease:乙肝"], "advice": "对于HBsAg阴性母亲的新生儿，应在出生后12小时内尽早接种10μg重组酵母乙型肝炎疫苗，在1、6个月时分别接种第2剂和第3剂乙型肝炎疫苗。", "category": "健康生活方式"}
+{"match_tokens": ["population:新生儿", "disease:乙肝"], "advice": "对于危重症新生儿，如超低体质量儿（<1000g）、严重出生缺陷、重度窒息、呼吸窘迫综合征等，应在生命体征平稳后，尽早接种第1剂乙型肝炎疫苗。", "category": "健康生活方式"}
+{"match_tokens": ["population:新生儿", "disease:乙肝"], "advice": "对于HBsAg阳性或不详母亲的新生儿，应在出生后12小时内尽早注射1剂次100IU HBIG，同时在不同部位接种10μg重组酵母乙型肝炎疫苗，并在1、6个月时分别接种第2剂和第3剂乙型肝炎疫苗。", "category": "健康生活方式"}
+{"match_tokens": ["population:新生儿", "disease:乙肝"], "advice": "建议对HBsAg阳性或不详母亲所生儿童，于接种第3剂乙型肝炎疫苗后1～2个月时进行HBsAg和抗-HBs检测。", "category": "健康生活方式"}
+{"match_tokens": ["population:新生儿", "disease:乙肝"], "advice": "若HBsAg阴性、抗-HBs<10mIU/mL，可按0、1、6个月免疫程序再接种3剂乙型肝炎疫苗。", "category": "健康生活方式"}
+{"match_tokens": ["population:新生儿", "disease:乙肝"], "advice": "HBsAg阳性或不详母亲的早产儿、低体质量儿（<2500g）也应在出生后12小时内尽早接种HBIG和第1剂乙型肝炎疫苗。早产儿或低体质量儿满1月龄后，再按0、1、6个月程序完成3剂次乙型肝炎疫苗免疫。", "category": "健康生活方式"}
+{"match_tokens": ["population:新生儿", "disease:乙肝"], "advice": "新生儿在出生12小时内接种了HBIG和乙型肝炎疫苗后，可接受HBsAg阳性母亲的哺乳。", "category": "健康生活方式"}
+{"match_tokens": ["population:儿童", "disease:乙肝"], "advice": "对于未接种或未完成全程乙型肝炎疫苗的儿童，应及时进行补种。第1剂与第2剂间隔时间应≥28天，第2剂与第3剂间隔应≥60天。", "category": "健康生活方式"}
+{"match_tokens": ["population:儿童", "disease:乙肝"], "advice": "对3剂免疫程序无应答者，可再接种1剂60μg或3剂20μg乙型肝炎疫苗，并于完成第2次接种程序后1～2个月时检测血清抗-HBs，如仍无应答，可再接种1剂60μg重组酵母乙型肝炎疫苗。", "category": "健康生活方式"}
+{"match_tokens": ["risk:血液暴露", "disease:乙肝"], "advice": "意外暴露后应立即检测HBsAg、HBV DNA，3～6个月后复查。", "category": "急症处理"}
+{"match_tokens": ["risk:血液暴露", "disease:乙肝"], "advice": "如接种过乙型肝炎疫苗且有应答者，已知抗-HBs阳性（抗-HBs≥10mIU/mL），可不再注射HBIG或乙型肝炎疫苗。", "category": "急症处理"}
+{"match_tokens": ["risk:血液暴露", "disease:乙肝"], "advice": "如未接种乙型肝炎疫苗，或虽接种过乙型肝炎疫苗，但抗-HBs<10mLU/mL或抗-HBs水平不详者，应立即注射HBIG 200～400 IU，同时在不同部位接种1剂乙型肝炎疫苗（20μg），于1个月和6个月后分别接种第2剂和第3剂乙型肝炎疫苗（20μg）。", "category": "急症处理"}
+{"match_tokens": ["disease:乙肝"], "advice": "对ＨＢｓＡｇ阳性者，包括正在接受抗病毒治疗的ＣＨＢ患者，应尽可能采用高灵敏且检测线性范围大的ＨＢＶＤＮＡ检测方法（定量下限为１０～２０ＩＵ／ｍＬ）。", "category": "治疗与康复"}
+{"match_tokens": ["age:成人", "disease:乙肝"], "advice": "通过血清学标志物如APRI评分评估肝纤维化程度，成人APRI≥2提示存在肝硬化，APRI<1则排除肝硬化。", "category": "治疗与康复"}
+{"match_tokens": ["age:成人", "disease:乙肝"], "advice": "采用FIB-4指数评估肝纤维化程度，FIB-4≥3.25诊断肝纤维化和肝脏炎症分级，FIB-4<1.45排除严重肝纤维化。", "category": "治疗与康复"}
+{"match_tokens": ["disease:乙肝"], "advice": "抗病毒治疗后26周可观察TE测定值明显下降，提示纤维化逆转和炎症消退。", "category": "治疗与康复"}
+{"match_tokens": ["disease:乙肝"], "advice": "对于病毒学抑制的乙型肝炎肝硬化患者，LSM〈20 kPa且血小板计数〉150×10^9/L且SSM≤46 kPa时可免除胃镜筛查高风险食管静脉曲张。", "category": "治疗与康复"}
+{"match_tokens": ["disease:乙肝"], "advice": "再代偿定义为在病因消除或控制的基础上，至少1年内不再出现腹水（不用利尿剂）、肝性脑病（不用乳果糖或利福昔明）、食管胃静脉曲张出血等严重并发症，伴稳定的肝功能改善。", "category": "治疗与康复"}
+{"match_tokens": ["disease:乙肝"], "advice": "无创指标或肝组织学检查提示肝脏存在明显炎症（G≥2）或纤维化（F≥2）的HBV DNA阳性患者建议抗病毒治疗。", "category": "治疗与康复"}
+{"match_tokens": ["disease:乙肝"], "advice": "对HBsAg消失和（或）出现抗-HBs，并且经过巩固治疗至少6个月后，方可考虑停药。", "category": "治疗与康复"}
+{"match_tokens": ["disease:乙肝"], "advice": "治疗1年HBV DNA低于检测下限、ALT复常和HBeAg血清学转换，再巩固治疗至少3年（每隔6个月复查1次）仍保持不变，且HBsAg＜100 IU/mL，可尝试停药，但应严密监测，延长疗程可减少复发。", "category": "治疗与康复"}
+{"match_tokens": ["disease:乙肝"], "advice": "治疗24周时，若HBV DNA下降＜2 lg IU/mL且HBsAg定量＞2×10 4 IU/mL，建议停用Peg-IFN-α治疗，改为NAs治疗。", "category": "治疗与康复"}
+{"match_tokens": ["disease:乙肝"], "advice": "Peg-IFN-α有效患者疗程为48周，可以根据病情需要延长疗程，但不宜超过96周。", "category": "治疗与康复"}
+{"match_tokens": ["disease:乙肝"], "advice": "中性粒细胞计数≤0.75×10 9／L和（或）血小板计数＜50×10 9／L，应降低干扰素剂量；1～2周后复查，如恢复则增加至原量。", "category": "治疗与康复"}
+{"match_tokens": ["disease:乙肝"], "advice": "中性粒细胞计数≤0.5×10 9／L和（或）血小板计数＜25×10 9／L，则应暂停使用干扰素。", "category": "治疗与康复"}
+{"match_tokens": ["disease:乙肝"], "advice": "HBeAg阴性CHB患者治疗12周时，若HBV DNA下降＜2 lg IU/mL，或HBsAg定量下降＜1 lg IU/mL，建议停用Peg-IFN-α治疗，改为NAs治疗。", "category": "治疗与康复"}
+{"match_tokens": ["disease:乙肝"], "advice": "有效患者Peg-IFN-α疗程为48周，可根据病情需要延长疗程，但不宜超过96周。", "category": "治疗与康复"}
+{"match_tokens": ["disease:乙肝"], "advice": "治疗24周后，若HBsAg＜200 IU/mL或下降＞1 lg IU/mL，建议继续NAs联合Peg-IFN-α治疗至48～96周。", "category": "治疗与康复"}
+{"match_tokens": ["disease:乙肝"], "advice": "治疗24周后，若HBsAg仍≥200 IU/mL，可考虑停用Peg-IFN-α，继续NAs治疗。", "category": "治疗与康复"}
+{"match_tokens": ["disease:乙肝"], "advice": "慢性HBV携带状态和非活动性HBsAg携带状态患者建议每6～12个月进行血常规、生物化学、病毒学和LSM等检查，每6个月检测AFP及腹部超声筛查HCC。", "category": "治疗与康复"}
+{"match_tokens": ["disease:乙肝"], "advice": "抗病毒治疗过程中，定期监测血常规及肝脏生物化学指标HBV DNA定量及病毒学标志物LSM等，每3～6个月检测1次；无肝硬化者腹部超声检查和AFP检测每6个月1次；肝硬化者每3个月1次。", "category": "治疗与康复"}
+{"match_tokens": ["disease:乙肝"], "advice": "应用可能影响肾功能或骨代谢的药物者，每6～12个月检测1次血磷水平、肾功能指标，有条件者可监测肾小管早期损伤指标。", "category": "治疗与康复"}
+{"match_tokens": ["disease:乙肝"], "advice": "应用Peg-IFN-α的患者治疗第1个月血常规检查每1～2周1次，稳定后血常规、肝脏生物化学指标检查每月1次，甲状腺功能指标和血糖、HBV DNA、HBsAg、HBeAg和抗-HBe定量检测每3个月1次。", "category": "治疗与康复"}
+{"match_tokens": ["disease:乙肝"], "advice": "应用Peg-IFN-α患者LSM每6个月1次，无肝硬化者腹部超声检查和甲胎蛋白检测每6个月1次，肝硬化者每3个月1次，必要时做增强CT或增强MRI以早期发现HCC。", "category": "治疗与康复"}
+{"match_tokens": ["disease:乙肝"], "advice": "治疗结束后前三个月内应每月检测一次肝脏生物化学指标、乙型肝炎血清病毒学标志物和HBV DNA定量，此后每三个月检测一次，一年后每六个月检测一次。", "category": "治疗与康复"}
+{"match_tokens": ["disease:乙肝"], "advice": "所有慢性HBV感染者均应每六个月通过AFP和腹部超声检查进行HCC筛查；高风险人群建议每3～6个月筛查一次，必要时行增强CT或增强MRI。", "category": "治疗与康复"}
+{"match_tokens": ["disease:乙肝"], "advice": "CHB患者应用恩替卡韦、TDF、TAF或TMF治疗48周，HBV DNA可检出（HBV DNA > 20 IU/mL）者，排除依从性和检测误差后，可调整NAs治疗（应用恩替卡韦者换用TDF或TAF，应用TDF或TAF者换用恩替卡韦，或两种药物联合使用），也可以联合Peg-IFN-α治疗。", "category": "治疗与康复"}
+{"match_tokens": ["disease:乙肝"], "advice": "乙型肝炎肝硬化患者应用恩替卡韦、TDF或TAF治疗24周，若HBV DNA仍可检出（HBV DNA > 20 IU/mL），排除依从性和检测误差后，建议调整NAs治疗（应用恩替卡韦者换用TDF或TAF，应用TDF或TAF者换用恩替卡韦，或两种药物联合使用）。", "category": "治疗与康复"}
+{"match_tokens": ["disease:乙肝"], "advice": "HBsAg和（或）HBV DNA阳性者应在开始接受化学治疗、靶向药物及免疫抑制剂前应用NAs抗病毒治疗至少1周以上，急需治疗者可同时应用NAs抗病毒治疗。", "category": "治疗与康复"}
+{"match_tokens": ["disease:乙肝"], "advice": "HBV DNA阴性的患者可每1～3个月监测HBV DNA、HBsAg和ALT水平，一旦HBV DNA或HBsAg转为阳性，应立即启动抗病毒治疗。", "category": "治疗与康复"}
+{"match_tokens": ["disease:乙肝", "population:孕妇"], "advice": "妊娠中晚期如果HBV DNA定量＞2×10⁵ IU/mL，建议在与患者充分沟通，在其知情同意的基础上，于妊娠第24～28周开始抗病毒干预，应用TDF。", "category": "治疗与康复"}
+{"match_tokens": ["disease:乙肝", "population:孕妇"], "advice": "免疫耐受期口服NAs的孕妇，可于产后即刻或服用1～3个月后停药。停药后应加强产后监测，复查肝脏生物化学指标及HBV DNA。", "category": "治疗与康复"}
+{"match_tokens": ["disease:乙肝", "population:孕妇"], "advice": "产后4～6周时复查肝脏生物化学指标及HBV DNA，若肝脏生物化学指标正常，则每3个月复查1次，直至产后6个月；若乙型肝炎活动，建议抗病毒治疗。", "category": "治疗与康复"}
+{"match_tokens": ["age:小孩", "disease:乙肝"], "advice": "免疫耐受期患儿若ALT≤ULN但组织学检查显示存在肝脏炎症的，应及时接受抗病毒治疗。", "category": "治疗与康复"}
+{"match_tokens": ["age:小孩", "disease:乙肝"], "advice": "HBV DNA阳性，ALT<ULN的患儿需进行肝组织学评估，若肝脏组织学分级G≥1，应进行抗病毒治疗。", "category": "治疗与康复"}
+{"match_tokens": ["disease:乙肝", "disease:丙肝"], "advice": "HBsAg阳性且合并HCV感染者应用DAA治疗时，需给予NAs治疗以预防HBV再激活，并在DAA治疗结束12周后考虑停止NAs治疗。", "category": "治疗与康复"}
+{"match_tokens": ["disease:乙肝", "disease:无特定疾病"], "advice": "抗HBV治疗可改善HBV相关ACLF的长期预后，建议选择快速、强效、低耐药的NAs（恩替卡韦、TDF或TAF）。早期快速降低HBV DNA定量水平是治疗的关键，若HBV DNA定量水平在2～4周内能下降2 lg IU/mL，患者生存率可提高。", "category": "治疗与康复"}
+{"match_tokens": ["disease:乙肝", "population:肝移植患者"], "advice": "因HBV相关疾病进行肝移植患者，若HBsAg阳性，建议在肝移植前开始应用恩替卡韦、TDF或TAF进行抗病毒治疗。如移植前HBV DNA定量阴性，术前使用强效低耐药的NAs预防HBV再激活，术后无需加用HBIG；如HBV DNA阳性，术前应降低HBV DNA水平，术中无肝期应静脉注射HBIG，术后长期应用NAs并联合低剂量HBIG持续0.5～1.0年。", "category": "治疗与康复"}
+{"match_tokens": ["age:小孩", "disease:乙肝"], "advice": "年龄≥2岁，体质量≥10公斤的儿童使用恩替卡韦时，应根据体质量按表中推荐剂量服用，比如体质量10～11公斤给药0.15mg/日，30公斤以上按成人剂量0.5mg/日。", "category": "治疗与康复"}
+{"match_tokens": ["age:小孩", "disease:乙肝"], "advice": "年龄≥2岁且体质量≥17公斤，可口服富马酸替诺福韦酯片剂，按体质量分组服用，如17～＜22公斤服用150mg/日，≥35公斤服用300mg/日。", "category": "治疗与康复"}
+{"match_tokens": ["age:小孩", "disease:乙肝"], "advice": "年龄≥2岁且体质量≥10公斤，不能口服片剂的儿童可使用富马酸替诺福韦酯粉剂，按表中提供的专用小勺量服用，如10～＜12公斤服用80mg（2.0勺），≥35公斤服用300mg（7.5勺）。", "category": "治疗与康复"}
+{"match_tokens": ["age:小孩", "disease:乙肝"], "advice": "年龄≥12岁且体质量≥35公斤的儿童使用富马酸丙酚替诺福韦，推荐剂量为25mg/日。", "category": "治疗与康复"}

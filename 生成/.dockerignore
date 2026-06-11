@@ -1,0 +1,18 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+venv-*/
+build/
+test.ipynb
+*es_hits_debug.json
+*.log
+# 排除测试用 JSON，但保留 prompts 下的提示模板
+*.json
+!prompts/*.json
+dataset/
+.env
+es_existing_data/

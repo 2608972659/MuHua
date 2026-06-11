@@ -1,0 +1,5 @@
+{"match_tokens": ["bmi:超重", "bmi:肥胖"], "advice": "超重和肥胖人群应控制能量摄入，可根据减重目标，在现有能量摄入基础上每天减少500kcal左右的能量摄入。", "category": "健康生活方式"}
+{"match_tokens": ["risk:高盐饮食", "disease:高血压"], "advice": "每人每日食盐摄入量逐步降至5g以下，控制高钠食物摄入，增加富含钾的食物摄入，可以选择低钠盐(肾病、高钾血症除外)。", "category": "健康生活方式"}
+{"match_tokens": ["any:任何"], "advice": "每日蔬菜摄入不少于500g，水果摄入200g~350g。", "category": "健康生活方式"}
+{"match_tokens": ["sex:男"], "advice": "男性酒精摄入量每日不超过25g，每周不超过140g。", "category": "健康生活方式"}
+{"match_tokens": ["sex:女"], "advice": "女性酒精摄入量每日不超过15g，每周不超过80g。", "category": "健康生活方式"}

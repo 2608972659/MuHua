@@ -1,0 +1,252 @@
+{"match_tokens": ["age:成人", "disease:糖尿病"], "advice": "对于腹血糖≥5.5 mmol/L的人群建议进行口服葡萄糖耐量试验（OGTT）进行进一步筛查。", "category": "健康生活方式"}
+{"match_tokens": ["risk:缺乏运动", "disease:糖尿病"], "advice": "增加体力活动，保证每周不少于150分钟的运动，减少糖尿病发生风险。", "category": "健康生活方式"}
+{"match_tokens": ["risk:高盐饮食", "disease:糖尿病"], "advice": "减少红肉高摄入，避免超过每日100克，预防糖尿病。", "category": "健康生活方式"}
+{"match_tokens": ["disease:糖尿病"], "advice": "在行OGTT前3天应保证每天至少进食含有150克碳水化合物的食品，避免禁食或者过度限制碳水化合物以防止血糖水平假性升高。", "category": "健康生活方式"}
+{"match_tokens": ["age:成人", "disease:糖尿病", "risk:超重"], "advice": "使超重或肥胖个体的体重指数（BMI）达到或接近24 kg/m2，或体重至少下降5%。", "category": "健康生活方式"}
+{"match_tokens": ["age:成人", "disease:糖尿病"], "advice": "饮食中每日总热量至少减少400千卡。", "category": "健康生活方式"}
+{"match_tokens": ["age:成人", "disease:糖尿病", "risk:缺乏运动"], "advice": "鼓励增加日常活动量，每天进行至少20分钟的中等强度运动。", "category": "健康生活方式"}
+{"match_tokens": ["age:成人", "disease:糖尿病", "risk:缺乏运动"], "advice": "每天至少进行30分钟有氧运动和抗阻锻炼。", "category": "健康生活方式"}
+{"match_tokens": ["age:成人", "disease:糖尿病"], "advice": "如空腹血糖≥6.1 mmol/L、随机血糖≥7.8 mmol/L或糖化血红蛋白（HbA1c）≥5.7%，建议行口服葡萄糖耐量试验（OGTT）。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病", "bmi:超重"], "advice": "超重或肥胖者应每日减少总热量500~750 kcal。", "category": "健康生活方式"}
+{"match_tokens": ["disease:糖尿病", "age:成人"], "advice": "中等强度体力活动至少保持在150 min/周。", "category": "健康生活方式"}
+{"match_tokens": ["disease:糖尿病", "age:成人"], "advice": "每人每日食用盐的总量不超过5 g。", "category": "健康生活方式"}
+{"match_tokens": ["disease:糖尿病", "age:成人"], "advice": "饱和脂肪酸摄入占总脂肪酸摄入的30%以下。", "category": "健康生活方式"}
+{"match_tokens": ["disease:糖尿病"], "advice": "首次筛查结果正常者，宜至少每3年重复筛查1次。", "category": "健康生活方式"}
+{"match_tokens": ["disease:糖尿病", "risk:高盐饮食"], "advice": "对于具有至少一项危险因素的高危人群，应进行空腹血糖、随机血糖或糖化血红蛋白筛查。", "category": "健康生活方式"}
+{"match_tokens": ["disease:糖尿病"], "advice": "出现空腹血糖≥6.1 mmol/L、随机血糖≥7.8 mmol/L或HbA1c≥5.7%，建议行口服葡萄糖耐量试验，同时检测空腹血糖和2h血糖。", "category": "健康生活方式"}
+{"match_tokens": ["disease:糖尿病", "risk:缺乏运动"], "advice": "糖尿病高危人群应进行糖尿病筛查，筛查方法为空腹血糖加75g口服葡萄糖耐量试验（OGTT）2小时血糖。", "category": "健康生活方式"}
+{"match_tokens": ["disease:糖尿病", "population:儿童"], "advice": "儿童和青少年糖尿病高危人群BMI≥相应年龄、性别的第85百分位数，且合并母亲妊娠糖尿病史或一级亲属糖尿病史等危险因素时应进行筛查。", "category": "健康生活方式"}
+{"match_tokens": ["disease:糖尿病", "age:成人"], "advice": "糖尿病患者初诊时应进行空腹和餐后2小时血糖、胰岛素、C肽、糖化血红蛋白（HbA1c）、糖化白蛋白、肝功能、肾功能、血尿酸、血脂、血常规、血电解质、尿常规、尿白蛋白/肌酐比值（UACR）等检查，并根据血肌酐水平计算估算的肾小球滤过率（eGFR）。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病", "age:成人"], "advice": "复诊患者每次复诊时应询问膳食情况、体重变化、糖尿病症状、低血糖症状、并发症及伴发病的症状、对治疗方案的满意度，并测量血压、心率及检查下肢和足部皮肤。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病", "age:成人"], "advice": "每3个月测量1次体重、腰围和臀围。", "category": "健康生活方式"}
+{"match_tokens": ["disease:糖尿病", "age:成人"], "advice": "使用胰岛素及胰岛素促泌剂治疗的患者应在医师指导下进行自我血糖监测（SMBG），每次复诊时医师应查看患者的SMBG。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病", "age:成人"], "advice": "血糖控制良好者每6个月测定1次HbA1c，血糖控制不佳或近期调整治疗方案者每3个月测定1次HbA1c。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病", "age:成人"], "advice": "血脂、肝功能、肾功能、血尿酸、尿常规、UACR正常者可每年复查1次，异常者根据具体情况调整复查频次。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病", "age:成人"], "advice": "接受二甲双胍治疗的糖尿病患者每年测定1次血清维生素B12。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病", "age:成人"], "advice": "2型糖尿病患者建议每年筛查1次糖尿病视网膜病变（DR）、糖尿病肾病（DKD）和糖尿病神经病变，1型糖尿病患者诊断后5年每年筛查1次。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病", "age:成人"], "advice": "已确诊的糖尿病并发症病情稳定者可每6个月重新评估1次，如病情变化应立即重新评估并请相关科室医师会诊。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病"], "advice": "每个糖尿病管理单位应配备至少1名受过专门培训的糖尿病教育护士，组建包括内分泌或糖尿病专科医师、教育者、营养人员、运动处方师、临床药师或中医医师的多学科团队。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病", "age:成人"], "advice": "大多数非妊娠成年T2DM患者的糖化血红蛋白（HbA1c）控制目标为小于7.0%。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病", "age:成人"], "advice": "根据个体化原则，年轻、病程短、无并发症的T2DM患者可将HbA1c控制目标设定为不超过6.5%，否则可采取相对宽松的控制目标。", "category": "治疗与康复"}
+{"match_tokens": ["age:成人", "disease:糖尿病"], "advice": "推荐大多数非妊娠成年T2DM患者HbA1c的控制目标为<7%。", "category": "健康生活方式"}
+{"match_tokens": ["age:成人", "disease:糖尿病"], "advice": "年龄较轻、病程较短、预期寿命较长、无并发症、未合并心血管疾病的T2DM患者在无低血糖或其他不良反应的情况下，可采取更严格的HbA1c控制目标（如<6.5%甚至正常）。", "category": "健康生活方式"}
+{"match_tokens": ["age:成人", "disease:糖尿病"], "advice": "经单纯生活方式干预或使用不增加低血糖风险的降糖药物，治疗后达到HbA1c≤6.5%且未出现药物不良反应的非老年患者，无需减弱降糖治疗强度。", "category": "治疗与康复"}
+{"match_tokens": ["age:成人", "disease:糖尿病"], "advice": "一般成人T2DM患者SMBG的空腹血糖控制目标为4.4~7.0mmol/L，非空腹血糖目标为<10.0mmol/L，且空腹血糖和非空腹血糖目标应个体化。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病"], "advice": "三联治疗血糖仍不达标，则应调整为多次胰岛素治疗（基础胰岛素加餐时胰岛素或每日多次预混胰岛素类似物），采用多次胰岛素治疗时应停用胰岛素促泌剂。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病"], "advice": "通过改变膳食模式与习惯、调整营养素结构、由专科营养（医）师给予个体化营养治疗，可以降低2型糖尿病患者的糖化血红蛋白（HbA1c）0.3%~2.0%，并有助于维持理想体重及预防营养不良。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病", "bmi:超重"], "advice": "超重或肥胖的糖尿病患者，应首先调整以饮食、运动、行为为主体的生活方式，控制总能量摄入，保证减轻体重5%。", "category": "健康生活方式"}
+{"match_tokens": ["disease:糖尿病"], "advice": "糖尿病患者能量摄入参考通用系数方法，按照每日105~126kJ（25~30kcal）/kg（标准体重）计算能量摄入，并根据身高、体重、性别、年龄、活动量、应激状况等进行系数调整。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病"], "advice": "膳食中脂肪提供的能量应占总能量的20%~30%；如为优质脂肪（单不饱和脂肪酸和ω-3多不饱和脂肪酸），脂肪供能比可适当提高至35%，有助于改善血脂和血糖。", "category": "健康生活方式"}
+{"match_tokens": ["disease:糖尿病"], "advice": "应尽量限制饱和脂肪酸和反式脂肪酸的摄入量，饱和脂肪酸供能比不超过总能量的12%，反式脂肪酸供能比不超过2%。", "category": "健康生活方式"}
+{"match_tokens": ["disease:糖尿病"], "advice": "建议大多数糖尿病患者膳食中碳水化合物所提供的能量占总能量的45%~60%。餐后血糖控制不佳者，可适当降低碳水化合物的供能比。", "category": "健康生活方式"}
+{"match_tokens": ["age:成人", "disease:糖尿病", "bmi:体重过低"], "advice": "根据不同身体活动水平，成人糖尿病患者每日能量供给量应参考标准体重和活动量进行调整，体重过低者活动量轻时每日能量约104~125kcal/kg标准体重。", "category": "治疗与康复"}
+{"match_tokens": ["age:成人", "disease:糖尿病", "bmi:正常"], "advice": "正常体重成人糖尿病患者活动量轻时每日能量供给约104~125kcal/kg标准体重，活动较重时可增加至167kcal/kg。", "category": "治疗与康复"}
+{"match_tokens": ["age:成人", "disease:糖尿病", "bmi:超重"], "advice": "超重成人糖尿病患者活动量轻时每日能量供给约84~104kcal/kg标准体重，活动重时增加至146kcal/kg，休息状态减少为62~84kcal/kg。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病", "age:成人"], "advice": "增加膳食纤维的摄入量，特别保证可溶性膳食纤维摄入10~20克每天，有助于控制血糖，降低全因死亡率。", "category": "健康生活方式"}
+{"match_tokens": ["disease:糖尿病", "age:成人"], "advice": "肾功能正常的糖尿病患者，蛋白质供能比应为15%~20%，优质蛋白占总蛋白一半以上。", "category": "健康生活方式"}
+{"match_tokens": ["disease:糖尿病", "age:成人"], "advice": "有显性蛋白尿或肾小球滤过率下降的糖尿病患者，蛋白质摄入应控制在每日0.8克/公斤体重，并推荐摄入优质蛋白。", "category": "健康生活方式"}
+{"match_tokens": ["disease:糖尿病", "age:成人", "risk:高盐饮食"], "advice": "食盐摄入量限制在5克每天以内，合并高血压的患者可进一步限制摄入量。", "category": "健康生活方式"}
+{"match_tokens": ["disease:糖尿病", "age:成人"], "advice": "胰高糖素样肽-1受体激动剂患者应在控制总能量的同时补充优质蛋白质（15%~20%及以上），补充复合维生素和维生素D，并配合抗阻运动以减少肌肉流失。", "category": "健康生活方式"}
+{"match_tokens": ["disease:糖尿病", "age:成人"], "advice": "建议成人糖尿病患者每周进行至少150~300分钟中等强度有氧运动及2次抗阻练习。", "category": "健康生活方式"}
+{"match_tokens": ["disease:糖尿病", "age:成人"], "advice": "增加日常身体活动，减少静坐时间，每30分钟进行不同强度活动1~5分钟，久坐生活方式者应达到运动量标准。", "category": "健康生活方式"}
+{"match_tokens": ["disease:糖尿病"], "advice": "糖尿病患者运动前的血糖水平应介于5.0~13.9 mmol/L，血糖≥16.7 mmol/L或血糖<3.9 mmol/L者禁止参加中等及以上强度运动，待病情控制稳定后经医师评估许可可逐步恢复运动。", "category": "健康生活方式"}
+{"match_tokens": ["disease:糖尿病", "age:成人"], "advice": "成年糖尿病患者每周进行至少150~300分钟中等强度有氧运动，每周运动3~7天，每日持续或累计运动时间30~60分钟，有氧运动间隔不应超过2天。", "category": "健康生活方式"}
+{"match_tokens": ["disease:糖尿病", "age:成人"], "advice": "无运动习惯的糖尿病患者可以从每日20分钟低强度有氧运动开始，逐渐增加至每日60分钟左右，逐渐进阶到中等强度运动。", "category": "健康生活方式"}
+{"match_tokens": ["disease:糖尿病", "age:成人"], "advice": "如无禁忌证，糖尿病患者应每周进行2~3次抗阻运动（两次锻炼间隔≥48小时），锻炼肌肉力量和耐力，锻炼部位包括上肢、下肢、躯干，每个肌群练习2~4组，每组重复10~15次。", "category": "健康生活方式"}
+{"match_tokens": ["disease:糖尿病", "age:成人"], "advice": "糖尿病患者应进行柔韧性训练，多采用静态拉伸方式，每个动作拉伸10~30秒，重复2~4次，每个动作拉伸时间累计60秒，多个部位总计小于10分钟，每周2~3次。", "category": "健康生活方式"}
+{"match_tokens": ["disease:糖尿病", "age:成人"], "advice": "培养活跃的生活方式，增加日常生活中的身体活动，如步行、骑车、外出购物、做家务等；减少静坐时间，连续静坐时间不超过30分钟，每30分钟进行1~5分钟不同强度活动。", "category": "健康生活方式"}
+{"match_tokens": ["disease:糖尿病", "age:成人"], "advice": "糖尿病患者开始运动时要量力而行，循序渐进，从低强度、短时间、小运动量开始。运动前进行5~10分钟低强度有氧运动作为准备活动，运动后进行至少10分钟低强度有氧运动和拉伸等整理活动。", "category": "健康生活方式"}
+{"match_tokens": ["disease:糖尿病", "age:成人", "risk:低血糖"], "advice": "运动前、后及运动中间断测血糖，适当调整饮食并在医师指导下调整药物，保持血糖相对稳定。餐前运动应先摄入10~30克碳水化合物，避免低血糖发生。", "category": "健康生活方式"}
+{"match_tokens": ["disease:糖尿病"], "advice": "对于糖化血红蛋白（HbA1c）高于目标值1.5%的患者，应考虑初始联合应用降糖药物治疗。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病"], "advice": "造影检查当日停用二甲双胍，检查完至少48小时且复查肾功能无变化后可继续用药。", "category": "治疗与康复"}
+{"match_tokens": ["age:成人", "disease:糖尿病"], "advice": "SGLT2i 单药治疗能降低 HbA1c 0.5%~1.2%，在二甲双胍基础上联合治疗可进一步降低 HbA1c 0.4%~0.8%。", "category": "治疗与康复"}
+{"match_tokens": ["age:成人", "disease:糖尿病"], "advice": "SGLT2i 可使体重下降0.6~3.0 kg，并有一定的降压作用。", "category": "治疗与康复"}
+{"match_tokens": ["age:成人", "disease:糖尿病"], "advice": "eGFR≥20 ml·min-1·（1.73 m2）-1 的患者可使用 SGLT2i；eGFR<45 ml·min-1·（1.73 m2）-1 患者降糖效应降低，但仍具有肾脏保护作用。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病"], "advice": "T1DM患者建议使用每日多次注射餐时胰岛素和基础胰岛素或持续皮下胰岛素输注（CSII）替代治疗。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病"], "advice": "对于HbA1c≥9.0%或空腹血糖≥11.1mmol/L同时伴明显高血糖症状的新诊断T2DM患者，可考虑实施短期（2周至3个月）胰岛素强化治疗。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病"], "advice": "胰岛素强化治疗可以采用每日2~4次注射或CSII方法，T2DM患者采用餐时胰岛素+基础胰岛素（4次/d）与每日3次预混胰岛素类似物治疗的降糖疗效和安全性相似。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病"], "advice": "T2DM患者在生活方式干预和经足量口服降糖药物治疗3个月后HbA1c仍≥7.0%时，即可开始口服降糖药和基础胰岛素或FRC的联合治疗。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病"], "advice": "使用基础胰岛素时，继续口服降糖药治疗，联合中效胰岛素或长效胰岛素类似物睡前注射，起始剂量为0.1~0.2 U·kg⁻¹·d⁻¹，HbA1c>8.0%者可考虑0.2~0.3 U·kg⁻¹·d⁻¹起始，BMI≥25 kg/m²者起始剂量可为0.3 U·kg⁻¹·d⁻¹。根据患者空腹血糖水平每3~5天调整胰岛素用量1~4 U直至血糖达标。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病"], "advice": "长效胰岛素类似物周制剂每周1次皮下注射，剂量应根据患者血糖情况调整直至达标。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病"], "advice": "每日1次预混胰岛素方案起始剂量一般为0.2 U·kg⁻¹·d⁻¹，晚餐前注射，根据患者空腹血糖每3~5天调整胰岛素用量1~4 U直至达标。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病"], "advice": "每日2次预混胰岛素方案起始剂量一般为0.2~0.4 U·kg⁻¹·d⁻¹，按1:1比例分配到早餐前和晚餐前。根据空腹血糖和晚餐前血糖分别调整胰岛素用量，每3~5天调整1次，调整量为1~4 U，直至血糖达标。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病", "bmi:肥胖"], "advice": "肥胖或HbA1c>8.0%的患者，可选择更高剂量起始德谷门冬双胰岛素。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病"], "advice": "德谷胰岛素利拉鲁肽注射液用法：口服降糖药治疗患者推荐起始剂量10单位；基础胰岛素或GLP-1RA治疗转换患者推荐起始剂量16单位，根据空腹血糖调整剂量，在每日相同时间给药。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病"], "advice": "甘精胰岛素利司那肽用法：根据患者既往降糖治疗和代谢情况评估甘精胰岛素剂量，评估用量≤10U者注射笔(I)，>10U者注射笔(II)，餐前1小时内注射，每日同一餐前注射一次。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病"], "advice": "基础胰岛素与GLP-1RA的FRC建议根据空腹血糖水平调整剂量至达标，日最大剂量不超过GLP-1RA的最大推荐剂量。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病"], "advice": "多次皮下注射胰岛素方案：初始每日总剂量以0.4~0.5U·kg-1·d-1估算，基础胰岛素占50%，剩余分配至三餐前，依据餐前和空腹血糖每1~3天调整剂量1~4U，直至血糖达标。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病"], "advice": "每日2~3次预混胰岛素剂量调整：依据睡前及三餐前血糖每3~5天调整1次，每次调整剂量1~4U，直至血糖达标。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病"], "advice": "HbA1c≥9.0%或空腹血糖≥11.1mmol/L伴明显高血糖症状新诊断T2DM患者，可实施2周至3个月的短期胰岛素强化治疗，目标空腹血糖4.4~7.0mmol/L，非空腹血糖<10.0mmol/L。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病"], "advice": "短期胰岛素强化治疗期间，采用多次皮下注射胰岛素、每日2~3次预混胰岛素或CSII，并根据血糖水平定期调整胰岛素剂量及监测血糖。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病"], "advice": "多次皮下注射胰岛素方案下，血糖监测每周至少3天，每日3~4个时间点，依据餐前及睡前血糖调整胰岛素剂量，每3~5天调整1次，调整量1~4U。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病"], "advice": "采用每日2~3次预混胰岛素的短期强化治疗时，血糖监测每周至少3天，每日3~4个时间点，根据睡前和餐前血糖调整胰岛素剂量，每3~5天调整1次，调整量1~4U。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病"], "advice": "采用CSII短期强化治疗时，血糖监测每周至少3天，每日5~7个时点，根据血糖水平调整胰岛素剂量直至达标。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病"], "advice": "以血糖接近正常化为目标时，可采取更积极的监测和胰岛素调整方案，如每日监测5~7次血糖，应用CGM技术，并关注餐后血糖达标。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病"], "advice": "在伴有显著高血糖（平均HbA1c 11.0%）的新诊断T2DM患者中，短期胰岛素强化治疗后序贯使用简化的口服药方案可达到持久的降糖效果。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病", "risk:超重"], "advice": "超重或肥胖成人2型糖尿病患者体重减轻5%，可改善血糖以及血压、血脂等心血管代谢危险因素。", "category": "健康生活方式"}
+{"match_tokens": ["disease:糖尿病", "bmi:超重"], "advice": "针对超重或肥胖的T2DM患者，体重减轻5%是体重管理的基本要求，可制定半年体重管理计划，关注饮食、体育锻炼和行为，达到每日减少500~750 kcal总能量的目标。", "category": "健康生活方式"}
+{"match_tokens": ["disease:糖尿病", "bmi:超重"], "advice": "通过6个月的强化行为生活方式干预达到体重减轻目标的患者，应制定长期（至少1年）的综合减重维持计划，至少每月由医师或营养师随访1次，持续监测体重，跟踪饮食和运动状态。", "category": "健康生活方式"}
+{"match_tokens": ["disease:糖尿病", "bmi:超重"], "advice": "减重作用显著的药物如替尔泊肽治疗40周可减轻8.5%~13.1%体重；司美格鲁肽、利拉鲁肽等GLP-1RA类药物也有较强减重作用。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病", "bmi:超重"], "advice": "患者治疗初期3个月内若体重减轻不足5%，或有安全性或耐受性问题，应考虑停药并选择其他药物或治疗方法。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病", "bmi:肥胖", "age:成人"], "advice": "年轻或中年（18~60岁）、一般状况良好且生活方式和药物治疗难以控制的T2DM患者，HbA1c>7.0%，BMI≥32.5可考虑代谢手术治疗。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病", "bmi:超重"], "advice": "对于BMI在27.5 kg/m2至32.5 kg/m2且有2型糖尿病，尤其存在其他心血管风险因素的患者，可慎重选择代谢手术。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病", "bmi:超重"], "advice": "对于BMI在25.0 kg/m2至27.5 kg/m2的2型糖尿病患者，如合并中心型肥胖（男性腰围≥90 cm，女性≥85 cm）并由影像学检查证实，经多学科综合评估及伦理审批后可酌情提高手术推荐等级。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病"], "advice": "不推荐BMI低于25.0 kg/m2的患者进行代谢手术。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病", "bmi:肥胖"], "advice": "BMI≥50 kg/m2的严重肥胖伴2型糖尿病患者可以选择胆胰转流十二指肠转位术，但需严格监控营养代谢紊乱状况并予以补充。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病"], "advice": "术后在停用降糖药物的情况下一直维持HbA1c≤6.5%达3个月以上，可视为2型糖尿病缓解。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病"], "advice": "术前应进行糖代谢（包括空腹及餐后2小时血糖、胰岛素及C肽、HbA1c等）、血脂、肝功能、肾功能、尿常规、血常规、凝血功能和营养评估等常规实验室检查。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病"], "advice": "术前要进行心肺功能评估，包括睡眠监测、血气分析、肺功能检查、24小时动态心电图和血压测定、超声心动图、胸部X线片及喉镜检查。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病"], "advice": "限制总热量摄入，实行渐进式阶段饮食，清流质饮食约1周，流质饮食约1个月，随后逐渐过渡到软质和固体食物。", "category": "健康生活方式"}
+{"match_tokens": ["disease:糖尿病"], "advice": "进食速度放慢，每餐进食约30分钟，少食多餐，细嚼慢咽，防止胃出口梗阻和呕吐。", "category": "健康生活方式"}
+{"match_tokens": ["disease:糖尿病"], "advice": "每日摄入足够水分，保证蛋白质摄入量，酌情补充多种维生素与微量元素，定期随访监测微量元素水平。", "category": "健康生活方式"}
+{"match_tokens": ["disease:糖尿病"], "advice": "避免油炸和不易消化的食物，避免进餐时喝汤和喝水，可在两餐之间或餐后45分钟再摄入汤水。", "category": "健康生活方式"}
+{"match_tokens": ["disease:糖尿病"], "advice": "每日轮换进行餐前和餐后2小时配对血糖监测，可改善HbA1c水准且不影响生活质量。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病"], "advice": "使用口服降糖药者应每周监测2至4次空腹或餐后2小时血糖。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病"], "advice": "CGM监测时推荐佩戴时间为14天，使用时间占比应达到70%以上以保证数据的充分性和准确性。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病"], "advice": "血糖控制目标中多数1型及2型糖尿病患者的目标范围内血糖时间（TIR）应大于70%，并结合个体情况同时关注低血糖及血糖波动。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病"], "advice": "建议使用动态葡萄糖图谱（AGP）标准化报告形式，将多日血糖数据叠加并在24小时维度内解读，以评估血糖变化的特点。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病"], "advice": "使用胰岛素泵前，需根据患者体重计算每日胰岛素总量。T1DM患者每日总量=体重（kg）×0.4~0.5 U/kg；T2DM患者每日总量=体重（kg）×0.5~0.8 U/kg；胰岛素泵治疗所用剂量通常低于多次胰岛素注射，剂量可根据患者实际情况适当下调。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病"], "advice": "胰岛素泵基础输注量占全天胰岛素总量的40%~60%，可将24小时分为若干时间段，设置不同输注速率，餐前大剂量可按1/3、1/3、1/3分配。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病"], "advice": "补液是首要治疗措施，首选生理盐水，原则上先快后慢，推荐在第1个24小时内补足预先估计的液体丢失量。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病"], "advice": "血钾低于5.0 mmol/L并有足够尿量（>40 ml/h）时即开始补钾。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病"], "advice": "严重酸中毒（pH值<7.0）需适当补充碳酸氢钠液。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病"], "advice": "当血糖低于13.9 mmol/L时，调整补充液体为5%的葡萄糖或葡萄糖氯化钠注射液，以防止低血糖。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病"], "advice": "血糖低于13.9 mmol/L时，将胰岛素输注速率降低至0.05 U·kg-¹·h-¹，调整液体为5%葡萄糖或葡萄糖氯化钠注射液，维持血糖约11.1 mmol/L，持续进行胰岛素滴注直至DKA缓解。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病"], "advice": "开始胰岛素及补液治疗后，若患者尿量正常，血钾低于5.0 mmol/L应静脉补钾，补钾量一般为每升输入溶液中加氯化钾1.5~3.0克，以维持血钾水平在4~5 mmol/L。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病"], "advice": "DKA患者注射胰岛素治疗后可纠正酸中毒，如无循环衰竭一般无需额外补碱，pH值小于7.0时考虑补碱，每2小时测定一次血pH值直至其维持在7.0以上。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病"], "advice": "补液首选0.9%氯化钠溶液，当血糖下降至16.7 mmol/L时，需补充5%葡萄糖溶液。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病"], "advice": "至少每年对糖尿病患者进行全面的心血管疾病危险因素筛查评估，包括心血管病史、年龄、超重与肥胖、高血压、血脂紊乱、吸烟、早发CVD家族史、慢性肾脏病、白蛋白尿、心房颤动等。", "category": "健康生活方式"}
+{"match_tokens": ["disease:糖尿病"], "advice": "补液时采用等渗溶液（如0.9%氯化钠溶液），第1小时给予1.0~1.5L，随后根据脱水程度调整补液速度，必要时使用低渗溶液，严密监测血浆渗透压和尿量。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病"], "advice": "静脉滴注小剂量胰岛素（0.05~0.10U/kg/h），在血糖下降至16.7mmol/L时补充含糖液，调整胰岛素比例以维持血糖在13.9~16.7mmol/L直至缓解。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病", "symptom:高血压"], "advice": "当诊室测量血压确诊高血压后，建议进行家庭血压测量和条件允许时进行24小时动态血压监测。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病", "symptom:高血压"], "advice": "血压超过120/80 mmHg时，应开始生活方式干预预防高血压发生。", "category": "健康生活方式"}
+{"match_tokens": ["disease:糖尿病", "symptom:高血压"], "advice": "血压≥140/90 mmHg时可考虑开始降压药物治疗。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病", "symptom:高血压"], "advice": "血压≥160/100 mmHg或高于目标值20/10 mmHg时，应立即开始降压药物治疗，并应用联合治疗方案。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病", "symptom:高血压"], "advice": "糖尿病合并高血压患者血压目标一般为<130/80 mmHg。", "category": "治疗与康复"}
+{"match_tokens": ["population:孕妇", "disease:糖尿病", "symptom:高血压"], "advice": "糖尿病妊娠女性合并高血压，建议血压控制目标为110~135/85 mmHg。", "category": "治疗与康复"}
+{"match_tokens": ["age:老年人", "disease:糖尿病", "symptom:高血压"], "advice": "老年或伴严重冠心病糖尿病患者血压目标可相对宽松，但收缩压降至130 mmHg可进一步降低MACE发生率。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病"], "advice": "糖尿病患者降压治疗应优选长效制剂，有效平稳控制24小时血压（包括夜间血压与晨峰血压），必要时可考虑睡前服药。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病"], "advice": "糖尿病患者每年至少应检查一次血脂，包括总胆固醇、甘油三酯、LDL-C和HDL-C。接受调脂药物治疗者4~12周后检查依从性和血脂改变情况，并根据需要每3~12个月复查一次。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病"], "advice": "ASCVD或高危及极高危患者接受调脂药物标准治疗3个月后无法达到目标，可考虑将LDL-C较基线降低50%作为替代目标。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病"], "advice": "如果空腹甘油三酯（TG）≥5.7 mmol/L，为预防急性胰腺炎，首先使用降低TG的药物。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病", "disease:高血压"], "advice": "ASCVD患者若他汀类药物联合胆固醇吸收抑制剂4~6周后仍不达标，可加用前蛋白转化酶枯草溶菌素/kexin 9型抑制剂，进一步降低心血管风险。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病", "disease:高血压"], "advice": "ASCVD患者及高危人群，LDL-C已达标但TG>2.3 mmol/L，可考虑予二十碳五烯酸乙酯治疗，以降低心血管风险。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病", "disease:高血压"], "advice": "空腹TG≥5.7 mmol/L时，为预防急性胰腺炎，首先使用降低TG的药物如贝特类。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病", "disease:高血压"], "advice": "糖尿病合并动脉粥样硬化性心血管疾病患者需应用阿司匹林（75~150 mg/d）作为二级预防，并充分评估出血风险。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病", "age:成人"], "advice": "对于年龄≥50岁且合并至少1项主要危险因素（早发ASCVD家族史、高血压、血脂异常、吸烟、CKD或蛋白尿）且无出血高风险的糖尿病患者，可考虑阿司匹林作为一级预防。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病", "age:成人"], "advice": "不推荐在ASCVD低危患者中应用阿司匹林；年龄>70岁老年人使用阿司匹林作为一级预防出血风险大于获益。", "category": "治疗与康复"}
+{"match_tokens": ["age:小孩"], "advice": "由于可能导致Reye综合征，年龄<21岁的患者一般禁止使用阿司匹林。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病"], "advice": "使用最低剂量阿司匹林（75~150 mg/d）可减少不良反应，且每日多次给药较单次给药更能抑制血小板反应性。体重<70 kg的患者小剂量阿司匹林有效，体重≥70 kg的患者则需更高剂量。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病"], "advice": "急性冠脉综合征和冠状动脉血管重建术后患者应应用1种P2Y12受体拮抗剂与阿司匹林联用至少1年，延长时间可能获益更多。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病"], "advice": "对于所有2型糖尿病及病程≥5年的1型糖尿病患者，每年至少进行1次尿白蛋白/肌酐比值（UACR）和估算的肾小球滤过率（eGFR）评估，以早期发现糖尿病肾病。已确诊者根据肾病进展危险分层，每年至少随访1~4次。", "category": "健康生活方式"}
+{"match_tokens": ["disease:糖尿病"], "advice": "膳食蛋白质摄入量控制在0.8克/公斤/天，避免蛋白摄入过高（>1.3克/公斤/天）或过低（<0.8克/公斤/天），以保护肾功能。", "category": "健康生活方式"}
+{"match_tokens": ["disease:糖尿病"], "advice": "推荐糖尿病肾病患者膳食钠摄入量<2克/天（<90 mmol/d 或氯化钠<5克/天），有助于控制血压。", "category": "健康生活方式"}
+{"match_tokens": ["disease:糖尿病"], "advice": "对于UACR<30 mg/g且不伴高血压的糖尿病患者，不推荐使用ACEI或ARB类药物作为糖尿病肾病的一级预防。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病"], "advice": "对eGFR≥15 ml·min-¹·（1.73 m²）-¹的DKD患者，可使用具有心肾获益循证依据的GLP-1RA。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病"], "advice": "优化血压控制能延缓肾病进展及降低心血管疾病风险，推荐DKD患者的血压控制目标<130/80 mmHg。", "category": "健康生活方式"}
+{"match_tokens": ["disease:糖尿病"], "advice": "合并高血压且UACR>300 mg/g或eGFR<60 ml·min-¹·（1.73 m²）-¹的DKD患者，强烈推荐采用ACEI或ARB类药物治疗，但不推荐两者联合。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病"], "advice": "在起始ACEI或ARB治疗或药物加量后的2~4周需监测血肌酐和血钾变化，若血肌酐轻度升高（≤30%）需注意排查肾缺血等情况，但不必停用药物。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病"], "advice": "对于UACR>30 mg/g且eGFR≥25 ml·min-¹·（1.73 m²）-¹及血钾≤5.0 mmol/L的T2DM合并CKD患者中使用非奈利酮，用药期间需监测血钾，当血钾>5.5 mmol/L应暂停使用。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病"], "advice": "DKD患者应根据肾病进展风险分层进行随访，每年至少1~4次，具体频率根据CKD分期调整。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病"], "advice": "CKD4~5期采用综合治疗效果不佳、非糖尿病所致CKD考虑肾脏功能急剧下降或有严重并发症时，应及时转诊肾脏病专科。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病"], "advice": "2型糖尿病患者诊断后应进行首次眼病筛查，无DR者以后每1~2年复查1次，有DR者应增加检查频率。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病"], "advice": "无DR且血糖控制良好的患者，至少每1~2年筛查1次。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病"], "advice": "轻度非增殖型糖尿病视网膜病变（NPDR）患者每6~12个月筛查1次。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病"], "advice": "中度NPDR患者每3~6个月筛查1次。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病"], "advice": "重度NPDR患者每3个月筛查1次。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病"], "advice": "有临床意义的中心性浸润性黄斑水肿患者1个月复查1次。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病"], "advice": "非中心性浸润性黄斑水肿患者每3个月复查1次。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病", "population:孕妇", "sex:女"], "advice": "女性糖尿病患者准备妊娠应做详细眼科检查，怀孕的糖尿病患者应在妊娠前或第1次产检、妊娠后每3个月及产后1年内进行眼科检查。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病"], "advice": "中度NPDR需及时至眼科就诊；非累及黄斑中心凹的DME于3~6个月内至眼科就诊。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病"], "advice": "DR患者应强化降糖和持久平稳降糖，重视降糖的速度与幅度，避免HbA1c在3个月内下降超过2%。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病"], "advice": "所有2型糖尿病患者确诊时和1型糖尿病患者诊断5年后，应进行糖尿病神经病变筛查，随后至少每年筛查1次。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病"], "advice": "T2DM 患者在确诊时、T1DM 患者在确诊后5年均应接受周围神经病变(DSPN)的筛查，此后至少每年接受1次筛查。", "category": "健康生活方式"}
+{"match_tokens": ["disease:糖尿病"], "advice": "进行心率变异及体位变化时血压测定、24小时动态血压监测等方法协助诊断糖尿病自主神经病变 (CAN)。", "category": "治疗与康复"}
+{"match_tokens": ["age:成人", "disease:糖尿病"], "advice": "伴有LEAD发病危险因素（如合并心脑血管病变、血脂异常、高血压、吸烟、糖尿病病程5年以上）的患者，应每年至少筛查一次LEAD。", "category": "健康生活方式"}
+{"match_tokens": ["age:成人", "disease:糖尿病"], "advice": "达到HbA1c≤7.0%的血糖控制目标，有助于糖尿病患者的血管健康。", "category": "健康生活方式"}
+{"match_tokens": ["age:成人", "disease:糖尿病"], "advice": "保持血压在≤140/90 mmHg的控制目标，提高患者预后。", "category": "健康生活方式"}
+{"match_tokens": ["age:成人", "disease:糖尿病", "risk:高盐饮食"], "advice": "糖尿病患者应控制血脂，合并冠心病者LDL-C应≤2.06 mmol/L，未合并冠心病者LDL-C应≤2.60 mmol/L。", "category": "健康生活方式"}
+{"match_tokens": ["disease:糖尿病"], "advice": "严格控制血糖（HbA1c<8%），根据严重低血糖风险可适当放宽。", "category": "健康生活方式"}
+{"match_tokens": ["disease:糖尿病", "risk:高盐饮食"], "advice": "严格控制血压（<140/90 mmHg），但根据直立性低血压和其他不良反应风险可适当放宽。", "category": "健康生活方式"}
+{"match_tokens": ["disease:糖尿病"], "advice": "严格控制血脂，LDL⁃C 目标值<1.8 mmol/L 并至少较基线降低 50%，能耐受高强度他汀类药物者目标水平<1.4 mmol/L。", "category": "健康生活方式"}
+{"match_tokens": ["disease:糖尿病", "symptom:间歇性跛行"], "advice": "指导患者进行运动康复锻炼，采用平板运动或走步，强度达到引发间歇性跛行后休息，每次30~45分钟，每周至少3次，持续3~6个月。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病", "symptom:间歇性跛行"], "advice": "单用抗血小板治疗，给予阿司匹林75~160 mg/d或氯吡格雷75 mg/d，后者更优。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病", "disease:CLTI"], "advice": "血管重建手术目标为恢复至少一条足动脉血流，术中考虑靶向开通溃疡解剖区域动脉，术后通过非侵入性床边方法评估灌注。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病"], "advice": "对所有糖尿病患者每年进行1次全面的足部检查，以确定溃疡发生的风险等级，检查内容包括详细询问病史、体格检查、神经评估和血管评估。", "category": "健康生活方式"}
+{"match_tokens": ["disease:糖尿病"], "advice": "患者及家属应每日洗脚，水温低于37℃，仔细擦干皮肤尤其是趾间，避免用热水袋或电热器直接保暖足部，不赤脚走路，不自行修剪胼胝或用化学制剂处理趾甲，涂抹润肤剂，每日换袜子，不穿高过膝盖的袜子，平剪趾甲且不宜过深弧度。", "category": "健康生活方式"}
+{"match_tokens": ["disease:糖尿病"], "advice": "每日自我监测足部皮肤温度1次，如连续2天该区域温差超过2.2℃，应减少走动并咨询专业医疗人员。", "category": "健康生活方式"}
+{"match_tokens": ["disease:糖尿病"], "advice": "鼓励患者适当运动，逐步增加每日负重活动水平，安全增加步行1000步/日，并定期观察足部状态及足底压力变化。", "category": "健康生活方式"}
+{"match_tokens": ["disease:糖尿病"], "advice": "对于糖尿病足溃疡患者，抗生素治疗疗程为未合并骨髓炎1至2周，合并骨髓炎至少4至6周，如合并严重缺血适当延长1至2周，及时手术去除感染骨组织可减少抗生素使用时间至2周内。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病", "symptom:肢体皮肤颜色急剧变化"], "advice": "糖尿病足患者一旦出现肢体皮肤颜色急剧变化、皮肤温度急剧变化、疼痛加剧、不明原因进行性加重的肿胀、脓毒血症等情况，应在24小时内转诊至有能力救治的医院。", "category": "急症处理"}
+{"match_tokens": ["age:小孩", "disease:糖尿病"], "advice": "儿童每日总能量摄入为900~1200 kcal，青少年为1200 kcal以上。每日碳水化合物供能比为50%~55%，建议碳水化合物来自低血糖生成指数、富含膳食纤维的食物。脂肪摄入应占总能量的25%~35%，增加植物脂肪比例，限制饱和脂肪酸摄入不超过10%。蛋白质摄入占总能量的15%~20%，推荐植物来源蛋白质，尤其是大豆蛋白。膳食纤维摄入量为10~14 g/1000 kcal。", "category": "健康生活方式"}
+{"match_tokens": ["age:小孩", "disease:糖尿病"], "advice": "儿童和青少年T2DM患者应每天坚持至少30分钟运动，最好达到60分钟的中等强度运动，每周完成中等强度运动至少5天，运动方式可包括快走、慢跑、跳绳、游泳、杠铃、沙袋等，根据个体情况制定适宜方案。", "category": "健康生活方式"}
+{"match_tokens": ["age:小孩", "disease:糖尿病"], "advice": "起始药物治疗可使用单一的二甲双胍或胰岛素，或两者联合。二甲双胍剂量从500 mg/d开始，每周增加500 mg，3~4周达到1500~2000 mg/d，分2次口服。", "category": "治疗与康复"}
+{"match_tokens": ["age:小孩", "disease:糖尿病", "symptom:严重高血糖"], "advice": "严重高血糖患者每日给予基础胰岛素0.1~0.2 U·kg-1·d-1或胰岛素强化治疗，酮症或DKA按糖尿病急性并发症处理，病情稳定后过渡到二甲双胍联合胰岛素或二甲双胍单药治疗。", "category": "治疗与康复"}
+{"match_tokens": ["age:成人", "disease:糖尿病"], "advice": "不具备1型糖尿病和2型糖尿病典型特征、有连续几代糖尿病家族史(常染色体显性遗传)，且年龄≤25岁的糖尿病患者应进行青少年起病的成人型糖尿病(MODY)基因检测。", "category": "健康生活方式"}
+{"match_tokens": ["disease:糖尿病"], "advice": "急性胰腺炎患者在胰腺炎发作后3~6个月内进行糖尿病筛查，并在此后每年筛查1次。", "category": "健康生活方式"}
+{"match_tokens": ["disease:糖尿病", "age:小孩"], "advice": "推荐病程 3~5 年的儿童 T1DM 患者在 10 岁或青春期开始后（以较早者为准），以及病程 > 5 年的患者进行微血管并发症的初次筛查。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病"], "advice": "应制定个体化的血糖控制目标；在避免低血糖的基础上，应使大部分患者的糖化血红蛋白（HbA1c）<7.0%；对于低血糖高风险的患者，可相应提高控制目标，使HbA1c<7.5%。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病"], "advice": "T1DM患者需重视糖尿病自我管理教育与支持（DSMES）、营养与运动治疗及心理支持，并给予每日多次胰岛素注射或持续皮下胰岛素输注（CSII）进行治疗。", "category": "治疗与康复"}
+{"match_tokens": ["age:成人", "disease:糖尿病"], "advice": "建议成年T1DM患者每周进行中等或以上强度的有氧运动至少达150分钟。", "category": "健康生活方式"}
+{"match_tokens": ["age:儿童", "disease:糖尿病"], "advice": "建议儿童青少年T1DM患者每天进行60分钟的中等至高强度有氧运动，每周至少进行3天的高强度肌肉强化和骨骼强化活动。", "category": "健康生活方式"}
+{"match_tokens": ["age:任何", "disease:糖尿病"], "advice": "所有T1DM患者应每日多次监测血糖水平，包括饭前、睡前以及特定情况下的血糖监测。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病"], "advice": "血糖目标应该个性化，在避免低血糖的基础上，使大部分患者的糖化血红蛋白（HbA1c）<7.0%，葡萄糖在目标范围内时间（TIR）>70%。对于经常出现低血糖或无症状低血糖的患者，可适当放宽标准，使HbA1c<7.5%~8.0%。", "category": "健康生活方式"}
+{"match_tokens": ["disease:糖尿病"], "advice": "建议尽可能将最近14天（或更长时间）使用CGM的血糖指标与HbA1c结合用以评估血糖控制。", "category": "健康生活方式"}
+{"match_tokens": ["disease:糖尿病"], "advice": "对大多数1型糖尿病患者，葡萄糖在目标范围内时间（TIR）应当在70%以上。葡萄糖低于目标范围时间（TBR）分别建议＜4%（3.9 mmol/L以下）和＜1%（3.0 mmol/L以下）；葡萄糖高于目标范围时间（TAR）分别建议＜25%（10.0 mmol/L以上）和＜5%（13.9 mmol/L以上）。", "category": "健康生活方式"}
+{"match_tokens": ["disease:糖尿病"], "advice": "1型糖尿病患者优先使用每日多次胰岛素注射（基础胰岛素联合餐时胰岛素）或持续皮下胰岛素输注（CSII）进行治疗，推荐使用胰岛素类似物以降低低血糖风险，并酌情选择注射工具。", "category": "治疗与康复"}
+{"match_tokens": ["age:小孩", "disease:糖尿病"], "advice": "建议病程3~5年的儿童1型糖尿病患者在10岁或青春期开始后（以较早者为准），以及病程>5年的患者进行微血管并发症的初次筛查，筛查结果阴性且血糖控制良好者，可每2年筛查1次。", "category": "健康生活方式"}
+{"match_tokens": ["disease:糖尿病"], "advice": "糖尿病患者如发生低血糖，应给予15~20克葡萄糖并于15分钟后检测血糖。", "category": "急症处理"}
+{"match_tokens": ["disease:糖尿病"], "advice": "有低血糖风险的患者每次就诊时应询问有无低血糖症状，接受低血糖预防和治疗的结构化教育。", "category": "健康生活方式"}
+{"match_tokens": ["disease:糖尿病", "age:老年"], "advice": "对于低血糖高危人群，包括糖尿病病程超过15年、有无感知性低血糖病史、有严重伴发病（如肝肾功能不全）、全天血糖波动大并反复出现低血糖的患者，以及≥75岁老年人、预期寿命少于5年者等，可使用宽松的血糖控制目标。", "category": "健康生活方式"}
+{"match_tokens": ["disease:糖尿病", "age:成人"], "advice": "血糖<3.9 mmol/L时应采取措施或改变降糖方案，预防血糖进一步降低，并针对每个患者制定个体化预防和治疗低血糖的方案。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病"], "advice": "所有糖尿病患者如3个月内未检测HbA1c，应进行检测。住院期间常规每日测毛细血管血糖7次，必要时加测夜间血糖。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病"], "advice": "制定并告知患者院外降糖及综合治疗方案，在住院期间逐步形成，由胰岛素强化治疗转为院外非胰岛素强化治疗方案时，需要至少监测1天的7次血糖，以评估治疗方案的有效性和安全性。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病", "risk:缺乏运动"], "advice": "术前应检查所有糖尿病患者的随机血糖和 HbA1c，以评估血糖控制情况，若随机血糖≥12.0 mmol/L 或 HbA1c≥9.0%，建议推迟手术。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病"], "advice": "对多数住院围手术期糖尿病患者推荐血糖控制目标为5.6~10.0 mmol/L，HbA1c目标应尽可能<8%。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病"], "advice": "对于存在严重合并症或低血糖风险高的患者，可将血糖控制目标放宽到10.0~13.9 mmol/L。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病"], "advice": "术前要对患者的用药进行干预和调整，SGLT2i 围手术期使用与正常血糖酮症酸中毒有关，应在手术前3~4天停用；其他口服降糖药建议手术当日停用。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病"], "advice": "对于每日1次用药的GLP-1RA，建议手术当日停用；对于每周1次用药的GLP-1RA，在手术前1周停用。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病"], "advice": "手术前日当晚给予的基础胰岛素减少25%，更有可能达到围手术期血糖控制目标，且低血糖风险较低。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病"], "advice": "手术当日早上应给予原剂量75%~80%长效胰岛素或50%中效胰岛素，停用所有的速效或短效胰岛素。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病"], "advice": "除非预期手术时间<2小时且恢复迅速，否则围手术期建议停用胰岛素泵，并在术中开始静脉输注胰岛素。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病"], "advice": "围手术期应加强血糖监测，建议一般患者每1~2小时监测1次血糖；危重患者、大手术和持续静脉输注胰岛素的患者建议每0.5~1小时监测1次，或使用连续葡萄糖监测（CGM）。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病"], "advice": "术中可同时输注5%葡萄糖注射液，输注速度为100~125 ml/h，以防止低血糖。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病"], "advice": "术后恢复正常饮食前继续予胰岛素静脉输注，胰岛素输注应继续维持24小时以上，同时补充葡萄糖。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病", "symptom:低血糖"], "advice": "术中血糖<3.9 mmol/L时，建议50%葡萄糖注射液30 ml静脉推注，并暂停胰岛素输注，15~30分钟监测1次血糖；血糖为3.9~5.6 mmol/L，建议减慢胰岛素输注速度，每小时监测1次血糖；血糖为5.7~10.0 mmol/L，不需特殊处理，每1~2小时监测血糖1次。", "category": "急症处理"}
+{"match_tokens": ["disease:糖尿病", "symptom:低血糖"], "advice": "术前或术后如发生低血糖，对于可进食的清醒患者，口服10~25 g快速吸收的碳水化合物（如含糖饮料）；不能口服的患者，静脉推注50%葡萄糖注射液20~50 ml，之后持续静脉点滴5%或10%葡萄糖注射液维持血糖，每15~20分钟监测1次直至血糖≥5.6 mmol/L。", "category": "急症处理"}
+{"match_tokens": ["disease:糖尿病", "population:孕妇"], "advice": "控制孕前血糖：控制目标为在不出现低血糖的前提下，空腹和餐后血糖尽可能接近正常；建议HbA1c<6.5%时妊娠，而应用胰岛素治疗者HbA1c<7.0%；餐前血糖控制在3.9~6.5 mmol/L，餐后血糖<8.5 mmol/L。在孕前药物应用方面，对二甲双胍无法控制的高血糖及时加用或改用胰岛素控制血糖，并且停用二甲双胍以外的其他类别口服和注射类降糖药。", "category": "健康生活方式"}
+{"match_tokens": ["disease:糖尿病", "population:孕妇"], "advice": "控制孕前血压，控制目标为110~135/85 mmHg，血压达到140/90 mmHg开始使用降压药物。建议停用血管紧张素转化酶抑制剂（ACEI）、血管紧张素Ⅱ受体拮抗剂（ARB）、β受体阻滞剂和利尿剂类降压药，改为拉贝洛尔或二氢吡啶类钙通道阻滞剂或甲基多巴等。", "category": "健康生活方式"}
+{"match_tokens": ["disease:糖尿病", "population:孕妇"], "advice": "糖尿病患者建议糖化血红蛋白（HbA1c）<6.5%时筹备妊娠，并且孕前评价糖尿病控制状态及慢性并发症的情况。", "category": "健康生活方式"}
+{"match_tokens": ["population:孕妇", "disease:糖尿病"], "advice": "高危人群首次产检即应检测血糖，所有未被诊断糖尿病的孕妇于孕24~28周行一步法75 g口服葡萄糖耐量试验（OGTT）筛查。", "category": "健康生活方式"}
+{"match_tokens": ["population:孕妇", "disease:糖尿病"], "advice": "产后4~12周应再次评价糖代谢状况，之后酌情每1~3年行75 g OGTT。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病", "population:孕妇"], "advice": "妊娠期高危人群第1次产检即应检测血糖，如达到非孕人群糖尿病诊断标准，可诊断ODM；具有GDM高危因素，如第1次产检血糖正常，应定期检测血糖，必要时及早行OGTT。若血糖持续正常，妊娠24~28周行75g OGTT，必要时妊娠晚期再次评估。", "category": "健康生活方式"}
+{"match_tokens": ["disease:糖尿病", "population:孕妇"], "advice": "建议所有未曾评估血糖的孕妇于妊娠24~28周行一步法75g OGTT评估糖代谢状态。", "category": "健康生活方式"}
+{"match_tokens": ["disease:糖尿病", "population:孕妇"], "advice": "妊娠期间的饮食原则为既能保证孕妇和胎儿的营养需要，又能维持血糖在正常范围，同时不发生饥饿性酮症。应实行少量多餐制，每日分5~6餐，主食的1/3~1/2分餐到加餐有助于餐后血糖的控制。随孕周调整每日热量摄入，孕中晚期需增加200~300 kcal/d的能量。", "category": "健康生活方式"}
+{"match_tokens": ["disease:糖尿病", "population:孕妇"], "advice": "鼓励孕期适当运动，包括有氧运动及抗阻运动。每次运动时间小于45分钟。", "category": "健康生活方式"}
+{"match_tokens": ["disease:糖尿病", "population:孕妇"], "advice": "血糖控制稳定或不需要胰岛素治疗的GDM患者，每周至少监测1次全天4点血糖（空腹血糖和三餐后2小时血糖）。其他患者酌情增加监测次数。", "category": "健康生活方式"}
+{"match_tokens": ["disease:糖尿病", "population:孕妇"], "advice": "所有类型的HIP孕期血糖目标为空腹血糖<5.3 mmol/L，餐后1小时血糖<7.8 mmol/L，餐后2小时血糖<6.7 mmol/L。血糖控制应力求目标范围内时间（TIR）≥90%，并尽可能减少低血糖和高血糖时间。", "category": "健康生活方式"}
+{"match_tokens": ["disease:糖尿病", "population:孕妇"], "advice": "孕期血糖<3.3 mmol/L时需调整治疗方案，给予即刻处理以避免低血糖对胚胎和胎儿的不良影响。", "category": "急症处理"}
+{"match_tokens": ["disease:糖尿病", "population:孕妇"], "advice": "GDM患者产后4~12周行75 g OGTT评估糖代谢状态，产后1年再次行75 g OGTT评估血糖状态，无高危因素者每1~3年筛查1次OGTT。", "category": "治疗与康复"}
+{"match_tokens": ["age:老年人", "disease:糖尿病"], "advice": "老年糖尿病患者每年应进行至少一次抑郁症和认知功能筛查，及时发现并处理抑郁症及痴呆。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病"], "advice": "既往无糖尿病史者，建议在起始中等剂量糖皮质激素治疗前3天监测餐前和餐后血糖；既往有糖尿病或糖尿病前期病史者，即使应用低剂量糖皮质激素也应密切监测血糖。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病"], "advice": "接受糖皮质激素治疗的非糖尿病患者如血糖水平持续≥10 mmol/L，应开始胰岛素治疗。口服药治疗的糖尿病患者接受糖皮质激素治疗后血糖不能充分控制也应使用胰岛素。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病"], "advice": "停用糖皮质激素6周后检测空腹血糖或口服糖耐量试验（OGTT），判断是否演变为持续性糖尿病；HbA1c可于停用糖皮质激素3个月后检测进行评估。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病"], "advice": "类固醇糖尿病的血糖控制目标为餐前血糖<7.0 mmol/L，2小时餐后血糖<10.0mmol/L，HbA1c<7.0%；重症患者可放宽为随机血糖<15 mmol/L。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病", "disease:重性精神障碍"], "advice": "建议接受精神类药物治疗的重性精神障碍患者定期进行糖尿病风险筛查，使用抗精神病药物的患者每月检测1次血糖和体重，治疗过程中体重增加者应进行相关检查。", "category": "健康生活方式"}
+{"match_tokens": ["disease:糖尿病", "risk:肥胖", "age:任何"], "advice": "对糖尿病高风险人群（如年龄≥40岁、有家族史、肥胖、高血压等）每12~16周监测体重、血糖、血脂，并进行多学科团队管理。", "category": "健康生活方式"}
+{"match_tokens": ["disease:代谢综合征", "population:任何"], "advice": "根据患者年龄和身体状况，以心率算法指导运动形式、强度与时长，每周至少150分钟中等强度或75分钟高强度运动，有氧运动与抗阻运动结合。", "category": "健康生活方式"}
+{"match_tokens": ["disease:代谢综合征"], "advice": "治疗目标包括在1年内减轻体重7%-10%，争取达到正常BMI和腰围；血压控制在<130/80 mmHg；低密度脂蛋白胆固醇<2.60 mmol/L，甘油三酯<1.70 mmol/L，高密度脂蛋白胆固醇>1.04 mmol/L；空腹血糖<6.1 mmol/L，OGTT 2小时血糖<7.8 mmol/L，糖化血红蛋白 HbA1c<6.5%。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病"], "advice": "口服桑枝总生物碱片可单药降低糖化血红蛋白（HbA1c）水平0.93%，改善血糖波动。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病"], "advice": "甲钴胺500~1000微克，每日1次，肌内注射或静脉滴注2~4周；之后改为500微克，每日3次，口服3个月。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病"], "advice": "α-硫辛酸600毫克，每日1次，口服3个月；症状明显者，可改为600毫克每日1次静脉滴注2~4周，然后改为口服。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病"], "advice": "口服普瑞巴林50 mg，每日3次起始，随后根据疼痛缓解情况逐渐增至600 mg/日，分次服用。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病"], "advice": "口服克利加巴林，每次20 mg，每日2次，年龄≥65岁或病程>1年的患者疼痛未缓解时，可考虑增至每次40 mg，每日2次，谨慎使用。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病"], "advice": "口服美洛加巴林5 mg，每日2次起始，用药1周后逐步增加剂量至最高15 mg每日2次，具体剂量根据年龄和症状调整。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病"], "advice": "口服加巴喷丁300 mg/日起始，逐渐调整至每日900-1800 mg，分3次服用。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病"], "advice": "口服度洛西汀20 mg每日起始剂量，必要时增至60 mg每日一次。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病", "age:成人"], "advice": "对于2型糖尿病患者，可以考虑使用每周一次的胰岛素icodec代替每日一次的基础胰岛素类似物，以改善血糖控制。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病", "age:成人"], "advice": "在使用胰岛素degludec/利拉鲁肽组合(IDegLira)治疗2型糖尿病患者时，胰岛素剂量可每周调整一次或两次，根据个体情况选择合适的调整频率。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病", "bmi:肥胖", "age:成人"], "advice": "对于BMI 28-35 kg/m²的中国成人型2糖尿病患者，可以考虑Roux-en-Y胃旁路手术以改善肺功能和动脉硬化。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病", "risk:高血压"], "advice": "对2型糖尿病患者应加强血压的全面管理，目标收缩压建议降至120 mmHg以下，以降低心血管风险。", "category": "健康生活方式"}
+{"match_tokens": ["disease:糖尿病"], "advice": "接受15天的针刺治疗可以缓解糖尿病周围神经病变症状。", "category": "治疗与康复"}
+{"match_tokens": ["disease:糖尿病"], "advice": "通过练习太极改善血糖控制和肺扩散功能，基于一项为期24周的随机试验。", "category": "健康生活方式"}
