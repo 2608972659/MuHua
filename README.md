@@ -2,7 +2,7 @@
 
 ## 项目概述
 
-- 原子知识全部向量化后存入入ES数据库里 维度768维
+- 2000+条原子知识全部向量化后存入入ES数据库里 维度768维
 
 - 与病例概况匹配的10条原子知识会加入[1]引用样式来返回，最终输出的建议结尾也会加入[1]与之匹配溯源
 
@@ -16,6 +16,7 @@ docker-compose -p generation build generation-api
 
 # 导出镜像
 docker save generation-generation-api:latest -o generation-api.tar
+# 产物为generation-api.tar
 ```
 
 ---
